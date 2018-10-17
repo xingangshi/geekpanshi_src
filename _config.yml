@@ -7,7 +7,7 @@ title: Geek Panshi
 subtitle: 价值投资 终身学习 践行家庭教育
 description:
 keywords:
-author: GeekPanshi
+author: GeekPanshi's Blog
 language: zh-CN
 timezone:
 
@@ -81,5 +81,6 @@ theme: hexo-theme-paperbox
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:geekpanshi/geekpanshi.github.io.git
+  #repository: git@github.com:geekpanshi/geekpanshi.github.io.git
+  repository: git@git.dev.tencent.com:geekpanshi/geekpanshi.git
   branch: master
