@@ -375,6 +375,7 @@ $
 ### 9. 结束语
 * 结果上面的一系列的操作，通过 Hexo 和 Github 我们就完成了自己的第一个网站。
 * 由于 Hexo 的文章，都是通过 Markdown 编辑的，所以大家还是要去学一学相关的 Markdown 的语法。
-#### 10. 联系方式
-* 微博：![微博号，浦东价投男](https://i.imgur.com/xxOjemm.png "微博号，浦东价投男")
+### 10. 联系方式
 * 微信：![微信号，磐石](https://i.imgur.com/dx17wGO.png "微信号，磐石")
+* 微博：![微博号，浦东价投男](https://i.imgur.com/Meqtw3h.png "微博号，浦东价投男")
+

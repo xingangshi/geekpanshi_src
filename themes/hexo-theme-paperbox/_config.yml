@@ -1,0 +1,42 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+rss: /atom.xml
+github: https://github.com/myname
+logo_title: Geek
+logo_title1: E=MC²
+logo_title2: Panshi
+logo_title3: Love
+logo_title4: Time
+logo_title5: Life
+
+blog_title: Geek Panshi
+
+# Content
+excerpt_link: Read More
+fancybox: true
+mathjax: false
+
+# Sidebar
+sidebar: right
+widgets:
+- recent_posts
+- tag
+- archive
+
+# Miscellaneous
+wx_block: false
+google_analytics:
+favicon:
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+# Duoshuo
+duoshuo_shortname:
+
+# Swiftype Search
+swiftype_key:

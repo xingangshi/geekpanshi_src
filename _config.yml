@@ -7,7 +7,7 @@ title: Geek Panshi
 subtitle: 价值投资 终身学习 践行家庭教育
 description:
 keywords:
-author: Panshi
+author: GeekPanshi
 language: zh-CN
 timezone:
 
@@ -74,8 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: gstyle
-theme: landscape
-#theme: gstyle
+#theme: landscape
+theme: hexo-theme-paperbox
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
