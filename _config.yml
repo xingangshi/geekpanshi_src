@@ -96,13 +96,15 @@ feed:
 
 # Social
 social:
+  微信: /about/ || weixin
+  微博: https://weibo.com/u/6726260941 || weibo
   GitHub: hhttps://github.com/XingangShi || github
   E-Mail: /mail-to/index.html || envelope
   #Google: https://plus.google.com/Cazaea || google
   #Twitter: https://twitter.com/Cazaea || twitter
   #FaceBook: https://www.facebook.com/Cazaea || facebook
   #知乎: https://zhihu.com/people/wistorm || globe
-  微博: https://weibo.com/u/6726260941 || weibo
+
   #豆瓣: https://www.douban.com/people/Cazaea || bath
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/Cazaea || stack-overflow

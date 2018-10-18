@@ -1,7 +1,11 @@
 ---
 title: Chrom 常用扩展推荐
 date: 2018-09-25 20:01:31
-tags: [效率工具]
+tags: [软件推荐]
+
+comments: true #是否可评论
+toc: true #是否显示文章目录
+categories: [效率工具, 工具推荐]
 ---
 
 ### Chrom 常用扩展推荐
