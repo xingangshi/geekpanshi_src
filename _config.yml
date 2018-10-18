@@ -16,7 +16,7 @@ timezone:
 url: https://geekpanshi.coding.me
 root: /
 permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink_defaults: /404
 
 # Directory
 source_dir: source
@@ -91,24 +91,31 @@ feed:
   type: rss2
   path: rss2.xml
   limit: 5
-  hub: 
+  hub:
   content: 'true'
 
 # Social
 social:
-  GitHub: https://github.com/Cazaea || github 
-  #E-Mail: wistorm@sina.com || envelope
+  GitHub: hhttps://github.com/XingangShi || github
+  E-Mail: /mail-to/index.html || envelope
   #Google: https://plus.google.com/Cazaea || google
-  Twitter: https://twitter.com/Cazaea || twitter
-  FaceBook: https://www.facebook.com/Cazaea || facebook
-  知乎: https://zhihu.com/people/wistorm || globe 
-  微博: http://weibo.com/Cazaea || weibo
-  豆瓣: https://www.douban.com/people/Cazaea || bath
+  #Twitter: https://twitter.com/Cazaea || twitter
+  #FaceBook: https://www.facebook.com/Cazaea || facebook
+  #知乎: https://zhihu.com/people/wistorm || globe
+  微博: https://weibo.com/u/6726260941 || weibo
+  #豆瓣: https://www.douban.com/people/Cazaea || bath
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/Cazaea || stack-overflow
   #YouTube: https://youtube.com/Cazaea || youtube
   #Instagram: https://instagram.com/Cazaea || instagram
   #Skype: skype:yourname?call|chat || skype
+social_icons:
+enable: true
+icons_only: false
+transition: false
+GitHub: github
+微博: weibo
+E-Mail: envelope
 
 # Algolia Search API Key
 algolia:
@@ -117,8 +124,21 @@ algolia:
   indexName: 'geekpanshi'
   adminApiKey: '29d5e74917dc5f84ed41aa8205c8f491'
   chunkSize: 3000
-  fields:
-    - title
-    - slug
-    - path
-    - content:strip
+
+# sitemap
+sitemap:
+  path: sitemap.xml
+
+calendar:
+  language: zh-CN
+  options:
+    months: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+    dayOfWeekShort: ['S', 'M', 'T', 'W', 'T', 'F', 'S']
+    dayOfWeek: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
