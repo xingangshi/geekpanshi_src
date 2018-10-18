@@ -39,6 +39,7 @@ git version 2.5.1.windows.1
 ```
 
 ### 3. 创建 [Github](https://github.com/) 账号后登录并新建项目
+
 #### 3.1 创建项目名规定（必须遵守）
 * 项目名**必须**为 <font face="黑体" color="#FF0000" size=3>账户名称.github.io</font>（否则会出现很多不必要的麻烦），同时勾选可选选项 `Initialize this repository with a README`，如所示
 ![创建项目页面展示](https://i.imgur.com/xXSjCKZ.png "创建项目示例")
@@ -48,6 +49,7 @@ git version 2.5.1.windows.1
 ![查看项目网址信息](https://i.imgur.com/2lo63hc.png "查看项目网址信息")
 
 ### 4. 安装 [Hexo](https://hexo.io/zh-cn/)
+
 #### 4.1 安装 hexo
 ```C++
 geekpanshi@geek2945 MINGW64 /e/selfDatas
@@ -70,6 +72,7 @@ updated 2 packages in 12.315s
 geekpanshi@geek2945 MINGW64 /e/selfDatas
 $
 ```
+
 #### 4.3 检查 hexo 安装
 ```C++
 geekpanshi@geek2945 MINGW64 /e/selfDatas
@@ -94,6 +97,7 @@ geekpanshi@geek2945 MINGW64 /e/selfDatas
 $
 
 ```
+
 #### 4.1 选择并创建项目所在目录
 ```C++
 geekpanshi@geek2945 MINGW64 /e/selfDatas
@@ -104,6 +108,7 @@ $ mkdir -p demo/geekpanshi && cd demo/geekpanshi
 geekpanshi@geek2945 MINGW64 /e/selfDatas/demo/geekpanshi
 $
 ```
+
 #### 4.4 在刚才创建的目录初始化 Hexo 项目（耐心等候……）
 * `$ hexo init`，[Hexo 命令文档](https://hexo.io/zh-cn/docs/commands.html "Hexo 命令文档")。
 ```C++
@@ -142,6 +147,7 @@ INFO  Start blogging with Hexo!
 geekpanshi@geek2945 MINGW64 /e/selfDatas/demo/geekpanshi
 $
 ```
+
 #### 4.5 安装相关组件
 ```C++
 geekpanshi@geek2945 MINGW64 /e/selfDatas/demo/geekpanshi
@@ -154,7 +160,9 @@ up to date in 5.82s
 geekpanshi@geek2945 MINGW64 /e/selfDatas/demo/geekpanshi
 $
 ```
+
 ### 5. 单机体验 Hexo
+
 #### 5.1 生成静态文件
 * `$ hexo generate` 或 简写的 `$ hexo g`
 ```C++
@@ -195,6 +203,7 @@ INFO  28 files generated in 483 ms
 geekpanshi@geek2945 MINGW64 /e/selfDatas/demo/geekpanshi
 $
 ```
+
 #### 5.2 启动服务器
 * `$ hexo server` 或 简写的 `$ hexo s` 开启服务器，默认端口号 `4000`，可用参数 `-p number` 指定端口号。
 ```C++
@@ -209,6 +218,7 @@ INFO  Hexo is running at http://localhost:5000 . Press Ctrl+C to stop.
 
 
 ### 6. 设置 Git 和生成本地秘钥对
+
 #### 6.1 设置 Git 的用户和邮箱信息
 * 配置属于自己的用户名和邮箱，下面所示代码中 `geekpasnhi` 和 `geekpasnhi@example.com` 替换成自己的。
 ```C++
@@ -221,6 +231,7 @@ $ git config --global user.email "geekpasnhi@example.com"
 geekpanshi@geek2945 MINGW64 /e/selfDatas/demo/geekpanshi
 $
 ```
+
 #### 6.2 生成秘钥对
 * 进入 `.ssh` 目录，`cd ~/.ssh`， **假如没有**请自行创建目录并进入目录 `mkdir -p ~/.ssh && cd ~/.ssh`。
 * 查看是否有秘钥 id_rsa 和 id_rsa.pub， `ls -al`（假设没有）。
@@ -277,6 +288,7 @@ $
 ```
 
 ### 7. 登录 Github，绑定生成的秘钥，并验证绑定
+
 #### 7.1 登录 Github，添加 SSH key
 * 登录 Github，点击头像下的 `Settings`，选择 `SSH and GPG keys`，点击 `New SSH key`，把 `id_ras.pub` 的内容添加 ssh。如下图
 ![Github 添加 ssh key](https://i.imgur.com/oc1ynC7.png "Github 添加 ssh key")
@@ -290,6 +302,7 @@ Hi GeekPanshi! You've successfully authenticated, but GitHub does not provide sh
 geekpanshi@geek2945 MINGW64 /e/selfDatas/demo/geekpanshi
 $
 ```
+
 #### 7.3 绑定失败处理
 * 清除所有的绑定关系
 ```C++
@@ -305,6 +318,7 @@ $
 * 重新执行 6.2、6.3、7.1、7.2 步骤。
 
 ### 8. 配置 Hexo，创建新博客，测试
+
 #### 8.1 查看 Github 中项目的地址。
 * 如下图，复制你的项目的地址，我的是 `git@github.com:geekpanshi/geekpanshi.github.io.git`。
 ![查看自己的 Github 项目地址](https://i.imgur.com/UjFKeSF.png "查看自己的 Github 项目地址")
@@ -346,11 +360,11 @@ added 31 packages in 13.722s
 geekpanshi@geek2945 MINGW64 /e/selfDatas/demo/geekpanshi
 $
 ```
+
 #### 8.5 使用编辑器编辑文件
 * 编辑好 `my-first-blob-with-hexo.md` 文件。文件是 `Markdown` 格式，[Markdown](https://baike.baidu.com/item/markdown/3245829?fr=aladdin)。
 
 #### 8.6 更新文章并部署到 Github
-
 * `$ hexo deploy -generate` 或 简写的 `$ hexo d -g`
 ```C++
 geekpanshi@geek2945 MINGW64 /e/selfDatas/geekpanshi
@@ -380,6 +394,7 @@ $
 ### 9. 结束语
 * 结果上面的一系列的操作，通过 Hexo 和 Github 我们就完成了自己的第一个网站。
 * 由于 Hexo 的文章，都是通过 Markdown 编辑的，所以大家还是要去学一学相关的 Markdown 的语法。
+
 ### 10. 联系方式
 * 微信：![微信号，磐石](https://i.imgur.com/dx17wGO.png "微信号，磐石")
 * 微博：![微博号，浦东价投男](https://i.imgur.com/Meqtw3h.png "微博号，浦东价投男")
