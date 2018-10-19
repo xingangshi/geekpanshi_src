@@ -85,6 +85,16 @@
                 </div>
               {% endif %}
             </nav>
+            <br>
+            <br>
+            <div class="site-state-item site-state-posts" style="border-left:none;">
+                   <span class="site-state-item-count" id="busuanzi_value_site_pv"></span>
+                   <span class="site-state-item-name">浏览量</span>
+            </div>
+            <div class="site-state-item site-state-posts">
+                  <span class="site-state-item-count" id="busuanzi_value_site_uv"></span>
+                 <span class="site-state-item-name">访客量</span>
+            </div>
           {% endif %}
 
           {% if theme.rss %}

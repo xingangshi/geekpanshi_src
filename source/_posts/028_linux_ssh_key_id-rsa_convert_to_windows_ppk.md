@@ -6,6 +6,14 @@ tags: [ssh]
 comments: true
 toc: true
 categories: [技术相关, 技术综合]
+
+password:
+abstract: Welcome to my blog, enter password to read.
+message: Welcome to my blog, enter password to read.
+
+copyright: true #版权声明
+permalink: 01   #文章链接，有默认值
+top: 0          #置顶优先级
 ---
 
 ### 怎样把 Linux 的私钥文件 id_rsa 转换成 Windows 下使用的私钥 ppk 格式

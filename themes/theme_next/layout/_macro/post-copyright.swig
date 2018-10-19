@@ -1,14 +1,17 @@
 <ul class="post-copyright">
   <li class="post-copyright-author">
-    <strong>{{ __('post.copyright.author') + __('symbol.colon') }} </strong>{#
-  #}{{ post.author | default(author) }}{#
-#}</li>
+    <strong>{{ __('post.copyright.author') + __('symbol.colon') }}</strong>
+    {{ post.author | default(config.author) }}  |  微信公众号【不正经程序员】
+  </li>
   <li class="post-copyright-link">
     <strong>{{ __('post.copyright.link') + __('symbol.colon') }}</strong>
     <a href="{{ post.url | default(post.permalink) }}" title="{{ post.title }}">{{ post.url | default(post.permalink) }}</a>
   </li>
   <li class="post-copyright-license">
-    <strong>{{ __('post.copyright.license_title') + __('symbol.colon') }} </strong>{#
-  #}{{ __('post.copyright.license_content', theme.post_copyright.license) }}{#
-#}</li>
+    <strong>{{ __('post.copyright.license_title') + __('symbol.colon') }} </strong>
+    {{ __('post.copyright.license_content', theme.post_copyright.license, theme.post_copyright.license) }}
+  </li>
+  <li class="post-copyright-license">
+    并保留本声明和上方二维码。感谢您的阅读和支持！
+  </li>
 </ul>

@@ -283,6 +283,14 @@ post_meta:
     another_day: true
   categories: true
 
+# 文章字数显示设置（需要wordcount，前面已经下载）
+post_wordcount:
+  item_text: true
+  wordcount: true  # 显示字数
+  min2read: false   # 所需时间
+  totalcount: false  # 总字数
+  separated_meta: true # 分割符
+
 # Post wordcount display settings
 # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
 symbols_count_time:
@@ -309,9 +317,9 @@ codeblock:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-#reward_comment: Donate comment here
-#wechatpay: /images/wechatpay.jpg
-#alipay: /images/alipay.jpg
+reward_comment: 坚持原创，坚持分享，请博主喝一杯 “肥宅快乐水” !
+wechatpay: /images/wechatpay.jpg
+alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
 
 # Related popular posts
@@ -329,8 +337,8 @@ related_posts:
 
 # Declare license on posts
 post_copyright:
-  enable: false
-  license: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow" target="_blank">CC BY-NC-SA 4.0</a>
+  enable: true
+  license: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="external nofollow" target="_blank">CC BY-NC-SA 4.0</a>
 
 # Post edit
 # Dependencies: https://github.com/hexojs/hexo-deployer-git
@@ -503,7 +511,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC80MDQwMi8xNjkyOQ
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
@@ -527,6 +535,10 @@ gitment:
 # Warning: Baidu Share does not support https.
 #baidushare:
 ##  type: button
+
+baidushare:
+  type: button
+  baidushare: true
 
 # addthis Share, see: https://www.addthis.com/
 #add_this_id:
@@ -647,13 +659,26 @@ firestore:
 # Show Views/Visitors of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
-  enable: false
+  enable: true
   total_visitors: true
   total_visitors_icon: user
   total_views: true
   total_views_icon: eye
   post_views: true
   post_views_icon: eye
+  # custom uv span for the whole site
+  site_uv: true
+  site_uv_header: <i class="fa fa-user"></i> 访问人数
+  site_uv_footer:
+  # custom pv span for the whole site
+  site_pv: true
+  site_pv_header: <i class="fa fa-eye"></i> 访问总量
+  site_pv_footer: 次
+  # custom pv span for one page only
+  page_pv: true
+  page_pv_header: <i class="fa fa-file-o"></i> 浏览
+  page_pv_footer: 次
+
 
 
 # Tencent analytics ID
@@ -810,7 +835,7 @@ lazyload: false
 
 # Progress bar in the top during page loading.
 # Dependencies: https://github.com/theme-next/theme-next-pace
-pace: false
+pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
@@ -1001,3 +1026,6 @@ vendors:
 css: css
 js: js
 images: images
+
+passage_end_tag:
+  enabled: true
