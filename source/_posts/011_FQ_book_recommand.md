@@ -3,8 +3,8 @@ title: 读书荐书之 2018 年第 3/3 更
 date: 2018-08-31 19:20:40
 tags: [读书, 荐书, 月更]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [学习进阶, 读书荐书]
 
 ---

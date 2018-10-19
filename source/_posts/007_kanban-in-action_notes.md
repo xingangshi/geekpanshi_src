@@ -3,8 +3,8 @@ title: 读书笔记之《看板实战》
 date: 2018-08-03 00:40:46
 tags:  [读书, 修身养性, 项目管理]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [学习进阶, 读书荐书]
 ---
 

@@ -3,8 +3,8 @@ title: Chrom 常用扩展推荐
 date: 2018-09-25 20:01:31
 tags: [软件推荐]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [效率工具, 工具推荐]
 ---
 

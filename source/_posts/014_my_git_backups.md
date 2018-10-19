@@ -3,8 +3,8 @@ title:  我的 Git 备忘单
 date: 2018-09-21 16:43:26
 tags: [Git]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [技术相关, 技术综合]
 ---
 

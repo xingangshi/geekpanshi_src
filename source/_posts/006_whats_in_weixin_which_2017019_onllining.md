@@ -3,8 +3,8 @@ title: 2017 年 1 月 9 日上线的小程序 （2016-12-28 张小龙）
 date: 2018-08-02 23:52:04
 tags:  [读书, 修身养性, 互联网]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [学习进阶, 大佬说的]
 ---
 

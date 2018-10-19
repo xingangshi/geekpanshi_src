@@ -3,8 +3,8 @@ title: 应刚跳槽做管理的同事推荐一些管理人的书籍
 date: 2018-08-29 19:51:05
 tags:  [荐书]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [学习进阶, 读书荐书]
 ---
 

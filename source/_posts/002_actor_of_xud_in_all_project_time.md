@@ -3,8 +3,8 @@ title: 交互设计师在项目各个阶段的角色
 date: 2018-08-02 18:09:02
 tags:  [读书, 修身养性, 互联网]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [学习进阶, 读书荐书]
 ---
 

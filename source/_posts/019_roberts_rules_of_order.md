@@ -3,8 +3,8 @@ title: 读书笔记之《罗伯特议事规则（极简版本）》
 date: 2018-10-02 20:03:28
 tags:  [读书, 修身养性]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [学习进阶, 读书荐书]
 ---
 #### 读书笔记之《罗伯特议事规则（极简版本）》

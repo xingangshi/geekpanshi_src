@@ -3,8 +3,8 @@ title: 应友推荐一些做人做事和做生意的书籍
 date: 2018-08-18 19:51:15
 tags:  [荐书]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [学习进阶, 读书荐书]
 ---
 

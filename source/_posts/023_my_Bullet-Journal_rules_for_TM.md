@@ -3,8 +3,8 @@ title: 时间管理 - 我的快准狠记事（极简手帐）
 date: 2018-10-17 13:52:04
 tags: [时间管理]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [效率工具, 时间管理]
 ---
 

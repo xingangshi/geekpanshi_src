@@ -3,8 +3,8 @@ title:  Git 如何忽略已经被提交的文件
 date: 2018-10-10 16:43:26
 tags: [Git]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [技术相关, 技术综合]
 ---
 ### Git 如何忽略已经被提交的文件

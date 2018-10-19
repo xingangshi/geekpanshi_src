@@ -3,8 +3,8 @@ title: 严冬已至，共克时艰时注意事项
 date: 2018-09-28 16:25:16
 tags: 鸡汤
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [生活点滴, 杂谈一二]
 ---
 

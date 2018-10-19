@@ -3,8 +3,8 @@ title: 时间管理的 11 条金律
 date: 2018-10-18 19:38:35
 tags: [时间管理]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [效率工具, 时间管理]
 ---
 

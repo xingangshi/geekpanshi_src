@@ -3,8 +3,8 @@ title: 普通人如何打破阶层从而晋级的小建议
 date: 2018-09-28 16:08:15
 tags: 鸡汤
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [生活点滴, 杂谈一二]
 ---
 ### 普通人如何打破阶层从而晋级的小建议

@@ -3,8 +3,8 @@ title: 项目管理与实践论坛
 date: 2018-08-02 18:34:51
 tags:  [读书, 修身养性, 项目管理]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [学习进阶, 大佬说的]
 ---
 

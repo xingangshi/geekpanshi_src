@@ -3,8 +3,8 @@ title: 坚持的力量之数据人生-2018（模板）
 date: 2018-10-03 21:07:49
 tags: [数据人生,参考模板]
 
-comments: true #是否可评论
-toc: true #是否显示文章目录
+comments: true
+toc: true
 categories: [学习进阶, 数据人生]
 ---
 
