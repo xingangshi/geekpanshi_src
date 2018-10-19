@@ -5,7 +5,7 @@ tags: 鸡汤
 
 comments: true #是否可评论
 toc: true #是否显示文章目录
-categories: [人情世故, 杂谈一二]
+categories: [生活点滴, 杂谈一二]
 ---
 ### 普通人如何打破阶层从而晋级的小建议
 ---

@@ -5,7 +5,7 @@ tags: [读书, 交友, 月更]
 
 comments: true #是否可评论
 toc: true #是否显示文章目录
-categories: [人情世故, 以书会友]
+categories: [生活点滴, 以书会友]
 ---
 
 #### 以书会友，阅读人生-月更-最后更新201810
