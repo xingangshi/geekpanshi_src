@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Geek Panshi
+title:  GeekPanshi's Blog
 subtitle: 价值投资 终身学习 践行家庭教育
 description:
 keywords:
-author: GeekPanshi's Blog
+author: GeekPanshi
 language: zh-CN
 timezone:
 
@@ -62,7 +62,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD HH:mm:ss
+date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
 # Pagination
@@ -168,3 +168,5 @@ neat_js:
 
 encrypt:
     enable: true
+
+

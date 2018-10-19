@@ -100,7 +100,7 @@ footer:
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in main hexo config.
 # subtitle: Subtitle
@@ -183,11 +183,11 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
+links_title: 推荐阅读
 links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  ASCIIFlow: http://asciiflow.com/
 
 # Sidebar Avatar
 avatar:
@@ -287,8 +287,8 @@ post_meta:
 post_wordcount:
   item_text: true
   wordcount: true  # 显示字数
-  min2read: false   # 所需时间
-  totalcount: false  # 总字数
+  min2read: true   # 所需时间
+  totalcount: true  # 总字数
   separated_meta: true # 分割符
 
 # Post wordcount display settings
@@ -296,9 +296,14 @@ post_wordcount:
 symbols_count_time:
   separated_meta: true
   item_text_post: true
-  item_text_total: false
+  item_text_total: true
   awl: 4
   wpm: 275
+  count: true
+  count_total: true
+  time: true
+  time_total: true
+  time_minutes: true
 
 codeblock:
   # Manual define the border radius in codeblock
@@ -689,7 +694,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
@@ -738,14 +743,14 @@ local_search:
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
   # show top n results per article, show all results by setting to -1
-  top_n_per_article: 1
+  top_n_per_article: 3
   # unescape html strings to the readable one
   unescape: false
 
 # Bookmark Support
 # Dependencies: https://github.com/theme-next/theme-next-bookmark
 bookmark:
-  enable: false
+  enable: true
   # if auto
   #   - save the reading position when closing the page
   #   - or clicking the bookmark-icon
@@ -790,9 +795,9 @@ tabs:
 # Reading progress bar
 # Dependencies: https://github.com/theme-next/theme-next-reading-progress
 reading_progress:
-  enable: false
+  enable: true
   color: "#37c6c0"
-  height: 2px
+  height: 1px
 
 
 #! ---------------------------------------------------------------
@@ -823,15 +828,15 @@ motion:
 # Please, choose only any one variant, do not need to install both.
 # For install 2.x: https://github.com/theme-next/theme-next-fancybox
 # For install 3.x: https://github.com/theme-next/theme-next-fancybox3
-fancybox: false
+fancybox: true
 
 # Added switch option for separated repo in 6.0.0.
 # Dependencies: https://github.com/theme-next/theme-next-fastclick
-fastclick: false
+fastclick: true
 
 # Added switch option for separated repo in 6.0.0.
 # Dependencies: https://github.com/theme-next/theme-next-jquery-lazyload
-lazyload: false
+lazyload: true
 
 # Progress bar in the top during page loading.
 # Dependencies: https://github.com/theme-next/theme-next-pace
@@ -893,7 +898,7 @@ vendors:
   # Example:
   # jquery: //cdn.jsdelivr.net/npm/jquery@2.1.3/dist/jquery.min.js
   # jquery: //cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
-  jquery:
+  jquery: //cdn.jsdelivr.net/npm/jquery@2.1.3/dist/jquery.min.js
 
   # Internal version: 2.1.5
   # See: http://fancyapps.com/fancybox/
@@ -902,8 +907,9 @@ vendors:
   # fancybox_css: //cdn.jsdelivr.net/npm/fancybox@3.0.0/dist/css/jquery.fancybox.min.css
   # fancybox: //cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js
   # fancybox_css: //cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css
-  fancybox:
+  fancybox: //cdn.jsdelivr.net/npm/fancybox@3.0.0/dist/js/jquery.fancybox.pack.js
   fancybox_css:
+
 
   # Internal version: 1.0.6
   # See: https://github.com/ftlabs/fastclick
@@ -914,20 +920,20 @@ vendors:
   # Internal version: 1.9.7
   # See: https://github.com/tuupola/jquery_lazyload
   # lazyload: //cdn.jsdelivr.net/npm/jquery_lazyload@1.9.3/jquery.lazyload.min.js
-  lazyload:
+  lazyload: //cdn.jsdelivr.net/npm/jquery_lazyload@1.9.3/jquery.lazyload.min.js
 
   # Internal version: 1.2.1
   # See: http://VelocityJS.org
   # Example:
   # velocity: https://cdn.jsdelivr.net/npm/velocity-animate@1.2.1/velocity.min.js
   # velocity: https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.1/velocity.min.js
-  velocity:
+  velocity: https://cdn.jsdelivr.net/npm/velocity-animate@1.2.1/velocity.min.js
 
   # Internal version: 1.2.1
   # See: http://VelocityJS.org
   # velocity_ui: //cdn.jsdelivr.net/npm/velocity-animate@1.2.1/velocity.ui.min.js
   # velocity_ui: //cdnjs.cloudflare.com/ajax/libs/velocity/1.2.1/velocity.ui.min.js
-  velocity_ui:
+  velocity_ui: //cdn.jsdelivr.net/npm/velocity-animate@1.2.1/velocity.ui.min.js
 
   # Internal version: 0.7.9
   # See: https://faisalman.github.io/ua-parser-js/
@@ -941,15 +947,15 @@ vendors:
   # Example:
   # fontawesome: //cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css
   # fontawesome: //cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.2/css/font-awesome.min.css
-  fontawesome:
+  fontawesome: //cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css
 
   # Internal version: 1
   # https://www.algolia.com
   # Example:
   # algolia_instant_js: //cdn.jsdelivr.net/npm/instantsearch.js@2.4.1/dist/instantsearch.js
   # algolia_instant_css: //cdn.jsdelivr.net/npm/instantsearch.js@2.4.1/dist/instantsearch.min.css
-  algolia_instant_js:
-  algolia_instant_css:
+  algolia_instant_js: //cdn.jsdelivr.net/npm/instantsearch.js@2.4.1/dist/instantsearch.js
+  algolia_instant_css: //cdn.jsdelivr.net/npm/instantsearch.js@2.4.1/dist/instantsearch.min.css
 
   # Internal version: 1.0.2
   # See: https://github.com/HubSpot/pace
@@ -958,15 +964,15 @@ vendors:
   # pace: //cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js
   # pace_css: //cdn.jsdelivr.net/npm/pace-js@1.0.2/themes/blue/pace-theme-minimal.css
   # pace_css: //cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/blue/pace-theme-minimal.min.css
-  pace:
-  pace_css:
+  pace: //cdn.jsdelivr.net/npm/pace-js@1.0.2/pace.min.js
+  pace_css: //cdn.jsdelivr.net/npm/pace-js@1.0.2/themes/blue/pace-theme-minimal.css
 
   # Internal version: 1.0.0
   # https://github.com/hustcc/canvas-nest.js
   # Example:
   # canvas_nest: //cdn.jsdelivr.net/npm/canvas-nest.js@1.0.1/dist/canvas-nest.min.js
   # canvas_nest: //cdnjs.cloudflare.com/ajax/libs/canvas-nest.js/1.0.1/canvas-nest.min.js
-  canvas_nest:
+  canvas_nest: //cdn.jsdelivr.net/npm/canvas-nest.js@1.0.1/dist/canvas-nest.min.js
 
   # Internal version: 1.0.0
   # See: https://github.com/theme-next/theme-next-three
@@ -975,10 +981,10 @@ vendors:
   # three_waves: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1.0.0/three-waves.min.js
   # canvas_lines: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1.0.0/canvas_lines.min.js
   # canvas_sphere: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1.0.0/canvas_sphere.min.js
-  three:
-  three_waves:
-  canvas_lines:
-  canvas_sphere:
+  three: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1.0.0/three.min.js
+  three_waves: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1.0.0/three-waves.min.js
+  canvas_lines: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1.0.0/canvas_lines.min.js
+  canvas_sphere: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1.0.0/canvas_sphere.min.js
 
   # Internal version: 1.0.0
   # https://github.com/zproo/canvas-ribbon
@@ -993,29 +999,29 @@ vendors:
   # Example:
   # pangu: //cdn.jsdelivr.net/npm/pangu@3.3.0/dist/browser/pangu.min.js
   # pangu: //cdnjs.cloudflare.com/ajax/libs/pangu/3.3.0/pangu.min.js
-  pangu:
+  pangu: //cdn.jsdelivr.net/npm/pangu@3.3.0/dist/browser/pangu.min.js
 
   # needMoreShare2
   # https://github.com/revir/need-more-share2
   # Example:
   # needmoreshare2_js: //cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1.0.0/needsharebutton.min.js
   # needmoreshare2_css: //cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1.0.0/needsharebutton.min.css
-  needmoreshare2_js:
-  needmoreshare2_css:
+  needmoreshare2_js: //cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1.0.0/needsharebutton.min.js
+  needmoreshare2_css: //cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1.0.0/needsharebutton.min.css
 
   # bookmark
   # Internal version: 1.0.0
   # https://github.com/theme-next/theme-next-bookmark
   # Example:
   # bookmark: //cdn.jsdelivr.net/gh/theme-next/theme-next-bookmark@1.0.0/bookmark.min.js
-  bookmark:
+  bookmark: //cdn.jsdelivr.net/gh/theme-next/theme-next-bookmark@1.0.0/bookmark.min.js
 
   # reading_progress
   # Internal version: 1.0
   # https://github.com/theme-next/theme-next-reading-progress
   # Example:
   # reading_progress: //cdn.jsdelivr.net/gh/theme-next/theme-next-reading-progress@1.1/reading_progress.min.js
-  reading_progress:
+  reading_progress: //cdn.jsdelivr.net/gh/theme-next/theme-next-reading-progress@1.1/reading_progress.min.js
 
   # valine comment
   # Example: https://cdn.jsdelivr.net/npm/valine@1.1.8/dist/Valine.min.js

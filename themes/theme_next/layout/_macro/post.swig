@@ -231,6 +231,10 @@
             </span>
           {% endif %}
 
+           <span class="post-meta-divider">|</span> <span title="{{ __('post.wordcount') }}"> <i class="fa fa-wordpress"></i> {{ __('post.wordcount') }} {{ wordcount(post.content) }} 字 </span>
+
+           <span class="post-meta-divider">|</span> <span title="{{ __('post.min2read') }}"> <i class="fa fa-clock-o"></i> {{ __('post.min2read') }}约 {{ min2read(post.content) }} 分钟 </span>
+
           {% if config.symbols_count_time.symbols or config.symbols_count_time.time %}
             <div class="post-symbolscount">
               {% if not theme.symbols_count_time.separated_meta %}
@@ -260,9 +264,7 @@
                 {% if theme.symbols_count_time.item_text_post %}
                   <span class="post-meta-item-text">{{ __('symbols_count_time.time') }} &asymp;</span>
                 {% endif %}
-                <span title="{{ __('symbols_count_time.time') }}">{#
-                #}{{ symbolsTime(post.content, theme.symbols_count_time.awl, theme.symbols_count_time.wpm, __('symbols_count_time.time_minutes')) }}{#
-              #}</span>
+                <span title="{{ __('symbols_count_time.time') }}">{{ symbolsTime(post.content, theme.symbols_count_time.awl, theme.symbols_count_time.wpm, __('symbols_count_time.time_minutes')) }}</span>
               {% endif %}
             </div>
           {% endif %}
