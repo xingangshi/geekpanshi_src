@@ -1,6 +1,6 @@
 ---
 title: Tortoise git could't agree a key exchange algorithm
-date: 2018-10-19 07:13:35
+date: 2018-10-19 06:13:35
 tags: [Git]
 
 comments: true
