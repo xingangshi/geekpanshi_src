@@ -16,8 +16,7 @@ timezone:
 url: https://www.geekpanshi.com/
 root: /
 #permalink: :year/:month/:day/:title/
-#permalink: :year/:month/:day/:title/
-permalink: /:title/
+permalink: :year/:month/:day/:title/
 permalink_defaults: /404
 
 # Directory
