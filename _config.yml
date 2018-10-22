@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title:  GeekPanshi's Blog
+title:  GeekPanshi
 subtitle: 价值投资 终身学习 践行家庭教育
 description:
 keywords:
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://geekpanshi.coding.me
+url: https://www.geekpanshi.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults: /404
@@ -96,8 +96,8 @@ feed:
 
 # Social
 social:
-  微信: /about/ || weixin
-  微博: https://weibo.com/u/6726260941 || weibo
+  微信联系: /about/ || weixin
+  微博关注: https://weibo.com/u/6726260941 || weibo
   GitHub: hhttps://github.com/XingangShi || github
   E-Mail: /mail-to/index.html || envelope
   #Google: https://plus.google.com/Cazaea || google
