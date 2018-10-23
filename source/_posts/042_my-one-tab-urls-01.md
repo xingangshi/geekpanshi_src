@@ -15,7 +15,7 @@ date: 2018-10-23 08:47:50
 password:
 
 keywords: [康奈尔笔记法, 子弹笔记, 效率生活和工作]
-description: 收录自己的网站。
+description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记 5. WorkFlowy ……
 ---
 
 ### My-One-Tab-URLS-01（20180929-20181023）
