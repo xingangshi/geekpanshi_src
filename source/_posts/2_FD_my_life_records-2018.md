@@ -27,7 +27,7 @@ categories: [生活点滴, 日常更新]
 >
 ------
 
-#### [2018年倒计时](https://i.imgur.com/Qlo5mNr.png, "小程序，2018年倒计时")
+#### [2018年倒计时（点击可查看小程序）](https://i.imgur.com/Qlo5mNr.png, "小程序，2018年倒计时")
 ![2018年倒计时](https://i.imgur.com/UMHBlj2.png 2018年倒计时)
 
 #### 1. 记时数据（<font color="red">今天：2018年10月23日，2018年仅剩下69天。</font>）
