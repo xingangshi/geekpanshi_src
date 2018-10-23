@@ -60,13 +60,13 @@ rss:
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  #since: 2015
+  since: 2018
 
   # Icon between year and copyright info.
   icon:
     # Icon name in fontawesome, see: https://fontawesome.com/v4.7.0/icons
     # `heart` is recommended with animation in red (#ff0000).
-    name: user
+    name: snowflake-o
     # If you want to animate the icon, set it to true.
     animated: false
     # Change the color of icon, using Hex Code.
@@ -635,8 +635,8 @@ vkontakte_api:
 # Star rating support to each article.
 # To get your ID visit https://widgetpack.com
 rating:
-  enable: false
-  id:     #<app_id>
+  enable: true
+  id:     14580 #<app_id>
   color:  fc6423
 # ---------------------------------------------------------------
 
@@ -1036,3 +1036,6 @@ images: images
 
 passage_end_tag:
   enabled: true
+
+daovoice: true
+daovoice_app_id: 608c4e4a
