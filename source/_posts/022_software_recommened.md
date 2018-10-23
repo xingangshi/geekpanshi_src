@@ -1,11 +1,13 @@
 ---
 title: 常用软件网站推荐
-date: 2018-10-15 18:52:04
 tags: 软件推荐
-
 comments: true
 toc: true
-categories: [效率工具, 工具推荐]
+categories:
+  - 效率工具
+  - 工具推荐
+abbrlink: 6f958ce8
+date: 2018-10-15 18:52:04
 ---
 
 ### 常用软件网站推荐

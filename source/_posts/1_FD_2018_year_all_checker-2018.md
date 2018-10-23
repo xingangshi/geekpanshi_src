@@ -1,11 +1,14 @@
 ---
 title: 每日打卡-20181023
-date: 2018-10-23 00:00:01
-tags: [日更]
-
+tags:
+  - 日更
 comments: true
 toc: true
-categories: [生活点滴, 日常更新]
+categories:
+  - 生活点滴
+  - 日常更新
+abbrlink: 35b1e314
+date: 2018-10-23 00:00:01
 ---
 
 ### 2018 年打卡记录

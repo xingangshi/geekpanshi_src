@@ -1,11 +1,16 @@
 ---
 title: 警惕 KPI 和流程 （张小龙，2016-10-29）
-date: 2018-08-02 18:15:47
-tags:  [读书, 修身养性, 互联网]
-
+tags:
+  - 读书
+  - 修身养性
+  - 互联网
 comments: true
 toc: true
-categories: [学习进阶, 大佬说的]
+categories:
+  - 学习进阶
+  - 大佬说的
+abbrlink: aee327d3
+date: 2018-08-02 18:15:47
 ---
 
 ### 警惕 KPI 和流程 （张小龙，2016-10-29）

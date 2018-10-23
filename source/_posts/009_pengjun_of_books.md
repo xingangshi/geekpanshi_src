@@ -1,11 +1,14 @@
 ---
 title: 应友推荐一些做人做事和做生意的书籍
-date: 2018-08-18 19:51:15
-tags:  [荐书]
-
+tags:
+  - 荐书
 comments: true
 toc: true
-categories: [学习进阶, 读书荐书]
+categories:
+  - 学习进阶
+  - 读书荐书
+abbrlink: 5c1eb264
+date: 2018-08-18 19:51:15
 ---
 
 #### 应友推荐一些做人做事和做生意的书籍

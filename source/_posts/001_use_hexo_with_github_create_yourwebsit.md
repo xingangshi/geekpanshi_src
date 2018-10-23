@@ -1,11 +1,14 @@
 ---
 title: 使用 hexo 和 Github 搭建属于你自己网站（自建网站）
-date: 2018-08-01 23:52:04
-tags: [自建网站]
-
+tags:
+  - 自建网站
 comments: true
 toc: true
-categories: [技术相关, 前端相关]
+categories:
+  - 技术相关
+  - 前端相关
+abbrlink: 60977ef3
+date: 2018-08-01 23:52:04
 ---
 
 使用 hexo 和 Github 搭建属于你自己网站（自建网站）

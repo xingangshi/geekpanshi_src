@@ -1,17 +1,21 @@
 ---
 title: My-One-Tab-URLS-01（20180929-20181023）
-date: 2018-10-23 08:47:50
-tags: [数据人生]
-
+tags:
+  - 数据人生
 comments: true
 toc: true
-categories: [效率工具, 工具推荐]
-
+categories:
+  - 效率工具
+  - 工具推荐
+abstract: 'Welcome to my blog, enter password to read.'
+message: 'Welcome to my blog, enter password to read.'
+copyright: true
+abbrlink: 9e708c90
+date: 2018-10-23 08:47:50
 password:
-abstract: Welcome to my blog, enter password to read.
-message: Welcome to my blog, enter password to read.
 
-copyright: true #版权声明
+keywords: [康奈尔笔记法, 子弹笔记, 效率生活和工作]
+description: 收录自己的网站。
 ---
 
 ### My-One-Tab-URLS-01（20180929-20181023）

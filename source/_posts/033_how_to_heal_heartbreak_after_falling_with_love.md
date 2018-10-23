@@ -1,11 +1,14 @@
 ---
 title: 读书札记第二册（2/30）：失恋后如何治愈心碎
-date: 2018-10-22 00:10:03
-tags: [日更]
-
+tags:
+  - 日更
 comments: true
 toc: true
-categories: [生活点滴, 日常更新]
+categories:
+  - 生活点滴
+  - 日常更新
+abbrlink: f2b3a1e0
+date: 2018-10-22 00:10:03
 ---
 
 #### 2. 失恋后如何治愈心碎

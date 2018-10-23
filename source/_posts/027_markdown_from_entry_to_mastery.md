@@ -1,11 +1,14 @@
 ---
 title: Markdown 从入门到精通
-date: 2018-10-19 06:54:33
-tags: [软件推荐]
-
+tags:
+  - 软件推荐
 comments: true
 toc: true
-categories: [效率工具, 工具推荐]
+categories:
+  - 效率工具
+  - 工具推荐
+abbrlink: e0c74487
+date: 2018-10-19 06:54:33
 ---
 
 ### Markdown 从入门到精通

@@ -1,11 +1,14 @@
 ---
 title: 读书札记第二册（1/30）：我们为什么要工作？
-date: 2018-10-21 00:10:03
-tags: [日更]
-
+tags:
+  - 日更
 comments: true
 toc: true
-categories: [生活点滴, 日常更新]
+categories:
+  - 生活点滴
+  - 日常更新
+abbrlink: df62e66a
+date: 2018-10-21 00:10:03
 ---
 
 #### 1. 我们为什么要工作？

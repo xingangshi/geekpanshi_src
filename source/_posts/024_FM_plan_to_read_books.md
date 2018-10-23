@@ -1,11 +1,16 @@
 ---
 title: 我的读书计划-月更-最后更新201810
-date: 2018-10-18 16:16:57
-tags: [读书, 修身养性, 月更]
-
+tags:
+  - 读书
+  - 修身养性
+  - 月更
 comments: true
 toc: true
-categories: [学习进阶, 读书荐书]
+categories:
+  - 学习进阶
+  - 读书荐书
+abbrlink: 65b35ebf
+date: 2018-10-18 16:16:57
 ---
 
 

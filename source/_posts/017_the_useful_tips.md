@@ -1,11 +1,13 @@
 ---
 title: 严冬已至，共克时艰时注意事项
-date: 2018-09-28 16:25:16
 tags: 鸡汤
-
 comments: true
 toc: true
-categories: [生活点滴, 杂谈一二]
+categories:
+  - 生活点滴
+  - 杂谈一二
+abbrlink: 44eb745a
+date: 2018-09-28 16:25:16
 ---
 
 #### 严冬已至，共克时艰时注意事项

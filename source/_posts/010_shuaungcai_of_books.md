@@ -1,11 +1,14 @@
 ---
 title: 应刚跳槽做管理的同事推荐一些管理人的书籍
-date: 2018-08-29 19:51:05
-tags:  [荐书]
-
+tags:
+  - 荐书
 comments: true
 toc: true
-categories: [学习进阶, 读书荐书]
+categories:
+  - 学习进阶
+  - 读书荐书
+abbrlink: 775384db
+date: 2018-08-29 19:51:05
 ---
 
 ### 应刚跳槽做管理的同事推荐一些管理人的书籍

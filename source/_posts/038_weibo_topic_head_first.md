@@ -1,17 +1,18 @@
 ---
 title: 我的新浪微博置顶微博
-date: 2018-10-23 04:47:50
-tags: [修身养性]
-
+tags:
+  - 修身养性
 comments: true
 toc: true
-categories: [学习进阶, 数据人生]
-
+categories:
+  - 学习进阶
+  - 数据人生
+abstract: 'Welcome to my blog, enter password to read.'
+message: 'Welcome to my blog, enter password to read.'
+copyright: true
+abbrlink: f678e892
+date: 2018-10-23 04:47:50
 password:
-abstract: Welcome to my blog, enter password to read.
-message: Welcome to my blog, enter password to read.
-
-copyright: true #版权声明
 ---
 
 

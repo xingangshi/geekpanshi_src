@@ -1,17 +1,18 @@
 ---
 title: linux Permission 0644 for are too open 错误处理
-date: 2018-10-23 06:29:37
-tags: [Linux]
-
+tags:
+  - Linux
 comments: true
 toc: true
-categories: [技术相关, 技术综合]
-
+categories:
+  - 技术相关
+  - 技术综合
+abstract: 'Welcome to my blog, enter password to read.'
+message: 'Welcome to my blog, enter password to read.'
+copyright: true
+abbrlink: f0d41519
+date: 2018-10-23 06:29:37
 password:
-abstract: Welcome to my blog, enter password to read.
-message: Welcome to my blog, enter password to read.
-
-copyright: true #版权声明
 ---
 
 ### linux Permission 0644 for are too open 错误处理

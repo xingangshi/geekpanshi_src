@@ -1,11 +1,14 @@
 ---
 title: 读书札记第一册（30/30）：用三种方法去规划你的长远未来
-date: 2018-10-20 00:10:03
-tags: [日更]
-
+tags:
+  - 日更
 comments: true
 toc: true
-categories: [生活点滴, 日常更新]
+categories:
+  - 生活点滴
+  - 日常更新
+abbrlink: e8f5e73
+date: 2018-10-20 00:10:03
 ---
 
 ### 30. 用三种方法去规划你的长远未来

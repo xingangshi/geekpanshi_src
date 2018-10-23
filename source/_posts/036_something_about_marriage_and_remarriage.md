@@ -1,17 +1,18 @@
 ---
 title: 结婚再婚那点事
-date: 2018-10-23 01:34:42
-tags: [婚姻]
-
+tags:
+  - 婚姻
 comments: true
 toc: true
-categories: [生活点滴, 杂谈一二]
-
+categories:
+  - 生活点滴
+  - 杂谈一二
+abstract: 'Welcome to my blog, enter password to read.'
+message: 'Welcome to my blog, enter password to read.'
+copyright: true
+abbrlink: 52577b4e
+date: 2018-10-23 01:34:42
 password:
-abstract: Welcome to my blog, enter password to read.
-message: Welcome to my blog, enter password to read.
-
-copyright: true #版权声明
 ---
 
 

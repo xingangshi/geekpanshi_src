@@ -1,11 +1,14 @@
 ---
-title:  我的 Git 备忘单
-date: 2018-09-21 16:43:26
-tags: [Git]
-
+title: 我的 Git 备忘单
+tags:
+  - Git
 comments: true
 toc: true
-categories: [技术相关, 技术综合]
+categories:
+  - 技术相关
+  - 技术综合
+abbrlink: f71b4e73
+date: 2018-09-21 16:43:26
 ---
 
 ## 我的 Git 备忘单

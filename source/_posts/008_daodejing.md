@@ -1,11 +1,15 @@
 ---
 title: 读书笔记之《道德经》
-date: 2018-08-14 20:03:28
-tags:  [读书, 修身养性]
-
+tags:
+  - 读书
+  - 修身养性
 comments: true
 toc: true
-categories: [学习进阶, 读书荐书]
+categories:
+  - 学习进阶
+  - 读书荐书
+abbrlink: 176010b5
+date: 2018-08-14 20:03:28
 ---
 
 #### 读书笔记之《道德经》

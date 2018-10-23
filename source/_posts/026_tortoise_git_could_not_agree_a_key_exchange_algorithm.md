@@ -1,11 +1,14 @@
 ---
 title: Tortoise git could't agree a key exchange algorithm
-date: 2018-10-19 06:13:35
-tags: [Git]
-
+tags:
+  - Git
 comments: true
 toc: true
-categories: [技术相关, 技术综合]
+categories:
+  - 技术相关
+  - 技术综合
+abbrlink: bb4ceca5
+date: 2018-10-19 06:13:35
 ---
 
 ### Tortoise git could't agree a key exchange algorithm

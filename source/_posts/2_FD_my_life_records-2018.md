@@ -1,12 +1,14 @@
 ---
 title: 坚持的力量之数据人生-20181023
-date: 2018-10-23 00:00:02
-tags: [日更]
-
+tags:
+  - 日更
 comments: true
 toc: true
-categories: [生活点滴, 日常更新]
-
+categories:
+  - 生活点滴
+  - 日常更新
+abbrlink: e7fc0233
+date: 2018-10-23 00:00:02
 ---
 
 

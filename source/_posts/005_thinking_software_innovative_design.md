@@ -1,11 +1,16 @@
 ---
 title: 读书笔记之《思考软件 创新设计》
-date: 2018-08-02 19:03:06
-tags:  [读书, 修身养性, 互联网]
-
+tags:
+  - 读书
+  - 修身养性
+  - 互联网
 comments: true
 toc: true
-categories: [学习进阶, 读书荐书]
+categories:
+  - 学习进阶
+  - 读书荐书
+abbrlink: 6dfb891e
+date: 2018-08-02 19:03:06
 ---
 
 

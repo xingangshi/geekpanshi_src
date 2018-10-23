@@ -1,11 +1,14 @@
 ---
 title: 读书札记第一册集锦（1/30 - 30/30）：
-date: 2018-10-20 12:00:03
-tags: [月更]
-
+tags:
+  - 月更
 comments: true
 toc: true
-categories: [生活点滴, 日常更新]
+categories:
+  - 生活点滴
+  - 日常更新
+abbrlink: 32d578a0
+date: 2018-10-20 12:00:03
 ---
 
 ### 我的读书札记第一册

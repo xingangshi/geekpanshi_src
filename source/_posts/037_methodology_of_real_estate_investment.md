@@ -1,17 +1,18 @@
 ---
 title: 房产投资的方法论
-date: 2018-10-23 03:44:00
-tags: [固定资产]
-
+tags:
+  - 固定资产
 comments: true
 toc: true
-categories: [效率工具, 资产管理]
-
+categories:
+  - 效率工具
+  - 资产管理
+abstract: 'Welcome to my blog, enter password to read.'
+message: 'Welcome to my blog, enter password to read.'
+copyright: true
+abbrlink: '102159e8'
+date: 2018-10-23 03:44:00
 password:
-abstract: Welcome to my blog, enter password to read.
-message: Welcome to my blog, enter password to read.
-
-copyright: true #版权声明
 ---
 
 ### 房产投资的方法论
