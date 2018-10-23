@@ -4,14 +4,18 @@
   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   <li class="post-copyright-author">
     <strong>{{ __('post.copyright.author') + __('symbol.colon') }}</strong>
-    {{ post.author | default(config.author) }}
+
+
+    <a rel="external nofollow" href="/about"> {{ post.author | default(config.author) }} </a>
+
+
   </li>
   <li>
-    <strong><span>本文标题： </span></strong><a href="{{ url_for(page.path) }}">{{ page.title }}</a>
+    <strong><span>本文标题： </span></strong><a rel="external nofollow" href="{{ url_for(page.path) }}">{{ page.title }}</a>
   </li>
   <li class="post-copyright-link">
     <strong>{{ __('post.copyright.link') + __('symbol.colon') }}</strong>
-    <a href="{{ post.url | default(post.permalink) }}" title="{{ post.title }}">{{ post.url | default(post.permalink) }}</a>
+    <a rel="external nofollow" href="{{ post.url | default(post.permalink) }}" title="{{ post.title }}">{{ post.url | default(post.permalink) }}</a>
     <span class="copy-path"  title="点击复制文章链接"><i class="fa fa-clipboard" data-clipboard-text="{{ page.permalink }}"  aria-label="复制成功！"></i></span>
   </li>
   <li class="post-copyright-license">

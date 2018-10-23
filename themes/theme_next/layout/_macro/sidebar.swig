@@ -45,9 +45,9 @@
               {% if config.archive_dir != '/' and site.posts.length > 0 %}
                 <div class="site-state-item site-state-posts">
                 {% if theme.menu.archives %}
-                  <a href="{{ url_for(theme.menu.archives).split('||')[0] | trim }}">
+                  <a rel="external nofollow" href="{{ url_for(theme.menu.archives).split('||')[0] | trim }}">
                 {% else %}
-                  <a href="{{ url_for(config.archive_dir) }}">
+                  <a rel="external nofollow" href="{{ url_for(config.archive_dir) }}">
                 {% endif %}
                     <span class="site-state-item-count">{{ site.posts.length }}</span>
                     <span class="site-state-item-name">{{ __('state.posts') }}</span>
@@ -59,7 +59,7 @@
                 {% set categoriesPageQuery = site.pages.find({type: 'categories'}, {lean: true}) %}
                 {% set hasCategoriesPage = categoriesPageQuery.length > 0 %}
                 <div class="site-state-item site-state-categories">
-                  {% if hasCategoriesPage %}<a href="{{ url_for(categoriesPageQuery[0].path) }}">{% endif %}
+                  {% if hasCategoriesPage %}<a rel="external nofollow" href="{{ url_for(categoriesPageQuery[0].path) }}">{% endif %}
                     {% set visibleCategories = 0 %}
                     {% for cat in site.categories %}
                       {% if cat.length %}{% set visibleCategories += 1 %}{% endif %}
@@ -74,7 +74,7 @@
                 {% set tagsPageQuery = site.pages.find({type: 'tags'}, {lean: true}) %}
                 {% set hasTagsPage = tagsPageQuery.length > 0 %}
                 <div class="site-state-item site-state-tags">
-                  {% if hasTagsPage %}<a href="{{ url_for(tagsPageQuery[0].path) }}">{% endif %}
+                  {% if hasTagsPage %}<a rel="external nofollow" href="{{ url_for(tagsPageQuery[0].path) }}">{% endif %}
                     {% set visibleTags = 0 %}
                     {% for tag in site.tags %}
                       {% if tag.length %}{% set visibleTags += 1 %}{% endif %}
@@ -89,7 +89,7 @@
 
           {% if theme.rss %}
             <div class="feed-link motion-element">
-              <a href="{{ url_for(theme.rss) }}" rel="alternate">
+              <a rel="external nofollow" href="{{ url_for(theme.rss) }}" rel="alternate">
                 <i class="fa fa-rss"></i>
                 RSS
               </a>
@@ -103,7 +103,7 @@
                   {% if theme.exturl && theme.social_icons.exturl %}
                     <span class="exturl" data-url="{{ link.split('||')[0] | trim }}" title="{{ name }}">{#
                 #}{% else %}{#
-                  #}<a href="{{ link.split('||')[0] | trim }}" target="_blank" title="{{ name }}"{% if theme.seo %} rel="external nofollow"{% endif %}>{#
+                  #}<a rel="external nofollow" href="{{ link.split('||')[0] | trim }}" target="_blank" title="{{ name }}"{% if theme.seo %} rel="external nofollow"{% endif %}>{#
                 #}{% endif %}{#
                   #}{% if theme.social_icons.enable %}{#
                     #}<i class="fa fa-fw fa-{{ link.split('||')[1] | trim | default('globe') }}"></i>{#
@@ -124,7 +124,7 @@
           {% set cc = {'by': 1, 'by-nc': 1, 'by-nc-nd': 1, 'by-nc-sa': 1, 'by-nd': 1, 'by-sa': 1, 'zero': 1} %}
           {% if theme.creative_commons in cc %}
             <div class="cc-license motion-element" itemprop="license">
-              <a href="https://creativecommons.org/{% if theme.creative_commons === 'zero' %}publicdomain/zero/1.0{% else %}licenses/{{ theme.creative_commons }}/4.0{% endif %}/" class="cc-opacity" target="_blank"{% if theme.seo %} rel="external nofollow"{% endif %}>
+              <a rel="external nofollow" href="https://creativecommons.org/{% if theme.creative_commons === 'zero' %}publicdomain/zero/1.0{% else %}licenses/{{ theme.creative_commons }}/4.0{% endif %}/" class="cc-opacity" target="_blank"{% if theme.seo %} rel="external nofollow"{% endif %}>
                 <img src="{{ url_for(theme.images) }}/cc-{{ theme.creative_commons }}.svg" alt="Creative Commons" />
               </a>
             </div>
@@ -140,7 +140,7 @@
               <ul class="links-of-blogroll-list">
                 {% for name, link in theme.links %}
                   <li class="links-of-blogroll-item">
-                    <a href="{{ link }}" title="{{ name }}" target="_blank">{{ name }}</a>
+                    <a rel="external nofollow" href="{{ link }}" title="{{ name }}" target="_blank">{{ name }}</a>
                   </li>
                 {% endfor %}
               </ul>

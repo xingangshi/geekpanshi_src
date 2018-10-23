@@ -1,9 +1,9 @@
 # <div align="center">«NexT» — Elegant and powerful theme for Hexo.</div>
 
-<p align="center">Copyright © 2017 «<a href="https://github.com/theme-next/hexo-theme-next">NexT</a>».</p>
+<p align="center">Copyright © 2017 «<a rel="external nofollow" href="https://github.com/theme-next/hexo-theme-next">NexT</a>».</p>
 
 <p align="center">Detail attribution information for «NexT»<br>
-              is contained in the '<a href="docs/AUTHORS.md">docs/AUTHORS.md</a>' file.</p>
+              is contained in the '<a rel="external nofollow" href="docs/AUTHORS.md">docs/AUTHORS.md</a>' file.</p>
 
   This program is free software; you can redistribute it and/or modify
 it under the terms of the [GNU Affero General Public License version 3][AGPL3]
@@ -55,7 +55,7 @@ These activities include:
   For more information, please contact «NexT» Organization at this
 address: sales@theme-next.org
 
-<p align="center">This license also available in <a href="docs/LICENSE">text format</a>.</p>
+<p align="center">This license also available in <a rel="external nofollow" href="docs/LICENSE">text format</a>.</p>
 
 [AUTHORS]: docs/AUTHORS.md
 [AGPL3]: docs/AGPL3.md
