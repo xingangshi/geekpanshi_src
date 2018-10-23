@@ -1,0 +1,63 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+rss: /rss2.xml
+github: https://github.com/XingangShi
+logo_title: Geek
+logo_title1: E=MC²
+logo_title2: Panshi
+logo_title3: Love
+logo_title4: Time
+logo_title5: Life
+
+blog_title: Geek Panshi'Blob
+
+social:
+  GitHub: hhttps://github.com/XingangShi || github
+  E-Mail: shix_112@126.com || envelope
+  #Google: https://plus.google.com/Cazaea || google
+  #Twitter: https://twitter.com/Cazaea || twitter
+  #FaceBook: https://www.facebook.com/Cazaea || facebook
+  #知乎: https://zhihu.com/people/wistorm || globe
+  微博: https://weibo.com/u/6726260941 || weibo
+  #豆瓣: https://www.douban.com/people/Cazaea || bath
+  #VK Group: https://vk.com/yourname || vk
+  #StackOverflow: https://stackoverflow.com/Cazaea || stack-overflow
+  #YouTube: https://youtube.com/Cazaea || youtube
+  #Instagram: https://instagram.com/Cazaea || instagram
+  #Skype: skype:yourname?call|chat || skype
+social_icons:
+enable: true
+icons_only: false
+transition: false
+
+
+# Content
+excerpt_link: Read More
+fancybox: true
+mathjax: false
+
+# Sidebar
+sidebar: right
+widgets:
+- recent_posts
+- tag
+- archive
+
+# Miscellaneous
+wx_block: false
+google_analytics:
+favicon: /img/favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+# Duoshuo
+duoshuo_shortname:
+
+# Swiftype Search
+swiftype_key:
+

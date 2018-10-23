@@ -20,7 +20,7 @@
       <div id="disqus_thread">
         <noscript>
           Please enable JavaScript to view the
-          <a rel="external nofollow" href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
         </noscript>
       </div>
     </div>

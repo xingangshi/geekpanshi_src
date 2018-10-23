@@ -10,7 +10,7 @@
         {% if current == count - 1 %}
           <li>{{ path | upper }}</li>
         {% else %}
-          <li><a rel="external nofollow" href="{{ link }}{{ url_for(path) }}/">{{ path | upper }}</a></li>
+          <li><a href="{{ link }}{{ url_for(path) }}/">{{ path | upper }}</a></li>
           {% if link == '' %}
             {% set link = '/' + path %}
           {% else %}

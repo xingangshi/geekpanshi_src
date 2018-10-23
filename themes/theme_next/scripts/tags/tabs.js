@@ -44,7 +44,7 @@ function postTabs(args, content) {
     tabIcon.length > 0 && (tabIcon = '<i class="fa fa-' + tabIcon.trim() + '"' + isOnlyicon + '"></i>');
 
     var isActive = (tabActive > 0 && tabActive === tabId) || (tabActive === 0 && tabId === 1) ? ' active' : '';
-    tabNav += '<li class="tab' + isActive + '"><a rel="external nofollow" href="#' + tabHref + '">' + tabIcon + tabCaption.trim() + '</a></li>';
+    tabNav += '<li class="tab' + isActive + '"><a href="#' + tabHref + '">' + tabIcon + tabCaption.trim() + '</a></li>';
     tabContent += '<div class="tab-pane' + isActive + '" id="' + tabHref + '">' + postContent + '</div>';
   }
 
