@@ -13,6 +13,11 @@ copyright: true
 abbrlink: '102159e8'
 date: 2018-10-23 03:44:00
 password:
+keywords:
+  - 三大纪律
+  - 八项注意
+  - 房产投资
+description: 房产投资的方法论，三大纪律，八项注意，十条建议。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 

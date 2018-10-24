@@ -13,6 +13,11 @@ copyright: true
 abbrlink: f0d41519
 date: 2018-10-23 06:29:37
 password:
+keywords:
+  - ssh
+  - 0644
+  - tooopen
+description: Linux 部署时经常使用到 ssh 登录，，使用 ssh 登录或验证，使用公私钥时对秘钥文件的权限是有要求的，权限不能太大。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 

@@ -13,6 +13,11 @@ copyright: true
 abbrlink: 52577b4e
 date: 2018-10-23 01:34:42
 password:
+keywords:
+  - 结婚
+  - 再婚
+  - 离婚
+description: 《很多人活到三十多也不明白，娶离异带孩子的人有多少大坑》，为了自己看方便，整理发出来。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 

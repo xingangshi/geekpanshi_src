@@ -9,6 +9,12 @@ categories:
   - 学习进阶
   - 数据人生
 abbrlink: 3190a71a
+keywords:
+  - 数据人生
+  - 模板
+  - 打卡
+  - 计划
+description: 2018 年月计划性任务打卡记录（模板），2018 年月计划性任务打卡记录（样例）。
 date: 2018-10-23 05:20:49
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>

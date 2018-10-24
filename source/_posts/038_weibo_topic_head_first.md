@@ -13,6 +13,10 @@ copyright: true
 abbrlink: f678e892
 date: 2018-10-23 04:47:50
 password:
+keywords:
+  - 走出舒适区
+  - 谨言慎行
+description: 微博，我发的不多，但是应该大部分都值得一看，走出舒适区，才是绝大多数人需要做的第一个决定。各种常识的普及和学习，才是我们最需要做的和接受的事情。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
