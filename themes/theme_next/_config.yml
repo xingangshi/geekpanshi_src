@@ -188,6 +188,13 @@ links_layout: block
 #links_layout: inline
 links:
   ASCIIFlow: https://asciiflow.com/
+  LearnXinYminutes: https://learnxinyminutes.com/
+  Cheatsh: http://cheat.sh/
+  CommandlineFu: https://commandlinefu.cn/
+  DevDocs: http://devdocs.io/
+  Cheatsheets: https://devhints.io/
+  Colaboratory: https://colab.research.google.com/notebooks/welcome.ipynb
+  MarkdownPlus: http://mdp.tylingsoft.com/
 
 # Sidebar Avatar
 avatar:
