@@ -9,6 +9,7 @@ categories:
   - 日常更新
 abbrlink: e7fc0233
 date: 2018-10-24 00:00:02
+description: 今天：2018 年 10 月 24 日，2018 年仅剩下 68 天。坚持记录和分析生活中的数据、信息和事件，尊重历史数据、信息和事件，人生将会更美好。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 

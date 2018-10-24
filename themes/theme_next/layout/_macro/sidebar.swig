@@ -93,6 +93,10 @@
                 <i class="fa fa-rss"></i>
                 RSS
               </a>
+              <a href="http://eepurl.com/dLf7OQ" rel="alternate">
+                <i class="fa fa-rss"></i>
+                Email 订阅
+              </a>
             </div>
           {% endif %}
 

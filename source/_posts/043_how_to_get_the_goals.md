@@ -8,6 +8,7 @@ categories:
   - 生活点滴
   - 日常更新
 abbrlink: fb5db04
+description: 定目标后，如何去实现既定的目标，而不至于目标只是流于形式说是，总是立 Flag，总是完成不了。。
 date: 2018-10-24 00:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>

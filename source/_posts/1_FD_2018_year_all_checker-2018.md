@@ -10,6 +10,7 @@ categories:
 abbrlink: 35b1e314
 daovoice: ttur
 date: 2018-10-24 00:00:01
+description: 今天：2018年10月24日，2018年仅剩下68天。每日打卡，10月份针对每个任务打卡，慢慢来，一切都会更好的。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
