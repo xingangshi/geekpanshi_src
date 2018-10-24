@@ -10,6 +10,7 @@ categories:
 abbrlink: 2717eb9f
 date: 2018-10-18 19:38:35
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 时间管理的 11 条金律
 

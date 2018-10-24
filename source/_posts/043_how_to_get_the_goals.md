@@ -10,6 +10,7 @@ categories:
 abbrlink: fb5db04
 date: 2018-10-24 00:10:03
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 #### 4. 定下的目标怎样才能实现？（4/30）
 ---

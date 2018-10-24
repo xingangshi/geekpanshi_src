@@ -11,7 +11,7 @@ categories:
 abbrlink: 802e9db6
 date: 2018-10-23 05:30:49
 ---
-
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 2018 年 10 月每日计划性任务打卡记录（模板）
 

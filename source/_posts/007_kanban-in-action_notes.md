@@ -12,6 +12,7 @@ categories:
 abbrlink: 81f4c27a
 date: 2018-08-03 00:40:46
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 读书笔记之《看板实战》（《Kanban IN ACTION》）
 

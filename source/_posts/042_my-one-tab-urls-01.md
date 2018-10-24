@@ -17,6 +17,7 @@ password:
 keywords: [康奈尔笔记法, 子弹笔记, 效率生活和工作]
 description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记 5. WorkFlowy ……
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### My-One-Tab-URLS-01（20180929-20181023）
 ---

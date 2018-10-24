@@ -10,6 +10,7 @@ categories:
 abbrlink: 1eaf8089
 date: 2018-10-19 00:00:03
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 29. 如何在 5 分钟内找到生命的意义？
 ---

@@ -10,6 +10,7 @@ categories:
 abbrlink: 60977ef3
 date: 2018-08-01 23:52:04
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 使用 hexo 和 Github 搭建属于你自己网站（自建网站）
 

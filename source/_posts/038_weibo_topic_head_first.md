@@ -14,7 +14,7 @@ abbrlink: f678e892
 date: 2018-10-23 04:47:50
 password:
 ---
-
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 我的新浪微博置顶微博
 

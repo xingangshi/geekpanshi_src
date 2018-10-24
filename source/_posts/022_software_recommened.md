@@ -9,6 +9,7 @@ categories:
 abbrlink: 6f958ce8
 date: 2018-10-15 18:52:04
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 常用软件网站推荐
 

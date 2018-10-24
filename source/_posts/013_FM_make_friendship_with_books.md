@@ -12,6 +12,7 @@ categories:
 abbrlink: ae114757
 date: 2018-10-20 01:36:53
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 #### 以书会友，阅读人生-月更-最后更新20181022
 ---

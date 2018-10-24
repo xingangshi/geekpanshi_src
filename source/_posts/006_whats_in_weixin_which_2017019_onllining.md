@@ -12,6 +12,7 @@ categories:
 abbrlink: a25532e2
 date: 2018-08-02 23:52:04
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 2017 年 1 月 9 日上线的小程序 （2016-12-28 张小龙）
 

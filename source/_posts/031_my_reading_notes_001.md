@@ -1,7 +1,9 @@
 ---
 title: 读书札记第一册集锦（1/30 - 30/30）：
 tags:
-  - 月更
+  - 读书
+  - 修身养性
+  - 日更
 comments: true
 toc: true
 categories:
@@ -10,6 +12,7 @@ categories:
 abbrlink: 32d578a0
 date: 2018-10-20 12:00:03
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 我的读书札记第一册
 

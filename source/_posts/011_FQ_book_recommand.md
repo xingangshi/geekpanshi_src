@@ -12,6 +12,7 @@ categories:
 abbrlink: 992a9342
 date: 2018-08-31 19:20:40
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 #### 读书荐书之 2018 年第 3/3 更
 

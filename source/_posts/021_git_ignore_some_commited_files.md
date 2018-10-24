@@ -10,6 +10,8 @@ categories:
 abbrlink: b5635e22
 date: 2018-10-10 16:43:26
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
+
 ### Git 如何忽略已经被提交的文件
 
 #### 1. 老司机有话说

@@ -9,6 +9,7 @@ categories:
 abbrlink: 44eb745a
 date: 2018-09-28 16:25:16
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 #### 严冬已至，共克时艰时注意事项
 ----

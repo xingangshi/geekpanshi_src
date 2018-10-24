@@ -11,7 +11,7 @@ keywords:
   - "panshi"
 author: GeekPanshi
 language: zh-CN
-timezone:
+timezone: "Asia/Shanghai"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -40,7 +40,6 @@ skip_render:
   - README.md
   - robots.txt
   - baidu_verify_SVhqGxR1Sj.html
-  - gulpfile.js
   - /js/src/bai.js
 
 # Writing

@@ -12,7 +12,7 @@ categories:
 abbrlink: 65b35ebf
 date: 2018-10-18 16:16:57
 ---
-
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 我的读书计划-月更-最后更新201810
 

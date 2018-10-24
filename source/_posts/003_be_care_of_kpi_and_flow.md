@@ -12,6 +12,7 @@ categories:
 abbrlink: aee327d3
 date: 2018-08-02 18:15:47
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 警惕 KPI 和流程 （张小龙，2016-10-29）
 

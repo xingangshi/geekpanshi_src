@@ -11,6 +11,7 @@ categories:
 abbrlink: 442d2ae3
 date: 2018-10-03 21:07:49
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 坚持的力量之数据人生-2018（模板）
 

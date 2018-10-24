@@ -10,6 +10,7 @@ categories:
 abbrlink: df62e66a
 date: 2018-10-21 00:10:03
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 #### 1. 我们为什么要工作？
 ---

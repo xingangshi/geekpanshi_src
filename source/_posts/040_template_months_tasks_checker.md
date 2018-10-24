@@ -11,6 +11,7 @@ categories:
 abbrlink: 3190a71a
 date: 2018-10-23 05:20:49
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 2018 年月计划性任务打卡记录（模板）
 

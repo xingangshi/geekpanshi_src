@@ -14,8 +14,7 @@ abbrlink: 52577b4e
 date: 2018-10-23 01:34:42
 password:
 ---
-
-
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 结婚再婚那点事
 

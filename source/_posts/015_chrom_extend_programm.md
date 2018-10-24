@@ -10,6 +10,7 @@ categories:
 abbrlink: d8d6241
 date: 2018-09-25 20:01:31
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### Chrom 常用扩展推荐
 

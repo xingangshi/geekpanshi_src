@@ -12,6 +12,7 @@ categories:
 abbrlink: 2a29d38e
 date: 2018-08-02 18:34:51
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 项目管理与实践论坛
 

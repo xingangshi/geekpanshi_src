@@ -10,6 +10,7 @@ categories:
 abbrlink: f2b3a1e0
 date: 2018-10-22 00:10:03
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 #### 2. 失恋后如何治愈心碎
 ---

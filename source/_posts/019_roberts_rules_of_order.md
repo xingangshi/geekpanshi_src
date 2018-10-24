@@ -11,9 +11,10 @@ categories:
 abbrlink: c85c65a8
 date: 2018-10-02 20:03:28
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
+
 #### 读书笔记之《罗伯特议事规则（极简版本）》
 ---
-
 > 「 无规矩不成方圆，凡事欲则立不预则废。」
 ##### 简介
 

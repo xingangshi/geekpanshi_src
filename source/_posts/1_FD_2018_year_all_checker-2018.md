@@ -11,6 +11,7 @@ abbrlink: 35b1e314
 daovoice: ttur
 date: 2018-10-24 00:00:01
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 2018 年打卡记录
 

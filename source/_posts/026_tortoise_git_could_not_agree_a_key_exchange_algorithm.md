@@ -10,6 +10,7 @@ categories:
 abbrlink: bb4ceca5
 date: 2018-10-19 06:13:35
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### Tortoise git could't agree a key exchange algorithm
 

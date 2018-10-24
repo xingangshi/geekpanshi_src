@@ -10,7 +10,7 @@ categories:
 abbrlink: e7fc0233
 date: 2018-10-24 00:00:02
 ---
-
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 坚持的力量之数据人生-2018
 

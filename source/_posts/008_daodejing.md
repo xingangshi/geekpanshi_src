@@ -3,6 +3,7 @@ title: 读书笔记之《道德经》
 tags:
   - 读书
   - 修身养性
+  - 日更
 comments: true
 toc: true
 categories:
@@ -11,6 +12,7 @@ categories:
 abbrlink: 176010b5
 date: 2018-08-14 20:03:28
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 #### 读书笔记之《道德经》
 ------

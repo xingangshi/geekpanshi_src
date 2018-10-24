@@ -10,6 +10,7 @@ categories:
 abbrlink: e0c74487
 date: 2018-10-19 06:54:33
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### Markdown 从入门到精通
 

@@ -10,6 +10,7 @@ categories:
 abbrlink: 8d07f8dd
 date: 2018-10-17 13:52:04
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 时间管理 - 我的快准狠记事（极简手帐）
 

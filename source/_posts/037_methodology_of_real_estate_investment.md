@@ -14,6 +14,7 @@ abbrlink: '102159e8'
 date: 2018-10-23 03:44:00
 password:
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 房产投资的方法论
 

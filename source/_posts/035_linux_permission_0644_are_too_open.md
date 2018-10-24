@@ -14,6 +14,7 @@ abbrlink: f0d41519
 date: 2018-10-23 06:29:37
 password:
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### linux Permission 0644 for are too open 错误处理
 

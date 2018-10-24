@@ -10,6 +10,7 @@ categories:
 abbrlink: e8f5e73
 date: 2018-10-20 00:10:03
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 30. 用三种方法去规划你的长远未来
 ---

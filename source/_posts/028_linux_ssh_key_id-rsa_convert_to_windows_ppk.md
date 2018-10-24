@@ -16,6 +16,7 @@ abbrlink: c2115322
 date: 2018-10-19 07:39:38
 password:
 ---
+<script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 怎样把 Linux 的私钥文件 id_rsa 转换成 Windows 下使用的私钥 ppk 格式
 
