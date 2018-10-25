@@ -1,12 +1,19 @@
 ---
 title: 读书札记第二册（3/30）：女孩子天生就要被保护吗？
 tags:
-  - 日更
+  - 札记人生
+  - 鸡汤
+  - 教育
+  - 家庭
 comments: true
 toc: true
 categories:
   - 生活点滴
   - 日常更新
+keywords:
+  - 女孩子
+  - 被保护
+  - 教育
 abbrlink: 3d42a904
 date: 2018-10-23 00:10:03
 ---

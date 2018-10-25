@@ -7,6 +7,10 @@ toc: true
 categories:
   - 技术相关
   - 技术综合
+keywords:
+  - git
+  - github
+  - TortoiseGit
 abbrlink: bb4ceca5
 date: 2018-10-19 06:13:35
 ---

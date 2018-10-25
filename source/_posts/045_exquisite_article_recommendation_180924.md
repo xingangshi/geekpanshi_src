@@ -1,16 +1,16 @@
 ---
 title: 每日好精选文章推荐-20181024
 tags:
-  - 日更
   - 框架
   - Git
   - LaTex
   - 框架
+  - 美文推荐
 comments: true
 toc: true
 categories:
   - 生活点滴
-  - 美文推荐
+  - 日常更新
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true

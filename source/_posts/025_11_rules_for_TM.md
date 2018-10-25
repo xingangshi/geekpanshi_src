@@ -2,11 +2,13 @@
 title: 时间管理的 11 条金律
 tags:
   - 时间管理
+  - 鸡汤
+  - 教育
 comments: true
 toc: true
 categories:
-  - 效率工具
-  - 时间管理
+  - 生活点滴
+  - 杂谈一二
 abbrlink: 2717eb9f
 date: 2018-10-18 19:38:35
 ---

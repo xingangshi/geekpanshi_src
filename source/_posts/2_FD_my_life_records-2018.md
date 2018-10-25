@@ -1,7 +1,7 @@
 ---
 title: 坚持的力量之数据人生-20181025
 tags:
-  - 日更
+  - 时间管理
 comments: true
 toc: true
 categories:

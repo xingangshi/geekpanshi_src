@@ -3,12 +3,17 @@ title: 读书笔记之《斯坦福极简经济学》
 tags:
   - 读书
   - 财商
-  - 日更
+  - 札记人生
+  - 札记汇总
 comments: true
 toc: true
 categories:
   - 学习进阶
   - 读书荐书
+keywords:
+  - 斯坦福极简经济学
+  - 经济学
+  - 斯坦福
 abbrlink: 571f947c
 date: 2018-09-20 20:03:28
 ---

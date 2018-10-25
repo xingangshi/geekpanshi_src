@@ -3,12 +3,16 @@ title: 读书荐书之 2018 年第 3/3 更
 tags:
   - 读书
   - 荐书
-  - 月更
 comments: true
 toc: true
 categories:
   - 学习进阶
   - 读书荐书
+keywords:
+  - 读书荐书
+  - 荐书
+  - 以书会友
+  - 人月神话
 abbrlink: 992a9342
 date: 2018-08-31 19:20:40
 ---

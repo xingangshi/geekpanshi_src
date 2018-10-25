@@ -7,6 +7,11 @@ toc: true
 categories:
   - 技术相关
   - 技术综合
+keywords:
+  - git
+  - git忽略文件
+  - 忽略文件
+  - gitignore
 abbrlink: b5635e22
 date: 2018-10-10 16:43:26
 ---

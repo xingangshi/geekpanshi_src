@@ -7,6 +7,11 @@ toc: true
 categories:
   - 技术相关
   - 前端相关
+keywords:
+  - hexo
+  - 自建网站
+  - 自建博客
+  - github
 abbrlink: 60977ef3
 date: 2018-08-01 23:52:04
 ---

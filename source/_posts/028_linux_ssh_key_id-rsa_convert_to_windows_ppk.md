@@ -1,12 +1,18 @@
 ---
 title: 怎样把 Linux 的私钥文件 id_rsa 转换成 Windows 下使用的私钥 ppk 格式
 tags:
-  - ssh
+  - Linux
 comments: true
 toc: true
 categories:
   - 技术相关
   - 技术综合
+keywords:
+  - Linux
+  - 公私钥
+  - id_rsa
+  - PuTTYgen
+  - ppk
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true

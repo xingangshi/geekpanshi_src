@@ -3,12 +3,19 @@ title: 读书笔记之《道德经》
 tags:
   - 读书
   - 修身养性
-  - 日更
+  - 札记人生
+  - 札记汇总
+  - 家庭
 comments: true
 toc: true
 categories:
   - 学习进阶
   - 读书荐书
+keywords:
+  - 道德经
+  - 老子
+  - 道经
+  - 的经
 abbrlink: 176010b5
 date: 2018-08-14 20:03:28
 ---

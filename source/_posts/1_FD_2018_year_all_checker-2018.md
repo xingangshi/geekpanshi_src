@@ -1,7 +1,7 @@
 ---
 title: 每日打卡-20181025
 tags:
-  - 日更
+  - 时间管理
 comments: true
 toc: true
 categories:

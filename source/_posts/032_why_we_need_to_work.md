@@ -1,13 +1,18 @@
 ---
 title: 读书札记第二册（1/30）：我们为什么要工作？
 tags:
-  - 日更
+  - 札记人生
+  - 鸡汤
+  - 教育
 comments: true
 toc: true
 categories:
   - 生活点滴
   - 日常更新
 abbrlink: df62e66a
+keywords:
+  - 工作
+  - 为什么要工作
 date: 2018-10-21 00:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>

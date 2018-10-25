@@ -6,7 +6,7 @@ comments: true
 toc: true
 categories:
   - 效率工具
-  - 时间管理
+  - 资产管理
 abbrlink: 8d07f8dd
 date: 2018-10-17 13:52:04
 ---

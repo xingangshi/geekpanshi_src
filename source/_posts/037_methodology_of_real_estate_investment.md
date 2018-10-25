@@ -1,7 +1,7 @@
 ---
 title: 房产投资的方法论
 tags:
-  - 固定资产
+  - 财商
 comments: true
 toc: true
 categories:

@@ -1,7 +1,10 @@
 ---
 title: 读书札记第二册（5/30）：面对压力如何保持冷静
 tags:
-  - 日更
+  - 札记人生
+  - 鸡汤
+  - 教育
+  - 家庭
 comments: true
 toc: true
 categories:

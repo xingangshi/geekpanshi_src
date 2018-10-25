@@ -1,9 +1,10 @@
 ---
-title: 读书札记第一册集锦（1/30 - 30/30）：
+title: 读书札记第一册集锦（1/30 - 30/30）
 tags:
   - 读书
   - 修身养性
-  - 日更
+  - 札记人生
+  - 札记汇总
 comments: true
 toc: true
 categories:

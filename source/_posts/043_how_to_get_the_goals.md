@@ -1,7 +1,9 @@
 ---
 title: 读书札记第二册（4/30）：定下的目标怎样才能实现？
 tags:
-  - 日更
+  - 札记人生
+  - 教育
+  - 鸡汤
 comments: true
 toc: true
 categories:

@@ -1,12 +1,15 @@
 ---
 title: 读书札记第一册（29/30）：如何在5分钟内找到生命的意义
 tags:
-  - 日更
+  - 札记人生
+  - 鸡汤
 comments: true
 toc: true
 categories:
   - 生活点滴
   - 日常更新
+keywords:
+  - 生命的意义
 abbrlink: 1eaf8089
 date: 2018-10-19 00:00:03
 ---

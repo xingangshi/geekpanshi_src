@@ -1,7 +1,7 @@
 ---
 title: 结婚再婚那点事
 tags:
-  - 婚姻
+  - 家庭
 comments: true
 toc: true
 categories:
