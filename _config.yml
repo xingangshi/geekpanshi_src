@@ -104,7 +104,7 @@ deploy:
 feed:
   type: rss2
   path: rss2.xml
-  limit: 10
+  limit: -1
   hub:
   content: 'true'
 
