@@ -641,6 +641,8 @@ vkontakte_api:
 
 # Star rating support to each article.
 # To get your ID visit https://widgetpack.com
+# shix_112@163.com
+# sxg_200723021
 rating:
   enable: true
   id:     14580 #<app_id>
