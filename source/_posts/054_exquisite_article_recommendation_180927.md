@@ -14,7 +14,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: 7c46fef1
 keywords:
   - 免费在线课程
   - 在线课程
@@ -24,9 +24,12 @@ keywords:
   - Mole
   - ssh工具
   - 远程连接
-  - Linux 
+  - Linux
   - 套接字
-description: 1. Linux 如何创建套接字并计算它们。 2. Mole 一个命令行的轻松创建 ssh 连接的工具。 3. 190 所大学刚刚推出了600 个免费在线课程，涉及：程序设计，计算机科学，数学，编程，数据科学，人文科学，社会科学，教育与教学，健康与医学，商业，个人发展，工程，艺术与设计，最后是科学。 4. 关于静态站点生成器。  5. 如何通过学习数据结构和算法来改变世界
+description: >-
+  1. Linux 如何创建套接字并计算它们。 2. Mole 一个命令行的轻松创建 ssh 连接的工具。 3. 190 所大学刚刚推出了600
+  个免费在线课程，涉及：程序设计，计算机科学，数学，编程，数据科学，人文科学，社会科学，教育与教学，健康与医学，商业，个人发展，工程，艺术与设计，最后是科学。
+  4. 关于静态站点生成器。  5. 如何通过学习数据结构和算法来改变世界
 date: 2018-10-27 01:47:50
 password:
 ---
