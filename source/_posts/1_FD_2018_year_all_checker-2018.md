@@ -1,5 +1,5 @@
 ---
-title: 每日打卡-20181029
+title: 每日打卡-20181030
 tags:
   - 时间管理
 comments: true
@@ -8,13 +8,13 @@ categories:
   - 生活点滴
   - 日常更新
 abbrlink: 35b1e314
-daovoice: ttur
-date: 2018-10-29 00:00:01
+daovoice: ture
+date: 2018-10-30 00:00:01
 keywords:
   - 2018倒计时
   - 每日打卡
   - 任务打卡
-description: 今天：2018 年 10 月 29 日，2018 年仅剩下 63 天。每日打卡，10 月份针对每个任务打卡，慢慢来，一切都会更好的。
+description: 今天：2018 年 10 月 30 日，2018 年仅剩下 62 天。每日打卡，10 月份针对每个任务打卡，慢慢来，一切都会更好的。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -56,7 +56,7 @@ description: 今天：2018 年 10 月 29 日，2018 年仅剩下 63 天。每日
 | 27 |    |    |    |    |    |    |    |    |    |S TT|T   |T   |
 | 28 |    |    |    |    |    |    |    |    |    |S TT|W   |F   |
 | 29 |    |    |    |    |    |    |    |    |    |M TT|T   |S   |
-| 30 |    |    |    |    |    |    |    |    |    |T   |F   |S   |
+| 30 |    |    |    |    |    |    |    |    |    |T TT|F   |S   |
 | 31 |    |    |    |    |    |    |    |    |    |W   |    |M   |
 
 
@@ -94,8 +94,8 @@ description: 今天：2018 年 10 月 29 日，2018 年仅剩下 63 天。每日
 | 26 五 | CC        | TT        | TT        | TT        | TT        | TT         |           |
 | 27 六 | CC        | TT        | TT        | TT        | TT        | TT         |           |
 | 28 日 | CC        | TT        | FF        | FF        | TT        | TT         | 和家人去上海迪士尼 |
-| 29 一 | CC        | TT        | TT        | TT        |           |            |           |
-| 30 二 | CC        |           |           |           |           |            |           |
+| 29 一 | CC        | TT        | TT        | TT        | TT        | TT         |           |
+| 30 二 | CC        | TT        | TT        | TT        | TT        |            |           |
 | 31 三 | CC        |           |           |           |           |            |           |
 
 
