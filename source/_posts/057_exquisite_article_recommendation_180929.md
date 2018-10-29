@@ -15,7 +15,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink:
+abbrlink: 9bfed3f6
 keywords:
   - 产品冷启动
   - 产品推广
@@ -25,7 +25,10 @@ keywords:
   - React
   - 多端开发
   - Taro
-description:  1. 争取青少年用户的鸡贼小技巧。 2. 新的编程的理念：从以程序为中心变成以系统为中心。 3. 快速失败：测试影响分析和软件架构。4. 什么是Edsu应用程序？Edsu应用程序就像普通的在线应用程序，但您不是注册和登录，而是授予权限。  5. Taro 是一套遵循 React 语法规范的多端开发解决方案
+description: >-
+  1. 争取青少年用户的鸡贼小技巧。 2. 新的编程的理念：从以程序为中心变成以系统为中心。 3. 快速失败：测试影响分析和软件架构。4.
+  什么是Edsu应用程序？Edsu应用程序就像普通的在线应用程序，但您不是注册和登录，而是授予权限。  5. Taro 是一套遵循 React
+  语法规范的多端开发解决方案
 date: 2018-10-29 01:47:50
 password:
 ---
