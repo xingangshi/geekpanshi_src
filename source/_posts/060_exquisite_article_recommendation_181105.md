@@ -15,7 +15,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink:
+abbrlink: a1bc9768
 keywords:
   - 编程之外
   - 部署项目
@@ -25,7 +25,8 @@ keywords:
   - 线性代数
   - 数据库迁移
 description: >-
-  1. 优秀的程序员是完全可以有编程之外的生活的。 2. StackOverflow 是如何部署代码的。 3. 我取消关注了你的社交账号。4.  快速、快乐地部署高质量代码。  5. 线性代数入门（深度学习丛书·介绍）。
+  1. 优秀的程序员是完全可以有编程之外的生活的。 2. StackOverflow 是如何部署代码的。 3. 我取消关注了你的社交账号。4. 
+  快速、快乐地部署高质量代码。  5. 线性代数入门（深度学习丛书·介绍）。
 date: 2018-11-05 21:47:50
 password:
 ---
