@@ -12,7 +12,7 @@ toc: true
 categories:
   - 生活点滴
   - 日常更新
-abbrlink: 61b9283e
+abbrlink: c5dc2a2c
 keywords:
   - 设定正确的目标
   - OKRs
