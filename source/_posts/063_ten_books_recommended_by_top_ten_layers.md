@@ -12,7 +12,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: e91ba86d
 keywords:
   - 从黎明到衰落
   - 狂热分子
