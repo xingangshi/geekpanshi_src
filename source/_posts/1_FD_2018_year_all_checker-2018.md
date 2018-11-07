@@ -1,5 +1,5 @@
 ---
-title: 每日打卡-2018年11月7日
+title: 每日打卡-2018年11月8日
 tags:
   - 时间管理
 comments: true
@@ -9,12 +9,12 @@ categories:
   - 日常更新
 abbrlink: 35b1e314
 daovoice: ture
-date: 2018-11-07 00:00:01
+date: 2018-11-08 00:00:01
 keywords:
   - 2018倒计时
   - 每日打卡
   - 任务打卡
-description: 今天：2018 年 11 月 7 日，2018 年仅剩下 54 天。每日打卡，11 月份针对每个任务打卡，慢慢来，一切都会更好的。
+description: 今天：2018 年 11 月 8 日，2018 年仅剩下 53 天。每日打卡，11 月份针对每个任务打卡，慢慢来，一切都会更好的。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -34,7 +34,7 @@ description: 今天：2018 年 11 月 7 日，2018 年仅剩下 54 天。每日�
 |  5 |    |    |    |    |    |    |    |    |    |F TT|M TT|W   |
 |  6 |    |    |    |    |    |    |    |    |    |S TT|T TT|T   |
 |  7 |    |    |    |    |    |    |    |    |    |S TT|W TT|F   |
-|  8 |    |    |    |    |    |    |    |    |    |M TT|T   |S   |
+|  8 |    |    |    |    |    |    |    |    |    |M TT|T TT|S   |
 |  9 |    |    |    |    |    |    |    |    |    |T TT|F   |S   |
 | 10 |    |    |    |    |    |    |    |    |    |W TT|S   |M   |
 | 11 |    |    |    |    |    |    |    |    |    |T TT|S   |T   |
@@ -69,8 +69,8 @@ description: 今天：2018 年 11 月 7 日，2018 年仅剩下 54 天。每日�
 |  4 日 | TT          | FF          | FF          | FF          | FF          | 整理家里的东西、收拾东西|
 |  5 一 | TT          | TT          | TT          | TT          | TT          |             |
 |  6 二 | TT          | TT          | TT          | TT          | TT          |             |
-|  7 三 | TT          | TT          | TT          |             |             |             |
-|  8 四 |             |             |             |             |             |             |
+|  7 三 | TT          | TT          | TT          | TT          | TT          |             |
+|  8 四 | TT          | TT          | TT          |             |             |             |
 |  9 五 |             |             |             |             |             |             |
 | 10 六 |             |             |             |             |             |             |
 | 11 日 |             |             |             |             |             |             |

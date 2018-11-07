@@ -15,17 +15,19 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: d69ca1d6
 keywords:
   - UI设计
   - 在线编辑器
-  -  JAVA日志框架
+  - JAVA日志框架
   - log4j
   - logback
   - log4j2
   - Codeadvice
   - 时间管理
-description: 1. 每周 15 分钟学习 UI 设计。 2. 软件架构为何如此重要。 3.  Codeadvice 在线代码创建、编辑和协作平台。4.  JAVA 日志框架的比较：log4j、logback 和 log4j2。  5. 总是有更多的工作要做 - 但你仍然不需要长时间工作。
+description: >-
+  1. 每周 15 分钟学习 UI 设计。 2. 软件架构为何如此重要。 3.  Codeadvice 在线代码创建、编辑和协作平台。4.  JAVA
+  日志框架的比较：log4j、logback 和 log4j2。  5. 总是有更多的工作要做 - 但你仍然不需要长时间工作。
 date: 2018-11-07 21:47:50
 password:
 ---
