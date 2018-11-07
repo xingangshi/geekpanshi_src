@@ -260,12 +260,12 @@ _ _ _
 ###### 5.7.2 效果
 
 * 一段 HTML 代码的显示
-        <head>
-            <meta http-equiv="content-type" content="text/html;charset=utf-8;"/>
-            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-            <meta name="robots" content="all" />
-            <meta name="robots" content="index,follow"/>
-        </head>
+    ​    <head>
+    ​        <meta http-equiv="content-type" content="text/html;charset=utf-8;"/>
+    ​        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    ​        <meta name="robots" content="all" />
+    ​        <meta name="robots" content="index,follow"/>
+    ​    </head>
 
 
 ##### 5.8 无序列表
@@ -335,9 +335,10 @@ _ _ _
 
 ###### 6.3.2 效果
 > 如何把大象放进冰箱
->> 打开冰箱门；
->>> 把大象放进冰箱；
->>>> 关掉冰箱门。
+> > 打开冰箱门；
+> > > 把大象放进冰箱；
+> > >
+> > > > 关掉冰箱门。
 
 
 #### 7. 插入图像
