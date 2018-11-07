@@ -14,7 +14,7 @@ keywords:
   - 2018倒计时
   - 每日打卡
   - 任务打卡
-description: 今天：2018 年 11 月 7 日，2018 年仅剩下 55 天。每日打卡，11 月份针对每个任务打卡，慢慢来，一切都会更好的。
+description: 今天：2018 年 11 月 7 日，2018 年仅剩下 54 天。每日打卡，11 月份针对每个任务打卡，慢慢来，一切都会更好的。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
