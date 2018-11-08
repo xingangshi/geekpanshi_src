@@ -1,5 +1,5 @@
 ---
-title: Mac OSX 系统下命令行 xcrun: error: invalid active developer path 问题解决方法
+title: Mac OSX 系统下命令行 xcrun error  invalid active developer path 问题解决方法
 tags:
   - 札记人生
   - 教育
@@ -10,10 +10,14 @@ toc: true
 categories:
   - 技术相关
   - 软件使用
-abbrlink: 
+abbrlink: 3f11ae53
 keywords:
   - xcrun error
-description: 今天下午，Mac 系统升级到 10.14 后，命令行运行 `git pull`获取远端代码时报错，尝试了 git 的其他命令也是报同样的错，报错如下：xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun，解决这个问题的记录。
+description: >-
+  今天下午，Mac 系统升级到 10.14 后，命令行运行 `git pull`获取远端代码时报错，尝试了 git 的其他命令也是报同样的错，报错如下
+  xcrun  error iinvalid active developer path
+  (/Library/Developer/CommandLineTools), missing xcrun at
+  /Library/Developer/CommandLineTools/usr/bin/xcrun，解决这个问题的记录。
 date: 2018-11-08 19:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -21,7 +25,8 @@ date: 2018-11-08 19:10:03
 ### Mac OSX 系统下命令行 xcrun: error: invalid active developer path 问题解决方法
 ---
 > 今天下午，Mac 系统升级到 10.14 后，命令行运行 `git pull`获取远端代码时报错，尝试了 git 的其他命令也是报同样的错，报错如下：
->> xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+>
+> > xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
 
 #### 1. 问题描述
 > 命令行运行 `git pull`获取远端代码时报错，尝试了 git 的其他命令也是报同样的错，报错如下：
