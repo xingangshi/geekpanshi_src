@@ -17,7 +17,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: 3643d6e5
 keywords:
   - JavaScript
   - 统计学习方法
