@@ -1,7 +1,9 @@
 ---
-title: 每日打卡-2018年11月11日
+title: 每日打卡-2018年11月12日
 tags:
   - 时间管理
+  - 数据人生
+  - 财商
 comments: true
 toc: true
 categories:
@@ -9,7 +11,7 @@ categories:
   - 日常更新
 abbrlink: 35b1e314
 daovoice: ture
-date: 2018-11-11 00:00:01
+date: 2018-11-12 00:00:01
 keywords:
   - 2018倒计时
   - 每日打卡
@@ -17,7 +19,7 @@ keywords:
   - 子弹笔记
   - 手帐
   - 手账
-description: 今天：2018 年 11 月 11 日，2018 年仅剩下 50 天。每日打卡，11 月份针对每个任务打卡，慢慢来，一切都会更好的。
+description: 今天：2018 年 11 月 12 日，2018 年仅剩下 49 天。每日打卡，11 月份针对每个任务打卡，慢慢来，一切都会更好的。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -48,7 +50,7 @@ description: 今天：2018 年 11 月 11 日，2018 年仅剩下 50 天。每日
 |  9 |    |    |    |    |    |    |    |    |    |T TT|F TT|S   |
 | 10 |    |    |    |    |    |    |    |    |    |W TT|S TT|M   |
 | 11 |    |    |    |    |    |    |    |    |    |T TT|S TT|T   |
-| 12 |    |    |    |    |    |    |    |    |    |F TT|M   |W   |
+| 12 |    |    |    |    |    |    |    |    |    |F TT|M TT|W   |
 | 13 |    |    |    |    |    |    |    |    |    |S TT|T   |T   |
 | 14 |    |    |    |    |    |    |    |    |    |S TT|W   |F   |
 | 15 |    |    |    |    |    |    |    |    |    |M TT|T   |S   |
@@ -82,9 +84,9 @@ description: 今天：2018 年 11 月 11 日，2018 年仅剩下 50 天。每日
 |  7 三 | TT          | TT          | TT          | TT          | TT          |             |
 |  8 四 | TT          | TT          | TT          | TT          | TT          |             |
 |  9 五 | TT          | TT          | TT          | TT          | TT          |             |
-| 10 六 | TT          | TT          | TT          | FF          | FF          | 双十一买东西|
-| 11 日 | TT          | TT          | TT          |             |             |             |
-| 12 一 |             |             |             |             |             |             |
+| 10 六 | TT          | TT          | TT          | TT          | TT          |             |
+| 11 日 | TT          | TT          | TT          | TT          | TT          |             |
+| 12 一 | TT          | TT          | TT          |             |             |             |
 | 13 二 |             |             |             |             |             |             |
 | 14 三 |             |             |             |             |             |             |
 | 15 四 |             |             |             |             |             |             |

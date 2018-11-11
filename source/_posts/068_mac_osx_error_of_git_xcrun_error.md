@@ -1,7 +1,6 @@
 ---
 title: Mac OSX 系统下命令行 xcrun error  invalid active developer path 问题解决方法
 tags:
-  - 札记人生
   - 教育
   - Git
   - Mac

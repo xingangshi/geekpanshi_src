@@ -2,6 +2,8 @@
 title: 坚持的力量之数据人生-2018年11月11日
 tags:
   - 时间管理
+  - 数据人生
+  - 财商
 comments: true
 toc: true
 categories:
