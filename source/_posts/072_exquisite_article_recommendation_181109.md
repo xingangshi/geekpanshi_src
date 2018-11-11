@@ -3,12 +3,10 @@ title: 每日好精选文章推荐-2018年11月9日
 tags:
   - 美文推荐
   - 互联网
-  - 机器学习
-  - 软件推荐
-  - 时间管理
-  - JavaScript
-  - 数据库
-  - Linux
+  - 人工智能
+  - 测试
+  - 修身养性
+  - 数据人生
 comments: true
 toc: true
 categories:
@@ -19,17 +17,12 @@ message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: 3643d6e5
 keywords:
-  - JavaScript
-  - 统计学习方法
-  - 李航博士
-  - Opunit
-  - 健全性
-  - 健壮性
-  - 虚拟机
-  - PostgreSQL
-description: >-
-  1. 作家如何绘制他们想象的世界。 2. 什么是不透明的响应？ 3.  使用 python 将李航博士《统计学习方法》一书中所有算法实现一遍 。4. 
-  Opunit 用于对虚拟机，容器和远程服务器进行健全性检查的简单工具。  5. PostgreSQL 高效查询的索引。
+  - 人工智能课程
+  - beta测试
+  - 软件质量
+  - 开源
+  - 黑客
+description: 1. 全球拥有人工智能课程的大学或机构列表。 2. 什么是 Beta 测试？ 3.  代码所有权和软件质量。4. 如何在开源世界中选择自己需要的软件。 5. 黑客的法则 所有开发人员都应该了解的法则，理论，模式和想法！
 date: 2018-11-09 21:47:50
 password:
 ---

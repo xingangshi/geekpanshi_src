@@ -6,12 +6,13 @@ tags:
 comments: true
 toc: true
 categories:
-  - null
-  - 软件使用
+  - 技术相关
+  - 软件开发
 abbrlink: afa323f2
 keywords:
   - 项目管理
   - 敏捷开发
+  - 软件开发
 description: 敏捷软件开发过程札记v4.1.2，以前整理的一个关于敏捷软件开发的脑图，今天刚好有朋友让我推荐项目管理相关的书籍，所以整理出来。
 date: 2018-11-08 19:11:03
 ---
