@@ -114,8 +114,9 @@ Come on, give me a break!
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 2. 效率人生  |        |          |              |            |                                       |                                                                         |
-|              | 2-16   | 20181113 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [心理学与生活](http://product.dangdang.com/23840745.html)               |
-|              | 2-15   | 20181113 | 20181113     | kindle     | <font color="#0000FF">**未读**</font> | [社会心理学](https://item.jd.com/11849537.html)                         |
+|              | 2-17   | 20181113 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [心理学与生活](http://product.dangdang.com/23840745.html)               |
+|              | 2-16   | 20181113 | 20181113     | kindle     | <font color="#0000FF">**未读**</font> | [社会心理学](https://item.jd.com/11849537.html)                         |
+|              | 2-15   | 20181113 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [刻意练习：如何从新手到大师](https://item.jd.com/11990777.html)         |
 |              | 2-14   | 20180913 | 20181025     | 纸质书     | <font color="#00FFFF">**在读**</font> | [集体行动的逻辑](https://item.jd.com/12231099.html)                     |
 |              | 2-13   | 20180823 | 20181025     | kindle     | <font color="#0000FF">**未读**</font> | [原则](https://item.jd.com/12257413.html)                               |
 |              | 2-12   | 20180823 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [完全写作指南](https://item.jd.com/12120752.html)                       |
@@ -193,6 +194,7 @@ Come on, give me a break!
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 7. 小说鸡汤  |        |          |              |            |                                       |                                                                         |
+|              | 7-9    | 20181113 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [就这样吧](https://item.jd.com/10670890982.html)                        |
 |              | 7-8    | 20180913 | 20181113     | 纸质书     | <font color="#FF0000">**弃读**</font> | [1984](https://item.jd.com/11980693.html)                               |
 |              | 7-7    | 20171111 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [余华作品：活着](https://item.jd.com/12239650.html)                     |
 |              | 7-6    | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [我不过低配的人生](https://item.jd.com/11976585.html)                   |
@@ -223,32 +225,33 @@ Come on, give me a break!
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 9. 软件开发  |        |          |              |            |                                       |                                                                         |
-|              | 9-65   | 20181113 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [算法（第4版）](https://item.jd.com/11098789.html)                      |
-|              | 9-64   | 20181025 | 20181029     | 纸质书     | <font color="#00FFFF">**在读**</font> | [架构整洁之道](https://item.jd.com/12447192.html)                       |
-|              | 9-63   | 20181025 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [集体智慧编程](https://item.jd.com/11667512.html)                       |
-|              | 9-62   | 20181025 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [性能之巅：洞悉系统、企业与云计算](https://item.jd.com/11755695.html)   |
-|              | 9-61   | 20181025 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [高性能MySQL（第3版）](https://item.jd.com/11220393.html)               |
-|              | 9-60   | 20171111 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [大数据架构师指南](https://item.jd.com/11963086.html)                   |
-|              | 9-59   | 20171103 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [深度学习](https://item.jd.com/14146012074.html)                        |
-|              | 9-58   | 20170421 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [亿级流量网站架构核心技术](https://item.jd.com/12153914.html)           |
-|              | 9-57   | 20170421 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Redis开发与运维](https://item.jd.com/12121730.html)                    |
-|              | 9-56   | 20170421 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [项目管理知识体系指南（PMBOK指南）](https://item.jd.com/12326747.html)  |
-|              | 9-55   | 20170405 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [游戏编程模式](https://item.jd.com/12036824.html)                       |
-|              | 9-54   | 20161230 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [架构即未来](https://item.jd.com/11905648.html)                         |
-|              | 9-53   | 20161230 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [用户体验要素](https://item.jd.com/10690653.html)                       |
-|              | 9-52   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [人月神话](https://item.jd.com/11671959.html)                           |
-|              | 9-51   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [看板实战](https://item.jd.com/11842169.html)                           |
-|              | 9-50   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件测试](https://item.jd.com/12318206.html)                       |
-|              | 9-49   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件开发实践 估算与计划](https://item.jd.com/11889434.html)        |
-|              | 9-48   | 20161102 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [Redis设计与实现](https://item.jd.com/11486101.html)                    |
-|              | 9-47   | 20161102 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [深入应用C++11](https://item.jd.com/11701870.html)                      |
-|              | 9-46   | 20161102 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [Python机器学习及实践](https://item.jd.com/11983227.html)               |
-|              | 9-45   | 20161101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Python绝技](http://product.dangdang.com/23839735.html)                 |
-|              | 9-44   | 20161101 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [领域驱动设计](http://product.dangdang.com/23981385.html)               |
-|              | 9-43   | 20161101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Scrum精髓：敏捷转型指南](http://product.dangdang.com/23473170.html)    |
-|              | 9-42   | 20161025 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [设计原本](https://item.jd.com/11217619.html)                           |
-|              | 9-41   | 20161025 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [网易一千零一夜](https://item.jd.com/11981649.html)                     |
-|              | 9-40   | 20151110 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [设计之下](https://item.jd.com/11392231.html)                           |
+|              | 9-66   | 20181113 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [算法（第4版）](https://item.jd.com/11098789.html)                      |
+|              | 9-65   | 20181025 | 20181029     | 纸质书     | <font color="#00FFFF">**在读**</font> | [架构整洁之道](https://item.jd.com/12447192.html)                       |
+|              | 9-64   | 20181025 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [集体智慧编程](https://item.jd.com/11667512.html)                       |
+|              | 9-63   | 20181025 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [性能之巅：洞悉系统、企业与云计算](https://item.jd.com/11755695.html)   |
+|              | 9-62   | 20181025 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [高性能MySQL（第3版）](https://item.jd.com/11220393.html)               |
+|              | 9-61   | 20171111 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [大数据架构师指南](https://item.jd.com/11963086.html)                   |
+|              | 9-60   | 20171103 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [深度学习](https://item.jd.com/14146012074.html)                        |
+|              | 9-59   | 20170421 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [亿级流量网站架构核心技术](https://item.jd.com/12153914.html)           |
+|              | 9-58   | 20170421 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Redis开发与运维](https://item.jd.com/12121730.html)                    |
+|              | 9-57   | 20170421 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [项目管理知识体系指南（PMBOK指南）](https://item.jd.com/12326747.html)  |
+|              | 9-56   | 20170405 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [游戏编程模式](https://item.jd.com/12036824.html)                       |
+|              | 9-55   | 20161230 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [架构即未来](https://item.jd.com/11905648.html)                         |
+|              | 9-54   | 20161230 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [用户体验要素](https://item.jd.com/10690653.html)                       |
+|              | 9-53   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [人月神话](https://item.jd.com/11671959.html)                           |
+|              | 9-52   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [看板实战](https://item.jd.com/11842169.html)                           |
+|              | 9-51   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件测试](https://item.jd.com/12318206.html)                       |
+|              | 9-50   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件开发实践 估算与计划](https://item.jd.com/11889434.html)        |
+|              | 9-49   | 20161102 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [Redis设计与实现](https://item.jd.com/11486101.html)                    |
+|              | 9-48   | 20161102 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [深入应用C++11](https://item.jd.com/11701870.html)                      |
+|              | 9-47   | 20161102 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [Python机器学习及实践](https://item.jd.com/11983227.html)               |
+|              | 9-46   | 20161101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Python绝技](http://product.dangdang.com/23839735.html)                 |
+|              | 9-45   | 20161101 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [领域驱动设计](http://product.dangdang.com/23981385.html)               |
+|              | 9-44   | 20161101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Scrum精髓：敏捷转型指南](http://product.dangdang.com/23473170.html)    |
+|              | 9-43   | 20161025 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [设计原本](https://item.jd.com/11217619.html)                           |
+|              | 9-42   | 20161025 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [网易一千零一夜](https://item.jd.com/11981649.html)                     |
+|              | 9-41   | 20151110 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [设计之下](https://item.jd.com/11392231.html)                           |
+|              | 9-40   | 20151020 | 20181113     | PDF        | <font color="#C0C0C0">**已读**</font> | [Google 软件测试之道](https://item.jd.com/11330792.html)                |
 |              | 9-39   | 20151018 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [简约之美：软件设计之道](https://item.jd.com/32539334567.html)          |
 |              | 9-38   | 20150929 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [软技能代码之外的生存指南](http://product.dangdang.com/24000917.html)   |
 |              | 9-37   | 20150601 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件开发](http://product.dangdang.com/8771440.html)                |
