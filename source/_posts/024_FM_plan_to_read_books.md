@@ -17,6 +17,7 @@ keywords:
   - 书单
   - 读书与做人
   - 荐书
+top: 1000009
 description: 管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。人生有涯，千万不要不加选择地读书。读书并非开卷有益，有些书无益，有些书无聊，有些书还有害。读书要做减法，从前如此，现在更如此。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -90,23 +91,23 @@ Come on, give me a break!
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 1. 人生哲理  |        |          |              |            |                                       |                                                                         |
-|              | 1-17   | 20181113 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [曾国藩家书](http://product.dangdang.com/23775851.html)                 |
-|              | 1-16   | 20181113 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [哲学的慰藉](http://product.dangdang.com/25261526.html)                 |
-|              | 1-15   | 20181113 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [禅与摩托车维修艺术](https://item.jd.com/28542107236.html)              |
+|              | 1-17   | 20181114 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [曾国藩家书](http://product.dangdang.com/23775851.html)                 |
+|              | 1-16   | 20181114 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [哲学的慰藉](http://product.dangdang.com/25261526.html)                 |
+|              | 1-15   | 20181114 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [禅与摩托车维修艺术](https://item.jd.com/28542107236.html)              |
 |              | 1-14   | 20180913 | 20181025     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [反抗的意义和非意义](https://item.jd.com/31931386743.html)              |
 |              | 1-13   | 20180913 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [易经与人生](https://item.jd.com/1027626419.html)                       |
 |              | 1-12   | 20180827 | 20181025     | /          | <font color="#FF0000">**弃读**</font> | [见识](https://item.jd.com/12304478.html)                               |
 |              | 1-11   | 20180827 | 20181025     | /          | <font color="#FF0000">**弃读**</font> | [终有一天你会懂](https://item.jd.com/12357868.html)                     |
-|              | 1-10   | 20180823 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [易经杂说](https://item.jd.com/11678677.html)                           |
-|              | 1-9    | 20180212 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [乌合之众：大众心理研究](https://item.jd.com/11690501.html)             |
-|              | 1-8    | 20171219 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [人生的智慧](http://product.dangdang.com/24058412.html)                 |
-|              | 1-7    | 20170914 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [成长比成功更重要](http://item.jd.com/12122099.html)                    |
-|              | 1-6    | 20150831 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [老子的智慧](https://item.jd.com/12014450.html)                         |
-|              | 1-5    | 20150711 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [超越自己一位父亲给儿子的116封信](http://item.jd.com/1269034143.html)   |
-|              | 1-4    | 20150217 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [看不懂的中国人](https://item.jd.com/35396149532.html)                  |
-|              | 1-3    | 20150410 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [人生百忌](https://item.jd.com/11694794.html)                           |
-|              | 1-2    | 20141104 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [标准与尺度](https://item.jd.com/12402271.html)                         |
-|              | 1-1    | 20130618 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [菜根谭](https://item.jd.com/12352940.html)                             |
+|              | 1-10   | 20180823 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [易经杂说](https://item.jd.com/11678677.html)                           |
+|              | 1-9    | 20180212 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [乌合之众：大众心理研究](https://item.jd.com/11690501.html)             |
+|              | 1-8    | 20171219 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [人生的智慧](http://product.dangdang.com/24058412.html)                 |
+|              | 1-7    | 20170914 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [成长比成功更重要](http://item.jd.com/12122099.html)                    |
+|              | 1-6    | 20150831 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [老子的智慧](https://item.jd.com/12014450.html)                         |
+|              | 1-5    | 20150711 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [超越自己一位父亲给儿子的116封信](http://item.jd.com/1269034143.html)   |
+|              | 1-4    | 20150217 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [看不懂的中国人](https://item.jd.com/35396149532.html)                  |
+|              | 1-3    | 20150410 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [人生百忌](https://item.jd.com/11694794.html)                           |
+|              | 1-2    | 20141104 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [标准与尺度](https://item.jd.com/12402271.html)                         |
+|              | 1-1    | 20130618 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [菜根谭](https://item.jd.com/12352940.html)                             |
 
 
 ##### 2.2 效率人生
@@ -114,36 +115,36 @@ Come on, give me a break!
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 2. 效率人生  |        |          |              |            |                                       |                                                                         |
-|              | 2-17   | 20181113 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [心理学与生活](http://product.dangdang.com/23840745.html)               |
-|              | 2-16   | 20181113 | 20181113     | kindle     | <font color="#0000FF">**未读**</font> | [社会心理学](https://item.jd.com/11849537.html)                         |
-|              | 2-15   | 20181113 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [刻意练习：如何从新手到大师](https://item.jd.com/11990777.html)         |
+|              | 2-17   | 20181114 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [心理学与生活](http://product.dangdang.com/23840745.html)               |
+|              | 2-16   | 20181114 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [社会心理学](https://item.jd.com/11849537.html)                         |
+|              | 2-15   | 20181114 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [刻意练习：如何从新手到大师](https://item.jd.com/11990777.html)         |
 |              | 2-14   | 20180913 | 20181025     | 纸质书     | <font color="#00FFFF">**在读**</font> | [集体行动的逻辑](https://item.jd.com/12231099.html)                     |
 |              | 2-13   | 20180823 | 20181025     | kindle     | <font color="#0000FF">**未读**</font> | [原则](https://item.jd.com/12257413.html)                               |
-|              | 2-12   | 20180823 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [完全写作指南](https://item.jd.com/12120752.html)                       |
-|              | 2-11   | 20180212 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [时间管理 如何充分利用你的24小时](https://item.jd.com/10877320.html)    |
-|              | 2-10   | 20171004 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [聪明人的一张纸工作整理术](https://item.jd.com/12122098.html)           |
-|              | 2-9    | 20170929 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [罗伯特议事规则](https://item.jd.com/11773761.html)                     |
-|              | 2-8    | 20160929 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [有效写作十三篇](https://book.douban.com/subject/27069620/)             |
-|              | 2-7    | 20151101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [解决问题最简单的方法](https://item.jd.com/11442377.html)               |
-|              | 2-6    | 20151101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [神奇手账](https://item.jd.com/11722870.html)                           |
-|              | 2-5    | 20151101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [如何阅读一本书](https://item.jd.com/10053529.html)                     |
-|              | 2-4    | 20140107 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [你的知识需要管理](https://item.jd.com/10020829.html)                   |
-|              | 2-3    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [高效能人士的七个习惯](https://item.jd.com/1413470410.html)             |
-|              | 2-2    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [番茄工作法图解](https://item.jd.com/10406129.html)                     |
-|              | 2-1    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [学会提问](https://item.jd.com/11141838.html)                           |
+|              | 2-12   | 20180823 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [完全写作指南](https://item.jd.com/12120752.html)                       |
+|              | 2-11   | 20180212 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [时间管理 如何充分利用你的24小时](https://item.jd.com/10877320.html)    |
+|              | 2-10   | 20171004 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [聪明人的一张纸工作整理术](https://item.jd.com/12122098.html)           |
+|              | 2-9    | 20170929 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [罗伯特议事规则](https://item.jd.com/11773761.html)                     |
+|              | 2-8    | 20160929 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [有效写作十三篇](https://book.douban.com/subject/27069620/)             |
+|              | 2-7    | 20151101 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [解决问题最简单的方法](https://item.jd.com/11442377.html)               |
+|              | 2-6    | 20151101 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [神奇手账](https://item.jd.com/11722870.html)                           |
+|              | 2-5    | 20151101 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [如何阅读一本书](https://item.jd.com/10053529.html)                     |
+|              | 2-4    | 20140107 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [你的知识需要管理](https://item.jd.com/10020829.html)                   |
+|              | 2-3    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [高效能人士的七个习惯](https://item.jd.com/1413470410.html)             |
+|              | 2-2    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [番茄工作法图解](https://item.jd.com/10406129.html)                     |
+|              | 2-1    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [学会提问](https://item.jd.com/11141838.html)                           |
 
 ##### 2.3 理财经济
 
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 3. 理财经济  |        |          |              |            |                                       |                                                                         |
-|              | 3-7    | 20180309 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [百万理财计划](https://book.douban.com/subject/4854439/)                |
-|              | 3-6    | 20180309 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [负债让你更有钱](https://item.jd.com/26852336038.html)                  |
-|              | 3-5    | 20180211 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [一看就懂的经济常识全图解](https://item.jd.com/26288447862.html)        |
-|              | 3-4    | 20171216 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [菜场经济学](https://item.jd.com/12022534.html)                         |
-|              | 3-3    | 20171026 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [中产阶级如何保护自己的财富](https://item.jd.com/12161880.html)         |
-|              | 3-2    | 20170221 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [世界上最简单的会计书](https://item.jd.com/11339593.html)               |
-|              | 3-1    | 20151101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [斯坦福极简经济学](https://item.jd.com/11624985.html)                   |
+|              | 3-7    | 20180309 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [百万理财计划](https://book.douban.com/subject/4854439/)                |
+|              | 3-6    | 20180309 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [负债让你更有钱](https://item.jd.com/26852336038.html)                  |
+|              | 3-5    | 20180211 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [一看就懂的经济常识全图解](https://item.jd.com/26288447862.html)        |
+|              | 3-4    | 20171216 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [菜场经济学](https://item.jd.com/12022534.html)                         |
+|              | 3-3    | 20171026 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [中产阶级如何保护自己的财富](https://item.jd.com/12161880.html)         |
+|              | 3-2    | 20170221 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [世界上最简单的会计书](https://item.jd.com/11339593.html)               |
+|              | 3-1    | 20151101 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [斯坦福极简经济学](https://item.jd.com/11624985.html)                   |
 
 
 ##### 2.4 亲子教育
@@ -151,14 +152,14 @@ Come on, give me a break!
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 4. 亲子教育  |        |          |              |            |                                       |                                                                         |
-|              | 4-8    | 20170915 | 20181113     | kindle     | <font color="#00FFFF">**在读**</font> | [松居直喜欢的50本图画书](https://item.jd.com/25774026123.html)          |
-|              | 4-7    | 20170915 | 20181113     | kindle     | <font color="#C0C0C0">**未读**</font> | [小狗钱钱套装[7-10岁]](https://item.jd.com/12345927.html)               |
-|              | 4-6    | 20170822 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [幸福的种子 [3-6岁]](https://item.jd.com/11314061.html)                 |
-|              | 4-5    | 20161106 | 20181113     | kindle     | <font color="#0000FF">**未读**</font> | [蒙台梭利幼儿教育经典](https://item.jd.com/10043831.html)               |
-|              | 4-4    | 20150125 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [准爸爸孕产期完全方案](https://item.jd.com/10798924.html)               |
-|              | 4-3    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [最好的告别](https://item.jd.com/1667273266.html)                       |
-|              | 4-2    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [给青年的十二封信](https://item.jd.com/12376233.html)                   |
-|              | 4-1    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [做个快乐读书人](https://item.jd.com/11410350.html)                     |
+|              | 4-8    | 20170915 | 20181114     | kindle     | <font color="#00FFFF">**在读**</font> | [松居直喜欢的50本图画书](https://item.jd.com/25774026123.html)          |
+|              | 4-7    | 20170915 | 20181114     | kindle     | <font color="#C0C0C0">**未读**</font> | [小狗钱钱套装[7-10岁]](https://item.jd.com/12345927.html)               |
+|              | 4-6    | 20170822 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [幸福的种子 [3-6岁]](https://item.jd.com/11314061.html)                 |
+|              | 4-5    | 20161106 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [蒙台梭利幼儿教育经典](https://item.jd.com/10043831.html)               |
+|              | 4-4    | 20150125 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [准爸爸孕产期完全方案](https://item.jd.com/10798924.html)               |
+|              | 4-3    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [最好的告别](https://item.jd.com/1667273266.html)                       |
+|              | 4-2    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [给青年的十二封信](https://item.jd.com/12376233.html)                   |
+|              | 4-1    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [做个快乐读书人](https://item.jd.com/11410350.html)                     |
 
 
 #####2.5 社会科学
@@ -167,11 +168,11 @@ Come on, give me a break!
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 5. 社会科学  |        |          |              |            |                                       |                                                                         |
 |              | 9-6    | 20180913 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [君主论](https://item.jd.com/11572967.html)                             |
-|              | 9-5    | 20180309 | 20181113     | kindle     | <font color="#FF0000">**弃读**</font> | [为什么中国人勤劳而不富有](https://item.jd.com/36700057845.html)        |
-|              | 9-4    | 20170605 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [人类简史](https://item.jd.com/11549140.html)                           |
-|              | 9-3    | 20150217 | 20181113     | kindle     | <font color="#FF0000">**弃读**</font> | [旧制度与大革命](https://item.jd.com/11090245.html)                     |
-|              | 9-2    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [常识 梁文道](https://item.jd.com/33922224928.html)                     |
-|              | 9-1    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [潜规则：中国历史中的真实游戏](https://item.jd.com/10916022.html)       |
+|              | 9-5    | 20180309 | 20181114     | kindle     | <font color="#FF0000">**弃读**</font> | [为什么中国人勤劳而不富有](https://item.jd.com/36700057845.html)        |
+|              | 9-4    | 20170605 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [人类简史](https://item.jd.com/11549140.html)                           |
+|              | 9-3    | 20150217 | 20181114     | kindle     | <font color="#FF0000">**弃读**</font> | [旧制度与大革命](https://item.jd.com/11090245.html)                     |
+|              | 9-2    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [常识 梁文道](https://item.jd.com/33922224928.html)                     |
+|              | 9-1    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [潜规则：中国历史中的真实游戏](https://item.jd.com/10916022.html)       |
 
 
 ##### 2.6 人物传记
@@ -179,45 +180,45 @@ Come on, give me a break!
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 6. 人物传记  |        |          |              |            |                                       |                                                                         |
-|              | 6-9    | 20171111 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [季羡林谈人生：人生的境界](https://item.jd.com/11708610.html)           |
-|              | 6-8    | 20150921 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [季羡林：我们这一代读书人](https://item.jd.com/12654304693.html)        |
-|              | 6-7    | 20150831 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [叔本华随笔：人生之路如何走过](https://item.jd.com/30099395.html)       |
-|              | 6-6    | 20150309 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [季羡林：读书与做人](https://item.jd.com/10045668.html)                 |
-|              | 6-5    | 20150309 | 20181113     | kindle     | <font color="#0000FF">**未读**</font> | [道德经大全集](https://item.jd.com/10391784.html)                       |
-|              | 6-4    | 20150309 | 20181113     | kindle     | <font color="#0000FF">**未读**</font> | [叔本华论道德与自由](https://item.jd.com/12348520.html)                 |
-|              | 6-3    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [看见 柴静](https://item.jd.com/1159041869.html)                        |
-|              | 6-2    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [周鸿祎自述 我的互联网方法论](https://item.jd.com/11499476.html)        |
-|              | 6-1    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [乔布斯传](https://item.jd.com/10054153736.html)                        |
+|              | 6-9    | 20171111 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [季羡林谈人生：人生的境界](https://item.jd.com/11708610.html)           |
+|              | 6-8    | 20150921 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [季羡林：我们这一代读书人](https://item.jd.com/12654304693.html)        |
+|              | 6-7    | 20150831 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [叔本华随笔：人生之路如何走过](https://item.jd.com/30099395.html)       |
+|              | 6-6    | 20150309 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [季羡林：读书与做人](https://item.jd.com/10045668.html)                 |
+|              | 6-5    | 20150309 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [道德经大全集](https://item.jd.com/10391784.html)                       |
+|              | 6-4    | 20150309 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [叔本华论道德与自由](https://item.jd.com/12348520.html)                 |
+|              | 6-3    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [看见 柴静](https://item.jd.com/1159041869.html)                        |
+|              | 6-2    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [周鸿祎自述 我的互联网方法论](https://item.jd.com/11499476.html)        |
+|              | 6-1    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [乔布斯传](https://item.jd.com/10054153736.html)                        |
 
 ##### 2.7 小说鸡汤
 
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 7. 小说鸡汤  |        |          |              |            |                                       |                                                                         |
-|              | 7-9    | 20181113 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [就这样吧](https://item.jd.com/10670890982.html)                        |
-|              | 7-8    | 20180913 | 20181113     | 纸质书     | <font color="#FF0000">**弃读**</font> | [1984](https://item.jd.com/11980693.html)                               |
-|              | 7-7    | 20171111 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [余华作品：活着](https://item.jd.com/12239650.html)                     |
-|              | 7-6    | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [我不过低配的人生](https://item.jd.com/11976585.html)                   |
-|              | 7-5    | 20150910 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [格局逆袭](https://item.jd.com/11767879.html)                           |
-|              | 7-4    | 20110318 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [我最想要的处世说明书](https://book.douban.com/subject/5248626/)        |
-|              | 7-3    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [慢慢来，一切都来得及](https://item.jd.com/28219167783.html)            |
-|              | 7-2    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [精进：如何成为一个很厉害的人](https://item.jd.com/11900121.html)       |
-|              | 7-1    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [你永远都无法叫醒一个装睡的人](https://item.jd.com/10993911.html)       |
+|              | 7-9    | 20181114 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [就这样吧](https://item.jd.com/10670890982.html)                        |
+|              | 7-8    | 20180913 | 20181114     | 纸质书     | <font color="#FF0000">**弃读**</font> | [1984](https://item.jd.com/11980693.html)                               |
+|              | 7-7    | 20171111 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [余华作品：活着](https://item.jd.com/12239650.html)                     |
+|              | 7-6    | 20161207 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [我不过低配的人生](https://item.jd.com/11976585.html)                   |
+|              | 7-5    | 20150910 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [格局逆袭](https://item.jd.com/11767879.html)                           |
+|              | 7-4    | 20110318 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [我最想要的处世说明书](https://book.douban.com/subject/5248626/)        |
+|              | 7-3    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [慢慢来，一切都来得及](https://item.jd.com/28219167783.html)            |
+|              | 7-2    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [精进：如何成为一个很厉害的人](https://item.jd.com/11900121.html)       |
+|              | 7-1    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [你永远都无法叫醒一个装睡的人](https://item.jd.com/10993911.html)       |
 
 ##### 2.8 经营管理
 
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 8. 经营管理  |        |          |              |            |                                       |                                                                         |
-|              | 8-9    | 20170605 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [重新定义团队：谷歌如何工作](https://item.jd.com/11766226.html)         |
-|              | 8-8    | 20151219 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [重新定义公司：谷歌是如何运营的](https://item.jd.com/11749340.html)     |
-|              | 8-7    | 20151101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [从0到1开启商业与未来的秘密](https://item.jd.com/11614401.html)         |
-|              | 8-6    | 20151101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [给你一个团队，你能怎么管](https://item.jd.com/11376070.html)           |
-|              | 8-5    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [格鲁夫给经理人的第一课](https://item.jd.com/12124515.html)             |
-|              | 8-4    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [腾讯方法](https://item.jd.com/11579815.html)                           |
-|              | 8-3    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [告别失控 软件开发团队管理必读](https://item.jd.com/11958068.html)      |
-|              | 8-2    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [长尾理论](https://item.jd.com/1728179066.html)                         |
-|              | 8-1    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [专业主义](https://item.jd.com/11732398.html)                           |
+|              | 8-9    | 20170605 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [重新定义团队：谷歌如何工作](https://item.jd.com/11766226.html)         |
+|              | 8-8    | 20151219 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [重新定义公司：谷歌是如何运营的](https://item.jd.com/11749340.html)     |
+|              | 8-7    | 20151101 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [从0到1开启商业与未来的秘密](https://item.jd.com/11614401.html)         |
+|              | 8-6    | 20151101 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [给你一个团队，你能怎么管](https://item.jd.com/11376070.html)           |
+|              | 8-5    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [格鲁夫给经理人的第一课](https://item.jd.com/12124515.html)             |
+|              | 8-4    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [腾讯方法](https://item.jd.com/11579815.html)                           |
+|              | 8-3    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [告别失控 软件开发团队管理必读](https://item.jd.com/11958068.html)      |
+|              | 8-2    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [长尾理论](https://item.jd.com/1728179066.html)                         |
+|              | 8-1    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [专业主义](https://item.jd.com/11732398.html)                           |
 
 
 ##### 2.9 软件开发
@@ -225,77 +226,130 @@ Come on, give me a break!
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 9. 软件开发  |        |          |              |            |                                       |                                                                         |
-|              | 9-66   | 20181113 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [算法（第4版）](https://item.jd.com/11098789.html)                      |
+|              | 9-67   | 20181114 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [高可用架构（第1卷）](https://item.jd.com/12195481.html)                |
+|              | 9-66   | 20181114 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [算法（第4版）](https://item.jd.com/11098789.html)                      |
 |              | 9-65   | 20181025 | 20181029     | 纸质书     | <font color="#00FFFF">**在读**</font> | [架构整洁之道](https://item.jd.com/12447192.html)                       |
 |              | 9-64   | 20181025 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [集体智慧编程](https://item.jd.com/11667512.html)                       |
 |              | 9-63   | 20181025 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [性能之巅：洞悉系统、企业与云计算](https://item.jd.com/11755695.html)   |
 |              | 9-62   | 20181025 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [高性能MySQL（第3版）](https://item.jd.com/11220393.html)               |
-|              | 9-61   | 20171111 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [大数据架构师指南](https://item.jd.com/11963086.html)                   |
-|              | 9-60   | 20171103 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [深度学习](https://item.jd.com/14146012074.html)                        |
-|              | 9-59   | 20170421 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [亿级流量网站架构核心技术](https://item.jd.com/12153914.html)           |
-|              | 9-58   | 20170421 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Redis开发与运维](https://item.jd.com/12121730.html)                    |
-|              | 9-57   | 20170421 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [项目管理知识体系指南（PMBOK指南）](https://item.jd.com/12326747.html)  |
-|              | 9-56   | 20170405 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [游戏编程模式](https://item.jd.com/12036824.html)                       |
-|              | 9-55   | 20161230 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [架构即未来](https://item.jd.com/11905648.html)                         |
-|              | 9-54   | 20161230 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [用户体验要素](https://item.jd.com/10690653.html)                       |
-|              | 9-53   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [人月神话](https://item.jd.com/11671959.html)                           |
-|              | 9-52   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [看板实战](https://item.jd.com/11842169.html)                           |
-|              | 9-51   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件测试](https://item.jd.com/12318206.html)                       |
-|              | 9-50   | 20161207 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件开发实践 估算与计划](https://item.jd.com/11889434.html)        |
-|              | 9-49   | 20161102 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [Redis设计与实现](https://item.jd.com/11486101.html)                    |
-|              | 9-48   | 20161102 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [深入应用C++11](https://item.jd.com/11701870.html)                      |
-|              | 9-47   | 20161102 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [Python机器学习及实践](https://item.jd.com/11983227.html)               |
-|              | 9-46   | 20161101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Python绝技](http://product.dangdang.com/23839735.html)                 |
-|              | 9-45   | 20161101 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [领域驱动设计](http://product.dangdang.com/23981385.html)               |
-|              | 9-44   | 20161101 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Scrum精髓：敏捷转型指南](http://product.dangdang.com/23473170.html)    |
-|              | 9-43   | 20161025 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [设计原本](https://item.jd.com/11217619.html)                           |
-|              | 9-42   | 20161025 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [网易一千零一夜](https://item.jd.com/11981649.html)                     |
-|              | 9-41   | 20151110 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [设计之下](https://item.jd.com/11392231.html)                           |
-|              | 9-40   | 20151020 | 20181113     | PDF        | <font color="#C0C0C0">**已读**</font> | [Google 软件测试之道](https://item.jd.com/11330792.html)                |
-|              | 9-39   | 20151018 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [简约之美：软件设计之道](https://item.jd.com/32539334567.html)          |
-|              | 9-38   | 20150929 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [软技能代码之外的生存指南](http://product.dangdang.com/24000917.html)   |
-|              | 9-37   | 20150601 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件开发](http://product.dangdang.com/8771440.html)                |
-|              | 9-36   | 20150601 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [软件架构师的12项修炼](http://product.dangdang.com/23743959.html)       |
-|              | 9-35   | 20150601 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Effective Modern C++](http://product.dangdang.com/23795027.html)       |
-|              | 9-34   | 20150601 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [分布式服务框架原理与实践](http://product.dangdang.com/23851271.html)   |
-|              | 9-33   | 20150327 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [网络游戏核心技术与实战](http://product.dangdang.com/23450869.html)     |
-|              | 9-32   | 20150327 | 20181113     | 纸质书     | <font color="#0000FF">**未读**</font> | [游戏开发的数学和物理](http://product.dangdang.com/23612086.html)       |
-|              | 9-31   | 20150327 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [编程珠玑（第2版 修订版）](https://item.jd.com/11642529.html)           |
-|              | 9-30   | 20150327 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Python编程实战](https://item.jd.com/11518115.html)                     |
-|              | 9-29   | 20150325 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [构建之法——现代软件工程](http://product.dangdang.com/23553285.html)     |
-|              | 9-28   | 20150325 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Linux系统架构和应用技巧](http://product.dangdang.com/23593934.html)    |
-|              | 9-27   | 20141212 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [程序员必读之软件架构](https://item.jd.com/11586611.html)               |
-|              | 9-26   | 20141014 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [UML和模式应用](https://item.jd.com/10057823.html)                      |
-|              | 9-25   | 20130928 | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [MACTALK/人生元编程](https://item.jd.com/1085391343.html)               |
-|              | 9-24   | 20130607 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [UNIX/Linux 系统管理技术手册)](https://item.jd.com/27168755201.html)    |
-|              | 9-23   | 20130607 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [代码大全（第2版）](https://item.jd.com/10875285.html)                  |
-|              | 9-22   | 20130607 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [UNIX网络编程 卷1](https://item.jd.com/11728741.html)                   |
-|              | 9-21   | 20130607 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [UNIX网络编程 卷2](https://item.jd.com/11728727.html)                   |
-|              | 9-20   | 20130131 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Linux多线程服务端编程](https://item.jd.com/11163782.html)              |
-|              | 9-19   | 20121109 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [大数据](https://item.jd.com/35358231817.html)                          |
-|              | 9-18   | 20121109 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [深入理解LINUX内核](https://item.jd.com/10100237.html)                  |
-|              | 9-17   | 20121109 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [深入理解计算机系统(原书第2版)](https://item.jd.com/25753491890.html)   |
-|              | 9-16   | 20121109 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [算法导论(原书第2版)](https://item.jd.com/10653387543.html)             |
-|              | 9-15   | 20121109 | 20181113     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [操作系统概念(第七版影印版)](https://item.jd.com/28783388937.html)      |
-|              | 9-14   | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [结网@改变世界的互联网产品经理](https://item.jd.com/11237904.html)      |
-|              | 9-13   | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [简约至上：交互式设计四策略](https://item.jd.com/12395880.html)         |
-|              | 9-12   | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [人人都是产品经理](https://item.jd.com/12069487.html)                   |
-|              | 9-11   | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [写给大家看的设计书](https://item.jd.com/11824338.html)                 |
-|              | 9-10   | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [大教堂与集市](https://item.jd.com/32565590391.html)                    |
-|              | 9-9    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [人件](https://item.jd.com/11520202.html)                               |
-|              | 9-8    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [高效程序员的45个习惯](https://item.jd.com/11556827.html)               |
-|              | 9-7    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [Pro Git](https://git-scm.com/book/en/v2)                               |
-|              | 9-6    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [黑客与画家](https://item.jd.com/10582495.html)                         |
-|              | 9-5    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [开源思索集](https://item.jd.com/30349413.html)                         |
-|              | 9-4    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [浪潮之巅](https://item.jd.com/10365769839.html)                        |
-|              | 9-3    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [黑客](https://book.douban.com/subject/6860890/)                        |
-|              | 9-2    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [区块链原理、设计与应用](https://item.jd.com/12159265.html)             |
-|              | 9-1    | /        | 20181113     | kindle     | <font color="#C0C0C0">**已读**</font> | [程序员修炼之道：从小工到专家](https://item.jd.com/10393278.html)       |
+|              | 9-61   | 20171111 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [大数据架构师指南](https://item.jd.com/11963086.html)                   |
+|              | 9-60   | 20171103 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [深度学习](https://item.jd.com/14146012074.html)                        |
+|              | 9-59   | 20170421 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [亿级流量网站架构核心技术](https://item.jd.com/12153914.html)           |
+|              | 9-58   | 20170421 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Redis开发与运维](https://item.jd.com/12121730.html)                    |
+|              | 9-57   | 20170421 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [项目管理知识体系指南（PMBOK指南）](https://item.jd.com/12326747.html)  |
+|              | 9-56   | 20170405 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [游戏编程模式](https://item.jd.com/12036824.html)                       |
+|              | 9-55   | 20161230 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [架构即未来](https://item.jd.com/11905648.html)                         |
+|              | 9-54   | 20161230 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [用户体验要素](https://item.jd.com/10690653.html)                       |
+|              | 9-53   | 20161207 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [人月神话](https://item.jd.com/11671959.html)                           |
+|              | 9-52   | 20161207 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [看板实战](https://item.jd.com/11842169.html)                           |
+|              | 9-51   | 20161207 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件测试](https://item.jd.com/12318206.html)                       |
+|              | 9-50   | 20161207 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件开发实践 估算与计划](https://item.jd.com/11889434.html)        |
+|              | 9-49   | 20161102 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [Redis设计与实现](https://item.jd.com/11486101.html)                    |
+|              | 9-48   | 20161102 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [深入应用C++11](https://item.jd.com/11701870.html)                      |
+|              | 9-47   | 20161102 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [Python机器学习及实践](https://item.jd.com/11983227.html)               |
+|              | 9-46   | 20161101 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Python绝技](http://product.dangdang.com/23839735.html)                 |
+|              | 9-45   | 20161101 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [领域驱动设计](http://product.dangdang.com/23981385.html)               |
+|              | 9-44   | 20161101 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Scrum精髓：敏捷转型指南](http://product.dangdang.com/23473170.html)    |
+|              | 9-43   | 20161025 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [设计原本](https://item.jd.com/11217619.html)                           |
+|              | 9-42   | 20161025 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [网易一千零一夜](https://item.jd.com/11981649.html)                     |
+|              | 9-41   | 20151110 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [设计之下](https://item.jd.com/11392231.html)                           |
+|              | 9-40   | 20151020 | 20181114     | PDF        | <font color="#C0C0C0">**已读**</font> | [Google 软件测试之道](https://item.jd.com/11330792.html)                |
+|              | 9-39   | 20151018 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [简约之美：软件设计之道](https://item.jd.com/32539334567.html)          |
+|              | 9-38   | 20150929 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [软技能代码之外的生存指南](http://product.dangdang.com/24000917.html)   |
+|              | 9-37   | 20150601 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷软件开发](http://product.dangdang.com/8771440.html)                |
+|              | 9-36   | 20150601 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [软件架构师的12项修炼](http://product.dangdang.com/23743959.html)       |
+|              | 9-35   | 20150601 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Effective Modern C++](http://product.dangdang.com/23795027.html)       |
+|              | 9-34   | 20150601 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [分布式服务框架原理与实践](http://product.dangdang.com/23851271.html)   |
+|              | 9-33   | 20150327 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [网络游戏核心技术与实战](http://product.dangdang.com/23450869.html)     |
+|              | 9-32   | 20150327 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [游戏开发的数学和物理](http://product.dangdang.com/23612086.html)       |
+|              | 9-31   | 20150327 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [编程珠玑（第2版 修订版）](https://item.jd.com/11642529.html)           |
+|              | 9-30   | 20150327 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Python编程实战](https://item.jd.com/11518115.html)                     |
+|              | 9-29   | 20150325 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [构建之法——现代软件工程](http://product.dangdang.com/23553285.html)     |
+|              | 9-28   | 20150325 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Linux系统架构和应用技巧](http://product.dangdang.com/23593934.html)    |
+|              | 9-27   | 20141212 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [程序员必读之软件架构](https://item.jd.com/11586611.html)               |
+|              | 9-26   | 20141014 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [UML和模式应用](https://item.jd.com/10057823.html)                      |
+|              | 9-25   | 20130928 | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [MACTALK/人生元编程](https://item.jd.com/1085391343.html)               |
+|              | 9-24   | 20130607 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [UNIX/Linux 系统管理技术手册)](https://item.jd.com/27168755201.html)    |
+|              | 9-23   | 20130607 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [代码大全（第2版）](https://item.jd.com/10875285.html)                  |
+|              | 9-22   | 20130607 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [UNIX网络编程 卷1](https://item.jd.com/11728741.html)                   |
+|              | 9-21   | 20130607 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [UNIX网络编程 卷2](https://item.jd.com/11728727.html)                   |
+|              | 9-20   | 20130131 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Linux多线程服务端编程](https://item.jd.com/11163782.html)              |
+|              | 9-19   | 20121109 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [大数据](https://item.jd.com/35358231817.html)                          |
+|              | 9-18   | 20121109 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [深入理解LINUX内核](https://item.jd.com/10100237.html)                  |
+|              | 9-17   | 20121109 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [深入理解计算机系统(原书第2版)](https://item.jd.com/25753491890.html)   |
+|              | 9-16   | 20121109 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [算法导论(原书第2版)](https://item.jd.com/10653387543.html)             |
+|              | 9-15   | 20121109 | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [操作系统概念(第七版影印版)](https://item.jd.com/28783388937.html)      |
+|              | 9-14   | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [结网@改变世界的互联网产品经理](https://item.jd.com/11237904.html)      |
+|              | 9-13   | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [简约至上：交互式设计四策略](https://item.jd.com/12395880.html)         |
+|              | 9-12   | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [人人都是产品经理](https://item.jd.com/12069487.html)                   |
+|              | 9-11   | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [写给大家看的设计书](https://item.jd.com/11824338.html)                 |
+|              | 9-10   | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [大教堂与集市](https://item.jd.com/32565590391.html)                    |
+|              | 9-9    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [人件](https://item.jd.com/11520202.html)                               |
+|              | 9-8    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [高效程序员的45个习惯](https://item.jd.com/11556827.html)               |
+|              | 9-7    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [Pro Git](https://git-scm.com/book/en/v2)                               |
+|              | 9-6    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [黑客与画家](https://item.jd.com/10582495.html)                         |
+|              | 9-5    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [开源思索集](https://item.jd.com/30349413.html)                         |
+|              | 9-4    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [浪潮之巅](https://item.jd.com/10365769839.html)                        |
+|              | 9-3    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [黑客](https://book.douban.com/subject/6860890/)                        |
+|              | 9-2    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [区块链原理、设计与应用](https://item.jd.com/12159265.html)             |
+|              | 9-1    | /        | 20181114     | kindle     | <font color="#C0C0C0">**已读**</font> | [程序员修炼之道：从小工到专家](https://item.jd.com/10393278.html)       |
+
+#### 3. 查不到购买记录的书
+
+|    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
+| :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
+| 1. 软件开发  |        |          |              |            |                                       |                                                                         |
+|              | 1-36   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [UNIX环境高级编程](https://item.jd.com/11469694.html)                   |
+|              | 1-35   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [设计模式](https://item.jd.com/10057319.html)                           |
+|              | 1-34   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Linux内核修炼之道](https://item.jd.com/32545653891.html)               |
+|              | 1-33   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [C++程序设计教程](https://book.douban.com/subject/1216987/)             |
+|              | 1-32   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [自己动手写操作系统](https://item.jd.com/32356347884.html)              |
+|              | 1-31   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Linux C程序设计大全](https://item.jd.com/33091942038.html)             |
+|              | 1-30   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [游戏脚本高级编程](https://item.jd.com/32703433617.html)                |
+|              | 1-29   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Python学习手册](https://item.jd.com/10599758.html)                     |
+|              | 1-28   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [七周七并发模型](https://item.jd.com/11668493.html)                     |
+|              | 1-27   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Unix内核源码剖析](https://item.jd.com/36778874672.html)                |
+|              | 1-26   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [重构 改善既有代码的设计](https://item.jd.com/11728740.html)            |
+|              | 1-25   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [编程卓越之道](https://item.jd.com/35043033095.html)                    |
+|              | 1-24   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Shell脚本学习指南](https://item.jd.com/30441185458.html)               |
+|              | 1-23   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [UNIX编程艺术](https://item.jd.com/11075445.html)                       |
+|              | 1-22   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [深度探索C++对象模型](https://item.jd.com/10909788.html)                |
+|              | 1-21   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [More Effective C++](https://item.jd.com/10484020.html)                 |
+|              | 1-20   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [ActionScript大型网页游戏开发](https://item.jd.com/32922149421.html)    |
+|              | 1-19   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [C++多线程编程实战](https://item.jd.com/27392677539.html)               |
+|              | 1-18   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [TCP/IP详解 卷1：协议](https://item.jd.com/11966296.html)               |
+|              | 1-17   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [C程序设计语言](https://item.jd.com/10057446.html)                      |
+|              | 1-16   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Lua游戏开发实践指南](https://item.jd.com/33778993537.html)             |
+|              | 1-15   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Lua程序设计](https://item.jd.com/12384305.html)                        |
+|              | 1-14   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [敏捷项目管理](https://item.jd.com/11837423.html)                       |
+|              | 1-13   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [代码整洁之道](https://item.jd.com/10064006.html)                       |
+|              | 1-12   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [编程之法：面试和算法心得](https://item.jd.com/33769926977.html)        |
+|              | 1-11   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [C++程序设计：原理与实践](https://item.jd.com/12173174.html)            |
+|              | 1-10   | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [程序员面试金典 第5版](https://item.jd.com/11345717.html)               |
+|              | 1-9    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [C++ Primer中文版](https://item.jd.com/26798873915.html)                |
+|              | 1-8    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Python核心编程](https://item.jd.com/11936238.html)                     |
+|              | 1-7    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [Git版本控制管理](https://item.jd.com/11615420.html)                    |
+|              | 1-6    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [机器学习实战](https://item.jd.com/11242112.html)                       |
+|              | 1-5    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [MySQL必知必会](https://item.jd.com/10063118.html)                      |
+|              | 1-4    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [编程之美：微软技术面试心得](https://item.jd.com/10066736.html)         |
+|              | 1-3    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [架构之美](https://item.jd.com/12395488.html)                           |
+|              | 1-2    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [安全之美](https://item.jd.com/33651137390.html)                        |
+|              | 1-1    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [数据之美：一本书学会可视化设计](https://item.jd.com/11410004.html)     |
+| 2. 其他汇总  |        |          |              |            |                                       |                                                                         |
+|              | 2-9    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [华杉讲透孙子兵法](https://item.jd.com/11667368.html)                   |
+|              | 2-8    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [别听父母的话，过你想要的生活](https://item.jd.com/30284023.html)       |
+|              | 2-7    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [微信营销108招](https://book.douban.com/subject/26354705/)              |
+|              | 2-6    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [大家都有病](https://item.jd.com/11367587.html)                         |
+|              | 2-5    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [跨界](https://item.jd.com/11548081.html)                               |
+|              | 2-4    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [沟通的艺术](https://item.jd.com/12169947.html)                         |
+|              | 2-3    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [时代的变换](https://item.jd.com/30923246966.html)                      |
+|              | 2-2    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [穷思维 富思维](https://item.jd.com/34203462810.html)                   |
+|              | 2-1    | /        | 20181114     | 纸质书     | <font color="#C0C0C0">**已读**</font> | [金字塔原理1+2套装](https://item.jd.com/10574789272.html)               |
 
 
 ------
 
-#### 3. 书单更新记录
+#### 4. 书单更新记录
 >
 1. 2018年08月27日 16:12 ：新增书籍三本及确定读书状态。
 2. 2018年08月29日 16:42 ：新增《1984》，修改 《反抗的意义和非意义》 状态；
