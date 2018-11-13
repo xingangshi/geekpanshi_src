@@ -16,7 +16,7 @@ keywords:
   - Markdown语法
   - Typora
 description: Markdown 语法各平台和工具略有不同，此处以 [Typora](https://www.typora.io/ "Typora") 为准。这里对 Markdwon 的使用语法做一个系统和详细的介绍，相信可以帮助你快速掌握。
-top: 1000004
+top: 1000006
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 

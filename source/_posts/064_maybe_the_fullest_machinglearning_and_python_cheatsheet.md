@@ -40,7 +40,7 @@ description: >-
   最后，我收集了与机器学习相关的速查表。有些我经常参考，认为其他人也可能从中受益。因此， 这篇文章把我在网上发现的很好的27个速查表分享出来，以供大家参考。
 date: 2018-11-08 06:47:50
 password:
-top: 1000003
+top: 1000007
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 

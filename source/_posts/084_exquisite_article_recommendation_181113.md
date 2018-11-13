@@ -15,7 +15,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: 3d51b9b7
 keywords:
   - 编译器
   - 汇编程序
@@ -24,7 +24,13 @@ keywords:
   - git
   - Java框架
   - JavaScript
-description: 1. 显示编译器生成的汇编的站点，Compiler Explorer 是一个 开源网站，可让您探索如何将C ++，D，Go，Rust，Ispc，Haskell，Swift 和 Pascal 代码编译到计算机实际运行的机器代码中。 2. 软件优化资源，涵盖的操作系统：DOS，Windows，Linux，BSD，基于 Intel 的 Mac OS X，32位和64位。3. Gitpod，值得一试吗？Gitpod 据说是 GitHub 的自然扩展，是一个在线集成开发环境（IDE）。4. Java 程序员必备的 15 个框架，前 3 个地位无可动摇，前三分别是：Spring、Spring MVC、Spring Boot。5. JavaScript 手册 ，包含PDF，ePub和Mobi（Kindle）格式，已经搬至墙内。
+description: >-
+  1. 显示编译器生成的汇编的站点，Compiler Explorer 是一个 开源网站，可让您探索如何将C
+  ++，D，Go，Rust，Ispc，Haskell，Swift 和 Pascal 代码编译到计算机实际运行的机器代码中。 2.
+  软件优化资源，涵盖的操作系统：DOS，Windows，Linux，BSD，基于 Intel 的 Mac OS X，32位和64位。3.
+  Gitpod，值得一试吗？Gitpod 据说是 GitHub 的自然扩展，是一个在线集成开发环境（IDE）。4. Java 程序员必备的 15 个框架，前
+  3 个地位无可动摇，前三分别是：Spring、Spring MVC、Spring Boot。5. JavaScript 手册
+  ，包含PDF，ePub和Mobi（Kindle）格式，已经搬至墙内。
 date: 2018-11-13 21:47:50
 password:
 ---
