@@ -112,7 +112,7 @@ Come on, give me a break!
 |              | 3-1    | 20181114 | 20181114     | /          | <font color="#A52A2A">**想读**</font> | [经济学原理 微观经济学分册](https://item.jd.com/11684069.html)          |
 | 4. 亲子教育  |        |          |              |            |                                       |                                                                         |
 |              | 4-3    | 20170915 | 20181114     | kindle     | <font color="#00FFFF">**在读**</font> | [松居直喜欢的50本图画书](https://item.jd.com/25774026123.html)          |
-|              | 4-2    | 20170915 | 20181114     | kindle     | <font color="#C0C0C0">**未读**</font> | [小狗钱钱套装[7-10岁]](https://item.jd.com/12345927.html)               |
+|              | 4-2    | 20170915 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [小狗钱钱套装[7-10岁]](https://item.jd.com/12345927.html)               |
 |              | 4-1    | 20161106 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [蒙台梭利幼儿教育经典](https://item.jd.com/10043831.html)               |
 | 5. 社会科学  |        |          |              |            |                                       |                                                                         |
 |              | 5-4    | 20180913 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [君主论](https://item.jd.com/11572967.html)                             |
