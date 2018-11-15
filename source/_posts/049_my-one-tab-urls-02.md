@@ -12,6 +12,8 @@ abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: ecc73a73
+photos:
+  - "https://i.imgur.com/q8olarQ.png"
 keywords:
   - 操作系统
   - 黑客
@@ -46,9 +48,7 @@ keywords:
   - 临时邮箱
   - JSON格式化
   - kalitools
-description: >-
-  1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9.
-  CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
+description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
 date: 2018-10-25 19:18:50
 password:
 top: 1000008

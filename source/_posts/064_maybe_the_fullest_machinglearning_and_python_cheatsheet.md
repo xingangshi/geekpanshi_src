@@ -15,6 +15,8 @@ abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: 5bf43b3d
+photos:
+  - "https://i.imgur.com/OulFJkl.png"
 keywords:
   - 机器学习
   - Python
