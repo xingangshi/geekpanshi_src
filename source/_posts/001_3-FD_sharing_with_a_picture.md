@@ -23,13 +23,15 @@ description: >-
   一份来自 geekpanshi 的分享，在这里可以查看到我的博客的每日更新内容，而且可以通过 邮件 或者 RSS
   订阅我的博客，更多的订阅方式和精彩内容将不断的推出的。
 top: 1000010
-date: 2018-11-16 19:00:02
+date: 2018-11-16 21:00:02
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 一份来自 geekpanshi 的分享
 ------
 > ![——我不骗你——否认三连——](https://i.imgur.com/Aj8Ox3W.png "——我不骗你——否认三连——")
+>
+> <font color="#996600" size=1>如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的，[<font color="#CC3366" size=2>联系我</font>](/about/ "联系我")。</font>
 
 ------
 > 一份来自 geekpanshi 的分享，在这里可以查看到我的博客的每日更新内容，而且可以通过 邮件 或者 RSS 订阅我的博客，更多的订阅方式和精彩内容将不断的推出的。
@@ -38,13 +40,13 @@ date: 2018-11-16 19:00:02
 
 ##### 1.1 每日更新内容一览
 
-> <font color="red"> **更新内容开始时间：前一天上午 11 点。**</font>
+> <font color="red" size=2.5> **更新内容开始时间：前一天上午 11 点。**</font>
 >
->> [<font color="#00FFFF" size=3>每日更新内容一览</font>](https://us19.campaign-archive.com/?u=dcd95ecd68c9ae317e2ccfa86&id=ae15aac214)
+>> [<font color="#CC33CC" size=3>每日更新内容一览</font>](https://us19.campaign-archive.com/?u=dcd95ecd68c9ae317e2ccfa86&id=ae15aac214)
 >>
->> [<font color="#0000FF" size=4>每日更新内容一览</font>](https://us19.campaign-archive.com/?u=dcd95ecd68c9ae317e2ccfa86&id=ae15aac214)
+>> [<font color="#CC00FF" size=4>每日更新内容一览</font>](https://us19.campaign-archive.com/?u=dcd95ecd68c9ae317e2ccfa86&id=ae15aac214)
 >>
->> [<font color="#FF00FF" size=5>每日更新内容一览</font>](https://us19.campaign-archive.com/?u=dcd95ecd68c9ae317e2ccfa86&id=ae15aac214)
+>> [<font color="#CC33FF" size=5>每日更新内容一览</font>](https://us19.campaign-archive.com/?u=dcd95ecd68c9ae317e2ccfa86&id=ae15aac214)
 >
 > 重要的事情说三遍！！！
 
@@ -165,4 +167,4 @@ date: 2018-11-16 19:00:02
 #### 7. 结束语
 > ![结束语](https://i.imgur.com/O8X5Ft1.jpg 结束语)
 >
-> <font color="#0000FF" size=3>如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的，[<font color="red" size=4>联系我</font>](/about/ "关于我的")！</font>。
+> <font color="#0000FF" size=3>如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的，[<font color="red" size=4>联系我</font>](/about/ "联系我")。</font>
