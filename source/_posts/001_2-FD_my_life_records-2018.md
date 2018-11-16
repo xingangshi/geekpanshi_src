@@ -17,7 +17,7 @@ keywords:
   - 计时
   - 记账
 photos:
-    - "https://ws3.sinaimg.cn/small/006tNbRwgy1fx2n89pfsvj30u01hcdkf.jpg"
+    - "https://i.imgur.com/yxzzuLg.png"
 date: 2018-11-16 00:00:02
 description: 今天：2018 年 11 月 16 日，2018 年仅剩下 45 天。坚持记录和分析生活中的数据、信息和事件，尊重历史数据、信息和事件，人生将会更美好。
 

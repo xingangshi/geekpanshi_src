@@ -14,7 +14,7 @@ keywords:
   - 改变自己
   - 花呗利息
 photos:
-  - 'https://i.imgur.com/z2wWeqC.png'
+  - 'https://i.imgur.com/dBlIJvI.png'
 description: 最近外网上的一个热议话题《什么东西是你在1999年有但2018年没有的》，刚刚开始以为是个回忆过去的怀旧贴，结果越到后面越过分真实……，看完想流泪。
 date: 2018-11-15 12:10:03
 ---

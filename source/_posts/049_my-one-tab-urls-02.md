@@ -13,7 +13,7 @@ message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: ecc73a73
 photos:
-  - "https://i.imgur.com/q8olarQ.png"
+  - "https://i.imgur.com/C73tsqW.png"
 keywords:
   - 操作系统
   - 黑客
