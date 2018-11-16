@@ -25,7 +25,7 @@ date: 2018-11-16 21:00:02
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 一份来自 GeekPanshi 的分享
+### 我书读的多，不会骗你
 ------
 > ![——我不骗你——否认三连——](https://i.imgur.com/Aj8Ox3W.png "——我不骗你——否认三连——")
 
