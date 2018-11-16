@@ -1,5 +1,5 @@
 ---
-title: Sharing with a Picture
+title: 使用 hexo 和 Github 搭建属于你自己网站（自建网站）
 tags:
   - 自建网站
 comments: true
