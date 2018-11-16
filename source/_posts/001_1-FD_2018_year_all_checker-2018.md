@@ -11,13 +11,14 @@ categories:
   - 日常更新
 abbrlink: 35b1e314
 daovoice: ture
-
 keywords:
   - 2018倒计时
   - 每日打卡
   - 任务打卡
   - 子弹笔记
   - 手帐
+  - 宽293高165
+  - 宽978高553
 photos:
   - "https://i.imgur.com/gfUe8Lo.png"
 date: 2018-11-16 00:00:01
