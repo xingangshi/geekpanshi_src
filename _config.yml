@@ -41,6 +41,7 @@ skip_render:
   - robots.txt
   - baidu_verify_SVhqGxR1Sj.html
   - /js/src/bai.js
+  - CNAME
 
 # Writing
 new_post_name: :title.md # File name of new posts http://www.geekpanshi.com/baidusitemap.xml
