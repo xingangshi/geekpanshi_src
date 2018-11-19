@@ -290,7 +290,7 @@ _ _ _
 
 
 #### 6. 引用
-> 引用不影响其他 `MarkDown` 语法的使用，比如链接：[我是超链接](https://geekpanshi.coding.me)。
+> 引用不影响其他 `MarkDown` 语法的使用，比如链接：[我是超链接](https://www.geekpanshi.com/)。
 
 ##### 6.1 单级引用-1
 
@@ -380,13 +380,13 @@ _ _ _
 
 ###### 8.1.1 代码
 ```
-欢迎来到[GeekPanshi的博客](https://geekpanshi.coding.me)
-欢迎来到[GeekPanshi的博客](https://geekpanshi.coding.me, "跳转到GeekPanshi的博客")
+欢迎来到[GeekPanshi的博客](https://www.geekpanshi.com/)
+欢迎来到[GeekPanshi的博客](https://www.geekpanshi.com/, "跳转到GeekPanshi的博客")
 ```
 
 ###### 8.1.2 效果
-欢迎来到[GeekPanshi的博客](https://geekpanshi.coding.me)
-欢迎来到[GeekPanshi的博客](https://geekpanshi.coding.me, "跳转到GeekPanshi的博客")
+欢迎来到[GeekPanshi的博客](https://www.geekpanshi.com/)
+欢迎来到[GeekPanshi的博客](https://www.geekpanshi.com/, "跳转到GeekPanshi的博客")
 
 ##### 8.2 参考式子
 

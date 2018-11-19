@@ -98,7 +98,7 @@ date: 2018-11-16 21:00:02
 >
 > [URL](https://geekpanshi.github.io/)：Github，我的博客备份网站，[访问链接（https://geekpanshi.github.io/）](https://geekpanshi.github.io/ "访问链接（https://geekpanshi.github.io/）")。
 >
-> [URL](https://coding.net/)：Coding，我的国内博客托管网站，[访问链接（https://geekpanshi.coding.me/）](https://geekpanshi.coding.me/ "访问链接（https://geekpanshi.coding.me/）")。
+> [URL](https://coding.net/)：Coding，我的国内博客托管网站，[访问链接（https://www.geekpanshi.com//）](https://www.geekpanshi.com// "访问链接（https://www.geekpanshi.com//）")。
 
 ##### 5.3 博客管理相关
 > [URL](https://lastpass.com/?&ac=1&lpnorefresh=1&fromwebsite=1&newvault=1&nk=1) ：LastPass，密码管理工具。
