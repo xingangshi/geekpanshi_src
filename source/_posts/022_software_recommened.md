@@ -1,20 +1,34 @@
 ---
 title: 常用软件网站推荐
-tags: 软件推荐
+tags:
+  - 软件推荐
+  - MAC
+  - 时间管理
+  - 读书
+  - 数据人生
 comments: true
 toc: true
 categories:
   - 效率工具
   - 工具推荐
+keywords:
+  - 键盘指法
+  - Markdown
+  - typora
+  - worktile
+  - 远程控制软件
+  - 虚拟按键
+  - 手写录屏
 abbrlink: 6f958ce8
-date: 2018-10-15 18:52:04
+description: 工欲善其事必先利其器。推荐一些我常用软件：键盘指法练习网站、写作工具推荐markdown、在线流程图、日程安排、远程控制软件……，等 16 个类别。
+date: 2018-11-20 18:52:04
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 常用软件网站推荐
 
 >
-「 工欲善其事必先利其器。」
+「 工欲善其事必先利其器。」推荐一些我常用软件：键盘指法练习网站、写作工具推荐markdown、在线流程图、日程安排、远程控制软件……，等 16 个类别。
 >
 
 ---
@@ -26,7 +40,7 @@ date: 2018-10-15 18:52:04
 
 ##### 2. 写作工具推荐
 >
-2.1 基于 markdown 软件
+2.1 [基于 markdown 软件](/archives/e0c74487.html)
     2.1.1 typora： https://www.typora.io/ （可转换为 word、pdf等格式）
     2.1.2 MarkdownPad： http://markdownpad.com/
     2.1.3 Cmd Markdown 编辑阅读器： https://www.zybuluo.com/mdeditor （在线的）
@@ -140,4 +154,5 @@ date: 2018-10-15 18:52:04
 >
 1. 推荐软件为大家普遍可以用到的，而非软件开发相关的；
 2. 软件推荐第一版，v1.0，第一版编辑时间：2018-10-15。
+3. 软件推荐第一版，v1.1，第一版编辑时间：2018-11-20。
 >
