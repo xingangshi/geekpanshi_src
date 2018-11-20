@@ -1,5 +1,5 @@
 ---
-title: My-One-Tab-URLS-01（20180929-20181023）
+title: My-One-Tab-URLS-02 康奈尔笔记法等（20180929-20181023）
 tags:
   - 数据人生
   - OneTab
@@ -20,8 +20,12 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### My-One-Tab-URLS-01（20180929-20181023）
+### My-One-Tab-URLS-02（20180929-20181023）
 ---
+> 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记 5. WorkFlowy ……
+
+---
+
 #### 1. 学习相关
 > [URL](https://ccl.northwestern.edu/netlogo/) ：NetLogo Home Page
 > [URL](https://hackr.io/blog/how-to-learn-programming) ：How to learn programming? Beginner's 101 Guide

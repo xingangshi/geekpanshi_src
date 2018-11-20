@@ -1,5 +1,5 @@
 ---
-title: My-One-Tab-URLS-03（20181023-20181112）
+title: My-One-Tab-URLS-03 个人博客相关等（20181023-20181112）
 tags:
   - 数据人生
   - OneTab
@@ -41,22 +41,22 @@ keywords:
   - lisp
   - haskell
   - 测试
-description: >-
-  1. 个人博客相关。 2. OneTab shared tabs，Shared 95 tabs。 3. 机器学习深度学习神经网络。 4.
-  C++、Lisp、Haskell 编程教程和编程实践。 5.
-  程序员看一看，单进程编程、测试影响分析和系统稳定性、系统而不是程序、软件工程成功的关键是隐藏信息、现代浏览器的工作原理、一个 Windows
-  内核、理解你产品的核心用户、为什么阅读会导致近视。
+description: 1. 个人博客相关。 2. OneTab shared tabs，Shared 95 tabs。 3. 机器学习深度学习神经网络。 4. C++、Lisp、Haskell 编程教程和编程实践。 5. 程序员看一看，单进程编程、测试影响分析和系统稳定性、系统而不是程序、软件工程成功的关键是隐藏信息、现代浏览器的工作原理、一个 Windows 内核、理解你产品的核心用户、为什么阅读会导致近视。
 date: 2018-11-12 08:47:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### My-One-Tab-URLS-03（20181024-20181112）
+### My-One-Tab-URLS-03 个人博客相关等（20181023-20181112）
+---
+> 1. 个人博客相关。 2. OneTab shared tabs，Shared 95 tabs。 3. 机器学习深度学习神经网络。 4. C++、Lisp、Haskell 编程教程和编程实践。 5. 程序员看一看，单进程编程、测试影响分析和系统稳定性、系统而不是程序、软件工程成功的关键是隐藏信息、现代浏览器的工作原理、一个 Windows 内核、理解你产品的核心用户、为什么阅读会导致近视。
+
 ---
 
-#### 1. 个人博客相
+#### 1. 个人博客相关
+> ![个人博客相关](https://i.imgur.com/cg5Yf3Q.jpg 个人博客相关)
 
-##### 1.1 博客本身相关
+##### 5.1 博客本身相关
 > [URL](https://www.geekpanshi.com/) ：GeekPanshi – 价值投资 终身学习 践行家庭教育，我自己的博客网址。
 >
 > [URL](https://geekpanshi.us19.list-manage.com/subscribe?u=dcd95ecd68c9ae317e2ccfa86&id=70c147ccbd)：谢谢通过邮箱订阅 GeekPanshi 的博客，我的博客订阅地址。
@@ -72,23 +72,25 @@ password:
 >
 > [URL](https://geekpanshi.github.io/)：Github，我的博客备份网站，[访问链接（https://geekpanshi.github.io/）](https://geekpanshi.github.io/ "访问链接（https://geekpanshi.github.io/）")。
 >
-> [URL](https://coding.net/)：Coding，我的国内博客托管网站，[访问链接（https://geekpanshi.coding.me）](https://geekpanshi.coding.me "访问链接（https://geekpanshi.coding.me）")。
+> [URL](https://coding.net/)：Coding，我的国内博客托管网站，[访问链接（https://www.geekpanshi.com//）](https://www.geekpanshi.com// "访问链接（https://www.geekpanshi.com//）")。
 
 ##### 1.3 博客管理相关
 > [URL](https://lastpass.com/?&ac=1&lpnorefresh=1&fromwebsite=1&newvault=1&nk=1) ：LastPass，密码管理工具。
 >
 > [URL](https://squoosh.app/)：Squoosh：图片压缩工具。
-
+>
+> [URL](https://search.google.com/test/mobile-friendly?utm_source=support.google.com/webmasters/&utm_medium=referral&utm_campaign=6155685)：google 网页移动设备访问适应性测试。
 
 ##### 1.4 图床-图片管理工具
 > [URL](https://imgur.com/) ：Imgur: 图床系统，国外的，可根据自己需要下载相关的工具（[Tools for Imgur](https://help.imgur.com/hc/en-us/articles/209592766 "Tools for Imgur")）。
 >
 > [URL](https://toolinbox.net/iPic/)：iPic，图床神器 iPic，仅支持 MAC 操作系统，图片上传到的是新浪图床。
+>>
+>> [URL](https://www.wuzuowei.net/9994.html)：新浪微博是个好图床：图床功能详解（图片大小设置）。
 >
 > [URL](https://sm.ms/)：SM.MS 图床，Image Upload，5 MB max per file. 10 files max per request。
 >
 > [URL](https://www.niupic.com/)：牛图网 图床。
-
 
 ##### 1.5 博客嵌入式第三方插件
 > [URL](https://widgetpack.com/admin#/site/14580/menu/rating/submenu/setting) ：Widget-Pack，嵌入式第三方评分系统（五星评分系统）。
@@ -98,7 +100,6 @@ password:
 > [URL](https://us19.admin.mailchimp.com/lists/) ：Mailchimp，嵌入式第三方邮件订阅、邮件营销系统。
 >
 > [URL](https://www.livere.com/insight/config) ：livere，嵌入式第三方评论管理系统。
-
 
 #### 2. OneTab shared tabs: Shared 95 tabs
 > [URL](https://www.one-tab.com/page/iuhaZwpoSqy-HEeuMIdooA) ：OneTab shared tabs

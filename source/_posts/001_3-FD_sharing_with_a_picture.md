@@ -104,12 +104,15 @@ date: 2018-11-16 21:00:02
 > [URL](https://lastpass.com/?&ac=1&lpnorefresh=1&fromwebsite=1&newvault=1&nk=1) ：LastPass，密码管理工具。
 >
 > [URL](https://squoosh.app/)：Squoosh：图片压缩工具。
-
+>
+> [URL](https://search.google.com/test/mobile-friendly?utm_source=support.google.com/webmasters/&utm_medium=referral&utm_campaign=6155685)：google 网页移动设备访问适应性测试。
 
 ##### 5.4 图床-图片管理工具
 > [URL](https://imgur.com/) ：Imgur: 图床系统，国外的，可根据自己需要下载相关的工具（[Tools for Imgur](https://help.imgur.com/hc/en-us/articles/209592766 "Tools for Imgur")）。
 >
 > [URL](https://toolinbox.net/iPic/)：iPic，图床神器 iPic，仅支持 MAC 操作系统，图片上传到的是新浪图床。
+>>
+>> [URL](https://www.wuzuowei.net/9994.html)：新浪微博是个好图床：图床功能详解（图片大小设置）。
 >
 > [URL](https://sm.ms/)：SM.MS 图床，Image Upload，5 MB max per file. 10 files max per request。
 >

@@ -1,5 +1,5 @@
 ---
-title: My-One-Tab-URLS-02 网络工具大全
+title: My-One-Tab-URLS-01 网络工具大全
 tags:
   - 数据人生
   - OneTab
@@ -48,18 +48,21 @@ keywords:
   - 临时邮箱
   - JSON格式化
   - kalitools
+  - OCR
+  - 文字识别
 description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
-date: 2018-10-25 19:18:50
+date: 2018-11-20 19:18:50
 password:
 top: 1000008
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### My-One-Tab-URLS-02 网络工具大全
+### My-One-Tab-URLS-01 网络工具大全
 
 ---
-> 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来……
---
+> 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
+
+---
 
 #### 1. 在线编辑器工具
 > [URL](http://kindeditor.net/demo.php) ：在线 HTML 编辑器
@@ -96,7 +99,9 @@ top: 1000008
 > [URL](http://www.bejson.com/) ：在线 JSON 校验格式化工具（Be JSON） JSON格式化
 > [URL](https://www.beejson.com/) ：JSON 在线解析 | JSON 在线 | JSON 在线格式化 | JSON在线工具 | Bee JSON JSON格式化
 > [URL](https://tools.kali.org/tools-listing) ：Kali Linux Tools Listing | enetration Testing Tools kali-tools 列表
-
+> [URL](http://ocr.wdku.net/) ：Ocr服务，在线文字识别转换
+> [URL](http://www.ocrmaker.com/) ：在线文字识别，OCR服务－OCRMaker
+> [URL](https://ai.qq.com/product/ocr.shtml#identify) ：腾讯优图OCR
 
 #### 2. 知识库
 > [URL](https://www.toutiao.io/tags) ：知识库 - 开发者头条
