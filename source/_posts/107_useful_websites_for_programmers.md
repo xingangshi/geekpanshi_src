@@ -1,5 +1,5 @@
 ---
-title: 程序员应该访问的最佳网站中文版
+title: 程序员的网站大全
 tags:
   - 推荐阅读
   - 时间管理
@@ -28,18 +28,18 @@ keywords:
   - 开源网站
   - 加密货币
   - 编码规范
-description: 程序员应该访问的最佳网站中文版，是一些对程序员有用的网站。在学习 CS 的时候有一些你必须知道的有用的站点来获取通知为了你的技术储备和学习新知识。这里是一个你应该访问的不是非常全面的一些站点的列表，这个列表会不断更新，只要我能得到链接，你也可以通过添加你知道的来为此做出贡献。
+description: 程序员的网站大全，是一些对程序员有用的网站。在学习 CS 的时候有一些你必须知道的有用的站点来获取通知为了你的技术储备和学习新知识。这里是一个你应该访问的不是非常全面的一些站点的列表，这个列表会不断更新，只要我能得到链接，你也可以通过添加你知道的来为此做出贡献。
 date: 2018-11-21 12:20:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 程序员应该访问的最佳网站中文版（[原版](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)）
+### 程序员的网站大全中文版（[原版](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)）
 
 ---
 > 一些对程序员有用的网站。
 >
-> 在学习 CS 的时候有一些你必须知道的有用的站点来获取通知为了你的技术储备和学习新知识。这里是一个你应该访问的不是非常全面的一些站点的列表，这个列表会不断更新，只要我能得到链接，你也可以通过添加你知道的来为此做出贡献。
+> 程序员的网站大全，在学习 CS 的时候有一些你必须知道的有用的站点来获取通知为了你的技术储备和学习新知识。这里是一个你应该访问的不是非常全面的一些站点的列表，这个列表会不断更新，只要我能得到链接，你也可以通过添加你知道的来为此做出贡献。
 ---
 
 #### 当你遇到问题时
@@ -629,13 +629,13 @@ password:
   * [First Timers Only](http://www.firsttimersonly.com) : 首次对开放源码做出贡献可能是可怕的，有点压倒性。也许你是一个代码新手，或者你已经编码了一段时间，但还没有找到一个你觉得自己很有帮助的项目
   * [Your First PR](http://yourfirstpr.github.io) : 您的第一个公关帮助在GitHub和其他地方展示最佳启动器问题为开源做贡献
 
-## Internships
+#### Internships
   * [Chegg](http://www.chegg.com) : 这是一个很棒的资源，可以找到实习机会，奖学金，导师等。
   * [Internshala](https://internshala.com) : 您可以根据您感兴趣的位置搜索实习机会。它还可以帮助您从公司获得良好的PPO报价。
   * [Letsintern](https://www.letsintern.com) : 从LetsIntern为您提供智能且具有挑战性的实习机会。
   * [PerfectIntern](https://www.perfectintern.com) : 寻求有偿实习，简历准备，面试准备等方面的帮助！
 
-## Jobs
+#### Jobs
   * [AngelList](https://angel.co/) : AngelList 是一个面向初创公司，天使投资人和希望在创业公司工作的求职者的网站。
   * [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder是最大的招聘委员会之一，为求职者提供职位列表，简历发布，职业建议和资源。
   * [Dice](https://www.dice.com) : 骰子是科技求职者的主要网站。您可以按公司，职位，关键字，就业类型和位置进行搜索。
