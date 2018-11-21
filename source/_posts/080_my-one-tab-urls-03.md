@@ -127,3 +127,6 @@ password:
 > [URL](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/One-Windows-Kernel/ba-p/267142) ：One Windows Kernel - Microsoft Tech Community - 267142
 > [URL](https://wanqu.co/a/6813/%E7%90%86%E8%A7%A3%E4%BD%A0%E4%BA%A7%E5%93%81%E7%9A%84%E6%A0%B8%E5%BF%83%E7%94%A8%E6%88%B7/) ：理解你产品的核心用户
 > [URL](http://www.eye-tuebingen.de/the-institute/news-events/news/news-article/60-why-might-reading-make-myopic/) ：为什么阅读会使近视？：眼科研究所Tuebingen
+
+#### 版本记录
+> v1.0，2018-11-12。

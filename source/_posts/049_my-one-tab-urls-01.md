@@ -110,7 +110,6 @@ top: 1000008
 > [URL](http://devdocs.io/) ：DevDocs API Documentation
 > [URL](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us) ：Windows Apps That Amaze Us Windows 精品软件推荐
 
-
 #### 3. 在线操作系统
 > [URL](http://www.25os.com/) ：WebOS 平台 - 网络应用休闲平台
 > [URL](http://www.windows93.net/) ：WINDOWS93
@@ -120,11 +119,9 @@ top: 1000008
 > [URL](https://www.ipip.net/) ：IPIP.NET_最专业的 IP 地址库_IPIP.NET
 > [URL](https://www.opengps.cn/Data/IP/LocHighAcc.aspx) ：高精度IP定位 - openGPS.cn
 
-
 #### 5. whois 查询：WHOIS 搜索，域名，网站和IP工具
 > [URL](https://who.is/) ：WHOIS Search, Domain Name, Website, and IP Tools - Who.is
 > [URL](http://whois.domaintools.com/) ：Whois Lookup, Domain Availability & IP Search - DomainTools
-
 
 #### 6. 解码器编码转换
 > [URL](http://base64.xpcha.com/) ：base64 转图片 在线解码编码
@@ -143,7 +140,6 @@ top: 1000008
 > [URL](https://regexr.com/) ：RegExr: Learn, Build, & Test RegEx
 > [URL](http://regexlib.com/?AspxAutoDetectCookieSupport=1) ：Regular Expression Library
 
-
 #### 8. 解密 MD5
 > [URL](http://hashcrack.com/) ：HASHCRACK.COM - Reverse Hash Lookup for MD5, SHA1, MySQL, NTLM and Lanman-Password-Hashes
 > [URL](https://md5.gromweb.com/) ：MD5 conversion and MD5 reverse lookup
@@ -161,12 +157,9 @@ top: 1000008
 > [URL](https://www.staticfile.org/) ：Staticfile CDN
 > [URL](https://myssl.com/cdn_check.html) ：CDN 检测
 
-
 #### 10. 在线 Nmap 扫描、Nmap 参考指南
 > [URL](http://nmap.online-domain-tools.com/) ：Nmap Online - Highly customizable scanning of network hosts
 > [URL](https://nmap.org/man/zh/) ：Nmap 参考指南(Man Page)
-
-
 
 #### 11. 在线 C 段查询
 > [URL](https://phpinfo.me/bing.php) ：在线旁站查询 | C 段查询 | 必应接口 C 段查询 | 同 ip 网站查询 Lcy's Blog - phpinfo.me
@@ -194,3 +187,7 @@ top: 1000008
 > [URL](https://evilzone.org/) ：Evilzone - Hacking and Security Network
 > [URL](https://hackforums.net/) ：Hack Forums
 
+
+#### 版本记录
+> v1.0，2018-10-25；
+> v1.1，2018-11-20。
