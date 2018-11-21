@@ -76,7 +76,8 @@ top: 1000008
 > [URL](http://weavesilk.com/) ：Silk – Interactive Generative Art 艺术画生成
 > [URL](https://www.processon.com/) ：ProcessOn - 免费在线作图，实时协作
 > [URL](https://icomoon.io/) ：Icon Font & SVG Icon Sets IcoMoon 将 SVG 文件转化成 CSS
-> [URL](https://commandlinefu.cn/) ： Linux 命令 生成器
+> [URL](https://commandlinefu.cn/) ：Linux 命令 生成器
+> [URL](https://www.commandlinefu.com/commands/browse/sort-by-votes) ：Linux 命令使用排行榜。
 > [URL](http://cheat.sh/) ：程序员作弊器，命令行工具 | firstpage
 > [URL](https://www.processon.com/) ：ProcessOn - 免费在线作图，实时协作，在线流程图制作工具
 > [URL](https://asciiflow.com/) ：ASCIIFlow Infinity ASCII 码流程图
