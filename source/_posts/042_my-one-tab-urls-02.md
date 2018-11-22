@@ -12,7 +12,7 @@ abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: 9e708c90
-date: 2018-11-21 23:47:50
+date: 2018-11-22 07:30:50
 password:
 
 keywords: [康奈尔笔记法, 子弹笔记, 效率生活和工作]
@@ -76,6 +76,7 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://www.zhihu.com/question/52970841) ：大道理我都懂，可是我总是不想学习怎么办？
 > [URL](https://www.zhihu.com/question/301459876) ：所谓厉害的人，遇到问题时的思维模式与我们的差别在哪？
 > [URL](https://zhuanlan.zhihu.com/p/50390309) ：效率的故事
+> [URL](https://www.zhihu.com/question/24295398) ：在卡内基梅隆大学 (Carnegie Mellon University) 就读是怎样一番体验？
 
 #### 7. Books
 > [URL](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#) ：Pinker Book Recommendations
@@ -119,4 +120,5 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 
 #### 版本记录
 > v1.0，2018-10-26；
-> v1.1，2018-11-21。
+> v1.1，2018-11-21；
+> v1.2，2018-11-23。
