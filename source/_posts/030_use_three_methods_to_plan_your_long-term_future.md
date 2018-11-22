@@ -2,8 +2,8 @@
 title: 读书札记第一册（30/30）：用三种方法去规划你的长远未来
 tags:
   - 札记人生
-  - 鸡汤
   - 家庭
+  - 教育
 comments: true
 toc: true
 categories:

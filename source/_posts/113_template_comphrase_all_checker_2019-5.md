@@ -39,28 +39,17 @@ date: 2018-11-21 23:40:01
 
 #### 相关博文推荐
 > 1. [时间管理的 11 条金律](/archives/2717eb9f.html)
->
 > 2. [时间管理 - 我的快准狠记事（极简手帐）](/archives/8d07f8dd.html)
->
 > 3. [Markdown 从入门到精通](/archives/e0c74487.html)
->
 > 4. [坚持的力量之数据人生](/archives/e7fc0233.html)
->
 > 5. [2018年每日打卡记录](/archives/35b1e314.html)
->
 > 6. [坚持的力量之数据人生之 2019 年（模板）](/archives/efe89dd1.html)
->
 > 7. [2019 年每日日常打卡记录（模板）](/archives/8a6129ef.html)
->
 > 8. [2019 年月计划性任务打卡记录（模板）](/archives/58e9ac7f.html)
->
 > 9. [2019 年按月每月计划性任务每日打卡记录（模板）](/archives/1e1254ed.html)
->
 > 10. [2019 年每日日常综合打卡 - 1 月 1 日（模板）](/archives/d8d2e4f6.html)
->
 > 11. [2019 年365天每日日程安排记录 - 1 月 1 日（模板）](/archives/d62d8325.html)
->
-> 12. [<font color="red" size=3>2019 年时间管理之我的笔记模板打包下载</fonr>](/archives/15582198.html)
+> 12. [<font color="red" size=3>2019 年时间管理之我的笔记模板打包下载</font>](/archives/15582198.html)
 ---
 
 #### 1. 2019 年每日日常打卡记录

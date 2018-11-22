@@ -3,7 +3,7 @@ title: Mac OSX 系统下命令行 xcrun error  invalid active developer path 问
 tags:
   - 教育
   - Git
-  - Mac
+  - MAC
 comments: true
 toc: true
 categories:
@@ -39,13 +39,13 @@ date: 2018-11-08 19:10:03
 
 ##### 2.2 解决步骤
 > 1. 开始以为是系统升级以后 git 需要安装，尝试通过 `brew install git` 重新安装 git 仍然报错，报若如下：
-> 
+>
 >> Error: The following formula:
 >>   git
 >> cannot be installed as a binary package and must be built from source.
 >> Install the Command Line Tools:
 >>   xcode-select --install
->> 
+>>
 >> Error: Git must be installed and in your PATH!
 >> Error: The following formula:
 >>   git

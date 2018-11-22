@@ -36,6 +36,24 @@ date: 2018-11-22 21:00:02
 >
 > <font color="#000066" size=3>如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的，[<font color="#CC3366" size=3>联系我</font>](/about/ "联系我")。</font>
 
+---
+
+#### 站内内链
+---
+> [URL](/archives/4f25f01c.html) ：程序员的网站大全
+> [URL](/archives/5cc771ed.html) ：免费的编程书籍
+> [URL](/archives/6f958ce8.html) ：常用软件网站推荐
+> [URL](/archives/d8d6241.html) ：Chrome 常用扩展推荐
+> [URL](/archives/5cc771ed.html) ：免费的编程书籍
+> [URL](/archives/ba320aa2.html) ：一图胜千言（前方高能，图大，慎点）
+> [URL](/archives/5bf43b3d.html) ：可能是史上最全的机器学习和 Python（包括数学）速查表
+> [URL](/archives/15582198.html) ：2019 年时间管理之我的笔记模板打包下载
+> [URL](/archives/ecc73a73.html) ：My-One-Tab-URLS-01 网络工具大全
+> [URL](/archives/9e708c90.html) ：My-One-Tab-URLS-02 康奈尔笔记法等
+> [URL](/archives/4875a258.html) ：My-One-Tab-URLS-03 个人博客相关等
+---
+
+
 #### 1. 每日更新内容一览
 
 ##### 1.1 每日更新内容一览

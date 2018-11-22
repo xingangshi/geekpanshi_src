@@ -6,7 +6,6 @@ tags:
   - 财商
   - 教育
   - 时间管理
-  - 修身养性
 comments: true
 toc: true
 categories:

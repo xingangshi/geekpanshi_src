@@ -4,7 +4,7 @@ tags:
   - 软件推荐
   - 时间管理
   - 数据人生
-  - 修身养性
+  - 软件推荐
 comments: true
 toc: true
 categories:

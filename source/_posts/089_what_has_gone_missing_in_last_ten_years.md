@@ -1,14 +1,13 @@
 ---
 title: 什么东西是你在1999年有但2018年没有的
 tags:
-  - 札记人生
   - 教育
   - 时间管理
 comments: true
 toc: true
 categories:
   - 生活点滴
-  - 日常更新
+  - 以图为鉴
 abbrlink: cd8003f4
 keywords:
   - 改变自己

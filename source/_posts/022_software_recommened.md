@@ -4,7 +4,6 @@ tags:
   - 软件推荐
   - MAC
   - 时间管理
-  - 读书
   - 数据人生
 comments: true
 toc: true

@@ -38,5 +38,4 @@ top:
 >  以下是拼好的样子
 
 >> ![以下是拼好的样子1](https://i.imgur.com/CkI29oz.png 以下是拼好的样子1)
->>
 >> ![以下是拼好的样子2](https://i.imgur.com/TzFUBwz.png 以下是拼好的样子2)

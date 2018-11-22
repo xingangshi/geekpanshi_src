@@ -1,5 +1,5 @@
 ---
-title: 《我是如何教三岁的小朋友发微信的》
+title: 我是如何教三岁的小朋友发微信的
 tags:
   - 教育
   - 修身养性
@@ -56,19 +56,11 @@ top:
 > 以下就是我昨天晚上我教小朋友发微信后，今天中午，我和一个 3 岁的小朋友的“斗图”历程……。（当然，斗图结果，肯定是我胜利了，因为我下载了新的表情包了，他没有的。）
 
 >> ![和小朋友斗图历程1](https://i.imgur.com/V59boEg.png 和小朋友斗图历程1)
->>
 >> ![和小朋友斗图历程2](https://i.imgur.com/X5oFh4W.png 和小朋友斗图历程2)
->>
 >> ![和小朋友斗图历程3](https://i.imgur.com/DtJt4l9.png 和小朋友斗图历程3)
->>
 >> ![和小朋友斗图历程4](https://i.imgur.com/tvYKzYc.png 和小朋友斗图历程4)
->>
 >> ![和小朋友斗图历程5](https://i.imgur.com/tumF2in.png 和小朋友斗图历程5)
->>
 >> ![和小朋友斗图历程6](https://i.imgur.com/1APUnX5.png 和小朋友斗图历程6)
->>
 >> ![和小朋友斗图历程7](https://i.imgur.com/ilBH07X.png 和小朋友斗图历程7)
->>
 >> ![和小朋友斗图历程8](https://i.imgur.com/auqEgKM.png 和小朋友斗图历程8)
->>
 >> ![和小朋友斗图历程9](https://i.imgur.com/EuKKh1I.png 和小朋友斗图历程9)

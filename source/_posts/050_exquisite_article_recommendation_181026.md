@@ -1,5 +1,5 @@
 ---
-title: 每日好精选文章推荐-20181026
+title: 每日好精选文章推荐-2018年10月26日
 tags:
   - 框架
   - Linux
@@ -38,7 +38,7 @@ password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 每日好精选文章推荐-20181026
+### 每日好精选文章推荐-2018年10月26日
 ---
 #### 1. xmake v2.2.2，我们还可以管理C / C ++的包依赖关系
 

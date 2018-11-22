@@ -1,5 +1,5 @@
 ---
-title: 每日好精选文章推荐-20181024
+title: 每日好精选文章推荐-2018年10月24日
 tags:
   - 框架
   - Git
@@ -27,7 +27,7 @@ password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 每日好精选文章推荐-20181024
+### 每日好精选文章推荐-2018年10月24日
 ---
 #### 1. Responder 是用 Python 来写的人们更容易理解的 HTTP 服务框架
 > Python世界当然不需要更多的Web框架。但是，它确实需要更多的创造力，所以我想我会传播一些 Hacktoberfest 精神，把我的一些想法实现，看看我能想出什么。

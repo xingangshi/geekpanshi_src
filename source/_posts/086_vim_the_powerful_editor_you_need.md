@@ -2,7 +2,7 @@
 title: 人间不值得，Vim 依然值得学习（编辑器比较和选择指南）
 tags:
   - 互联网
-  - 数据库
+  - 软件推荐
 comments: true
 toc: true
 categories:
