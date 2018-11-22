@@ -85,38 +85,38 @@ description: 今天：2018 年 11 月 22 日，2018 年仅剩下 39 天。每日
 #### 2. 2018 年 11 月每日计划性任务打卡记录
 > 打卡信息为前一天的数据
 
-| 11 月 |2018倒计时   |每日札记     |每日一个TED  |读五篇长文   |每日好文推荐 |备注                      |
-|:-----:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:------------------------:|
-|  1 四 | TT          | FF          | FF          | FF          | FF          | 二宝出生第三天           |
-|  2 五 | TT          | FF          | FF          | FF          | FF          | 二宝出生第四天           |
-|  3 六 | TT          | FF          | FF          | FF          | FF          | 老婆出院                 |
-|  4 日 | TT          | FF          | FF          | FF          | FF          | 整理家里的东西、收拾东西 |
-|  5 一 | TT          | TT          | TT          | TT          | TT          |                          |
-|  6 二 | TT          | TT          | TT          | TT          | TT          |                          |
-|  7 三 | TT          | TT          | TT          | TT          | TT          |                          |
-|  8 四 | TT          | TT          | TT          | TT          | TT          |                          |
-|  9 五 | TT          | TT          | TT          | TT          | TT          |                          |
-| 10 六 | TT          | TT          | TT          | TT          | TT          |                          |
-| 11 日 | TT          | TT          | TT          | TT          | TT          |                          |
-| 12 一 | TT          | TT          | TT          | TT          | TT          |                          |
-| 13 二 | TT          | TT          | TT          | TT          | TT          |                          |
-| 14 三 | TT          | TT          | TT          | TT          | TT          |                          |
-| 15 四 | TT          | TT          | TT          | TT          | TT          |                          |
-| 16 五 | TT          | TT          | TT          | TT          | TT          |                          |
-| 17 六 | TT          | TT          | TT          | TT          | TT          |                          |
-| 17 日 | TT          | TT          | TT          | TT          | TT          |                          |
-| 19 一 | TT          | TT          | TT          | TT          | TT          |                          |
-| 20 二 | TT          | TT          | TT          | TT          | TT          |                          |
-| 21 三 | TT          | TT          | TT          | TT          | TT          |                          |
-| 22 四 | TT          | TT          | TT          | TT          | TT          |                          |
-| 23 五 |             |             |             |             |             |                          |
-| 24 六 |             |             |             |             |             |                          |
-| 25 日 |             |             |             |             |             |                          |
-| 26 一 |             |             |             |             |             |                          |
-| 27 二 |             |             |             |             |             |                          |
-| 28 三 |             |             |             |             |             |                          |
-| 29 四 |             |             |             |             |             |                          |
-| 30 五 |             |             |             |             |             |                          |
+| 11 月                              |2018倒计时 |每日札记   |每日一个TED|读五篇长文 |每日好文   |备注                      |
+|:----------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:------------------------:|
+|  1 <font color="#000000">四</font> | TT        | FF        | FF        | FF        | FF        | 二宝出生第三天           |
+|  2 <font color="#000000">五</font> | TT        | FF        | FF        | FF        | FF        | 二宝出生第四天           |
+|  3 <font color="#FF0000">六</font> | TT        | FF        | FF        | FF        | FF        | 老婆出院                 |
+|  4 <font color="#FF0000">日</font> | TT        | FF        | FF        | FF        | FF        | 整理家里的东西、收拾东西 |
+|  5 <font color="#000000">一</font> | TT        | TT        | TT        | TT        | TT        |                          |
+|  6 <font color="#000000">二</font> | TT        | TT        | TT        | TT        | TT        |                          |
+|  7 <font color="#000000">三</font> | TT        | TT        | TT        | TT        | TT        |                          |
+|  8 <font color="#000000">四</font> | TT        | TT        | TT        | TT        | TT        |                          |
+|  9 <font color="#000000">五</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 10 <font color="#FF0000">六</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 11 <font color="#FF0000">日</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 12 <font color="#000000">一</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 13 <font color="#000000">二</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 14 <font color="#000000">三</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 15 <font color="#000000">四</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 16 <font color="#000000">五</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 17 <font color="#FF0000">六</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 17 <font color="#FF0000">日</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 19 <font color="#000000">一</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 20 <font color="#000000">二</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 21 <font color="#000000">三</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 22 <font color="#000000">四</font> | TT        | TT        | TT        | TT        | TT        |                          |
+| 23 <font color="#000000">五</font> |           |           |           |           |           |                          |
+| 24 <font color="#FF0000">六</font> |           |           |           |           |           |                          |
+| 25 <font color="#FF0000">日</font> |           |           |           |           |           |                          |
+| 26 <font color="#000000">一</font> |           |           |           |           |           |                          |
+| 27 <font color="#000000">二</font> |           |           |           |           |           |                          |
+| 28 <font color="#000000">三</font> |           |           |           |           |           |                          |
+| 29 <font color="#000000">四</font> |           |           |           |           |           |                          |
+| 30 <font color="#000000">五</font> |           |           |           |           |           |                          |
 
 
 #### 3. 2018 年已完结的月计划打卡存档
@@ -125,39 +125,39 @@ description: 今天：2018 年 11 月 22 日，2018 年仅剩下 39 天。每日
 ##### 3.1 2018 年 10 月每日计划性任务打卡记录
 > 打卡信息为前一天的数据
 
-| 10 月 | 做早饭    | 2018倒计时| 每日札记  |每日一个TED|读五篇长文 |每日好文推荐| 备注                                   |
-|:-----:|:---------:|:---------:|:---------:|:---------:|:---------:|:----------:|:--------------------------------------:|
-|  1 一 |           |           |           |           |           |            |  未开始                                |
-|  2 二 |           |           |           |           |           |            |  未开始                                |
-|  3 三 |           |           |           |           |           |            |  未开始                                |
-|  4 四 |           |           |           |           |           |            |  未开始                                |
-|  5 五 |           |           |           |           |           |            |  未开始                                |
-|  6 六 |           |           |           |           |           |            |  未开始                                |
-|  7 日 |           |           |           |           |           |            |  未开始                                |
-|  8 一 |           |           |           |           |           |            |  未开始                                |
-|  9 二 |           |           |           |           |           |            |  未开始                                |
-| 10 三 | TT        | TT        | TT        | TT        | FF        |            | 10-11开始                              |
-| 11 四 | TT        | TT        | TT        | TT        | TT        |            |                                        |
-| 12 五 | TT        | TT        | TT        | TT        | TT        |            |                                        |
-| 13 六 | TT        | TT        | TT        | TT        | FF        |            | 打扫家里睡觉早                         |
-| 14 日 | TT        | TT        | TT        | TT        | TT        |            | 买菜顺便买早饭                         |
-| 15 一 | FF        | TT        | TT        | TT        | TT        |            |                                        |
-| 16 二 | TT        | TT        | TT        | TT        | TT        |            |                                        |
-| 17 三 | TT        | TT        | TT        | TT        | TT        |            |                                        |
-| 18 四 | TT        | TT        | TT        | TT        | TT        |            |                                        |
-| 19 五 | TT        | TT        | TT        | TT        | TT        |            |                                        |
-| 20 六 | FF        | TT        | TT        | TT        | FF        |            | 早晨接爸妈，下午面基，晚上参加朋友婚宴 |
-| 21 日 | FF        | TT        | TT        | TT        | FF        |            | 练车：科目三                           |
-| 22 一 | FF        | TT        | TT        | TT        | TT        |            | 妈妈做饭                               |
-| 23 二 | FF        | TT        | TT        | TT        | TT        |            | 妈妈做饭                               |
-| 24 三 | CC        | TT        | TT        | TT        | TT        | TT         | 每日做饭任务取消，新增每日推荐五篇文章 |
-| 25 四 | CC        | TT        | TT        | TT        | TT        | TT         |                                        |
-| 26 五 | CC        | TT        | TT        | TT        | TT        | TT         |                                        |
-| 27 六 | CC        | TT        | TT        | TT        | TT        | TT         |                                        |
-| 28 日 | CC        | TT        | FF        | FF        | TT        | TT         | 和家人去上海迪士尼                     |
-| 29 一 | CC        | TT        | TT        | TT        | TT        | TT         |                                        |
-| 30 二 | CC        | TT        | TT        | TT        | FF        | FF         | 老婆办理住院手续，生小孩               |
-| 31 三 | CC        | TT        | FF        | FF        | FF        | FF         | 二宝出生第二天                         |
+| 10 月                              | 做早饭    | 2018倒计时| 每日札记  |每日一个TED|读五篇长文 |每日好文推荐| 备注                                   |
+|:----------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:----------:|:--------------------------------------:|
+|  1 <font color="#000000">一</font> |           |           |           |           |           |            |  未开始                                |
+|  2 <font color="#000000">二</font> |           |           |           |           |           |            |  未开始                                |
+|  3 <font color="#000000">三</font> |           |           |           |           |           |            |  未开始                                |
+|  4 <font color="#000000">四</font> |           |           |           |           |           |            |  未开始                                |
+|  5 <font color="#000000">五</font> |           |           |           |           |           |            |  未开始                                |
+|  6 <font color="#FF0000">六</font> |           |           |           |           |           |            |  未开始                                |
+|  7 <font color="#FF0000">日</font> |           |           |           |           |           |            |  未开始                                |
+|  8 <font color="#000000">一</font> |           |           |           |           |           |            |  未开始                                |
+|  9 <font color="#000000">二</font> |           |           |           |           |           |            |  未开始                                |
+| 10 <font color="#000000">三</font> | TT        | TT        | TT        | TT        | FF        |            | 10-11开始                              |
+| 11 <font color="#000000">四</font> | TT        | TT        | TT        | TT        | TT        |            |                                        |
+| 12 <font color="#000000">五</font> | TT        | TT        | TT        | TT        | TT        |            |                                        |
+| 13 <font color="#FF0000">六</font> | TT        | TT        | TT        | TT        | FF        |            | 打扫家里睡觉早                         |
+| 14 <font color="#FF0000">日</font> | TT        | TT        | TT        | TT        | TT        |            | 买菜顺便买早饭                         |
+| 15 <font color="#000000">一</font> | FF        | TT        | TT        | TT        | TT        |            |                                        |
+| 16 <font color="#000000">二</font> | TT        | TT        | TT        | TT        | TT        |            |                                        |
+| 17 <font color="#000000">三</font> | TT        | TT        | TT        | TT        | TT        |            |                                        |
+| 18 <font color="#000000">四</font> | TT        | TT        | TT        | TT        | TT        |            |                                        |
+| 19 <font color="#000000">五</font> | TT        | TT        | TT        | TT        | TT        |            |                                        |
+| 20 <font color="#FF0000">六</font> | FF        | TT        | TT        | TT        | FF        |            | 早晨接爸妈，下午面基，晚上参加朋友婚宴 |
+| 21 <font color="#FF0000">日</font> | FF        | TT        | TT        | TT        | FF        |            | 练车：科目三                           |
+| 22 <font color="#000000">一</font> | FF        | TT        | TT        | TT        | TT        |            | 妈妈做饭                               |
+| 23 <font color="#000000">二</font> | FF        | TT        | TT        | TT        | TT        |            | 妈妈做饭                               |
+| 24 <font color="#000000">三</font> | CC        | TT        | TT        | TT        | TT        | TT         | 每日做饭任务取消，新增每日推荐五篇文章 |
+| 25 <font color="#000000">四</font> | CC        | TT        | TT        | TT        | TT        | TT         |                                        |
+| 26 <font color="#000000">五</font> | CC        | TT        | TT        | TT        | TT        | TT         |                                        |
+| 27 <font color="#FF0000">六</font> | CC        | TT        | TT        | TT        | TT        | TT         |                                        |
+| 28 <font color="#FF0000">日</font> | CC        | TT        | FF        | FF        | TT        | TT         | 和家人去上海迪士尼                     |
+| 29 <font color="#000000">一</font> | CC        | TT        | TT        | TT        | TT        | TT         |                                        |
+| 30 <font color="#000000">二</font> | CC        | TT        | TT        | TT        | FF        | FF         | 老婆办理住院手续，生小孩               |
+| 31 <font color="#000000">三</font> | CC        | TT        | FF        | FF        | FF        | FF         | 二宝出生第二天                         |
 
 ----
 
@@ -166,36 +166,36 @@ description: 今天：2018 年 11 月 22 日，2018 年仅剩下 39 天。每日
 ##### 2018 年 12 月每日计划性任务打卡记录（时间没到，未开始）
 > 打卡信息为前一天的数据
 
-| 12 月 |每日任务-1 |每日任务-2 |每日任务-3 |每日任务-4 |每日任务-5 |备注       |
-|:-----:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-|  1 六 |           |           |           |           |           |           |
-|  2 日 |           |           |           |           |           |           |
-|  3 一 |           |           |           |           |           |           |
-|  4 二 |           |           |           |           |           |           |
-|  5 三 |           |           |           |           |           |           |
-|  6 四 |           |           |           |           |           |           |
-|  7 五 |           |           |           |           |           |           |
-|  8 六 |           |           |           |           |           |           |
-|  9 日 |           |           |           |           |           |           |
-| 10 一 |           |           |           |           |           |           |
-| 11 二 |           |           |           |           |           |           |
-| 12 三 |           |           |           |           |           |           |
-| 13 四 |           |           |           |           |           |           |
-| 14 五 |           |           |           |           |           |           |
-| 15 六 |           |           |           |           |           |           |
-| 16 日 |           |           |           |           |           |           |
-| 17 一 |           |           |           |           |           |           |
-| 18 二 |           |           |           |           |           |           |
-| 19 三 |           |           |           |           |           |           |
-| 20 四 |           |           |           |           |           |           |
-| 21 五 |           |           |           |           |           |           |
-| 22 六 |           |           |           |           |           |           |
-| 23 日 |           |           |           |           |           |           |
-| 24 一 |           |           |           |           |           |           |
-| 25 二 |           |           |           |           |           |           |
-| 26 三 |           |           |           |           |           |           |
-| 27 四 |           |           |           |           |           |           |
-| 28 五 |           |           |           |           |           |           |
-| 29 六 |           |           |           |           |           |           |
-| 30 日 |           |           |           |           |           |           |
-| 30 一 |           |           |           |           |           |           |
+| 12 月                              |每日任务-1 |每日任务-2 |每日任务-3 |每日任务-4 |每日任务-5 |备注       |
+|:----------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|  1 <font color="#FF0000">六</font> |           |           |           |           |           |           |
+|  2 <font color="#FF0000">日</font> |           |           |           |           |           |           |
+|  3 <font color="#000000">一</font> |           |           |           |           |           |           |
+|  4 <font color="#000000">二</font> |           |           |           |           |           |           |
+|  5 <font color="#000000">三</font> |           |           |           |           |           |           |
+|  6 <font color="#000000">四</font> |           |           |           |           |           |           |
+|  7 <font color="#000000">五</font> |           |           |           |           |           |           |
+|  8 <font color="#FF0000">六</font> |           |           |           |           |           |           |
+|  9 <font color="#FF0000">日</font> |           |           |           |           |           |           |
+| 10 <font color="#000000">一</font> |           |           |           |           |           |           |
+| 11 <font color="#000000">二</font> |           |           |           |           |           |           |
+| 12 <font color="#000000">三</font> |           |           |           |           |           |           |
+| 13 <font color="#000000">四</font> |           |           |           |           |           |           |
+| 14 <font color="#000000">五</font> |           |           |           |           |           |           |
+| 15 <font color="#FF0000">六</font> |           |           |           |           |           |           |
+| 16 <font color="#FF0000">日</font> |           |           |           |           |           |           |
+| 17 <font color="#000000">一</font> |           |           |           |           |           |           |
+| 18 <font color="#000000">二</font> |           |           |           |           |           |           |
+| 19 <font color="#000000">三</font> |           |           |           |           |           |           |
+| 20 <font color="#000000">四</font> |           |           |           |           |           |           |
+| 21 <font color="#000000">五</font> |           |           |           |           |           |           |
+| 22 <font color="#FF0000">六</font> |           |           |           |           |           |           |
+| 23 <font color="#FF0000">日</font> |           |           |           |           |           |           |
+| 24 <font color="#000000">一</font> |           |           |           |           |           |           |
+| 25 <font color="#000000">二</font> |           |           |           |           |           |           |
+| 26 <font color="#000000">三</font> |           |           |           |           |           |           |
+| 27 <font color="#000000">四</font> |           |           |           |           |           |           |
+| 28 <font color="#000000">五</font> |           |           |           |           |           |           |
+| 29 <font color="#FF0000">六</font> |           |           |           |           |           |           |
+| 30 <font color="#FF0000">日</font> |           |           |           |           |           |           |
+| 30 <font color="#000000">一</font> |           |           |           |           |           |           |
