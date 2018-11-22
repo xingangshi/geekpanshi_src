@@ -23,7 +23,7 @@ description: >-
   我书读的多，不会骗你，在这里可以查看到我的博客的每日更新内容，而且可以通过 邮件 或者 RSS
   订阅我的博客，更多的订阅方式和精彩内容将不断的推出的。如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的。
 top: 1000010
-date: 2018-11-16 21:00:02
+date: 2018-11-22 21:00:02
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -126,6 +126,8 @@ date: 2018-11-16 21:00:02
 > [URL](https://us19.admin.mailchimp.com/lists/) ：Mailchimp，嵌入式第三方邮件订阅、邮件营销系统。
 >
 > [URL](https://www.livere.com/insight/config) ：livere，嵌入式第三方评论管理系统。
+>
+> [URL](https://www.algolia.com) ：Algolia，为网站与移动应用提供托管式搜索 API。
 
 ------
 
@@ -171,3 +173,9 @@ date: 2018-11-16 21:00:02
 > ![结束语](https://i.imgur.com/O8X5Ft1.jpg 结束语)
 >
 > <font color="#0000FF" size=3>如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的，[<font color="red" size=4>联系我</font>](/about/ "联系我")。</font>
+
+---
+
+#### 版本记录
+> v1.0，2018-11-16。
+> v1.0，2018-11-22，增加 `5.5 博客嵌入式第三方插件，Algolia`。

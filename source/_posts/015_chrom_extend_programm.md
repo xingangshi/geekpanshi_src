@@ -1,5 +1,5 @@
 ---
-title: Chrom 常用扩展推荐
+title: Chrome 常用扩展推荐
 tags:
   - 软件推荐
   - 时间管理
@@ -27,7 +27,7 @@ description: 不装扩展（Extensions）的 Chrome 只能发挥它 40% 的能�
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### Chrom 常用扩展推荐
+### Chrome 常用扩展推荐
 
 ---
 >
@@ -172,7 +172,9 @@ The QR Code Extension：允许当前页面生成QR码，并使用网络摄像头
 > TODO
 ---
 
-##### 备注
+---
+
+##### 版本记录
 >
 1. 软件推荐第一版，v1.0，第一版编辑时间：2018-09-25。
 2. 软件推荐第一版，v1.1，第一版编辑时间：2018-11-20。

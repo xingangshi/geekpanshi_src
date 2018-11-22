@@ -26,7 +26,7 @@ top: 1000007
 ---
 
 > Markdown 语法各平台和工具略有不同，此处以 [Typora](https://www.typora.io/ "Typora") 为准。
-> [《常用软件网站推荐》](/2018/10/15/022_software_recommened/) 一文中，`写作工具推荐` 中有提到 推荐 Markdown，也提到 [Typora](/2018/10/15/022_software_recommened/)。
+> [《常用软件网站推荐》](/archives/6f958ce8.html) 一文中，`写作工具推荐` 中有提到 推荐 Markdown，也提到 [Typora](/2018/10/15/022_software_recommened/)。
 > 这里对 Markdwon 的使用语法做一个系统和详细的介绍，相信可以帮助你快速掌握。
 >
 > 友情提示：此文稍长，建议边看边操作。
@@ -824,6 +824,8 @@ section 测试
     - [ ] 邀请更多技术牛人到小专栏写作
 
 #### 19. 更多功能（TO Be continue！！！）
+
+---
 
 #### 版本更新记录
 * v.1.0 2017-06-19 初始化；

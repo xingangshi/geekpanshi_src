@@ -42,7 +42,7 @@ keywords:
   - haskell
   - 测试
 description: 1. 个人博客相关。 2. OneTab shared tabs，Shared 95 tabs。 3. 机器学习深度学习神经网络。 4. C++、Lisp、Haskell 编程教程和编程实践。 5. 程序员看一看，单进程编程、测试影响分析和系统稳定性、系统而不是程序、软件工程成功的关键是隐藏信息、现代浏览器的工作原理、一个 Windows 内核、理解你产品的核心用户、为什么阅读会导致近视。
-date: 2018-11-12 08:47:50
+date: 2018-11-22 08:47:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -100,6 +100,8 @@ password:
 > [URL](https://us19.admin.mailchimp.com/lists/) ：Mailchimp，嵌入式第三方邮件订阅、邮件营销系统。
 >
 > [URL](https://www.livere.com/insight/config) ：livere，嵌入式第三方评论管理系统。
+>
+> [URL](https://www.algolia.com) ：Algolia，为网站与移动应用提供托管式搜索 API。
 
 #### 2. OneTab shared tabs: Shared 95 tabs
 > [URL](https://www.one-tab.com/page/iuhaZwpoSqy-HEeuMIdooA) ：OneTab shared tabs
@@ -128,5 +130,8 @@ password:
 > [URL](https://wanqu.co/a/6813/%E7%90%86%E8%A7%A3%E4%BD%A0%E4%BA%A7%E5%93%81%E7%9A%84%E6%A0%B8%E5%BF%83%E7%94%A8%E6%88%B7/) ：理解你产品的核心用户
 > [URL](http://www.eye-tuebingen.de/the-institute/news-events/news/news-article/60-why-might-reading-make-myopic/) ：为什么阅读会使近视？：眼科研究所Tuebingen
 
+---
+
 #### 版本记录
 > v1.0，2018-11-12。
+> v1.0，2018-11-22，增加 `1.5 博客嵌入式第三方插件，Algolia`。

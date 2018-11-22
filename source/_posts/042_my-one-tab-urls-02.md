@@ -75,12 +75,12 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://www.zhihu.com/question/40651541) ：如何反驳【道理我都懂 可我就是想xx】？
 > [URL](https://www.zhihu.com/question/52970841) ：大道理我都懂，可是我总是不想学习怎么办？
 > [URL](https://www.zhihu.com/question/301459876) ：所谓厉害的人，遇到问题时的思维模式与我们的差别在哪？
+> [URL](https://zhuanlan.zhihu.com/p/50390309) ：效率的故事
 
 #### 7. Books
 > [URL](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#) ：Pinker Book Recommendations
-> [URL](http://www.dataorienteddesign.com/dodbook/) ：Data-Oriented Design
+> [URL](http://www.dataorienteddesign.com/dodbook/) ：Data-Oriented Design。面向数据的设计。
 > [URL](http://www.runoob.com/w3cnote/vue-js-quickstart.html) ：Vue.js 入门教程 | 菜鸟教程
-> [URL](http://www.dataorienteddesign.com/dodmain/) ：Data-Oriented Design
 > [URL](https://beej.us/guide/bggdb/) ：Beej's Quick Guide to GDB
 > [URL](https://github.com/hmemcpy/milewski-ctfp-pdf/releases/tag/v1.0.0) ：Release Category Theory for Programmers · hmemcpy/milewski-ctfp-pdf
 
@@ -114,6 +114,8 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://blog.osteele.com/2008/05/my-git-workflow/) ：My Git Workflow
 > [URL](https://blog.sourced.tech/post/deduplicating_pga_with_apollo/) ：Deduplicating files in Public Git Archive · source{d} blog
 > [URL](http://www.metacase.com/blogs/stevek/blogView?entry=3714903141) ：Linux, Git, MetaEdit+: how three Finns brought versioning, models & code together
+
+---
 
 #### 版本记录
 > v1.0，2018-10-26；
