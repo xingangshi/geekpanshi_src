@@ -51,7 +51,7 @@ keywords:
   - OCR
   - 文字识别
 description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
-date: 2018-11-20 19:18:50
+date: 2018-11-22 19:18:50
 password:
 top: 1000008
 ---
@@ -119,6 +119,7 @@ top: 1000008
 > [URL](https://ip.rtbasia.com/) ：RTBAsia ODX - Open Data Exchange
 > [URL](https://www.ipip.net/) ：IPIP.NET_最专业的 IP 地址库_IPIP.NET
 > [URL](https://www.opengps.cn/Data/IP/LocHighAcc.aspx) ：高精度IP定位 - openGPS.cn
+> [URL](https://www.ip2location.com/) ：使用 IP2Location 地理位置库来定位 IP 地址位置。
 
 #### 5. whois 查询：WHOIS 搜索，域名，网站和IP工具
 > [URL](https://who.is/) ：WHOIS Search, Domain Name, Website, and IP Tools - Who.is
@@ -192,3 +193,4 @@ top: 1000008
 #### 版本记录
 > v1.0，2018-10-25；
 > v1.1，2018-11-20。
+> v1.2，2018-11-22，网友 `Keris Topa` 推荐增加一个国外的 IP 定位的网站，再此谢谢。

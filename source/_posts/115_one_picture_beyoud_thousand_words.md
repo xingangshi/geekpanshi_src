@@ -14,7 +14,7 @@ comments: true
 toc: true
 categories:
   - 生活点滴
-  - 杂谈一二
+  - 以图为鉴
 abbrlink: ba320aa2
 daovoice: ture
 keywords:
@@ -32,7 +32,7 @@ keywords:
 photos:
   - 'https://i.imgur.com/qyoCLqG.jpg'
 description: 千言万语不如一图，因为一图胜千言，我们要学会用图片去表达和描述自己的感情，这里记录了我看到有趣的图和自己一点感想。
-date: 2018-11-21 23:59:51
+date: 2018-11-22 18:59:51
 ---
 > 千言万语不如一图，因为一图胜千言，我们要学会用图片去表达和描述自己的感情，这里记录了我看到有趣的图和自己一点感想。
 ---
@@ -210,3 +210,218 @@ date: 2018-11-21 23:59:51
 > 卡德尔职业规划三条件图，涉及：擅长、想要和成就间的选择。
 >>
 >> ![卡德尔职业规划三条件图](https://ws2.sinaimg.cn/large/006tNbRwgy1fxghgzhp6hj310a0u0414.jpg)
+
+#### 产品生产应该有的样子
+> 产品生产应该有的样子。
+>>
+>> ![产品生产应该有的样子-1](https://i.imgur.com/qb7Y4ll.png)
+>> ![产品生产应该有的样子-2](https://i.imgur.com/M08HcPX.png)
+
+#### 如何把会议时间控制在22分钟内
+> 如何把会议时间控制在22分钟内。
+>>
+>> ![如何把会议时间控制在22分钟内](https://i.imgur.com/CRIGSD2.png)
+
+#### 今天你在哪一步？
+> 今天你在哪一步。
+>>
+>> ![今天你在哪一步？](https://i.imgur.com/drI0uIS.png)
+
+#### 我们永远无法令所有人满意
+> 做好自己才是最重要的，因为我们永远无法令所有人满意。
+>>
+>> ![我们永远无法令所有人满意](https://i.imgur.com/POgNyIg.png)
+
+#### 知识经验创意的区别
+> 知识经验创意的区别。
+>>
+>> ![知识经验创意的区别](https://i.imgur.com/2cx6kFg.png)
+
+#### 信息知识智慧的区别
+> 信息知识智慧的区别。
+>>
+>> ![信息知识智慧的区别](https://i.imgur.com/3ZFEttO.png)
+>> ![知识智慧的区别](https://i.imgur.com/VQ7l5J8.png)
+
+#### 优秀职场人士的十六个特征
+> 优秀职场人士的十六个特征。
+>>
+>> ![优秀职场人士的十六个特征](https://i.imgur.com/BUO6VGe.png)
+
+#### 谷歌删除“Don't be evil”条款
+> 谷歌删除“Don't be evil”条款。
+>>
+>> ![谷歌删除“Don't be evil”条款](https://i.imgur.com/ZUyY33u.png)
+
+#### 康威定律
+> 康威定律：设计软件系统的组织，不得不设计出与其沟通结构相一致的软件系统结构。
+>>
+>> ![康威定律](https://i.imgur.com/NyrYV45.png)
+
+#### 十个科学的方式让自己变的更加快乐
+> 十个科学的方式让自己变的更加快乐。
+>>
+>> ![十个科学的方式让自己变的更加快乐](https://i.imgur.com/Ehiu0Ii.png)
+
+#### 勿以恶小而为之
+> 勿以恶小而为之。
+>>
+>> ![勿以恶小而为之](https://i.imgur.com/HTlhm5m.png)
+
+#### 李笑来之进取型人格格言
+> 李笑来之进取型人格格言。
+>>
+>> ![李笑来之进取型人格格言](https://i.imgur.com/kgelVY7.png)
+
+#### 书中自有黄金屋
+> 书中自有黄金屋。
+>>
+>> ![书中自有黄金屋](https://i.imgur.com/lx2frO9.png)
+
+#### 知行合一（王阳明）
+> 知行合一（王阳明）。
+>>
+>> ![知行合一（王阳明）](https://i.imgur.com/tdg1jq3.png)
+
+#### 父母眼中的爱情和亲情
+> 父母眼中的爱情和亲情。
+>>
+>> ![父母眼中的爱情和亲情](https://i.imgur.com/zB43AKg.png)
+
+#### 保持创造力的四十种方法
+> 保持创造力的四十种方法。
+>>
+>> ![保持创造力的四十种方法](https://i.imgur.com/f0X3W3N.png)
+
+#### 高手处理事情的十二个方法
+> 高手处理事情的十二个方法。
+>>
+>> ![高手处理事情的十二个方法](https://i.imgur.com/35049RF.png)
+
+#### 心灵鸡汤套路总结
+> 心灵鸡汤套路总结。
+>>
+>> ![心灵鸡汤套路总结](https://i.imgur.com/meFT1LF.png)
+
+#### 该不该离职？
+> 该不该离职？
+>>
+>> ![该不该离职？](https://i.imgur.com/HxCc8JW.png)
+
+#### 创业法典
+> 创业法典。
+>>
+>> ![创业法典](https://i.imgur.com/AiiLDUG.png)
+
+#### 开源软件的实际维护并不是你想想的那样
+> 开源软件的实际维护并不是你想想的那样。
+>>
+>> ![开源软件的实际维护并不是你想想的那样](https://i.imgur.com/ilddkwT.png)
+
+#### 乔布斯：公司大了以后
+> 乔布斯：公司大了以后……
+>>
+>> ![乔布斯：公司大了以后](https://i.imgur.com/kfFqvVa.png)
+
+#### 时间管理：四象限法则
+> 时间管理：四象限法则。
+>>
+>> ![时间管理：四象限法则](https://i.imgur.com/eQdZtv6.png)
+
+#### 互联网工作生存指南
+> 互联网工作生存指南。
+>>
+>> ![互联网工作生存指南](https://i.imgur.com/Vka3eA7.png)
+
+#### 学习和无知哪个代价更大
+> 学习和无知哪个代价更大。
+>>
+>> ![学习和无知哪个代价更大](https://i.imgur.com/AACzICy.png)
+
+#### 企业文化与发展结果
+> 企业文化与发展结果。
+>>
+>> ![企业文化与发展结果](https://i.imgur.com/e2F5wJw.png)
+
+#### HHKB
+> HHKB。
+>>
+>> ![HHKB-1](https://i.imgur.com/ZnHslWW.png)
+>> ![HHKB-2](https://i.imgur.com/T35CWcU.png)
+>> ![HHKB-3](https://i.imgur.com/6jvGibZ.png)
+
+#### 我们为什么非读书不可？
+> 女王的教室：我们为什么非读书不可？
+>>
+>> ![我们为什么非读书不可？](https://i.imgur.com/rCelJQp.png)
+
+#### 一线城市住房需求标准
+> 一线城市住房需求标准。
+>>
+>> ![一线城市住房需求标准](https://i.imgur.com/3FHfTk7.png)
+
+#### 泰坦尼克和诺亚方舟
+> 泰坦尼克和诺亚方舟。
+>>
+>> ![泰坦尼克和诺亚方舟](https://i.imgur.com/t6WScSc.png)
+
+#### 项目团队的实际情况
+> 项目团队的实际情况。
+>>
+>> ![项目团队的实际情况-1](https://i.imgur.com/5MktgId.png)
+>> ![项目团队的实际情况-2](https://i.imgur.com/v77QHgP.jpg)
+
+#### 婴儿配方奶粉对比表
+> 婴儿配方奶粉对比表。
+>>
+>> ![婴儿配方奶粉对比表](https://i.imgur.com/tVXYnUo.png)
+
+#### 各国父母辅导孩子时间
+> 各种父母每周帮助孩子学习的时间。
+>>
+>> ![各国父母辅导孩子时间](https://i.imgur.com/hMObaRi.png)
+
+#### 永不言弃
+> 永不言弃。
+>>
+>> ![永不言弃](https://i.imgur.com/RAxERFZ.png)
+
+#### 过去和现在的对比
+> 过去和现在的对比。
+>>
+>> ![过去和现在的对比](https://i.imgur.com/VrNCuZ8.png)
+
+#### 十年间我的知识来源变化
+> 十年间我的知识来源变化。
+>>
+>> ![十年间我的知识来源变化](https://i.imgur.com/rKqpmq1.png)
+
+#### 设计的方式和用户实际的方式
+> 设计的方式和用户实际的方式。
+>>
+>> ![设计的方式和用户实际的方式](https://i.imgur.com/80Skusd.png)
+
+#### 自强不息、奋发向上
+> 自强不息、奋发向上。
+>>
+>> ![自强不息、奋发向上](https://i.imgur.com/1yDE6CU.png)
+
+#### 有容乃大、无欲则刚
+> 海纳百川、有容乃大，壁立千仞、无欲则刚。
+>>
+>> ![有容乃大、无欲则刚](https://i.imgur.com/Ckhn4ge.png)
+
+#### 天道酬勤
+> 天道酬勤。
+>>
+>> ![天道酬勤](https://i.imgur.com/O8JGZeI.png)
+
+#### 家和万事兴
+> 家和万事兴。
+>>
+>> ![家和万事兴](https://i.imgur.com/0UJM2ts.jpg)
+
+
+#### 版本记录
+> v1.0，2018-11-21；
+> v1.1，2018-11-22，新增部分之前收藏的图片。
