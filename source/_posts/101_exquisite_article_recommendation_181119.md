@@ -6,6 +6,7 @@ tags:
   - 软件推荐
   - 在线课程
   - 荐书
+  - 亲子互动
 comments: true
 toc: true
 categories:
@@ -25,6 +26,8 @@ keywords:
   - scratch
   - Scratch
   - DoodleMaster
+  - 儿童学编程
+  - 儿童编程
 description: >-
   1. CI / CD（持续集成、持续交付），CI完成后，持续交付。CD在选定的不确定性中自动化应用程序部署。 2. 10分钟使用排版技术。3. Doodle
   Master旨在将您的UI模型转换为真实代码。目前，该存储库仅用于演示人工智能设计工具的概念证明。4.
@@ -81,3 +84,7 @@ password:
 > Scratch是MIT媒体实验室终生幼儿园小组开发的一个免费项目。
 >
 > [scratch，儿童编程网站](https://scratch.mit.edu/)
+>
+> [makecode，手把手计算教育](https://www.microsoft.com/en-us/makecode)
+>
+> [微软为教孩子们编程 用《我的世界》做了个编程教程](https://code.org/)

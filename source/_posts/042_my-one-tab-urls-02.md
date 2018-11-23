@@ -25,6 +25,20 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记 5. WorkFlowy ……
 
 ---
+#### 站内内链
+> [URL](/archives/4f25f01c.html) ：程序员的网站大全
+> [URL](/archives/5cc771ed.html) ：免费的编程书籍
+> [URL](/archives/6f958ce8.html) ：常用软件网站推荐
+> [URL](/archives/d8d6241.html) ：Chrome 常用扩展推荐
+> [URL](/archives/5cc771ed.html) ：免费的编程书籍
+> [URL](/archives/ba320aa2.html) ：一图胜千言（前方高能，图大，慎点）
+> [URL](/archives/15582198.html) ：2019 年时间管理之我的笔记模板打包下载
+> [URL](/archives/a7a1df11.html) ：人间不值得，Vim 依然值得学习（编辑器比较和选择指南）
+> [URL](/archives/5bf43b3d.html) ：可能是史上最全的机器学习和 Python（包括数学）速查表
+> [URL](/archives/ecc73a73.html) ：My-One-Tab-URLS-01 网络工具大全
+> [URL](/archives/9e708c90.html) ：My-One-Tab-URLS-02 康奈尔笔记法等
+> [URL](/archives/4875a258.html) ：My-One-Tab-URLS-03 个人博客相关等
+---
 
 #### 1. 学习相关
 > [URL](https://ccl.northwestern.edu/netlogo/) ：NetLogo Home Page
@@ -52,6 +66,7 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](http://www.linuxeden.com/a/37501) ：开源堡垒机 Jumpserver 1.4.2 发布，支持 web sftp-Linuxeden开源社区
 > [URL](https://breachinsider.com/blog/2018/security-for-startups-what-you-need-to-know/) ：Security for Startups – What you need to know - Breach Insider
 > [URL](https://beebom.com/subreddits-improve-english/) ：15 Subreddits That Help You Improve Your English | Beebom
+> [URL](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006379) ：科学家的十条简单规则：提高您的写作效率
 
 #### 4. 子弹笔记
 > [URL](https://www.evernote.com/client/snv?noteGuid=5d72cb76-775e-4538-8915-99b2caa75d31&noteKey=4bad8519e74a4491&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs1%2Fsh%2F5d72cb76-775e-4538-8915-99b2caa75d31%2F4bad8519e74a4491&exp=ENB3907&title=%25E9%259B%25BB%25E8%2585%25A6%25E7%258E%25A9%25E7%2589%25A9%25E7%259A%2584%25E5%25AD%2590%25E5%25BD%2588%25E7%25AD%2586%25E8%25A8%2598%25E6%25B3%2595%25E6%25A8%25A1%25E6%259D%25BF) ：電腦玩物的子彈筆記法模板
@@ -115,6 +130,8 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://blog.osteele.com/2008/05/my-git-workflow/) ：My Git Workflow
 > [URL](https://blog.sourced.tech/post/deduplicating_pga_with_apollo/) ：Deduplicating files in Public Git Archive · source{d} blog
 > [URL](http://www.metacase.com/blogs/stevek/blogView?entry=3714903141) ：Linux, Git, MetaEdit+: how three Finns brought versioning, models & code together
+> [URL](https://mikegerwitz.com/papers/git-horror-story) ：一个Git恐怖故事：签名提交的存储库完整性
+
 
 ---
 

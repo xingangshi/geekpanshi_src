@@ -102,12 +102,19 @@ top: 1000008
 > [URL](http://demo.hyperfiddle.net/:clojurians!channel/) ：使用Datomic实时开发 Web 仪表板
 
 ##### 1.5 JSON 格式化
-> [URL](http://www.bejson.com/) ：在线 JSON 校验格式化工具（Be JSON） JSON格式化
-> [URL](https://www.beejson.com/) ：JSON 在线解析 | JSON 在线 | JSON 在线格式化 | JSON在线工具 | Bee JSON JSON格式化
+> [URL](http://www.bejson.com/) ：在线 JSON 校验格式化工具（Be JSON） JSON 格式化
+> [URL](https://www.beejson.com/) ：JSON 在线解析 | JSON 在线 | JSON 在线格式化 | JSON在线工具 | Bee JSON JSON 格式化
+> [URL](https://www.beejson.com/) ：jq是一个轻量级且灵活的命令行 JSON 格式化 处理器。
 
 ##### 1.6 SQL 格式化
 > [URL](https://sqlfum.pt/) ：sqlfmt，一个在线 SQL 格式化程序，[官网链接](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)。
 
+##### 1.7 python 格式化
+> [URL](https://black.now.sh) ：Python代码格式化程序。
+> [URL](https://yapf.now.sh/) ： YAPF是Google拥有的Python文件的开源格式化程序。
+
+##### 1.8 JS、CSS、HTML、XML格式化
+> [URL](http://www.unminify.org/) ：在线JavaScript css unminify和html xml 格式化 工具。
 
 #### 2. 图片处理
 
@@ -131,6 +138,10 @@ top: 1000008
 ##### 2.4 表情库
 > [URL](http://openmoji.org/library.html) ：面向设计师，开发人员和其他所有人的开源表情符号！
 
+##### 2.5 画画涂鸦
+> [URL](https://worlddraw.withgoogle.com/draw) ：画出你的世界。
+> [URL](https://www.autodraw.com/) ：简单几笔画出你想要的图标和东西。
+> [URL](https://quickdraw.withgoogle.com/) ：快速涂鸦。
 
 #### 3. 实用工具大全
 
@@ -159,7 +170,6 @@ top: 1000008
 > [URL](http://weavesilk.com/) ：Silk – Interactive Generative Art 艺术画生成
 > [URL](http://www.zhaodll.com/) ：找DLL下载站_dll下载,免费找回丢失的 DLL 文件
 > [URL](http://ctf.ssleye.com/) ：CTF 在线工具 - CTF 工具 | CTF 编码 | CTF 密码学 | CTF 加解密 | 程序员工具 | 在线编解码
-
 
 #### 4. 知识库
 > [URL](https://www.toutiao.io/tags) ：知识库 - 开发者头条
