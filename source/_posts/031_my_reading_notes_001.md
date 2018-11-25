@@ -12,6 +12,15 @@ categories:
   - 日常更新
 abbrlink: 32d578a0
 date: 2018-10-20 12:00:03
+keywords:
+  - 读书札记
+  - 读书笔记
+  - geekpanshi
+  - geek panshi
+  - panshi
+  - 时间管理
+  - 读书荐书
+description: 「 所谓札记，就是看到或者想到的集合，勤动笔，下笔则如有神。每册札记 30 篇。」个人随笔，每日一章，从2018年9月21日开始，不一定每日一篇连续，每 30 篇一册。2018年9月21日到10月20日，总计 30 篇，第一册完成。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -31,6 +40,21 @@ date: 2018-10-20 12:00:03
 > 3. 我的读书札记第一册，版本 v 1.0.2。
 
 ---
+#### 札记汇总及下载地址
+> 1. [读书笔记之《道德经》](/archives/176010b5.html)
+>> 读书笔记之《道德经》，下载链接: https://pan.baidu.com/s/1QuVGMADLPUowQM6F9TXiOw 提取码: n7di 。
+> 2. [读书笔记之《斯坦福极简经济学》](/archives/571f947c.html)
+>> 读书笔记之《斯坦福极简经济学》，下载链接: https://pan.baidu.com/s/1em3jaWJaGLBrbGMNUO6N0w ，提取码: kvun 。
+> 3. [读书札记第一册集锦（1/30 - 30/30）](/archives/32d578a0.html)
+>> 读书札记第一册集锦（1/30 - 30/30），下载链接: https://pan.baidu.com/s/1wT6Kxp_jzL4UPrqYJ7W7zQ ，提取码: a95e 。
+> 4. [读书札记之敏捷软件开发过程札记v4.1.2](/archives/afa323f2.html)
+>> 读书札记之敏捷软件开发过程札记v4.1.2，下载链接: https://pan.baidu.com/s/16Xh24jkp_cMjWsN4d7JEtw ，提取码: hxbr 。
+> 5. [读书札记第二册集锦（1/30 - 30/30）](/archives/6496e54c.html)
+>> 读书札记第二册集锦（1/30 - 30/30），下载链接: https://pan.baidu.com/s/1BRy9gVi1IsI2YScOat9AUg ，提取码: 1ubn 。
+
+> 6. [<font color="red"> 札记汇总</font>](/tags/札记汇总/)
+>> 札记汇总打包下载-截止20181125，下载链接: https://pan.baidu.com/s/1-HN5GVVfW1QjNB3rBUKpPA ，提取码: ejcw 。
+----
 
 #### 1. 羊群效应
 

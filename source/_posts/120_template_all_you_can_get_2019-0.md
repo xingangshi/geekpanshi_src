@@ -22,7 +22,7 @@ keywords:
 photos:
   - 'https://i.imgur.com/dW6Fp3N.jpg'
 description: 2019年，我的所有的笔记模板打包下载，不是为了好看，是为了好用。
-date: 2018-11-22 11:41:01
+date: 2018-11-25 15:53:01
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -34,7 +34,7 @@ date: 2018-11-22 11:41:01
 #### 2019 年年历
 > 2019 年年历。
 >
->> ![2019年年历](https://i.imgur.com/jrzagMA.png 2019年年历)
+>> ![2019年年历](https://i.imgur.com/LVXwUct.png 2019年年历)
 ---
 
 #### 相关博文推荐
@@ -47,9 +47,10 @@ date: 2018-11-22 11:41:01
 > 7. [2019 年每日日常打卡记录（模板）](/archives/8a6129ef.html)
 > 8. [2019 年月计划性任务打卡记录（模板）](/archives/58e9ac7f.html)
 > 9. [2019 年按月每月计划性任务每日打卡记录（模板）](/archives/1e1254ed.html)
-> 10. [2019 年每日日常综合打卡 - 1 月 1 日（模板）](/archives/d8d2e4f6.html)
-> 11. [2019 年365天每日日程安排记录 - 1 月 1 日（模板）](/archives/d62d8325.html)
-> 12. [<font color="red" size=3>2019 年时间管理之我的笔记模板打包下载</font>](/archives/15582198.html)
+> 10. [2019 年 53 周每周周计划及记录 - 第 1 周（模板）](/archives/ac857cd2.html)
+> 11. [2019 年每日日常综合打卡 - 1 月 1 日（模板）](/archives/d8d2e4f6.html)
+> 12. [2019 年365天每日日程安排记录 - 1 月 1 日（模板）](/archives/d62d8325.html)
+> 13. [<font color="red" size=3>2019 年时间管理之我的笔记模板打包下载</font>](/archives/15582198.html)
 ---
 
 
@@ -70,7 +71,11 @@ date: 2018-11-22 11:41:01
 
 > <font color="red" size=3>下载链接</font>
 >
->> 1. [2019年时间管理之我的笔记模板打包](https://pan.baidu.com/s/1czK8whGxMV1b8iay4JOdpQ 2019年时间管理之我的笔记模板打包)，提取码: 325m 。
+>> 1. [2019年时间管理之我的笔记模板打包](https://pan.baidu.com/s/14Gk3e1r9AqCqNJI1fmLLXA 2019年时间管理之我的笔记模板打包)，提取码: x3dg 。
 >>
->> 2. 下载链接: https://pan.baidu.com/s/1czK8whGxMV1b8iay4JOdpQ ，提取码: 325m 。
+>> 2. 下载链接: https://pan.baidu.com/s/14Gk3e1r9AqCqNJI1fmLLXA ，提取码: x3dg 。
 
+
+#### 版本记录
+> v1.0，2018-11-22；
+> v1.1，2018-11-25，修改日历 `10月20日` 错误写成 `10月13日`，增加[2019周计划（模板）](/archives/ac857cd2.html)。

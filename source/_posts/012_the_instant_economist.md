@@ -11,9 +11,18 @@ categories:
   - 学习进阶
   - 读书荐书
 keywords:
+  - 读书札记
+  - 读书笔记
+  - geekpanshi
+  - geek panshi
+  - panshi
+  - 时间管理
+  - 读书荐书
   - 斯坦福极简经济学
   - 经济学
   - 斯坦福
+description: 读书笔记之《斯坦福极简经济学》，「 各种常识的普及和学习，才是我们最需要做和接受事情。这本书通过经济学常识的学习，教你如何果断地权衡利益的得失。」读书笔记，每日一章，从2018年8月15日到 2018年9月20日，共计 36 天。
+
 abbrlink: 571f947c
 date: 2018-09-20 20:03:28
 ---
@@ -28,6 +37,21 @@ date: 2018-09-20 20:03:28
    这本书通过经济学常识的学习，教你如何果断地权衡利益的得失。」
 >
 ---
+#### 札记汇总及下载地址
+> 1. [读书笔记之《道德经》](/archives/176010b5.html)
+>> 读书笔记之《道德经》，下载链接: https://pan.baidu.com/s/1QuVGMADLPUowQM6F9TXiOw 提取码: n7di 。
+> 2. [读书笔记之《斯坦福极简经济学》](/archives/571f947c.html)
+>> 读书笔记之《斯坦福极简经济学》，下载链接: https://pan.baidu.com/s/1em3jaWJaGLBrbGMNUO6N0w ，提取码: kvun 。
+> 3. [读书札记第一册集锦（1/30 - 30/30）](/archives/32d578a0.html)
+>> 读书札记第一册集锦（1/30 - 30/30），下载链接: https://pan.baidu.com/s/1wT6Kxp_jzL4UPrqYJ7W7zQ ，提取码: a95e 。
+> 4. [读书札记之敏捷软件开发过程札记v4.1.2](/archives/afa323f2.html)
+>> 读书札记之敏捷软件开发过程札记v4.1.2，下载链接: https://pan.baidu.com/s/16Xh24jkp_cMjWsN4d7JEtw ，提取码: hxbr 。
+> 5. [读书札记第二册集锦（1/30 - 30/30）](/archives/6496e54c.html)
+>> 读书札记第二册集锦（1/30 - 30/30），下载链接: https://pan.baidu.com/s/1BRy9gVi1IsI2YScOat9AUg ，提取码: 1ubn 。
+
+> 6. [<font color="red"> 札记汇总</font>](/tags/札记汇总/)
+>> 札记汇总打包下载-截止20181125，下载链接: https://pan.baidu.com/s/1-HN5GVVfW1QjNB3rBUKpPA ，提取码: ejcw 。
+----
 
 ##### 1. 人们卖弄的经济学原理只有 50% 是正确的【全书 1/36，微观经济学部分 1/18】
 ###### 1.1 概述
