@@ -16,17 +16,20 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: 5f9a9cbb
 keywords:
   - Yoshua Bengio
   - 深度学习
   - 深度学习AI迈向人类水平的挑战
   - DeepMind
-  - Stack Overflow 
-  - StackOverflow 
+  - Stack Overflow
+  - StackOverflow
   - Azure
   - 微服务
-description:  1. Yoshua Bengio讲座视频《深度学习AI迈向人类水平的挑战》。 2. (DeepMind)深度学习与强化学习进阶课程。3. Stack Overflow 的潜规则，本文教大家如何成为Stack Overflow上的合格的提问者与回答者。4.  在 Azure 上设计，构建和运行微服务。5. 大型项目清单，您可以在此仓库中找到其他用户使用许多其他语言的这些项目的实现。
+description: >-
+  1. Yoshua Bengio讲座视频《深度学习AI迈向人类水平的挑战》。 2. (DeepMind)深度学习与强化学习进阶课程。3. Stack
+  Overflow 的潜规则，本文教大家如何成为Stack Overflow上的合格的提问者与回答者。4.  在 Azure 上设计，构建和运行微服务。5.
+  大型项目清单，您可以在此仓库中找到其他用户使用许多其他语言的这些项目的实现。
 date: 2018-11-25 07:20:50
 password:
 ---

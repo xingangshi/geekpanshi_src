@@ -11,12 +11,12 @@ toc: true
 categories:
   - 生活点滴
   - 日常更新
-abbrlink: 
+abbrlink: 4999a083
 keywords:
   - 摧毁梦想
   - 管理时间
   - 时间管理
-description: 时间管理学专家认为，时间管理的关键在于选择，“并不是通过节省时间来创造理想生活，而是先创造理想的生活，时间会自动节省下来。” 做好时间管理，提高学习效率。 
+description: 时间管理学专家认为，时间管理的关键在于选择，“并不是通过节省时间来创造理想生活，而是先创造理想的生活，时间会自动节省下来。” 做好时间管理，提高学习效率。
 date: 2018-11-25 00:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
