@@ -33,7 +33,7 @@ keywords:
   - Nginx
   - nginx link function
   - Nginx链接功能
-description: 
+description: 知识库构建前沿：自动和半自动知识提取，基本思想是设计自动或半自动的算法，从现有的（自然语言）文档中提取知识。 2. 使用”set -euxo pipefail“更安全的bash脚本，高级语言提供了默认情况下 bash 脚本中不存在的安全措施，在本文中，我们将看看如何改进这一点。3. macOS 下，使用 Visual Studio 代码进行 Swift 开发。4.  您应该在2019年阅读的10本免费编程书籍。5. eDEX-UI是一个类似于科幻电脑界面的全屏桌面应用程序，深受DEX-UI和TRON Legacy电影效果的启发 。
 date: 2018-11-24 07:20:50
 password:
 ---
