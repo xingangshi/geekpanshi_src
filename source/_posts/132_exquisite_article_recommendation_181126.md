@@ -16,7 +16,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 5f9a9cbb
+abbrlink: 4d2f3355
 keywords:
   - 编程书籍
   - BigchainDB
