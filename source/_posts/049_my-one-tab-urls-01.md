@@ -14,7 +14,7 @@ message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: ecc73a73
 photos:
-  - "https://i.imgur.com/C73tsqW.png"
+  - "https://i.imgur.com/Tshp9Oy.png"
 keywords:
   - 操作系统
   - 黑客
@@ -51,8 +51,15 @@ keywords:
   - kalitools
   - OCR
   - 文字识别
+  - icon
+  - 免费图标
+  - akveo
+  - icons
+  - 免费icon
+  - 手写ppt
+  - Diagram
 description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
-date: 2018-11-24 19:18:50
+date: 2018-11-26 19:18:50
 password:
 top: 1000008
 ---
@@ -91,7 +98,8 @@ top: 1000008
 ##### 1.3 在线流程图
 > [URL](https://www.processon.com/) ：ProcessOn - 免费在线作图，实时协作， 流程图 。
 > [URL](https://asciiflow.com/) ：ASCIIFlow Infinity ASCII 码 流程图 。
-> [URL](https://awwapp.com/) ：AWW App ：Online Whiteboard for Realtime Visual Collaboration 白板演示
+> [URL](https://awwapp.com/) ：AWW App ：Online Whiteboard for Realtime Visual Collaboration 白板演示。
+> [URL](https://webdemo.myscript.com/views/diagram/index.html#/edit) ：Diagram ：草绘线条和形状，编写文本，预览并导出为Microsoft PowerPoint格式。
 
 ##### 1.4 前端相关编辑器
 > [URL](http://kindeditor.net/demo.php) ：在线 HTML 编辑器
@@ -135,6 +143,9 @@ top: 1000008
 > [URL](https://icomoon.io/) ：Icon Font & SVG Icon Sets IcoMoon 将 SVG 文件转化成 CSS
 > [URL](https://semantic-ui.com/elements/icon.html) ：静态 icon 黑白 icon 集合。
 > [URL](https://thenounproject.com/) ：可以找到任何你想要的 Icon 、icon。
+> [URL](https://akveo.github.io/eva-icons/#/) ：Eva Icons，伊娃图标，Eva Icons 包含480多个制作精美的开源图标，用于常见操作和项目。。
+> [URL](https://feathericons.com/) ：feathericons，羽毛图标，简单漂亮的开源图标 icon 。
+
 
 ##### 2.4 表情库
 > [URL](http://openmoji.org/library.html) ：面向设计师，开发人员和其他所有人的开源表情符号！
@@ -262,5 +273,6 @@ top: 1000008
 #### 版本记录
 > v1.0，2018-10-25；
 > v1.1，2018-11-20。
-> v1.2，2018-11-22，网友 `Keris Topa` 推荐增加一个国外的 IP 定位的网站，再此谢谢。
-> v1.3，2018-11-24，增加一个 icon 的网站。
+> v1.2，2018-11-22，网友 `Keris Topa` 推荐增加一个国外的 [IP 定位的网站](https://www.ip2location.com/)，再此谢谢。
+> v1.3，2018-11-24，增加一个 icon 的网站工具类型。
+> v1.4，2018-11-26，新增两个开源 icon 网站，[羽毛图标](https://feathericons.com/) 和 [伊娃图标](https://akveo.github.io/eva-icons/#/)。

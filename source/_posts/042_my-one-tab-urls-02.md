@@ -3,6 +3,9 @@ title: My-One-Tab-URLS-02 康奈尔笔记法等（20180929-20181023）
 tags:
   - 数据人生
   - OneTab
+  - Git
+  - 时间管理
+  - 财商
 comments: true
 toc: true
 categories:
@@ -12,10 +15,24 @@ abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: 9e708c90
-date: 2018-11-22 07:30:50
+date: 2018-11-26 19:30:50
 password:
 
-keywords: [康奈尔笔记法, 子弹笔记, 效率生活和工作]
+keywords:
+  - 康奈尔笔记法
+  - 子弹笔记
+  - 效率生活和工作
+  - bulletjournal
+  - WorkFlowy
+  - 面向数据的设计
+  - Git
+  - git
+  - 5R笔记法
+  - Cornell NoteTaking System
+  - 堡垒机
+  - 提高您的写作效率
+  - 手帐
+  - Chrome扩展
 description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记 5. WorkFlowy ……
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -70,11 +87,18 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 
 #### 4. 子弹笔记
 > [URL](https://www.evernote.com/client/snv?noteGuid=5d72cb76-775e-4538-8915-99b2caa75d31&noteKey=4bad8519e74a4491&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs1%2Fsh%2F5d72cb76-775e-4538-8915-99b2caa75d31%2F4bad8519e74a4491&exp=ENB3907&title=%25E9%259B%25BB%25E8%2585%25A6%25E7%258E%25A9%25E7%2589%25A9%25E7%259A%2584%25E5%25AD%2590%25E5%25BD%2588%25E7%25AD%2586%25E8%25A8%2598%25E6%25B3%2595%25E6%25A8%25A1%25E6%259D%25BF) ：電腦玩物的子彈筆記法模板
-> [URL](https://www.playpcesor.com/2015/12/bullet-journal.html) ：子彈筆記術(上) Bullet Journal 快狠準清單日記法教學
+> [URL](https://www.playpcesor.com/2015/12/bullet-journal.html) ：子弹笔记术(上) Bullet Journal 快准狠笔记法学习
 > [URL](https://www.playpcesor.com/2016/04/evernote-bullet-journal.html) ：子弹笔记术(下) 最简明的Evernote 每日任务清单实作
 > [URL](https://www.playpcesor.com/2016/12/2017-bullet-journal-evernote.html) ：我的子弹笔记法五个年终进化，做好2017 时间管理准备
 > [URL](https://geekplux.com/2017/07/14/what-is-markvis-md) ：Markvis - 在 markdown 中生成可视化图表) ：GeekPlux
 > [URL](https://bulletjournal.com/pages/learn) ：Learn - Bullet Journal
+> [URL](https://www.douban.com/note/611405225/) ：译｜Bullet Journal 子弹笔记（第一弹）
+> [URL](https://www.douban.com/note/611444402/) ：译｜Bullet Journal 子弹笔记（第二弹）
+> [URL](https://www.douban.com/note/611446191/) ：译｜Bullet Journal 子弹笔记（第三弹）
+> [URL](https://www.brightstarkids.com.au/blog/organising/bullet-journal/) ：How-To Bullet Journal Guide - Bright Star Kids
+> [URL](http://www.sohu.com/a/273944040_260419) ：子弹笔记大法揭秘，不是子弹短信哦_作者
+> [URL](https://thepeacefulmom.com/2017/02/21/how-to-organize-with-a-bullet-journal-bullet-journal-tips-and-hacks/) ：How to Organize With a Bullet Journal (Bullet Journal Tips and Hacks) - The Peaceful Mom
+> [URL](https://pan.baidu.com/s/1RjuAhZWt69fcLU10Vz0IOg) ：子弹笔记国外的ppt，链接: https://pan.baidu.com/s/1RjuAhZWt69fcLU10Vz0IOg 提取码: ancf 。
 
 #### 5. WorkFlowy
 > [URL](https://sspai.com/post/44306) ：WorkFlowy—极简却不简单 - 少数派
@@ -83,7 +107,7 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://dynalist.io/) ：Home - Dynalist
 > [URL](https://instabug.com/blog/cross-platform-development/?utm_source=reddit&utm_medium=social&utm_content=cross_platform_development) ：Your Guide to Cross-Platform Mobile App Development Tools | Instabug Blog
 
-#### 6. 知乎
+#### 6. 知乎精华帖
 > [URL](https://www.zhihu.com/question/20491194/answer/276318495) ：如何玩转 WorkFlowy？
 > [URL](https://www.zhihu.com/question/20686069) ：手帐怎么用？跟日记的区别是什么？
 > [URL](https://www.zhihu.com/question/19594682) ：你极力推荐的 Chrome 扩展有哪些？
@@ -138,4 +162,5 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 #### 版本记录
 > v1.0，2018-10-26；
 > v1.1，2018-11-21；
-> v1.2，2018-11-23。
+> v1.2，2018-11-23；
+> v1.3，2018-11-26，增加部分的子弹笔记的资料。
