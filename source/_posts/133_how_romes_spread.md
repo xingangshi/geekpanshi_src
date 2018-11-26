@@ -8,7 +8,7 @@ toc: true
 categories:
   - 生活点滴
   - 日常更新
-abbrlink:
+abbrlink: 95ffe4ea
 keywords:
   - 谣言
   - 谣言是如何传播的

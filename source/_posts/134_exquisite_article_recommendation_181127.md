@@ -14,7 +14,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: f5935430
 keywords:
   - 改变一个人的行为
   - 关于思考
@@ -24,7 +24,12 @@ keywords:
   - Dampr
   - 数据处理
   - Conda
-description: 1. 如何改变一个人的行为？三要素：Motivation（电话来了，看了号码，不想接），Ability（电话来了，在洗澡，接不了电话），Prompt（电话响了，通知你电话来了）。 2. 关于思考的思考，我们花很少时间监视自己的思想和比较它具有更复杂的理想。3. 自动进度条估算，记录进度条并估算Promise完成所需的时间。该库跟踪先前的持续时间，以便随时间提供更准确的估计。4.  Conda是一个跨平台，语言无关的二进制包管理器。5. Dampr，纯Python数据处理。
+description: >-
+  1.
+  如何改变一个人的行为？三要素：Motivation（电话来了，看了号码，不想接），Ability（电话来了，在洗澡，接不了电话），Prompt（电话响了，通知你电话来了）。
+  2. 关于思考的思考，我们花很少时间监视自己的思想和比较它具有更复杂的理想。3.
+  自动进度条估算，记录进度条并估算Promise完成所需的时间。该库跟踪先前的持续时间，以便随时间提供更准确的估计。4. 
+  Conda是一个跨平台，语言无关的二进制包管理器。5. Dampr，纯Python数据处理。
 date: 2018-11-27 07:20:50
 password:
 ---
