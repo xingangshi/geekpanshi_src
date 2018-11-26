@@ -53,9 +53,13 @@ description: 今天：2018 年 11 月 26 日，2018 年仅剩下 35 天。坚持
 >
 ------
 
-#### [2018年倒计时（点击可查看小程序）](https://i.imgur.com/Qlo5mNr.png, "小程序，2018年倒计时")
-##### 2018年倒计时程序示例
-![2018年倒计时示例](https://i.imgur.com/0oGQ1UP.png)
+#### 2018年倒计时
+
+##### 2018年倒计时小程序
+> ![2018年倒计时（扫码看查看小程序）](https://i.imgur.com/Qlo5mNr.png "小程序 - 2018年倒计时")
+
+##### 2018年倒计时小程序示例
+> <img src="https://i.imgur.com/0oGQ1UP.png" width="400" height="500" div align=center />
 
 #### 1. 记时数据（<font color="red">今天：2018 年 11 月 26 日，2018 年仅剩下 35 天。</font>）
 ##### 1.1 记时信息详情

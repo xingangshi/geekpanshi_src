@@ -61,10 +61,15 @@ date: 2018-11-21 22:10:02
 > 互联网是有记忆的，每个人都需要谨言慎行。永远、永远、永远，不要主动作恶！
 ------
 
-#### [2019年倒计时（查看小程序）](https://i.imgur.com/Qlo5mNr.png, "小程序，2019年倒计时")
-> 2019年倒计时程序示例
->
->> ![2019年倒计时示例](https://ws1.sinaimg.cn/large/006tNbRwgy1fxfbeloli5j30u01o00wy.jpg)
+#### 2019年倒计时
+
+##### 2019年倒计时小程序
+> ![2019年倒计时（扫码看查看小程序）](https://i.imgur.com/Qlo5mNr.png "小程序 - 2019年倒计时")
+
+##### 2019年倒计时小程序示例
+> <img src="https://i.imgur.com/QdNfXIr.png" width="400" height="500" div align=center />
+
+
 
 #### 1. 记时数据（<font color="red">今天：2019 年 11 月 21 日，2019 年仅剩下 40 天。</font>）
 ##### 1.1 记时信息详情
