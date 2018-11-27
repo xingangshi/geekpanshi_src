@@ -10,7 +10,7 @@ toc: true
 categories:
   - 生活点滴
   - 日常更新
-abbrlink: 
+abbrlink: '96421230'
 keywords:
   - 如何学习
   - 重复学习

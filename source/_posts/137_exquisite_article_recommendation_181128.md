@@ -15,7 +15,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: adf04466
 keywords:
   - Pandas
   - 普渡大学
@@ -26,7 +26,10 @@ keywords:
   - walle
   - 代码部署平台
   - 初创公司
-description: 1. 通过 python Pandas 去读取 CSV 文件的指南。 2. 普渡大学的2018年工程礼品指南中充满了有趣的玩具，游戏，书籍和应用程序，以吸引3-18岁的女孩和男孩参与工程思维和设计。3. Gitless，一个基于Git构建的简单版本控制系统。4.  walle，瓦力 开源项目代码部署平台。5. 加入初创公司之前要问的20个问题。
+description: >-
+  1. 通过 python Pandas 去读取 CSV 文件的指南。 2.
+  普渡大学的2018年工程礼品指南中充满了有趣的玩具，游戏，书籍和应用程序，以吸引3-18岁的女孩和男孩参与工程思维和设计。3.
+  Gitless，一个基于Git构建的简单版本控制系统。4.  walle，瓦力 开源项目代码部署平台。5. 加入初创公司之前要问的20个问题。
 date: 2018-11-28 07:20:50
 password:
 ---
