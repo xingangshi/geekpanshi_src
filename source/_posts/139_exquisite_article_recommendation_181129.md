@@ -32,13 +32,13 @@ keywords:
   - 深度学习
   - 数据科学
 date: 2018-11-29 07:20:50
-description:
+description: 1. HTML版电子书：Python数据科学手册，很好的免费数据科学入门书，推荐学习。 2. 免费书：《动手学深度学习》。《Dive into Deep Learning》by Aston Zhang, Zack C. Lipton, Mu Li, lex J. Smola。3. Python的官方教程，Python教程，Python是一种易于学习，功能强大的编程语言。4.  同行代码审查，11个经过验证的实践，可以更有效，更有效地进。5. 我们从2018年总结了10篇重要的AI研究论文，为您提供今年机器学习进展的广泛概述。
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 每日好精选文章推荐-2018年11月29日
->  1. 通过 python Pandas 去读取 CSV 文件的指南。 2. 普渡大学的2018年工程礼品指南中充满了有趣的玩具，游戏，书籍和应用程序，以吸引3-18岁的女孩和男孩参与工程思维和设计。3. Gitless，一个基于Git构建的简单版本控制系统。4.  walle，瓦力 开源项目代码部署平台。5. 加入初创公司之前要问的20个问题。
+>  1. HTML版电子书：Python数据科学手册，很好的免费数据科学入门书，推荐学习。 2. 免费书：《动手学深度学习》。《Dive into Deep Learning》by Aston Zhang, Zack C. Lipton, Mu Li, lex J. Smola。3. Python的官方教程，Python教程，Python是一种易于学习，功能强大的编程语言。4.  同行代码审查，11个经过验证的实践，可以更有效，更有效地进。5. 我们从2018年总结了10篇重要的AI研究论文，为您提供今年机器学习进展的广泛概述。
 
 ---
 #### 1. HTML版电子书：Python数据科学手册
