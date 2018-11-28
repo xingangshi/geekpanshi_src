@@ -16,7 +16,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: 154c2303
 keywords:
   - AI
   - 人工智能论文
@@ -31,8 +31,8 @@ keywords:
   - Dive into Deep Learning
   - 深度学习
   - 数据科学
-description: 
 date: 2018-11-29 07:20:50
+description:
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
