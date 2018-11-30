@@ -1,13 +1,12 @@
 ---
-title: 每日好精选文章推荐-2018年11月29日
+title: 每日好精选文章推荐-2018年11月30日
 tags:
-  - 美文推荐
-  - 测试
-  - 项目管理
-  - 深度学习
+  - 数据结构和算法
   - 在线课程
-  - 人工智能
+  - 优化
   - 数据科学
+  - 时间管理
+  - 前端技术
 comments: true
 toc: true
 categories:
@@ -16,60 +15,59 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 154c2303
+abbrlink: '55244539'
 keywords:
-  - AI
-  - 人工智能论文
-  - 人工智能资料
-  - 代码评审
-  - 同行评审
-  - Python教程
-  - python官方教程
-  - Python数据科学手册
-  - 数据科学教程
-  - 动手学深度学习
-  - Dive into Deep Learning
-  - 深度学习
-  - 数据科学
-date: 2018-11-29 07:20:50
-description: 1. HTML版电子书：Python数据科学手册，很好的免费数据科学入门书，推荐学习。 2. 免费书：《动手学深度学习》。《Dive into Deep Learning》by Aston Zhang, Zack C. Lipton, Mu Li, lex J. Smola。3. Python的官方教程，Python教程，Python是一种易于学习，功能强大的编程语言。4.  同行代码审查，11个经过验证的实践，可以更有效，更有效地进。5. 我们从2018年总结了10篇重要的AI研究论文，为您提供今年机器学习进展的广泛概述。
+  - 数据结构和算法
+  - 算法可视化
+  - ensmallen
+  - C++ 库
+  - 数学优化库
+  - 数据可视化
+  - 饼图
+  - 如何平衡全职工作与创意项目
+  - React
+  - 免费学习React
+  - algorithm Visualizer
+description: >-
+  1. algorithm Visualizer，算法可视化。 2.  ensmallen，灵活的 C++ 库，用于高效的数学优化。3.
+  饼图的5种不寻常的替代品。4. 如何平衡全职工作与创意项目，帮助您找到合适的日常工作，保护您的时间并创造创作习惯。5.
+  免费学习React，由V学校教育主任全面介绍React，这是一所屡获​​殊荣的技术教育学院。
+date: 2018-11-30 07:20:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 每日好精选文章推荐-2018年11月29日
->  1. HTML版电子书：Python数据科学手册，很好的免费数据科学入门书，推荐学习。 2. 免费书：《动手学深度学习》。《Dive into Deep Learning》by Aston Zhang, Zack C. Lipton, Mu Li, lex J. Smola。3. Python的官方教程，Python教程，Python是一种易于学习，功能强大的编程语言。4.  同行代码审查，11个经过验证的实践，可以更有效，更有效地进。5. 我们从2018年总结了10篇重要的AI研究论文，为您提供今年机器学习进展的广泛概述。
+### 每日好精选文章推荐-2018年11月30日
+>  1. algorithm Visualizer，算法可视化。 2.  ensmallen，灵活的 C++ 库，用于高效的数学优化。3. 饼图的5种不寻常的替代品。4. 如何平衡全职工作与创意项目，帮助您找到合适的日常工作，保护您的时间并创造创作习惯。5. 免费学习React，由V学校教育主任全面介绍React，这是一所屡获​​殊荣的技术教育学院。
 
 ---
-#### 1. HTML版电子书：Python数据科学手册
-> HTML版电子书：Python数据科学手册，很好的免费数据科学入门书，推荐学习
-> 
-> [HTML版电子书：Python数据科学手册](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
-#### 2. 免费书：《动手学深度学习》
-> 免费书：《动手学深度学习》。《Dive into Deep Learning》by Aston Zhang, Zack C. Lipton, Mu Li, lex J. Smola 
-> 
-> [动手学深度学习](https://zh.diveintodeeplearning.org/)，[动手学深度学习.pdf](http://zh.diveintodeeplearning.org/d2l-zh.pdf)
-> 
-> [Dive into Deep Learning](https://github.com/diveintodeeplearning/d2l-en)，[英文](http://en.diveintodeeplearning.org/)
-
-#### 3. Python的官方教程
-> Python教程，Python是一种易于学习，功能强大的编程语言。它具有高效的高级数据结构和面向对象编程的简单而有效的方法。Python优雅的语法和动态类型及其解释性使其成为大多数平台上许多领域的脚本编写和快速应用程序开发的理想语言。
-> 
-> [Python的官方教程](https://docs.python.org/3/tutorial/index.html)
-
-#### 4. 同行代码审查，11个经过验证的实践，可以更有效，更有效地进
-> 常识是同行代码审查（软件开发人员在将软件发布到QA之前审查彼此的代码）识别错误，鼓励协作并使代码更易于维护。
-> 
-> 本文介绍了11项有效，轻量级同行代码审查的最佳实践，这些实践已被科学研究和SmartBear广泛的现场经验证明是有效的。使用这些技术可确保代码审查改进代码 - 而不会浪费开发人员的时间。
+#### 1. algorithm Visualizer，算法可视化
+> algorithm Visualizer，算法可视化的一个网站。
 >
-> [ 同行代码审查，11个经过验证的实践，可以更有效，更有效地进](https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/index.html)
+> [algorithm Visualizer，算法可视化](http://algorithm-visualizer.org/#path=backtracking/knight's_tour/basic)
 
-#### 5. 2018年AI研究顶级论文
-> 考虑到行业的快速发展，试图跟上人工智能研究论文可能会觉得这样做是徒劳的。如果你被埋在报纸里读书，你还没有完全找到，那么你很幸运。
-> 
-> 为了帮助您赶上，我们从2018年总结了10篇重要的AI研究论文，为您提供今年机器学习进展的广泛概述。还有更多的突破性论文值得一读，但我们认为这是一个很好的开始。
-> 
-> 我们已尽力正确地总结这些文件，但如果我们犯了任何错误，请与我们联系，要求修复。
-> 
-> [2018年AI研究顶级论文](https://www.topbots.com/most-important-ai-research-papers-2018/)
+#### 2. ensmallen，灵活的 C++ 库，用于高效的数学优化
+> ensmallen 提供了一组简单的抽象，用于编写目标函数进行优化。它还提供了大量标准和尖端优化器，几乎可用于任何数学优化任务。这些包括完整批次梯度下降技术，小批量技术，无梯度优化和约束优化。
+>
+> [ensmallen，灵活的 C++ 库，用于高效的数学优化](http://ensmallen.org/)，[github url](https://github.com/mlpack/ensmallen)。
+
+#### 3. 饼图的5种不寻常的替代品
+> 在数据可视化中工作时，您会听到有关饼图的各种意见。有些人觉得永远不应该使用它们。数学家John Tukey认为没有任何饼图数据无法在任何其他类型的图表中更好地显示。其他人真的很喜欢他们。
+>
+> [饼图的5种不寻常的替代品](https://docs.python.org/3/tutorial/index.html)
+>
+> [墙内，链接](https://pan.baidu.com/s/1WG3aNC-m4UogsAdH96x9dg): https://pan.baidu.com/s/1WG3aNC-m4UogsAdH96x9dg 提取码: bhbr 。
+
+#### 4. 如何平衡全职工作与创意项目
+> 由Jeffrey Silverstein撰写的指南，帮助您找到合适的日常工作，保护您的时间并创造创作习惯，以及Sunny Eckerle的插图。
+>
+> ![Sunny Eckerle的插图](https://i.imgur.com/en9q0fs.png)
+>
+> 在过去的几年里，除了全职教学外，我还成功完成了硕士学位，创办唱片公司，为各种出版物做出贡献，并以拿骚的形式发行/演奏音乐。通过这一切，我练习，失败，并重新制定了平衡全职工作与多个创意方项目的策略。在本指南中，您将找到一些关于保持理智，有组织和有意识的尝试，同时尝试完成所有操作。
+>
+> [如何平衡全职工作与创意项目](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
+
+#### 5. 免费学习React
+> 免费学习React，由V学校教育主任全面介绍React，这是一所屡获​​殊荣的技术教育学院。
+>
+> [免费学习React](https://scrimba.com/g/glearnreact)
