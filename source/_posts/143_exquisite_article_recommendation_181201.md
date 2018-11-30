@@ -16,7 +16,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: 7d78f9e9
 keywords:
   - AutoJump
   - 剖析微信
@@ -24,7 +24,9 @@ keywords:
   - Texar
   - TensorFlow
   - 数据可视化
-description: 1. 张小龙走过的弯路：剖析微信那些失败的功能。 2.  命令行里打 cd 就是在浪费生命。3. 一系列众所周知的软件故障。4. nnn，有史以来最快的终端文件管理器。5. Texar，基于 TensorFlow 的开源工具包。
+description: >-
+  1. 张小龙走过的弯路：剖析微信那些失败的功能。 2.  命令行里打 cd 就是在浪费生命。3. 一系列众所周知的软件故障。4.
+  nnn，有史以来最快的终端文件管理器。5. Texar，基于 TensorFlow 的开源工具包。
 date: 2018-12-01 07:20:50
 password:
 ---
