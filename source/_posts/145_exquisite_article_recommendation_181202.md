@@ -16,14 +16,17 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: 6fcd5607
 keywords:
   - LTUI
   - 时间管理
   - Jupyter
   - API设计
   - 亲子互动
-description: 1. 更好的时间管理，提高自己的生产力。 2.  LTUI，一个基于 Lua 的跨平台终端 ui 库。3. 当你给你的小孩读故事时，小孩的大脑发生了什么。4. 使用基本 UI 原则设计出色的 API。5. TJupyter 进行教学，您已经找到了基于 Jupyter 的学习材料，激发了您的好奇心。
+description: >-
+  1. 更好的时间管理，提高自己的生产力。 2.  LTUI，一个基于 Lua 的跨平台终端 ui 库。3.
+  当你给你的小孩读故事时，小孩的大脑发生了什么。4. 使用基本 UI 原则设计出色的 API。5. TJupyter 进行教学，您已经找到了基于
+  Jupyter 的学习材料，激发了您的好奇心。
 date: 2018-12-02 07:20:50
 password:
 ---
