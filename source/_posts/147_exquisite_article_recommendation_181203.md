@@ -16,14 +16,16 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: d7713162
 keywords:
   - LTUI
   - 时间管理
   - Jupyter
   - API设计
   - 亲子互动
-description:  1. Regex101，一个在线的正则表达式测试网站。 2.  免费在线教程：《2019年的比特币：权威指南》。3. 停止把C ++ 作为第一语言教授。4. C ++ 注解版本10.9.3。5. Pdftilecut，PDF 切分软件。
+description: >-
+  1. Regex101，一个在线的正则表达式测试网站。 2.  免费在线教程：《2019年的比特币：权威指南》。3. 停止把C ++ 作为第一语言教授。4.
+  C ++ 注解版本10.9.3。5. Pdftilecut，PDF 切分软件。
 date: 2018-12-03 07:20:50
 password:
 ---
