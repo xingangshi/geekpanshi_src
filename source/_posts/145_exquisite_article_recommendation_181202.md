@@ -72,5 +72,7 @@ password:
 > ![Jupyter Notebook](https://ws3.sinaimg.cn/large/006tNbRwgy1fxroi8lys5j30f00bjaap.jpg)
 >
 > [使用 Jupyter 进行教学](https://jupyter4edu.github.io/jupyter-edu-book/)
+> 
+> [Github, jupyter-edu-book](https://github.com/jupyter4edu/jupyter-edu-book)
 
 
