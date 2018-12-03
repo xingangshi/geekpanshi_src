@@ -43,9 +43,9 @@ password:
 
 #### 2. 命令行里打 cd 就是在浪费生命
 > 作为工程师，你在命令行下最常打的命令无非就是 cd 与 ls。在自己的 .aliases 文件里就应该有一堆的 cd 到某目录的 alias，比如 j p，就表示跳（jump）到很长的某个 project 目录下。
-> 
+>
 > AutoJump 是一个神奇的斗篷，可让您在命令行中的目录中飞行。该工具的官方描述是“一种更快速的导航文件系统的方式” - 但这并不公平。
-> 
+>
 > [命令行里打 cd 就是在浪费生命](https://olivierlacan.com/posts/cd-is-wasting-your-time/)
 
 #### 3. 一系列众所周知的软件故障
@@ -57,14 +57,14 @@ password:
 > nnn 可能是您使用过的最快且对资源最敏感的文件管理器，
 >
 > 轻松集成 sxiv 或 fzy 等实用程序，或将其用作 vim 文件选择器 ; nnn 支持尽可能多的脚本！
-> 
+>
 > 它运行在 Linux，OS X，Raspberry Pi，Cygwin，Windows 子系统和 Termux 上。
 >
 > [nnn，有史以来最快的终端文件管理器](https://github.com/jarun/nnn)。
 
 #### 5. Texar，基于 TensorFlow 的开源工具包
 > Texar 是一个基于 TensorFlow 的开源工具包，旨在支持广泛的机器学习，尤其是文本生成任务，如机器翻译，对话，摘要，内容操作，语言建模等。Texar 专为研究人员和从业人员设计，用于快速原型设计和实验。
-> 
+>
 > ![Texar Stack](https://ws2.sinaimg.cn/large/006tNbRwgy1fxqv092y4oj31dy0n8dhx.jpg)
 >
 > [Texar，基于TensorFlow的开源工具包](https://github.com/asyml/texar)
