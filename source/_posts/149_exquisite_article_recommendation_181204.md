@@ -17,13 +17,15 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: 4aa609db
 keywords:
   - Pdftilecut
   - regex101
   - 比特币
   - PDF工具
-description: 1. 不要撸牦牛毛，在做事情事要及时止损。 2.  《程序员的数学概论》的 Python 代码实现。3. 程序员入门的一些免费资源分享。4. 如何应对软件项目管理中的一些难缠的人员。5. 不写单元测试的专家的借口汇总。
+description: >-
+  1. 不要撸牦牛毛，在做事情事要及时止损。 2.  《程序员的数学概论》的 Python 代码实现。3. 程序员入门的一些免费资源分享。4.
+  如何应对软件项目管理中的一些难缠的人员。5. 不写单元测试的专家的借口汇总。
 date: 2018-12-04 07:20:50
 password:
 ---

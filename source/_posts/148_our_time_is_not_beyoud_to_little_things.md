@@ -9,7 +9,7 @@ toc: true
 categories:
   - 生活点滴
   - 日常更新
-abbrlink: 
+abbrlink: d5c6fa97
 keywords:
   - 爱情到底是什么
   - 李米的猜想
