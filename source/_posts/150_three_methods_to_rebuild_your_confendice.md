@@ -9,7 +9,7 @@ toc: true
 categories:
   - 生活点滴
   - 日常更新
-abbrlink: 
+abbrlink: 5b17ea21
 keywords:
   - 如何变得自信起来
   - 我不是药神

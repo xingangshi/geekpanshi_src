@@ -16,7 +16,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: f21a6ebe
 keywords:
   - 谷歌云
   - 机器学习资料
@@ -27,7 +27,9 @@ keywords:
   - 网络工具
   - 微软开源工具
   - 微软开源
-description: 1. 我们为什么不会忘记如何骑自行车？ 2.  Google Cloud Developer 的备忘单。3. Microsoft 机器学习资源大全。4. 如何逐步构建 SaaS 应用程序。5. 微软出品的开源工具 Ethr 是用于 TCP、UDP 和 HTTP 的网络性能测量工具。
+description: >-
+  1. 我们为什么不会忘记如何骑自行车？ 2.  Google Cloud Developer 的备忘单。3. Microsoft 机器学习资源大全。4.
+  如何逐步构建 SaaS 应用程序。5. 微软出品的开源工具 Ethr 是用于 TCP、UDP 和 HTTP 的网络性能测量工具。
 date: 2018-12-05 07:20:50
 password:
 ---
