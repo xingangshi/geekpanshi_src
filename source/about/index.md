@@ -20,7 +20,7 @@ date: 2018-10-17 16:43:20
 
 * 微博：![微博号，浦东价投男](https://i.imgur.com/Meqtw3h.png "微博号，浦东价投男")
 
-* 邮箱：<a href="mailto:shix_112@126.com?subject=Geek panshi">shix_112@126.com，点击可以给我发邮件。</a>
+* 邮箱：<a href="mailto:shix_112@163.com?subject=Geek panshi">shix_112@163.com，点击可以给我发邮件。</a>
 
 #### 3. 我的小程序
 
