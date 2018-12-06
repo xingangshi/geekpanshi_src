@@ -35,6 +35,8 @@ date: 2018-11-22 21:00:02
 > 我书读的多，不会骗你，在这里可以查看到我的博客的每日更新内容，而且可以通过 邮件 或者 RSS 订阅我的博客，更多的订阅方式和精彩内容将不断的推出的。
 >
 > <font color="#000066" size=3>如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的，[<font color="#CC3366" size=3>联系我</font>](/about/ "联系我")。</font>
+>
+> [**<font color="red" size=3.0>我的微信公众号</font>**](https://mp.weixin.qq.com/s/5O5jaUKrFLy0aHCN70LWFQ)
 
 ---
 
@@ -48,9 +50,9 @@ date: 2018-11-22 21:00:02
 > [URL](/archives/ba320aa2.html) ：一图胜千言（前方高能，图大，慎点）
 > [URL](/archives/5bf43b3d.html) ：可能是史上最全的机器学习和 Python（包括数学）速查表
 > [URL](/archives/15582198.html) ：2019 年时间管理之我的笔记模板打包下载
-> [URL](/archives/ecc73a73.html) ：My-One-Tab-URLS-01 网络工具大全
-> [URL](/archives/9e708c90.html) ：My-One-Tab-URLS-02 康奈尔笔记法等
-> [URL](/archives/4875a258.html) ：My-One-Tab-URLS-03 个人博客相关等
+> [URL](/archives/ecc73a73.html) ：My-One-Tab-URLS-1 网络工具大全
+> [URL](/archives/9e708c90.html) ：My-One-Tab-URLS-2 康奈尔笔记法等
+> [URL](/archives/4875a258.html) ：My-One-Tab-URLS-3 个人博客相关等
 ---
 
 

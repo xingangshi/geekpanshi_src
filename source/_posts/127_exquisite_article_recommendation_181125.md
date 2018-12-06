@@ -1,5 +1,5 @@
 ---
-title: 每日好精选文章推荐-2018年11月25日
+title: Stack Overflow 的潜规则
 tags:
   - 美文推荐
   - 深度学习
@@ -36,7 +36,7 @@ password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 每日好精选文章推荐-2018年11月25日
+### Stack Overflow 的潜规则
 >  1. Yoshua Bengio讲座视频《深度学习AI迈向人类水平的挑战》。 2. (DeepMind)深度学习与强化学习进阶课程。3. Stack Overflow 的潜规则，本文教大家如何成为Stack Overflow上的合格的提问者与回答者。4.  在 Azure 上设计，构建和运行微服务。5. 大型项目清单，您可以在此仓库中找到其他用户使用许多其他语言的这些项目的实现。
 
 ---

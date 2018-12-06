@@ -1,5 +1,5 @@
 ---
-title: 每日好精选文章推荐-2018年11月26日
+title: 在 Python 中使用 BigchainDB 创建应用程序
 tags:
   - 美文推荐
   - 区块链
@@ -34,7 +34,7 @@ password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 每日好精选文章推荐-2018年11月26日
+### 在 Python 中使用 BigchainDB 创建应用程序
 >  1. 免费编程笔记集合。 2. 在 Python 中使用 BigchainDB 创建应用程序。3. 一张管理人员数据科学入门的脑图。4.  tcpkit，一种捕获tcp数据包并使用LUA分析数据包的工具。5.使用带有matplotlib的Jupyter笔记本ipywidgets与绘图函数交互。
 
 ---

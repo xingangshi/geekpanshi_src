@@ -1,5 +1,5 @@
 ---
-title: 每日好精选文章推荐-2018年11月30日
+title: algorithm Visualizer，算法可视化
 tags:
   - 美文推荐
   - 数据结构和算法
@@ -38,7 +38,7 @@ password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 每日好精选文章推荐-2018年11月30日
+### algorithm Visualizer，算法可视化
 >  1. algorithm Visualizer，算法可视化。 2.  ensmallen，灵活的 C++ 库，用于高效的数学优化。3. 饼图的5种不寻常的替代品。4. 如何平衡全职工作与创意项目，帮助您找到合适的日常工作，保护您的时间并创造创作习惯。5. 免费学习React，由V学校教育主任全面介绍React，这是一所屡获​​殊荣的技术教育学院。
 
 ---
