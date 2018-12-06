@@ -1,9 +1,10 @@
 ---
-title: 2018年每日打卡记录-2018 年 12 月 6 日
+title: 2018年每日打卡记录-2018年12月6日
 tags:
   - 时间管理
   - 数据人生
   - 财商
+  - 定期更新
 comments: true
 toc: true
 categories:

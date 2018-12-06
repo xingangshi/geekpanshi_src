@@ -1,5 +1,5 @@
 ---
-title: 从 0 到 100，这仅仅是一个新的开始：写在第 100 篇博文的时候
+title: 从0到100，这仅仅是一个新的开始：写在第100篇博文的时候
 tags:
   - 时间管理
   - 数据人生
@@ -35,7 +35,7 @@ password:
 >  不知不觉中，已经写了 99 篇博文了，所以特地写这第 100 篇的博文，刚好也记录一下我和一个友人的对话，<font color="red" size=3.5>我们的对话引出了三个问题，1. 怎么给大脑升级，2. 如何学会思考， 3. 如何更好的进行时间管理</font>。这三个问题不仅仅是我们困惑，也是大家的困惑，希望我们可以找到这三个问题的答案。
 
 > 以下就是我们的对话的：
-> 
+>
 >> ![1](https://ws3.sinaimg.cn/large/006tNbRwgy1fxbj6mey5oj30u01o0qdq.jpg)
 >> ![2](https://ws2.sinaimg.cn/large/006tNbRwgy1fxbj71vkqrj30u01o0drb.jpg)
 >> ![3](https://ws1.sinaimg.cn/large/006tNbRwgy1fxbj7jtipmj30u01o0gwh.jpg)

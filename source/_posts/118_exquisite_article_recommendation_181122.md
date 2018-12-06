@@ -1,5 +1,5 @@
 ---
-title: 3000 个小时的 QT for python 的学习和使用的一些经验
+title: 3000个小时的 QT for python 的学习和使用的一些经验
 tags:
   - 美文推荐
   - Git

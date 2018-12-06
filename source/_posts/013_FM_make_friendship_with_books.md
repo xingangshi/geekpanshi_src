@@ -1,9 +1,10 @@
 ---
-title: 以书会友，阅读人生-最后更新20181025
+title: 以书会友，阅读人生-最后更新2018年10月25日
 tags:
   - 读书
   - 时间管理
   - 荐书
+  - 定期更新
 comments: true
 toc: true
 categories:
@@ -24,7 +25,7 @@ description: 独乐乐不如众乐乐，让我们以书会友，找到那个心�
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-#### 以书会友，阅读人生-月更-最后更新20181025
+#### 以书会友，阅读人生-最后更新2018年10月25日
 ---
 
 >
