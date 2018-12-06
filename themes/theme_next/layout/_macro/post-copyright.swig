@@ -5,6 +5,8 @@
   <li class="post-copyright-author">
     <strong>{{ __('post.copyright.author') + __('symbol.colon') }}</strong>
     <a rel="external nofollow" href="/about"> {{ post.author | default(config.author) }} </a>
+    <strong>{{ "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp微信公众号"  + __('symbol.colon')  }}</strong>
+    <a rel="external nofollow" href="https://mp.weixin.qq.com/s/5O5jaUKrFLy0aHCN70LWFQ"> {{ post.author | default(config.author) }} </a>
   </li>
   <li>
     <strong><span>本文标题： </span></strong><a rel="external nofollow" href="{{ url_for(page.path) }}">{{ page.title }}</a>
@@ -17,9 +19,6 @@
   <li class="post-copyright-license">
     <strong>{{ __('post.copyright.license_title') + __('symbol.colon') }} </strong>
     {{ __('post.copyright.license_content', theme.post_copyright.license, theme.post_copyright.license) }}
-  </li>
-  <li class="post-copyright-license">
-    并保留本声明和上方二维码。感谢您的阅读和支持！
   </li>
 </ul>
 <script>

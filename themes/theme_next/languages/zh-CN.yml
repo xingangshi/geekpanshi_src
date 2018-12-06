@@ -12,7 +12,7 @@ menu:
   about: 关于
   search: 搜索
   schedule: 日程表
-  sitemap: 站点地图
+  sitemap: 微信公众号
   commonweal: Panshi 404 - 寻找遗失儿童！
 sidebar:
   overview: 站点概览
@@ -41,7 +41,7 @@ post:
     author: 本文作者
     link: 本文链接
     license_title: 版权声明
-    license_content: "本博客所有文章除特别声明外，均采用 %s 许可协议。转载请注明出处！"
+    license_content: "本博客所有文章除特别声明外，均采用 %s 许可协议。转载请注明出处！并保留本声明和上方二维码。感谢您的阅读和支持！"
 page:
   totally: 共有
   tags: 标签
