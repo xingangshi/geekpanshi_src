@@ -3,18 +3,18 @@ title: 关于我
 date: 2018-10-17 16:43:20
 ---
 
-### 关于我
+### [关于我](https://mp.weixin.qq.com/s/5O5jaUKrFLy0aHCN70LWFQ)
 
 ---
 > Geek panshi（GeekPanshi）—— 价值投资 终身学习 践行家庭教育
 ---
 
-#### 1. 我的公众号
+#### 1. [我的公众号](https://mp.weixin.qq.com/s/5O5jaUKrFLy0aHCN70LWFQ)
 
-* 公众号：<img src="https://i.imgur.com/jbtXoYh.jpg" width="450" height="500" align=center></img>
+* 公众号：<img src="https://i.loli.net/2018/12/06/5c08d6c8d9181.jpg" width="450" height="500" align=center></img>
 
 
-#### 2. 联系方式
+#### 2. [联系方式](https://mp.weixin.qq.com/s/5O5jaUKrFLy0aHCN70LWFQ)
 
 * 微信：![微信号，磐石](https://i.imgur.com/dx17wGO.png "微信号，磐石")
 
