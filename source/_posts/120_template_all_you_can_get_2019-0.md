@@ -19,10 +19,12 @@ keywords:
   - 日程安排
   - 宽293高165
   - 宽978高553
+  - 2019年放假安排
+  - 五一只放一天假
 photos:
   - 'https://i.imgur.com/dW6Fp3N.jpg'
 description: 2019年，我的所有的笔记模板打包下载，不是为了好看，是为了好用。
-date: 2018-11-25 15:53:01
+date: 2018-12-07 15:53:01
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -34,7 +36,7 @@ date: 2018-11-25 15:53:01
 #### 2019 年年历
 > 2019 年年历。
 >
->> ![2019年年历](https://i.imgur.com/LVXwUct.png 2019年年历)
+>> ![2019年年历](https://i.imgur.com/KbUvHBw.png 2019年年历)
 ---
 
 #### 相关博文推荐
@@ -71,11 +73,14 @@ date: 2018-11-25 15:53:01
 
 > <font color="red" size=3>下载链接</font>
 >
->> 1. [2019年时间管理之我的笔记模板打包](https://pan.baidu.com/s/14Gk3e1r9AqCqNJI1fmLLXA 2019年时间管理之我的笔记模板打包)，提取码: x3dg 。
+>> 1. [2019年时间管理之我的笔记模板打包](https://pan.baidu.com/s/14A-qp6dUtPnCFXAZvdQlow 2019年时间管理之我的笔记模板打包)，提取码: wirm 。
 >>
->> 2. 下载链接: https://pan.baidu.com/s/14Gk3e1r9AqCqNJI1fmLLXA ，提取码: x3dg 。
-
+>> 2. 下载链接: https://pan.baidu.com/s/14A-qp6dUtPnCFXAZvdQlow ，提取码: wirm 。
+>>
+>> 3. 无提取码下载： https://pan.baidu.com/s/1gLy56KsipS3E8OkQCQ0hDw 。
 
 #### 版本记录
 > v1.0，2018-11-22；
 > v1.1，2018-11-25，修改日历 `10月20日` 错误写成 `10月13日`，增加[2019周计划（模板）](/archives/ac857cd2.html)。
+> v2.0，2018-12-07，根据[2019年放假安排，五一假期才一天！](https://mp.weixin.qq.com/s/yRyDrjV8BLYoXbyBXidk8A)安排，调整 ![2019年年历放假安排](https://i.imgur.com/KbUvHBw.png 2019年年历)。
+

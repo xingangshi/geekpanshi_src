@@ -15,7 +15,7 @@ keywords:
   - 打卡
   - 计划
 description: 2019 年按月每月计划性任务每日打卡记录（模板），2019 年 7 月每日计划性任务打卡记录（样例）。
-date: 2018-11-21 23:30:49
+date: 2018-12-07 23:30:49
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -27,7 +27,7 @@ date: 2018-11-21 23:30:49
 #### 2019 年年历
 > 2019 年年历。
 >
->> ![2019年年历](https://i.imgur.com/LVXwUct.png 2019年年历)
+>> ![2019年年历](https://i.imgur.com/KbUvHBw.png 2019年年历)
 ---
 
 #### 相关博文推荐

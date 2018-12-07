@@ -21,7 +21,7 @@ keywords:
 photos:
   - 'https://i.imgur.com/yxzzuLg.png'
 description: 今天：2019 年 11 月 21 日，2019 年仅剩下 40 天。坚持记录和分析生活中的数据、信息和事件，尊重历史数据、信息和事件，人生将会更美好。
-date: 2018-11-21 22:10:02
+date: 2018-12-07 22:10:02
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -35,7 +35,7 @@ date: 2018-11-21 22:10:02
 #### 2019 年年历
 > 2019 年年历。
 >
->> ![2019年年历](https://i.imgur.com/LVXwUct.png 2019年年历)
+>> ![2019年年历](https://i.imgur.com/KbUvHBw.png 2019年年历)
 ---
 #### 相关博文推荐
 > 1. [时间管理的 11 条金律](/archives/2717eb9f.html)

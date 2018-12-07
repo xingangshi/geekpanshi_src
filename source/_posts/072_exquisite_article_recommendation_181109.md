@@ -22,7 +22,7 @@ keywords:
   - 开源
   - 黑客
 description: 1. 全球拥有人工智能课程的大学或机构列表。 2. 什么是 Beta 测试？ 3.  代码所有权和软件质量。4. 如何在开源世界中选择自己需要的软件。 5. 黑客的法则 所有开发人员都应该了解的法则，理论，模式和想法！
-date: 2018-11-09 21:47:50
+date: 2018-12-07 08:47:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>

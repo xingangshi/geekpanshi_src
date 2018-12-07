@@ -20,7 +20,7 @@ keywords:
   - 10大知识领域
   - 49个过程
 description: PMBOK（第六版）5大过程组、10大知识领域及49个过程一句话简述，10大知识领域一句话简述，5大过程组及49个过程一句话简述。
-date: 2018-10-25 14:10:03
+date: 2018-12-07 05:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 

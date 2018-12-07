@@ -15,7 +15,7 @@ keywords:
   - 打卡
   - 计划
 description: 2019 年每日日常打卡记录（模板），2019 年每日日常打卡记录（样例）。
-date: 2018-11-21 23:10:49
+date: 2018-12-07 23:10:49
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -27,7 +27,7 @@ date: 2018-11-21 23:10:49
 #### 2019 年年历
 > 2019 年年历。
 >
->> ![2019年年历](https://i.imgur.com/LVXwUct.png 2019年年历)
+>> ![2019年年历](https://i.imgur.com/KbUvHBw.png 2019年年历)
 ---
 
 #### 相关博文推荐
