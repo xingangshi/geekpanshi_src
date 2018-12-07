@@ -37,7 +37,7 @@ date: 2018-11-22 21:00:02
 >
 > <font color="#000066" size=3>如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的，[<font color="#CC3366" size=3>联系我</font>](/about/ "联系我")。</font>
 >
-> [**<font color="red" size=3.0>我的微信公众号</font>**](https://mp.weixin.qq.com/s/5O5jaUKrFLy0aHCN70LWFQ)
+> [**<font color="red" size=3.0>我的微信公众号</font>**](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg)
 
 ---
 
