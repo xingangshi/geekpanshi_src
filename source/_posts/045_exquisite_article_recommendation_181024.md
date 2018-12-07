@@ -22,7 +22,7 @@ keywords:
   - Python
   - Git操作
 description: 1. Responder 一个 HTTP 服务框架。 2. 利用 MailChimp 建立 RSS 邮件订阅平台。 3. 用 pyenv + Pipenv 来管理你的 Python 项目。 4. 如何基于 LaTex 写一本教科书。 5. Git 命令大全，Git 操作指南。
-date: 2018-10-24 19:47:50
+date: 2018-12-09 19:47:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -53,7 +53,7 @@ password:
 >
 > LaTex 真的不失为一个神器，怎么更好的使用它，这里提供了一个方法的。
 >
-> [How We Wrote a Textbook](How We Wrote a Textbook)
+> [How We Wrote a Textbook](http://tim.hibal.org/blog/how-we-wrote-a-textbook/)
 
 #### 5. Git Flight Rules
 > 什么是"飞行规则"?
