@@ -1,5 +1,5 @@
 ---
-title: My-One-Tab-URLS-2 康奈尔笔记法等
+title: 康奈尔笔记法等
 tags:
   - 数据人生
   - OneTab
@@ -37,7 +37,7 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### My-One-Tab-URLS-2 康奈尔笔记法等
+### 康奈尔笔记法等
 ---
 > 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记 5. WorkFlowy ……
 
@@ -52,9 +52,9 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](/archives/15582198.html) ：2019 年时间管理之我的笔记模板打包下载
 > [URL](/archives/a7a1df11.html) ：人间不值得，Vim 依然值得学习（编辑器比较和选择指南）
 > [URL](/archives/5bf43b3d.html) ：可能是史上最全的机器学习和 Python（包括数学）速查表
-> [URL](/archives/ecc73a73.html) ：My-One-Tab-URLS-1 网络工具大全
-> [URL](/archives/9e708c90.html) ：My-One-Tab-URLS-2 康奈尔笔记法等
-> [URL](/archives/4875a258.html) ：My-One-Tab-URLS-3 个人博客相关等
+> [URL](/archives/ecc73a73.html) ：实用互联网工具大全
+> [URL](/archives/9e708c90.html) ：康奈尔笔记法等
+> [URL](/archives/4875a258.html) ：个人博客相关等
 ---
 
 #### 1. 学习相关

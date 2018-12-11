@@ -51,9 +51,9 @@ date: 2018-11-22 21:00:02
 > [URL](/archives/ba320aa2.html) ：一图胜千言（前方高能，图大，慎点）
 > [URL](/archives/5bf43b3d.html) ：可能是史上最全的机器学习和 Python（包括数学）速查表
 > [URL](/archives/15582198.html) ：2019 年时间管理之我的笔记模板打包下载
-> [URL](/archives/ecc73a73.html) ：My-One-Tab-URLS-1 网络工具大全
-> [URL](/archives/9e708c90.html) ：My-One-Tab-URLS-2 康奈尔笔记法等
-> [URL](/archives/4875a258.html) ：My-One-Tab-URLS-3 个人博客相关等
+> [URL](/archives/ecc73a73.html) ：实用互联网工具大全
+> [URL](/archives/9e708c90.html) ：康奈尔笔记法等
+> [URL](/archives/4875a258.html) ：个人博客相关等
 ---
 
 

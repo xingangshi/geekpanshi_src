@@ -2,11 +2,13 @@
 title: PMBOK第六版5大过程组、10大知识领域及49个过程一句话简述
 tags:
   - 项目管理
+  - 新睿智业
+  - PMP备考
 comments: true
 toc: true
 categories:
-  - 技术相关
-  - 软件开发
+  - PMP
+  - PMBOK相关
 abbrlink: ecdbfb91
 keywords:
   - PMP
