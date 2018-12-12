@@ -58,8 +58,9 @@ keywords:
   - 免费icon
   - 手写ppt
   - Diagram
+  - FindSounds
 description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
-date: 2018-11-26 19:18:50
+date: 2018-12-12 19:18:50
 password:
 top: 1000008
 ---
@@ -154,6 +155,9 @@ top: 1000008
 > [URL](https://worlddraw.withgoogle.com/draw) ：画出你的世界。
 > [URL](https://www.autodraw.com/) ：简单几笔画出你想要的图标和东西。
 > [URL](https://quickdraw.withgoogle.com/) ：快速涂鸦。
+
+##### 2.6 声音素材库
+> [URL](http://www.findsounds.com/typesChinese.html) ：寻找你想要的声音素材。
 
 #### 3. 实用工具大全
 
@@ -276,3 +280,4 @@ top: 1000008
 > v1.2，2018-11-22，网友 `Keris Topa` 推荐增加一个国外的 [IP 定位的网站](https://www.ip2location.com/)，再此谢谢。
 > v1.3，2018-11-24，增加一个 icon 的网站工具类型。
 > v1.4，2018-11-26，新增两个开源 icon 网站，[羽毛图标](https://feathericons.com/) 和 [伊娃图标](https://akveo.github.io/eva-icons/#/)。
+> v1.5，2018-12-12，新增一个声音的素材库，[寻找你想要的声音素材](http://www.findsounds.com/typesChinese.html)。

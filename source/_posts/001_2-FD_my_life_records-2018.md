@@ -60,7 +60,7 @@ description: 今天：2018 年 12 月 12 日，2018 年仅剩下 19 天。坚持
 > ![2018年倒计时（扫码看查看小程序）](https://i.imgur.com/Qlo5mNr.png "小程序 - 2018年倒计时")
 
 ##### 2018年倒计时小程序示例
-> <img src="https://ws1.sinaimg.cn/large/006tNbRwgy1fy2gtju63mj30u01o078y.jpg" width="400" height="500" div align=center />
+> <img src="https://i.imgur.com/mziVfeO.png" width="400" height="500" div align=center />
 
 #### 1. 记时数据（<font color="red">今天：2018 年 12 月 12 日，2018 年仅剩下 19 天。</font>）
 ##### 1.1 记时信息详情

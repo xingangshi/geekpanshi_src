@@ -15,9 +15,9 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: 1e8edcb5
 keywords:
-  -  代码审查
+  - 代码审查
   - 晒娃
   - 知识库
   - 知识管理
