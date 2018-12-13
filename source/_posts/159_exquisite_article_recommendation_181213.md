@@ -23,17 +23,14 @@ keywords:
   - 知识管理
   - 系统编程
   - 静态站点
-description: >-
-  1. 想改变自己永远不晚的：82岁的老奶奶学习编程并发布自己的APP。 2.  PracticalAI，使您能够使用机器学习从数据中获取有价值的见解。3.
-  Kubernetes：聪明人的指南。 4. Git bundle 一个 Git 仓库备份工具。  5. 免费的 Bootstrap
-  模板和主题，采用最新的Bootstrap 4.免费提供个人和商业用途。
+description: 1. 想改变自己永远不晚的：82岁的老奶奶学习编程并发布自己的APP。 2.  PracticalAI，使您能够使用机器学习从数据中获取有价值的见解。3. Kubernetes：聪明人的指南。 4. Git bundle 一个 Git 仓库备份工具。  5. 免费的 Bootstrap 模板和主题，采用最新的Bootstrap。
 date: 2018-12-13 07:20:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 想改变自己永远不晚的：82岁的老奶奶学习编程并发布自己的APP
->  1. 想改变自己永远不晚的：82岁的老奶奶学习编程并发布自己的APP。 2.  PracticalAI，使您能够使用机器学习从数据中获取有价值的见解。3. Kubernetes：聪明人的指南。 4. Git bundle 一个 Git 仓库备份工具。  5. 免费的 Bootstrap 模板和主题，采用最新的Bootstrap 4.免费提供个人和商业用途。
+>  1. 想改变自己永远不晚的：82岁的老奶奶学习编程并发布自己的APP。 2.  PracticalAI，使您能够使用机器学习从数据中获取有价值的见解。3. Kubernetes：聪明人的指南。 4. Git bundle 一个 Git 仓库备份工具。  5. 免费的 Bootstrap 模板和主题，采用最新的Bootstrap。
 >  
 > ![走出舒适区](https://ws4.sinaimg.cn/large/006tNbRwgy1fy4pd3n3tbj30xc0m8q5k.jpg)
 
@@ -45,7 +42,7 @@ password:
 > 
 > ![PracticalAI](https://ws1.sinaimg.cn/large/006tNbRwgy1fy4ouwdmdtj30u00uy0vt.jpg)
 > 
-> [请不要再在网上晒娃的！](https://thenextweb.com/lifehacks/2018/11/12/dont-post-your-kid-online/)
+> [PracticalAI！](https://github.com/GokuMohandas/practicalAI)
 
 #### 2. Kubernetes：聪明人的指南
 > Kubernetes是一系列开源项目，用于自动化容器化应用程序的部署，扩展和管理。了解生态系统的重要性，如何使用它等等。
