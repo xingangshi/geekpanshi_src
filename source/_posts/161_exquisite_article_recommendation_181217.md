@@ -26,7 +26,7 @@ keywords:
 description: >-
   1. REXPaint 是一个功能强大且用户友好的 ASCII 艺术编辑器。 2.  FAQGURU 面试问题列表 ——
   此列表是您准备技术面试所需的一切。3.  一本绝密知识点的书，一系列精彩的列表，手册，博客，黑客，单行，cli /
-  web工具等等。适用于SysOps，DevOps，Pentesters和安全研究人员。。 4. 秒杀系统设计与实现——互联网工程师进阶与分析。  5.
+  web工具等等。适用于SysOps，DevOps，Pentesters和安全研究人员。 4. 秒杀系统设计与实现——互联网工程师进阶与分析。  5.
   您并不是软件开发人员。
 date: 2018-12-17 07:20:50
 password:
@@ -34,7 +34,7 @@ password:
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### REXPaint 是一个功能强大且用户友好的 ASCII 艺术编辑器
->  1. REXPaint 是一个功能强大且用户友好的 ASCII 艺术编辑器。 2.  FAQGURU 面试问题列表 —— 此列表是您准备技术面试所需的一切。3.  一本绝密知识点的书，一系列精彩的列表，手册，博客，黑客，单行，cli / web工具等等。适用于SysOps，DevOps，Pentesters和安全研究人员。。 4. 秒杀系统设计与实现——互联网工程师进阶与分析。  5. 您并不是软件开发人员。
+>  1. REXPaint 是一个功能强大且用户友好的 ASCII 艺术编辑器。 2.  FAQGURU 面试问题列表 —— 此列表是您准备技术面试所需的一切。3.  一本绝密知识点的书，一系列精彩的列表，手册，博客，黑客，单行，cli / web工具等等。适用于SysOps，DevOps，Pentesters和安全研究人员。 4. 秒杀系统设计与实现——互联网工程师进阶与分析。  5. 您并不是软件开发人员。
 >
 > ![正确提问比正确回答更重要](https://ws1.sinaimg.cn/large/006tNbRwgy1fy9d4v32qzj30c809774h.jpg)
 
