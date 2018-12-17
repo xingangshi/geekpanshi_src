@@ -59,8 +59,10 @@ keywords:
   - 手写ppt
   - Diagram
   - FindSounds
+  - wolframalpha
+  - REXPaint
 description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
-date: 2018-12-12 19:18:50
+date: 2018-12-17 19:18:50
 password:
 top: 1000008
 ---
@@ -70,6 +72,9 @@ top: 1000008
 
 ---
 > 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
+>
+> ![REXPaint](https://i.imgur.com/dvbea4Z.png)
+
 ---
 
 #### 站内内链
@@ -139,6 +144,7 @@ top: 1000008
 > [URL](http://www.atool.org/steganography.php) ：图片 隐写术加密 - 图片隐写术解密 - 图片中隐藏文字信息 - aTool 在线工具
 > [URL](http://waifu2x.udp.jp/) ：waifu2x 无损放大 图片
 > [URL](http://bigjpg.com/) ：Bigjpg - AI人工智能 图片 无损放大 - 使用人工智能深度卷积神经网络（CNN）无损放大图片
+> [URL](https://www.gridsagegames.com/rexpaint/) ：REXPaint，一个功能强大且用户友好的ASCII艺术编辑器。
 
 ##### 2.3 Icon 相关
 > [URL](https://icomoon.io/) ：Icon Font & SVG Icon Sets IcoMoon 将 SVG 文件转化成 CSS
@@ -272,6 +278,12 @@ top: 1000008
 > [URL](https://evilzone.org/) ：Evilzone - Hacking and Security Network
 > [URL](https://hackforums.net/) ：Hack Forums
 
+
+#### 17. 学习工具网站
+> [URL](https://www.wolframalpha.com/) ：WolframAlpha，（高中生）学习助手。
+>>
+>> ![WolframAlpha](https://i.imgur.com/3ht1PVy.png)
+
 ---
 
 #### 版本记录
@@ -281,3 +293,4 @@ top: 1000008
 > v1.3，2018-11-24，增加一个 icon 的网站工具类型。
 > v1.4，2018-11-26，新增两个开源 icon 网站，[羽毛图标](https://feathericons.com/) 和 [伊娃图标](https://akveo.github.io/eva-icons/#/)。
 > v1.5，2018-12-12，新增一个声音的素材库，[寻找你想要的声音素材](http://www.findsounds.com/typesChinese.html)。
+> v1.6，2018-12-17，新增 学习工具网站 分类，并新增 [WolframAlpha，（高中生）学习助手](https://www.wolframalpha.com/) 网站；图片处理新增 [REXPaint，一个功能强大且用户友好的ASCII艺术编辑器](https://www.gridsagegames.com/rexpaint/) 。

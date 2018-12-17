@@ -15,9 +15,8 @@ abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: 9e708c90
-date: 2018-11-26 19:30:50
+date: 2018-12-17 19:30:50
 password:
-
 keywords:
   - 康奈尔笔记法
   - 子弹笔记
@@ -33,14 +32,17 @@ keywords:
   - 提高您的写作效率
   - 手帐
   - Chrome扩展
-description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记 5. WorkFlowy ……
+photos:
+ - https://i.imgur.com/MoKt35C.jpg
+description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记：极简手帐攻略。 5. WorkFlowy 是一款基于云端的、只支持纯文字的工具。 6. 知乎精华帖……
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 康奈尔笔记法等
 ---
-> 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记 5. WorkFlowy ……
-
+> 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记：极简手帐攻略。 5. WorkFlowy 是一款基于云端的、只支持纯文字的工具。6. 知乎精华帖……
+>
+> ![学习相关](https://i.imgur.com/Q5F6nN5.png)
 ---
 #### 站内内链
 > [URL](/archives/4f25f01c.html) ：程序员的网站大全
@@ -67,6 +69,9 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 
 #### 2. 康奈尔笔记法
 > [URL](https://wenku.baidu.com/view/920df68a783e0912a3162a17.html) ：康奈尔笔记打印模板_百度文库
+>>
+>> ![康奈尔笔记法](https://i.imgur.com/1Ut3Gg0.png)
+>
 > [URL](https://baike.baidu.com/item/5R%E7%AC%94%E8%AE%B0%E6%B3%95/11004959) ：5R笔记法_百度百科
 > [URL](https://www.jianshu.com/p/f7a7000f93b6) ：译|一种高效率的笔记法——康奈尔笔记法 - 简书
 > [URL](http://lsc.cornell.edu/notes.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website) ：康奈尔笔记系统 - 学习策略中心
@@ -85,7 +90,7 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://beebom.com/subreddits-improve-english/) ：15 Subreddits That Help You Improve Your English | Beebom
 > [URL](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006379) ：科学家的十条简单规则：提高您的写作效率
 
-#### 4. 子弹笔记
+#### 4. 子弹笔记极简手帐
 > [URL](https://www.evernote.com/client/snv?noteGuid=5d72cb76-775e-4538-8915-99b2caa75d31&noteKey=4bad8519e74a4491&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs1%2Fsh%2F5d72cb76-775e-4538-8915-99b2caa75d31%2F4bad8519e74a4491&exp=ENB3907&title=%25E9%259B%25BB%25E8%2585%25A6%25E7%258E%25A9%25E7%2589%25A9%25E7%259A%2584%25E5%25AD%2590%25E5%25BD%2588%25E7%25AD%2586%25E8%25A8%2598%25E6%25B3%2595%25E6%25A8%25A1%25E6%259D%25BF) ：電腦玩物的子彈筆記法模板
 > [URL](https://www.playpcesor.com/2015/12/bullet-journal.html) ：子弹笔记术(上) Bullet Journal 快准狠笔记法学习
 > [URL](https://www.playpcesor.com/2016/04/evernote-bullet-journal.html) ：子弹笔记术(下) 最简明的Evernote 每日任务清单实作
@@ -116,6 +121,7 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://www.zhihu.com/question/301459876) ：所谓厉害的人，遇到问题时的思维模式与我们的差别在哪？
 > [URL](https://zhuanlan.zhihu.com/p/50390309) ：效率的故事
 > [URL](https://www.zhihu.com/question/24295398) ：在卡内基梅隆大学 (Carnegie Mellon University) 就读是怎样一番体验？
+> [URL](https://www.zhihu.com/question/303022763) ：人工智能从业者应该从哪里去寻找和阅读顶级论文？
 
 #### 7. Books
 > [URL](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#) ：Pinker Book Recommendations
@@ -151,10 +157,12 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](http://python.jobbole.com/88827/) ：使用 GC、Objgraph 干掉 Python 内存泄露与循环引用！
 
 #### 10. Git
-> [URL](https://blog.osteele.com/2008/05/my-git-workflow/) ：My Git Workflow
 > [URL](https://blog.sourced.tech/post/deduplicating_pga_with_apollo/) ：Deduplicating files in Public Git Archive · source{d} blog
 > [URL](http://www.metacase.com/blogs/stevek/blogView?entry=3714903141) ：Linux, Git, MetaEdit+: how three Finns brought versioning, models & code together
 > [URL](https://mikegerwitz.com/papers/git-horror-story) ：一个Git恐怖故事：签名提交的存储库完整性
+> [URL](https://blog.osteele.com/2008/05/my-git-workflow/) ：My Git Workflow
+>>
+>> ![Git Workflow](https://i.imgur.com/btxXEAN.png)
 
 
 ---
@@ -164,3 +172,4 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > v1.1，2018-11-21；
 > v1.2，2018-11-23；
 > v1.3，2018-11-26，增加部分的子弹笔记的资料。
+> v1.4，2018-12-17，新增 知乎分类下 [人工智能从业者应该从哪里去寻找和阅读顶级论文？](https://www.zhihu.com/question/303022763)。
