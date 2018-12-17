@@ -15,7 +15,8 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 11216d94keywords:
+abbrlink: 11216d94
+keywords:
   - 代码审查
   - 晒娃
   - 知识库
