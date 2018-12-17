@@ -31,17 +31,17 @@ password:
 
 ### 想改变自己永远不晚的：82岁的老奶奶学习编程并发布自己的APP
 >  1. 想改变自己永远不晚的：82岁的老奶奶学习编程并发布自己的APP。 2.  PracticalAI，使您能够使用机器学习从数据中获取有价值的见解。3. Kubernetes：聪明人的指南。 4. Git bundle 一个 Git 仓库备份工具。  5. 免费的 Bootstrap 模板和主题，采用最新的Bootstrap。
->  
+>
 > ![走出舒适区](https://ws4.sinaimg.cn/large/006tNbRwgy1fy4pd3n3tbj30xc0m8q5k.jpg)
 
 ---
 #### 1. PracticalAI
 > PracticalAI，使您能够使用机器学习从数据中获取有价值的见解。
-> 
+>
 > 使用PyTorch实现基本的ML算法和深度神经网络；使用Google Colab在没有任何设置的情况下在浏览器上运行所有内容；学习面向对象的ML来编写产品代码，而不仅仅是教程。
-> 
+>
 > ![PracticalAI](https://ws1.sinaimg.cn/large/006tNbRwgy1fy4ouwdmdtj30u00uy0vt.jpg)
-> 
+>
 > [PracticalAI！](https://github.com/GokuMohandas/practicalAI)
 
 #### 2. Kubernetes：聪明人的指南
@@ -64,24 +64,24 @@ password:
 
 #### 4. 免费的Bootstrap模板和主题
 > 免费的 Bootstrap 模板和主题，采用最新的Bootstrap 4.免费提供个人和商业用途。
-> 
+>
 > ![免费的Bootstrap模板和主题](https://ws2.sinaimg.cn/large/006tNbRwgy1fy4p1ect08j30ue0nqta0.jpg)
-> 
+>
 > [免费的Bootstrap模板和主题? ](https://mdbootstrap.com/freebies/)。
 
 #### 5. 想改变自己永远不晚的：82岁的老奶奶学习编程并发布自己的APP
 > 寻找新的爱好？也许是时候尝试编码了。
-> 
+>
 > 这就是 82岁 的日本的 Masako Wakamiya 去年决定做的事情。自 2017 年初学习编写代码以来，已退休的银行职员已经开始创作一款免费的 iOS 游戏，Hinadan，专门面向年长的日本观众。自从一年前首次亮相以来，该应用程序在 Apple App Store 上获得了近 5 颗星，全球约有 53,000 个下载； Wakamiya 现在正在忙着规划英语，中文和法语的未来版本。
-> 
+>
 > ![82岁的老奶奶学习编程](https://ws2.sinaimg.cn/large/006tNbRwgy1fy4p8xzscvj30vo0i7tar.jpg)
-> 
+>
 > 由于她的故事可能听起来不太可能，Wakamiya 并不是“老年人”科技前沿的特例。2015 年，当时 98 岁的澳大利亚祖母米莉·布朗创造了一个词应用程序“ 米莉的游戏”。而今年秋天，“纽约时报”报道了全球 4500 万用户中大约 100 万的免费在线编码平台 Codeacademy 年满 55 岁。然而，Wakamiya 从退休银行职员到科技名人的崛起仍令她感到惊讶。
 >
 > Wakamiy a最近告诉亚洲新闻台，“我没想到对我幼稚的应用程序做出如此大的回应”。她现在急于开发更多游戏应用程序，并补充道，“我有很多想要尝试的东西。”
-> 
+>
 > 所以，<font color=red size=3>走出舒适区，想改变自己永远不晚的。</font>
-> 
+>
 > [想改变自己永远不晚的：82岁的老奶奶学习编程并发布自己的APP](https://www.aarp.org/work/working-at-50-plus/info-2018/worlds-oldest-app-developer-fd.html)。
 
 
