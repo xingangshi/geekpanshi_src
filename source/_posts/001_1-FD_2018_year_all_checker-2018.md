@@ -1,5 +1,5 @@
 ---
-title: 2018年每日打卡记录-2018年12月19日
+title: 2018年每日打卡记录-2018年12月20日
 tags:
   - 时间管理
   - 数据人生
@@ -22,14 +22,14 @@ keywords:
   - 宽978高553
 photos:
   - "https://i.imgur.com/gfUe8Lo.png"
-date: 2018-12-19 00:00:01
-description: 今天：2018 年 12 月 19 日，2018 年仅剩下 12 天。每日打卡，12 月份针对每个任务打卡，慢慢来，一切都会更好的。
+date: 2018-12-20 00:00:01
+description: 今天：2018 年 12 月 20 日，2018 年仅剩下 11 天，距离 2019 年春节，还有 46 天。每日打卡，12 月份针对每个任务打卡，慢慢来，一切都会更好的。
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 2018年每日打卡记录
 ---
-> 今天：2018 年 12 月 19 日，2018 年仅剩下 12 天。每日打卡，12 月份针对每个任务打卡，慢慢来，一切都会更好的。
+> 今天：2018 年 12 月 20 日，2018 年仅剩下 11 天，距离 2019 年春节，还有 46 天。每日打卡，12 月份针对每个任务打卡，慢慢来，一切都会更好的。
 ---
 #### 参考博文链接
 > 1. [时间管理 - 我的快准狠记事（极简手帐）](/archives/8d07f8dd.html)
@@ -70,7 +70,7 @@ description: 今天：2018 年 12 月 19 日，2018 年仅剩下 12 天。每日
 | 17 |    |    |    |    |    |    |    |    |    |三 TT|六 TT|一 TT|
 | 18 |    |    |    |    |    |    |    |    |    |四 TT|日 TT|二 TT|
 | 19 |    |    |    |    |    |    |    |    |    |五 TT|一 TT|三 TT|
-| 20 |    |    |    |    |    |    |    |    |    |六 TT|二 TT|四   |
+| 20 |    |    |    |    |    |    |    |    |    |六 TT|二 TT|四 TT|
 | 21 |    |    |    |    |    |    |    |    |    |日 TT|三 TT|五   |
 | 22 |    |    |    |    |    |    |    |    |    |一 TT|四 TT|六   |
 | 23 |    |    |    |    |    |    |    |    |    |二 TT|五 TT|日   |
@@ -86,39 +86,39 @@ description: 今天：2018 年 12 月 19 日，2018 年仅剩下 12 天。每日
 #### 2. 2018 年 12 月每日计划性任务打卡记录
 > 打卡信息为前一天的数据
 
-| 12 月                              |每日打卡   |2018倒计时 |每日札记   |每日好文   |公众号更新 |备注            |
-|:----------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:--------------:|
-|  1 <font color="#FF0000">六</font> | TT        | TT        | TT        | TT        | TT        | 公众号正式运营 |
-|  2 <font color="#FF0000">日</font> | TT        | TT        | TT        | TT        | TT        |                |
-|  3 <font color="#000000">一</font> | TT        | TT        | TT        | TT        | TT        |                |
-|  4 <font color="#000000">二</font> | TT        | TT        | TT        | TT        | TT        |                |
-|  5 <font color="#000000">三</font> | TT        | TT        | TT        | TT        | TT        |                |
-|  6 <font color="#000000">四</font> | TT        | TT        | TT        | TT        | TT        |                |
-|  7 <font color="#000000">五</font> | TT        | TT        | FF        | FF        | TT        | 去医院体检     |
-|  8 <font color="#FF0000">六</font> | TT        | TT        | FF        | FF        | TT        | 家里有事情     |
-|  9 <font color="#FF0000">日</font> | TT        | TT        | FF        | FF        | TT        | 练车           |
-|  7 <font color="#000000">一</font> | TT        | TT        | FF        | FF        | TT        | 小孩醒得早陪玩 |
-| 11 <font color="#000000">二</font> | TT        | TT        | TT        | TT        | TT        |                |
-| 12 <font color="#000000">三</font> | TT        | TT        | TT        | TT        | TT        |                |
-| 13 <font color="#000000">四</font> | TT        | TT        | FF        | TT        | TT        | 给小朋友交医保 |
-| 14 <font color="#000000">五</font> | TT        | TT        | FF        | TT        | TT        | 更新旧的文章   |
-| 15 <font color="#FF0000">六</font> | TT        | TT        | FF        | FF        | TT        | 练车，旧文更新 |
-| 16 <font color="#FF0000">日</font> | TT        | TT        | FF        | FF        | TT        | 练车，旧文更新 |
-| 17 <font color="#000000">一</font> | TT        | TT        | FF        | TT        | TT        |                |
-| 18 <font color="#000000">二</font> | TT        | TT        | FF        | TT        | TT        | 旧文更新       |
-| 19 <font color="#000000">三</font> | TT        | TT        | FF        | FF        | TT        | 科目四看题目   |
-| 20 <font color="#000000">四</font> |           |           |           |           |           |                |
-| 21 <font color="#000000">五</font> |           |           |           |           |           |                |
-| 22 <font color="#FF0000">六</font> |           |           |           |           |           |                |
-| 23 <font color="#FF0000">日</font> |           |           |           |           |           |                |
-| 24 <font color="#000000">一</font> |           |           |           |           |           |                |
-| 25 <font color="#000000">二</font> |           |           |           |           |           |                |
-| 26 <font color="#000000">三</font> |           |           |           |           |           |                |
-| 27 <font color="#000000">四</font> |           |           |           |           |           |                |
-| 28 <font color="#000000">五</font> |           |           |           |           |           |                |
-| 29 <font color="#FF0000">六</font> |           |           |           |           |           |                |
-| 30 <font color="#FF0000">日</font> |           |           |           |           |           |                |
-| 30 <font color="#000000">一</font> |           |           |           |           |           |                |
+| 12 月                              |每日打卡   |2018倒计时 |每日札记   |每日好文   |公众号更新 |备注                |
+|:----------------------------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:-----------------: |
+|  1 <font color="#FF0000">六</font> | TT        | TT        | TT        | TT        | TT        | 公众号正式运营     |
+|  2 <font color="#FF0000">日</font> | TT        | TT        | TT        | TT        | TT        |                    |
+|  3 <font color="#000000">一</font> | TT        | TT        | TT        | TT        | TT        |                    |
+|  4 <font color="#000000">二</font> | TT        | TT        | TT        | TT        | TT        |                    |
+|  5 <font color="#000000">三</font> | TT        | TT        | TT        | TT        | TT        |                    |
+|  6 <font color="#000000">四</font> | TT        | TT        | TT        | TT        | TT        |                    |
+|  7 <font color="#000000">五</font> | TT        | TT        | FF        | FF        | TT        | 去医院体检         |
+|  8 <font color="#FF0000">六</font> | TT        | TT        | FF        | FF        | TT        | 家里有事情         |
+|  9 <font color="#FF0000">日</font> | TT        | TT        | FF        | FF        | TT        | 练车               |
+|  7 <font color="#000000">一</font> | TT        | TT        | FF        | FF        | TT        | 小孩醒得早陪玩     |
+| 11 <font color="#000000">二</font> | TT        | TT        | TT        | TT        | TT        |                    |
+| 12 <font color="#000000">三</font> | TT        | TT        | TT        | TT        | TT        |                    |
+| 13 <font color="#000000">四</font> | TT        | TT        | FF        | TT        | TT        | 给小朋友交医保     |
+| 14 <font color="#000000">五</font> | TT        | TT        | FF        | TT        | TT        | 更新旧的文章       |
+| 15 <font color="#FF0000">六</font> | TT        | TT        | FF        | FF        | TT        | 练车，旧文更新     |
+| 16 <font color="#FF0000">日</font> | TT        | TT        | FF        | FF        | TT        | 练车，旧文更新     |
+| 17 <font color="#000000">一</font> | TT        | TT        | FF        | TT        | TT        |                    |
+| 18 <font color="#000000">二</font> | TT        | TT        | FF        | TT        | TT        | 旧文更新           |
+| 19 <font color="#000000">三</font> | TT        | TT        | FF        | FF        | TT        | 科目四看题目       |
+| 20 <font color="#000000">四</font> | TT        | TT        | FF        | TT        | TT        | 整理资料、旧文更新 |
+| 21 <font color="#000000">五</font> |           |           |           |           |           |                    |
+| 22 <font color="#FF0000">六</font> |           |           |           |           |           |                    |
+| 23 <font color="#FF0000">日</font> |           |           |           |           |           |                    |
+| 24 <font color="#000000">一</font> |           |           |           |           |           |                    |
+| 25 <font color="#000000">二</font> |           |           |           |           |           |                    |
+| 26 <font color="#000000">三</font> |           |           |           |           |           |                    |
+| 27 <font color="#000000">四</font> |           |           |           |           |           |                    |
+| 28 <font color="#000000">五</font> |           |           |           |           |           |                    |
+| 29 <font color="#FF0000">六</font> |           |           |           |           |           |                    |
+| 30 <font color="#FF0000">日</font> |           |           |           |           |           |                    |
+| 30 <font color="#000000">一</font> |           |           |           |           |           |                    |
 
 
 

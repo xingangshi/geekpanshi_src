@@ -25,7 +25,7 @@ description: >-
   只需要几周时间，但你可以将其视为一个长期的视角。它将为您的未来生活节省数周或数月的文本编辑时间。
 photo:
   - 'https://i.imgur.com/3LkGcrA.png'
-date: 2018-11-14 20:10:03
+date: 2018-12-20 08:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 

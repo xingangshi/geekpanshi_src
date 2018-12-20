@@ -39,7 +39,7 @@ keywords:
   - 一个哲学书库
   - marxists
 description: 善用资源，找书，看书，而不是囤书。说明一点，很多网站都提供免费合法的电子书下载，大多为公共版权。以下都是一些提供书籍下载的网站，国外的较多，均可直接打开下载。
-date: 2018-12-08 19:20:50
+date: 2018-12-20 07:20:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
