@@ -62,7 +62,7 @@ keywords:
   - wolframalpha
   - REXPaint
 description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
-date: 2018-12-19 19:18:50
+date: 2018-12-21 19:18:50
 password:
 top: 1000008
 ---
@@ -288,6 +288,8 @@ top: 1000008
 >> ![WolframAlpha](https://i.imgur.com/3ht1PVy.png)
 >
 > [URL](https://www.oxfordlearnersdictionaries.com/) ：牛津词典在线版，牛津高级学习词典。
+>
+> [URL](https://unbug.github.io/codelf/) ：CodeLf，给程序变量起名。
 
 #### 18. PPT、WORD素材模板网站
 > [URL](https://slidemodel.com/) ：PPT模板、PPT素材、幻灯片模板资源网。
@@ -296,7 +298,7 @@ top: 1000008
 > [URL](http://www.ypppt.com/) ：优品PPT模板，包括PPT图表、PPT背景图片、PPT素材、PPT教程等。
 > [URL](http://www.hippter.com/) ：HiPPTer。
 > [URL](http://www.1ppt.com/moban/) ：第一PPT，免费下载。
-> [URL](http://www.51pptmoban.com/ppt/) ：51PPT模板。
+> [URL](http://www.51pptmoban.com/ppt/) ：51PPT 模板。
 
 #### 19. 简历设计
 > [URL](http://www.jiaobu365.com/) ：脚步网，超便捷的简历设计网站。
@@ -314,4 +316,5 @@ top: 1000008
 > v1.4，2018-11-26，新增两个开源 icon 网站，[羽毛图标](https://feathericons.com/) 和 [伊娃图标](https://akveo.github.io/eva-icons/#/)。
 > v1.5，2018-12-12，新增一个声音的素材库，[寻找你想要的声音素材](http://www.findsounds.com/typesChinese.html)。
 > v1.6，2018-12-17，新增 学习工具网站 分类，并新增 [WolframAlpha，（高中生）学习助手](https://www.wolframalpha.com/) 网站；图片处理新增 [REXPaint，一个功能强大且用户友好的ASCII艺术编辑器](https://www.gridsagegames.com/rexpaint/) 。
-v v1.7，2018-12-19，新增 PPT、WORD素材模板网站 和 简历设计 分类，并增加一些 表情库、图库资源，学习工具网站 增加 [牛津词典在线版](https://www.oxfordlearnersdictionaries.com/)。
+> v1.7，2018-12-19，新增 PPT、WORD素材模板网站 和 简历设计 分类，并增加一些 表情库、图库资源，学习工具网站 增加 [牛津词典在线版](https://www.oxfordlearnersdictionaries.com/)。
+> v1.8，2018-12-21，学习工具网站 分类新增 [CodeLf，给程序变量起名](https://unbug.github.io/codelf/)。

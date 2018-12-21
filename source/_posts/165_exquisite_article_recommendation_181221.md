@@ -15,7 +15,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 
+abbrlink: 1750f4f4
 keywords:
   - 代码审查
   - 晒娃
@@ -23,7 +23,9 @@ keywords:
   - 知识管理
   - 系统编程
   - 静态站点
-description: 1. 一款基于移动友好的 web 世界各国游戏。 2.  如何个代码撰写有用的注释。3.  个人冲刺：将设计思维应用到您的生活中。 4. 非常棒的 Python 开源列表。5. 7 个系统管理员的 CI/CD 工具。
+description: >-
+  1. 一款基于移动友好的 web 世界各国游戏。 2.  如何个代码撰写有用的注释。3.  个人冲刺：将设计思维应用到您的生活中。 4. 非常棒的
+  Python 开源列表。5. 7 个系统管理员的 CI/CD 工具。
 date: 2018-12-21 07:20:50
 password:
 ---
