@@ -305,6 +305,7 @@ top: 1000008
 > [URL](https://cvmkr.com/?lang=zh) ：CVMaker，免费让你在几分钟内创建漂亮专业的简历。
 > [URL](https://www.cakeresume.com/) ：CakeResume，让简历变得简单。
 > [URL](https://cloud.189.cn/t/uqArIjFriQzq) ：世界500强33套简历模板。
+> [URL](http://www.officeplus.cn/Template/Home.shtml) ：OfficePlus，PPT模板，Word文档模板，Excel图表模板免费下载
 
 ---
 
@@ -317,4 +318,4 @@ top: 1000008
 > v1.5，2018-12-12，新增一个声音的素材库，[寻找你想要的声音素材](http://www.findsounds.com/typesChinese.html)。
 > v1.6，2018-12-17，新增 学习工具网站 分类，并新增 [WolframAlpha，（高中生）学习助手](https://www.wolframalpha.com/) 网站；图片处理新增 [REXPaint，一个功能强大且用户友好的ASCII艺术编辑器](https://www.gridsagegames.com/rexpaint/) 。
 > v1.7，2018-12-19，新增 PPT、WORD素材模板网站 和 简历设计 分类，并增加一些 表情库、图库资源，学习工具网站 增加 [牛津词典在线版](https://www.oxfordlearnersdictionaries.com/)。
-> v1.8，2018-12-21，学习工具网站 分类新增 [CodeLf，给程序变量起名](https://unbug.github.io/codelf/)。
+> v1.8，2018-12-21，学习工具网站 分类新增 [CodeLf，给程序变量起名](https://unbug.github.io/codelf/)， PPT、WORD素材模板网站 分类新增 [OfficePlus](http://www.officeplus.cn/Template/Home.shtml)。
