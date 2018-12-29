@@ -11,7 +11,7 @@ date: 2018-10-17 16:43:20
 
 #### 1. [我的公众号](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg)
 
-* 公众号：<img src="https://i.loli.net/2018/12/06/5c08d6c8d9181.jpg" width="450" height="500" align=center></img>
+* 公众号：<img src="https://i.imgur.com/juBKMkS.jpg" width="450" height="500" align=center></img>
 
 
 #### 2. [联系方式](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg)
@@ -36,6 +36,10 @@ date: 2018-10-17 16:43:20
 #### 5. 网站使用图片资源
 
 * [网站使用图片资源](/images/ "网站使用图片资源")
+
+#### 6. 2019年我的新年FLAG
+
+> <img src="https://i.imgur.com/uZ7n0b7.jpg" width="450" height="300" align=center></img>
 
 #### 6. To Be Continue ……
 
@@ -70,8 +74,10 @@ date: 2018-10-17 16:43:20
 * 2018年11月27日，博客增加模块，[一图胜千言（前方高能，图大，慎点）](/archives/ba320aa2.htmll)。
 
 * 2018年11月30日，小朋友满月，个人公众号改名“GeekPanshi”，并开始写[个人公众号](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg)。
+
+* 2018年12月28日，个人公众号更名为“磐石韧如丝”，更名原因既元旦活动详情[2019年给自己离锦鲤最近的一次机会，倒计时第 3 天](https://mp.weixin.qq.com/s/jIPKT-kw-RXCL0CZxE-qwg)。
 > 送给孩子最好的礼物，恐怕就是一个努力上进的父亲吧。
 >
-> <img src="https://i.imgur.com/jbtXoYh.jpg" width="450" height="500" align=center></img>
+> <img src="https://i.imgur.com/juBKMkS.jpg" width="450" height="500" align=center></img>
 
 

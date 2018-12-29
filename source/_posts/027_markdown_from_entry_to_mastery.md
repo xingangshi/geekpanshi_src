@@ -805,7 +805,7 @@ section 测试
       ​    - [x] 修复 LaTex 公式渲染问题
       ​    - [x] 新增 LaTex 公式编号功能 [语法参考](http://docs.mathjax.org/en/latest/tex.html#tex-eq-numbers)
 - [ ] **最近小专栏推广**
-    - [x] 唐巧微信公众号广告投放
+    - [x] 微信公众号广告投放
     - [ ] 二月份小专栏微信服务号文章准备
     - [ ] 邀请更多技术牛人到小专栏写作
 ```
@@ -819,7 +819,7 @@ section 测试
       ​    - [x] 修复 LaTex 公式渲染问题
       ​    - [x] 新增 LaTex 公式编号功能 [语法参考](http://docs.mathjax.org/en/latest/tex.html#tex-eq-numbers)
 - [ ] **最近小专栏推广**
-    - [x] 唐巧微信公众号广告投放
+    - [x] 微信公众号广告投放
     - [ ] 二月份小专栏微信服务号文章准备
     - [ ] 邀请更多技术牛人到小专栏写作
 
