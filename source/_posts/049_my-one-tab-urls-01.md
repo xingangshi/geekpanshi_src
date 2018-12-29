@@ -16,6 +16,8 @@ abbrlink: ecc73a73
 photos:
   - "https://i.imgur.com/Tshp9Oy.png"
 keywords:
+  - 实用互联网工具大全
+  - overapi
   - 操作系统
   - 黑客
   - 哈勃分析
@@ -61,8 +63,14 @@ keywords:
   - FindSounds
   - wolframalpha
   - REXPaint
+  - 面试
+  - InterviewBit
+  - Interview
+  - hyperpolyglot
+  - 编程语言比较和学习
+  - python框架
 description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
-date: 2018-12-28 01:18:50
+date: 2018-12-29 01:18:50
 password:
 top: 1000008
 ---
@@ -90,6 +98,7 @@ top: 1000008
 > [URL](/archives/ecc73a73.html) ：实用互联网工具大全
 > [URL](/archives/9e708c90.html) ：康奈尔笔记法等
 > [URL](/archives/4875a258.html) ：个人博客相关等
+> [URL](/archives/509e5638.html) ：数据库资料、教程和工具大全等
 ---
 
 #### 1. 在线编辑器工具
@@ -288,12 +297,12 @@ top: 1000008
 >> ![WolframAlpha](https://i.imgur.com/3ht1PVy.png)
 >
 > [URL](https://www.oxfordlearnersdictionaries.com/) ：牛津词典在线版，牛津高级学习词典。
->
 > [URL](https://unbug.github.io/codelf/) ：CodeLf，给程序变量起名。
->
 > [URL](http://tingshen.court.gov.cn/) ：中国庭审公开网。
->
 > [URL](http://cssgridgarden.com/) ：格子花园，学习 CSS 的网站。
+> [URL](http://overapi.com/) ：OverAPI.com，所有编程语言的 API 集合。
+> [URL](https://www.interviewbit.com/coding-problems/) ：InterviewBit，顶尖科技公司的面试指南。
+> [URL](http://hyperpolyglot.org/) ：Hyperpolyglot，编程语言比较和学习。
 
 #### 18. PPT、WORD素材模板网站
 > [URL](https://slidemodel.com/) ：PPT模板、PPT素材、幻灯片模板资源网。
@@ -322,7 +331,7 @@ top: 1000008
 > v1.5.0，2018-12-12，新增一个声音的素材库，[寻找你想要的声音素材](http://www.findsounds.com/typesChinese.html)。
 > v1.6.0，2018-12-17，新增 学习工具网站 分类，并新增资源 [WolframAlpha，（高中生）学习助手](https://www.wolframalpha.com/) 网站；图片处理新增资源 [REXPaint，一个功能强大且用户友好的ASCII艺术编辑器](https://www.gridsagegames.com/rexpaint/) 。
 > v1.7.0，2018-12-19，新增 PPT、WORD素材模板网站 和 简历设计 分类，并增加一些 表情库、图库资源，学习工具网站 新增资源 [牛津词典在线版](https://www.oxfordlearnersdictionaries.com/)。
-> v1.8.0，2018-12-21，学习工具网站 分类新增资源  [CodeLf，给程序变量起名](https://unbug.github.io/codelf/)， PPT、WORD素材模板网站 分类新增资源  [OfficePlus](http://www.officeplus.cn/Template/Home.shtml)。
-> v1.9.0，2018-12-23，学习工具网站 分类新增资源  [中国庭审公开网](http://tingshen.court.gov.cn//)。
-> v1.9.1，2018-12-28，学习工具网站 分类新增资源  [格子花园，学习 CSS 的网站](http://cssgridgarden.com/)。
-
+> v1.8.0，2018-12-21，学习工具网站 分类新增资源 [CodeLf，给程序变量起名](https://unbug.github.io/codelf/)， PPT、WORD素材模板网站 分类新增资源 [OfficePlus](http://www.officeplus.cn/Template/Home.shtml)。
+> v1.9.0，2018-12-23，学习工具网站 分类新增资源 [中国庭审公开网](http://tingshen.court.gov.cn//)。
+> v1.9.1，2018-12-28，学习工具网站 分类新增资源 [格子花园，学习 CSS 的网站](http://cssgridgarden.com/)。
+> v1.9.2，2018-12-29，学习工具网站 分类新增资源 [OverAPI.com，所有编程语言的 API 集合](http://overapi.com/)、[InterviewBit，顶尖科技公司的面试指南](https://www.interviewbit.com/coding-problems/)、[Hyperpolyglot，编程语言比较和学习](http://hyperpolyglot.org/)。

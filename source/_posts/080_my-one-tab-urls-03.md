@@ -19,6 +19,7 @@ message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: 4875a258
 keywords:
+  - 个人博客相关等
   - 个人博客
   - 腾讯云
   - LastPass
@@ -64,6 +65,7 @@ password:
 > [URL](/archives/ecc73a73.html) ：实用互联网工具大全
 > [URL](/archives/9e708c90.html) ：康奈尔笔记法等
 > [URL](/archives/4875a258.html) ：个人博客相关等
+> [URL](/archives/509e5638.html) ：数据库资料、教程和工具大全等
 ---
 
 #### 1. 个人博客相关

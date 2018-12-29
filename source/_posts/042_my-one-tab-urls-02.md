@@ -15,9 +15,10 @@ abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: 9e708c90
-date: 2018-12-17 19:30:50
+date: 2018-12-29 19:30:50
 password:
 keywords:
+  - 康奈尔笔记法等
   - 康奈尔笔记法
   - 子弹笔记
   - 效率生活和工作
@@ -57,6 +58,7 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](/archives/ecc73a73.html) ：实用互联网工具大全
 > [URL](/archives/9e708c90.html) ：康奈尔笔记法等
 > [URL](/archives/4875a258.html) ：个人博客相关等
+> [URL](/archives/509e5638.html) ：数据库资料、教程和工具大全等
 ---
 
 #### 1. 学习相关
@@ -122,6 +124,7 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://zhuanlan.zhihu.com/p/50390309) ：效率的故事
 > [URL](https://www.zhihu.com/question/24295398) ：在卡内基梅隆大学 (Carnegie Mellon University) 就读是怎样一番体验？
 > [URL](https://www.zhihu.com/question/303022763) ：人工智能从业者应该从哪里去寻找和阅读顶级论文？
+> [URL](https://www.zhihu.com/question/302101859) ：国内有多少研究生导师真正尽到了一个老师的责任和义务？
 
 #### 7. Books
 > [URL](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#) ：Pinker Book Recommendations
@@ -155,21 +158,28 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://github.com/coodict/python3-in-one-pic) ：coodict/python3-in-one-pic: Learn python3 in one picture.
 > [URL](https://mg.pov.lt/objgraph/) ：Python Object Graphs — objgraph 3.4.0 documentation
 > [URL](http://python.jobbole.com/88827/) ：使用 GC、Objgraph 干掉 Python 内存泄露与循环引用！
+> [URL](https://python.libhunt.com/) ：Awesome Python，精选的 Python 框架，软件包，软件和资源的精选列表。
+> [URL](https://github.com/mahmoud/awesome-python-applications) ：Pyton 开源库。
+> [URL](https://gto76.github.io/python-cheatsheet/) ：Python Cheatsheet 大全。
 
 #### 10. Git
 > [URL](https://blog.sourced.tech/post/deduplicating_pga_with_apollo/) ：Deduplicating files in Public Git Archive · source{d} blog
 > [URL](http://www.metacase.com/blogs/stevek/blogView?entry=3714903141) ：Linux, Git, MetaEdit+: how three Finns brought versioning, models & code together
 > [URL](https://mikegerwitz.com/papers/git-horror-story) ：一个Git恐怖故事：签名提交的存储库完整性
 > [URL](https://blog.osteele.com/2008/05/my-git-workflow/) ：My Git Workflow
+> [URL](https://yanhaijing.com/git/2017/07/14/four-method-for-git-merge/) ：图解4种git合并分支方法
+> [URL](https://lukasmestan.com/git-quick-stats//) ：Git quick statistics，git 快速统计。
+> [URL](https://yanhaijing.com/git/2017/07/14/four-method-for-git-merge/) ：图解4种git合并分支方法
+> [URL](https://yanhaijing.com/git/2017/07/14/four-method-for-git-merge/) ：图解4种git合并分支方法
 >>
 >> ![Git Workflow](https://i.imgur.com/btxXEAN.png)
-
 
 ---
 
 #### 版本记录
-> v1.0，2018-10-26；
-> v1.1，2018-11-21；
-> v1.2，2018-11-23；
-> v1.3，2018-11-26，增加部分的子弹笔记的资料。
-> v1.4，2018-12-17，新增 知乎分类下 [人工智能从业者应该从哪里去寻找和阅读顶级论文？](https://www.zhihu.com/question/303022763)。
+> v1.0.0，2018-10-26；
+> v1.1.0，2018-11-21；
+> v1.2.0，2018-11-23；
+> v1.3.0，2018-11-26，增加部分的子弹笔记的资料。
+> v1.4.0，2018-12-17，知乎分类下新增  [人工智能从业者应该从哪里去寻找和阅读顶级论文？](https://www.zhihu.com/question/303022763)。
+> v1.5.0，2018-12-29，知乎分类下新增  [国内有多少研究生导师真正尽到了一个老师的责任和义务？](https://www.zhihu.com/question/302101859)、Python分类下新增 [Awesome Python，精选的 Python 框架，软件包，软件和资源的精选列表](https://python.libhunt.com/)。
