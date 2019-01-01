@@ -69,8 +69,9 @@ keywords:
   - hyperpolyglot
   - 编程语言比较和学习
   - python框架
+  - Jamendo Music
 description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
-date: 2018-12-29 01:18:50
+date: 2019-01-02 01:18:50
 password:
 top: 1000008
 ---
@@ -320,6 +321,8 @@ top: 1000008
 > [URL](https://cloud.189.cn/t/uqArIjFriQzq) ：世界500强33套简历模板。
 > [URL](http://www.officeplus.cn/Template/Home.shtml) ：OfficePlus，PPT模板，Word文档模板，Excel图表模板免费下载
 
+#### 20. 娱乐影音
+> [URL](https://www.jamendo.com/start) ：Jamendo Music，采用Creative Commons授权，在这个网站，你可以欣赏到全球40,000位艺术家共享的超过500,000首歌曲！支持免费收听及下载！
 ---
 
 #### 版本记录
@@ -335,3 +338,4 @@ top: 1000008
 > v1.9.0，2018-12-23，学习工具网站 分类新增资源 [中国庭审公开网](http://tingshen.court.gov.cn//)。
 > v1.9.1，2018-12-28，学习工具网站 分类新增资源 [格子花园，学习 CSS 的网站](http://cssgridgarden.com/)。
 > v1.9.2，2018-12-29，学习工具网站 分类新增资源 [OverAPI.com，所有编程语言的 API 集合](http://overapi.com/)、[InterviewBit，顶尖科技公司的面试指南](https://www.interviewbit.com/coding-problems/)、[Hyperpolyglot，编程语言比较和学习](http://hyperpolyglot.org/)。
+> v2.1.0，2019-01-02，新增 娱乐影音 分类，并增加[Jamendo Music](https://www.jamendo.com/start)。
