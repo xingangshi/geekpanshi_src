@@ -5,6 +5,7 @@ tags:
   - 推荐阅读
   - 教育
   - 修身养性
+  - 美文推荐
 comments: true
 toc: true
 categories:
