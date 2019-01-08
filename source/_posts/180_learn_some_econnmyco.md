@@ -17,7 +17,7 @@ keywords:
 description: 哈佛大学经济学教授曼昆曾经对自己的学生提过一个建议：学点经济学，知道经济规律，把握自己人生。其实在经济学面前，我们都是学生的。
 photos:
   - 'https://ws1.sinaimg.cn/large/006tNc79gy1fyzwuzl8bhj3085064wed.jpg'
-date: 2019-01-09 08:10:03
+date: 2019-01-08 08:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
