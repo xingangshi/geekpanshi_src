@@ -71,7 +71,7 @@ keywords:
   - python框架
   - Jamendo Music
 description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
-date: 2019-01-02 01:18:50
+date: 2019-01-16 19:18:50
 password:
 top: 1000008
 ---
@@ -129,6 +129,7 @@ top: 1000008
 > [URL](http://www.bejson.com/) ：在线 JSON 校验格式化工具（Be JSON） JSON 格式化
 > [URL](https://www.beejson.com/) ：JSON 在线解析 | JSON 在线 | JSON 在线格式化 | JSON在线工具 | Bee JSON JSON 格式化
 > [URL](https://www.beejson.com/) ：jq是一个轻量级且灵活的命令行 JSON 格式化 处理器。
+> [URL](https://json.pizza/) ：Json.Pizza，一个简单的在线 Json 格式化工具。
 
 ##### 1.6 SQL 格式化
 > [URL](https://sqlfum.pt/) ：sqlfmt，一个在线 SQL 格式化程序，[官网链接](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)。
@@ -339,3 +340,4 @@ top: 1000008
 > v1.9.1，2018-12-28，学习工具网站 分类新增资源 [格子花园，学习 CSS 的网站](http://cssgridgarden.com/)。
 > v1.9.2，2018-12-29，学习工具网站 分类新增资源 [OverAPI.com，所有编程语言的 API 集合](http://overapi.com/)、[InterviewBit，顶尖科技公司的面试指南](https://www.interviewbit.com/coding-problems/)、[Hyperpolyglot，编程语言比较和学习](http://hyperpolyglot.org/)。
 > v2.1.0，2019-01-02，新增 娱乐影音 分类，并增加[Jamendo Music](https://www.jamendo.com/start)。
+> v2.1.1，2019-01-16，JSON 格式化 分类新增资源 [Json.Pizza，一个简单的在线 Json 格式化工具](https://json.pizza/)。
