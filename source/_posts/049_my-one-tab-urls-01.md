@@ -150,12 +150,13 @@ top: 1000008
 > [URL](https://ai.qq.com/product/ocr.shtml#identify) ：腾讯优图 OCR
 
 ##### 2.2 图片处理
-
 > [URL](https://squoosh.app/) ：squoosh，在线 图片 压缩工具。
 > [URL](http://www.atool.org/steganography.php) ：图片 隐写术加密 - 图片隐写术解密 - 图片中隐藏文字信息 - aTool 在线工具
 > [URL](http://waifu2x.udp.jp/) ：waifu2x 无损放大 图片
 > [URL](http://bigjpg.com/) ：Bigjpg - AI人工智能 图片 无损放大 - 使用人工智能深度卷积神经网络（CNN）无损放大图片
 > [URL](https://www.gridsagegames.com/rexpaint/) ：REXPaint，一个功能强大且用户友好的ASCII艺术编辑器。
+> [URL](https://tool.gifhome.com/cut/) ：GIF 工具之家。
+> [URL](https://www.tuhaokuai.com/gif) ：GIF 压缩，动图压缩。
 
 ##### 2.3 Icon 相关
 > [URL](https://icomoon.io/) ：Icon Font & SVG Icon Sets IcoMoon 将 SVG 文件转化成 CSS
@@ -341,3 +342,5 @@ top: 1000008
 > v1.9.2，2018-12-29，学习工具网站 分类新增资源 [OverAPI.com，所有编程语言的 API 集合](http://overapi.com/)、[InterviewBit，顶尖科技公司的面试指南](https://www.interviewbit.com/coding-problems/)、[Hyperpolyglot，编程语言比较和学习](http://hyperpolyglot.org/)。
 > v2.1.0，2019-01-02，新增 娱乐影音 分类，并增加[Jamendo Music](https://www.jamendo.com/start)。
 > v2.1.1，2019-01-16，JSON 格式化 分类新增资源 [Json.Pizza，一个简单的在线 Json 格式化工具](https://json.pizza/)。
+> v2.1.1，2019-01-19，图片处理 分类新增资源 [GIF 工具之家](https://tool.gifhome.com/cut/)，[GIF 压缩，动图压缩](https://www.tuhaokuai.com/gif)。
+
