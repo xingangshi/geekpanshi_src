@@ -18,8 +18,8 @@ description: >-
   假如人生按照 90
   周岁计算的话，我们可以活多久都是一个可以度量的事情，给自己人生做一个倒计时，珍惜每一天、珍惜身边值得珍惜的人、珍惜自己喜欢做的事情，不辜负每一天。
 photos:
-  - 'https://ws4.sinaimg.cn/large/006tNc79gy1fyzw8ftjgsj3085062jrb.jpg'
-date: 2019-01-11 08:10:03
+  - 'https://i.imgur.com/BfiQWrg.jpg'
+date: 2019-01-28 08:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 

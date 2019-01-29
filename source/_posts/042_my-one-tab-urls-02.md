@@ -15,7 +15,7 @@ abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: 9e708c90
-date: 2018-12-29 19:30:50
+date: 2019-01-28 19:30:50
 password:
 keywords:
   - 康奈尔笔记法等
@@ -125,6 +125,9 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://www.zhihu.com/question/24295398) ：在卡内基梅隆大学 (Carnegie Mellon University) 就读是怎样一番体验？
 > [URL](https://www.zhihu.com/question/303022763) ：人工智能从业者应该从哪里去寻找和阅读顶级论文？
 > [URL](https://www.zhihu.com/question/302101859) ：国内有多少研究生导师真正尽到了一个老师的责任和义务？
+> [URL](https://www.zhihu.com/question/26637304) ：如何评价应届生在面试中说的「虽然我没有经验，但是我非常愿意学习」这句话？
+> [URL](https://www.zhihu.com/question/67168122) ：如何看待《罗振宇的骗局，大部分知识付费其实都是大忽悠》一文？
+> [URL](https://www.zhihu.com/question/305685063) ：读博士5年究竟值不值得？
 
 #### 7. Books
 > [URL](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#) ：Pinker Book Recommendations
@@ -183,3 +186,4 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > v1.3.0，2018-11-26，增加部分的子弹笔记的资料。
 > v1.4.0，2018-12-17，知乎分类下新增  [人工智能从业者应该从哪里去寻找和阅读顶级论文？](https://www.zhihu.com/question/303022763)。
 > v1.5.0，2018-12-29，知乎分类下新增  [国内有多少研究生导师真正尽到了一个老师的责任和义务？](https://www.zhihu.com/question/302101859)、Python分类下新增 [Awesome Python，精选的 Python 框架，软件包，软件和资源的精选列表](https://python.libhunt.com/)。
+> v2.1.1，2019-01-28，知乎分类下新增  [如何评价应届生在面试中说的「虽然我没有经验，但是我非常愿意学习」这句话？](https://www.zhihu.com/question/26637304)，[如何看待《罗振宇的骗局，大部分知识付费其实都是大忽悠》一文？](https://www.zhihu.com/question/67168122)，[读博士5年究竟值不值得？](https://www.zhihu.com/question/305685063) 。
