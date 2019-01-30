@@ -243,8 +243,8 @@ photos:
 ###### 第 16 期，朋友回美国，临别赠书
 > 1 本 2 人。
 >
-> 1. [《哲学的慰藉）》](http://product.dangdang.com/25261526.html)
-> 2. [《易经杂说）》](http://product.dangdang.com/23686672.html)
+> 1. [《哲学的慰藉》](http://product.dangdang.com/25261526.html)
+> 2. [《易经杂说》](http://product.dangdang.com/23686672.html)
 >
 > 买书日期：2019-01-10
 
