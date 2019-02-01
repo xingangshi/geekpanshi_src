@@ -39,7 +39,9 @@ keywords:
   - 一个哲学书库
   - marxists
 description: 善用资源，找书，看书，而不是囤书。说明一点，很多网站都提供免费合法的电子书下载，大多为公共版权。以下都是一些提供书籍下载的网站，国外的较多，均可直接打开下载。
-date: 2019-01-31 07:20:50
+photos:
+  - 'https://i.imgur.com/31Vh4RY.jpg'
+date: 2019-02-01 13:20:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -50,7 +52,8 @@ password:
 > 善用资源，找书，看书，而不是囤书。说明一点，很多网站都提供免费合法的电子书下载，大多为公共版权。
 >
 > 以下都是一些提供书籍下载的网站，国外的较多，均可直接打开下载。
-
+>
+> ![https://manybooks.net/](https://i.imgur.com/YRG5RbQ.png)
 ---
 
 #### [鸠摩搜书](https://www.jiumodiary.com/)
@@ -109,6 +112,3 @@ password:
 
 #### [一个哲学书库](https://www.marxists.org/reference/subject/philosophy/index.html)
 > 一个哲学书库：[https://www.marxists.org/reference/subject/philosophy/index.html](https://www.marxists.org/reference/subject/philosophy/index.html)，虽然只有文本格式，但所收藏的书籍多为哲学史上的名著，相当丰富！也是练习英语的好地方。
-
-#### [BookSC](https://booksc.org/)
-> BookSC：[https://booksc.org/](https://booksc.org/)，Part of Z-Library project. The world's largest scientific articles store. 70,000,000+ articles for free.

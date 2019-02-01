@@ -43,7 +43,7 @@ keywords:
   - haskell
   - 测试
 photos:
-  - 'https://i.imgur.com/dC3K1HH.jpg'
+  - 'https://i.imgur.com/KzzwXVS.jpg'
 description: >-
   1. 观点和经验。 2. OneTab shared tabs，Shared 86 tabs。 3. 资源和工具。 4. 工具相关。 5. 提升效率。 6.
   教程书籍
@@ -56,7 +56,7 @@ password:
 ---
 > 1. 观点和经验。 2. OneTab shared tabs: Shared 86 tabs。 3. 资源和工具。 4. 工具相关。 5. 提升效率。 6. 教程书籍
 >
-> ![angry-data-modeler](https://i.imgur.com/gup22Ne.jpg)
+> ![这 10 款插件让你的 GitHub 更好用、更有趣](https://i.imgur.com/TXs6G7s.png)
 
 ---
 #### 站内内链
