@@ -51,6 +51,7 @@ password:
 ### 个人博客相关等
 ---
 > 1. 个人博客相关。 2. OneTab shared tabs，Shared 95 tabs。 3. 机器学习深度学习神经网络。 4. C++、Lisp、Haskell 编程教程和编程实践。 5. 程序员看一看，单进程编程、测试影响分析和系统稳定性、系统而不是程序、软件工程成功的关键是隐藏信息、现代浏览器的工作原理、一个 Windows 内核、理解你产品的核心用户、为什么阅读会导致近视。
+
 ---
 #### 站内内链
 > [URL](/archives/4f25f01c.html) ：程序员的网站大全
@@ -66,6 +67,7 @@ password:
 > [URL](/archives/9e708c90.html) ：康奈尔笔记法等
 > [URL](/archives/4875a258.html) ：个人博客相关等
 > [URL](/archives/509e5638.html) ：数据库资料、教程和工具大全等
+> [URL](/archives/278fb2c3.html) ：各种资源、工具和关键经验大全等
 ---
 
 #### 1. 个人博客相关

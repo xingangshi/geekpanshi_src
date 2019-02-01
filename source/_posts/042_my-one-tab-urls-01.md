@@ -85,7 +85,6 @@ top: 1000008
 > ![REXPaint](https://i.imgur.com/dvbea4Z.png)
 
 ---
-
 #### 站内内链
 > [URL](/archives/4f25f01c.html) ：程序员的网站大全
 > [URL](/archives/5cc771ed.html) ：免费的编程书籍
@@ -100,7 +99,9 @@ top: 1000008
 > [URL](/archives/9e708c90.html) ：康奈尔笔记法等
 > [URL](/archives/4875a258.html) ：个人博客相关等
 > [URL](/archives/509e5638.html) ：数据库资料、教程和工具大全等
+> [URL](/archives/278fb2c3.html) ：各种资源、工具和关键经验大全等
 ---
+
 
 #### 1. 在线编辑器工具
 
