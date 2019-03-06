@@ -22,7 +22,7 @@ description: >-
   和自己尊敬的人一起工作，向他们学习；3.不要人云亦云，做事专注于重点；4.趁着年轻还不用承担责任时，去冒险吧，做自己想做的事。
 photos:
   - 'https://ws3.sinaimg.cn/large/006tNc79gy1fzxhsbo1u1j3085064dfs.jpg'
-date: 2019-02-07 08:10:03
+date: 2019-03-06 08:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
