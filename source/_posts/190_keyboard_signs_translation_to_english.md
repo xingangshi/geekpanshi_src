@@ -59,3 +59,8 @@ date: 2019-03-19 10:10:03
 | ,  | 逗号                      | Comma.
 | \. | 句号，点                  | Period, dot or full stop.
 | ?  | 问号                      | Question mark.
+
+#### 扩展资料
+> [UI Events KeyboardEvent key Values : URL https://www.w3.org/TR/uievents-key/](https://www.w3.org/TR/uievents-key/)
+>
+> [UI Events KeyboardEvent code Values : URL https://www.w3.org/TR/uievents-code/](https://www.w3.org/TR/uievents-code/)
