@@ -1,5 +1,5 @@
 ---
-title: 读书荐书之2019年第1/4更
+title: 读书荐书之2019年第2/4更
 tags:
   - 读书
   - 荐书
@@ -20,12 +20,12 @@ keywords:
 abbrlink: 992a9342
 photos:
   - "https://ws4.sinaimg.cn/large/006tNbRwgy1fyoh12r8ppj308504tt8l.jpg"
-description: 读书、荐书第 4 年，2019 年第 1/4 更新。管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
-date: 2018-01-30 08:20:40
+description: 读书、荐书第 4 年，2019 年第 2/4 更新。管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
+date: 2019-04-02 08:20:40
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-#### 读书荐书之2019年第1/4更
+#### 读书荐书之2019年第2/4更
 
 ------
 > 序言：管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
@@ -39,7 +39,7 @@ date: 2018-01-30 08:20:40
 3. 2019 年读书荐书计划：2019 年将改为一年 4 更（2017 和 2018 年为 一年 3 更）；
 4. 一直坚持每年读一些书，读书荐书是从 2016 年年初开始做的计划，今年是第 3 年了；
 5. 列表的书都是自己读过的书；
-6. 最近一次的更新时间：2018 年 12 月 30 日，2019 年第一更，第 1/4 更。
+6. 最近一次的更新时间：2019 年 4 月 2 日，2019 年第一更，第 2/4 更。
 7. [<font color="red" size=3>联系方式</font>](/about)。
 
 ------
@@ -136,6 +136,15 @@ NOTE: 2018-08-31 15:31:00
 5. [小狗钱钱套装](https://item.jd.com/12345927.html)，[《小狗钱钱》书评](https://book.douban.com/subject/3576486/)，[《小狗钱钱2》书评](https://book.douban.com/subject/6971390/)
 
 NOTE: 2018-12-30 06:52:00
+
+##### 4.2 2019 年 4 月 2 日后闲来无事你可以看看（2019 第 2/4 更）
+1. [意志决定命运：大师人生智慧精华（名家名译）](http://product.dangdang.com/23627064.html)，[书评](https://book.douban.com/subject/26320590/)
+2. [经济学的思维方式](http://product.dangdang.com/25309209.html)，[书评](https://book.douban.com/subject/30274068/)
+3. [儿童教育心理学](http://product.dangdang.com/25182679.html)，[书评](https://book.douban.com/subject/30330362/)
+4. [原则](http://product.dangdang.com/25204629.html)，[书评](https://book.douban.com/subject/27608239/)
+5. [见识](http://product.dangdang.com/25220963.html)，[书评](https://book.douban.com/subject/30144978/)
+
+NOTE: 2018-04-02 08:00:00
 
 ------
 
