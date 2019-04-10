@@ -36,7 +36,7 @@ date: 2018-12-07 15:53:01
 #### 2019 年年历
 > 2019 年年历。
 >
->> ![2019年年历](https://i.imgur.com/KbUvHBw.png 2019年年历)
+>> ![2019年年历](https://wx3.sinaimg.cn/large/007lcHJHgy1g1xb1ogsi1j30lx0v2n00.jpg 2019年年历)
 ---
 
 #### 相关博文推荐
@@ -82,5 +82,5 @@ date: 2018-12-07 15:53:01
 #### 版本记录
 > v1.0，2018-11-22；
 > v1.1，2018-11-25，修改日历 `10月20日` 错误写成 `10月13日`，增加[2019周计划（模板）](/archives/ac857cd2.html)。
-> v2.0，2018-12-07，根据[2019年放假安排，五一假期才一天！](https://mp.weixin.qq.com/s/yRyDrjV8BLYoXbyBXidk8A)安排，调整 [2019年年历放假安排](https://i.imgur.com/KbUvHBw.png 2019年年历)。
+> v2.0，2018-12-07，根据[2019年放假安排，五一假期才一天！](https://mp.weixin.qq.com/s/yRyDrjV8BLYoXbyBXidk8A)安排，调整 [2019年年历放假安排](https://wx3.sinaimg.cn/large/007lcHJHgy1g1xb1ogsi1j30lx0v2n00.jpg 2019年年历)。
 
