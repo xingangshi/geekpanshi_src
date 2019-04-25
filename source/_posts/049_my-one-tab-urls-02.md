@@ -15,7 +15,6 @@ abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: 9e708c90
-date: 2019-01-31 19:30:50
 password:
 keywords:
   - 康奈尔笔记法等
@@ -36,6 +35,7 @@ keywords:
 photos:
  - https://i.imgur.com/MoKt35C.jpg
 description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记：极简手帐攻略。 5. WorkFlowy 是一款基于云端的、只支持纯文字的工具。 6. 知乎精华帖……
+date: 2019-04-24 19:30:50
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -134,6 +134,7 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > [URL](https://www.zhihu.com/question/305685063) ：读博士5年究竟值不值得？
 > [URL](https://www.zhihu.com/question/288093713) ：有哪些数学上的事实，没有一定数学知识的人不会相信？
 > [URL](https://www.zhihu.com/question/22241846)：为什么觉得英文原版教材很啰嗦？
+> [URL](https://www.zhihu.com/question/20541531)：如何做到像使用 LaTeX 那样优雅地使用 Word？
 
 #### 7. Books
 > [URL](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#) ：Pinker Book Recommendations
@@ -194,3 +195,4 @@ description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. �
 > v1.5.0，2018-12-29，知乎分类下新增  [国内有多少研究生导师真正尽到了一个老师的责任和义务？](https://www.zhihu.com/question/302101859)、Python分类下新增 [Awesome Python，精选的 Python 框架，软件包，软件和资源的精选列表](https://python.libhunt.com/)。
 > v2.1.1，2019-01-28，知乎分类下新增  [如何评价应届生在面试中说的「虽然我没有经验，但是我非常愿意学习」这句话？](https://www.zhihu.com/question/26637304)，[如何看待《罗振宇的骗局，大部分知识付费其实都是大忽悠》一文？](https://www.zhihu.com/question/67168122)，[读博士5年究竟值不值得？](https://www.zhihu.com/question/305685063) 。
 > v2.1.2，2019-01-31，知乎分类下新增  [有哪些数学上的事实，没有一定数学知识的人不会相信？](https://www.zhihu.com/question/288093713)，[为什么觉得英文原版教材很啰嗦？](https://www.zhihu.com/question/22241846)。
+> v2.4.1，2019-04-24，知乎分类下新增  [如何做到像使用 LaTeX 那样优雅地使用 Word？](https://www.zhihu.com/question/20541531)。
