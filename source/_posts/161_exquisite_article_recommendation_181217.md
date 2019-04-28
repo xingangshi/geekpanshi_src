@@ -36,7 +36,7 @@ password:
 ### REXPaint 是一个功能强大且用户友好的 ASCII 艺术编辑器
 >  1. REXPaint 是一个功能强大且用户友好的 ASCII 艺术编辑器。 2.  FAQGURU 面试问题列表 —— 此列表是您准备技术面试所需的一切。3.  一本绝密知识点的书，一系列精彩的列表，手册，博客，黑客，单行，cli / web工具等等。适用于SysOps，DevOps，Pentesters和安全研究人员。 4. 秒杀系统设计与实现——互联网工程师进阶与分析。  5. 您并不是软件开发人员。
 >
-> ![正确提问比正确回答更重要](https://ws1.sinaimg.cn/large/006tNbRwgy1fy9d4v32qzj30c809774h.jpg)
+> ![正确提问比正确回答更重要](https://wx1.sinaimg.cn/large/006tNbRwgy1fy9d4v32qzj30c809774h.jpg)
 
 ---
 #### 1. REXPaint 是一个功能强大且用户友好的 ASCII 艺术编辑器
@@ -46,7 +46,7 @@ password:
 >
 > 解锁你的复古潜力；今天加入成千上万的其他 REXPaint 用户。
 >
-> ![demo](https://ws4.sinaimg.cn/large/006tNbRwgy1fy9ci2a51xj30zk0qijtc.jpg)
+> ![demo](https://wx4.sinaimg.cn/large/006tNbRwgy1fy9ci2a51xj30zk0qijtc.jpg)
 >
 > [REXPaint 是一个功能强大且用户友好的 ASCII 艺术编辑器](https://www.gridsagegames.com/rexpaint/index.html)
 
@@ -57,7 +57,7 @@ password:
 >
 > 注意：请记住，其中许多问题都是开放式的，可能会引发有趣的讨论，告诉您更多关于此人的能力而不是直接回答的问题。
 >
-> ![FAQGURU](https://ws1.sinaimg.cn/large/006tNbRwgy1fy9cku52e3j30tk0fmdg5.jpg)
+> ![FAQGURU](https://wx1.sinaimg.cn/large/006tNbRwgy1fy9cku52e3j30tk0fmdg5.jpg)
 >
 > [FAQGURU 面试问题列表](https://github.com/FAQGURU/FAQGURU)
 
@@ -74,7 +74,7 @@ password:
 >
 >> 它适用于所有人和任何人 - 尤其适用于系统和网络管理员，devops，测试人员或安全研究人员。
 >
-> ![一本绝密知识点的书](https://ws4.sinaimg.cn/large/006tNbRwgy1fy9cpcpcc8j311u0ssac6.jpg)
+> ![一本绝密知识点的书](https://wx4.sinaimg.cn/large/006tNbRwgy1fy9cpcpcc8j311u0ssac6.jpg)
 >
 > [一本绝密知识点的书 ](https://github.com/trimstray/the-book-of-secret-knowledge)
 
@@ -85,7 +85,7 @@ password:
 
 > 一点小建议：学习本系列知识之前，如果你完全没接触过 MQ、SpringBoot、Redis、Dubbo、ZK 、Maven等，那么我建议你可以先在网上搜一下每一块知识的快速入门，也可以下载本项目边做边学习，然后再开始每一块知识的学习。这样效果更好噢
 >
-> ![秒杀高并发架构 -- 架构图](https://ws2.sinaimg.cn/large/006tNbRwgy1fy9csartmzj30y70emwf5.jpg)
+> ![秒杀高并发架构 -- 架构图](https://wx2.sinaimg.cn/large/006tNbRwgy1fy9csartmzj30y70emwf5.jpg)
 >
 > [秒杀系统设计与实现.互联网工程师进阶与分析](https://github.com/qiurunze123/miaosha)
 
@@ -112,7 +112,7 @@ password:
 >
 > 但业务与软件无关。甚至软件业也与软件无关。生意就是赚钱。
 >
-> ![推荐系统论文、学习资料、业界分享](https://ws4.sinaimg.cn/large/006tNbRwgy1fy9d1sxkiyj31c00u0djd.jpg)
+> ![推荐系统论文、学习资料、业界分享](https://wx4.sinaimg.cn/large/006tNbRwgy1fy9d1sxkiyj31c00u0djd.jpg)
 >
 > **你的工作是了解公司如何赚钱，帮助赚更多钱并减少开支。**一旦你知道，你将成为公司最宝贵的资产。
 >

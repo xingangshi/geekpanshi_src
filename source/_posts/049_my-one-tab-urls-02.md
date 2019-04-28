@@ -136,6 +136,7 @@ date: 2019-04-24 19:30:50
 > [URL](https://www.zhihu.com/question/288093713) ：有哪些数学上的事实，没有一定数学知识的人不会相信？
 > [URL](https://www.zhihu.com/question/22241846)：为什么觉得英文原版教材很啰嗦？
 > [URL](https://www.zhihu.com/question/20541531)：如何做到像使用 LaTeX 那样优雅地使用 Word？
+> [URL](https://www.zhihu.com/question/27484486)：如何保持长期、持续、稳定的努力？
 
 #### 7. Books
 > [URL](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#) ：Pinker Book Recommendations
@@ -197,3 +198,4 @@ date: 2019-04-24 19:30:50
 > v2.1.1，2019-01-28，知乎分类下新增  [如何评价应届生在面试中说的「虽然我没有经验，但是我非常愿意学习」这句话？](https://www.zhihu.com/question/26637304)，[如何看待《罗振宇的骗局，大部分知识付费其实都是大忽悠》一文？](https://www.zhihu.com/question/67168122)，[读博士5年究竟值不值得？](https://www.zhihu.com/question/305685063) 。
 > v2.1.2，2019-01-31，知乎分类下新增  [有哪些数学上的事实，没有一定数学知识的人不会相信？](https://www.zhihu.com/question/288093713)，[为什么觉得英文原版教材很啰嗦？](https://www.zhihu.com/question/22241846)。
 > v2.4.1，2019-04-24，知乎分类下新增  [如何做到像使用 LaTeX 那样优雅地使用 Word？](https://www.zhihu.com/question/20541531)。
+> v2.4.2，2019-04-28，知乎分类下新增  [如何保持长期、持续、稳定的努力？](https://www.zhihu.com/question/27484486)。

@@ -24,7 +24,7 @@ keywords:
   - 宽978高553
 description: 独乐乐不如众乐乐，让我们以书会友，找到那个心有灵犀的伙伴。送书原则：1. 根据我对朋友的年龄、身份、行业来选择的；2. 送书对象可以是朋友，也可以是朋友的家人和小孩的；3. 有意义的时间点才送书。
 photos:
-    - "https://ws2.sinaimg.cn/large/006tNbRwgy1fyg1ujgaw7j308505u74a.jpg"
+    - "https://wx2.sinaimg.cn/large/006tNbRwgy1fyg1ujgaw7j308505u74a.jpg"
 date: 2019-04-26 08:02:53
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -35,7 +35,7 @@ date: 2019-04-26 08:02:53
 >
 > 独乐乐不如众乐乐，让我们以书会友，找到那个心有灵犀的伙伴。
 >
-> ![以书会友，阅读人生](https://ws3.sinaimg.cn/large/006tNbRwgy1fyg1pt83r3j30go099q3j.jpg)
+> ![以书会友，阅读人生](https://wx3.sinaimg.cn/large/006tNbRwgy1fyg1pt83r3j30go099q3j.jpg)
 ---
 
 #### 送书原则

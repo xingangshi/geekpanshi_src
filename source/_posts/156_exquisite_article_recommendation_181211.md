@@ -38,7 +38,7 @@ password:
 #### 1. 我们的朋友真的是我们的朋友？
 > 人平均会有 150 个普通朋友参加你的婚礼或葬礼；其中有 50 个还不错的朋友；这中间才有 15 个算是好朋友；但是只有 5 个算知己；最亲密无间的朋友只有 1.5 个。
 >
-> ![朋友](https://ws2.sinaimg.cn/large/006tNbRwgy1fy2gxmvce3j30eu08cmxb.jpg)
+> ![朋友](https://wx2.sinaimg.cn/large/006tNbRwgy1fy2gxmvce3j30eu08cmxb.jpg)
 >
 > [我们的朋友真的是我们的朋友？](https://www.nytimes.com/2018/05/12/style/who-are-my-real-friends.html)
 

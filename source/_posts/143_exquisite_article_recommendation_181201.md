@@ -65,7 +65,7 @@ password:
 #### 5. Texar，基于 TensorFlow 的开源工具包
 > Texar 是一个基于 TensorFlow 的开源工具包，旨在支持广泛的机器学习，尤其是文本生成任务，如机器翻译，对话，摘要，内容操作，语言建模等。Texar 专为研究人员和从业人员设计，用于快速原型设计和实验。
 >
-> ![Texar Stack](https://ws2.sinaimg.cn/large/006tNbRwgy1fxqv092y4oj31dy0n8dhx.jpg)
+> ![Texar Stack](https://wx2.sinaimg.cn/large/006tNbRwgy1fxqv092y4oj31dy0n8dhx.jpg)
 >
 > [Texar，基于TensorFlow的开源工具包](https://github.com/asyml/texar)
 

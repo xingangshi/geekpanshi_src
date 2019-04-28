@@ -43,7 +43,7 @@ date: 2018-11-11 00:10:03
 > 不帮是本分，
 > 珍惜对自己好的人！
 >
-> ![帮忙是情分，不帮是本分](https://ws1.sinaimg.cn/large/006tNbRwgy1fx3r1a5zmmj30c83estcd.jpg)
+> ![帮忙是情分，不帮是本分](https://wx1.sinaimg.cn/large/006tNbRwgy1fx3r1a5zmmj30c83estcd.jpg)
 
 ###### 16.1.2 道德绑架 - 让座
 > “给老人让个座，别那么没素质。”

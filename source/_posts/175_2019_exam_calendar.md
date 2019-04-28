@@ -25,7 +25,7 @@ keywords:
   - 2019年法律职业资格考试时间
 description: 献给奋进的你：2019 年要考证的人注意。人社部印发通知，公布 2019 年度专业技术人员资格考试工作计划，又新增了 PMP、司法、注会（CPA）、一建等考证时间。
 photos:
-  - 'https://ws1.sinaimg.cn/large/006tNbRwgy1fyrvgzmhx2j30bf07k0sv.jpg'
+  - 'https://wx1.sinaimg.cn/large/006tNbRwgy1fyrvgzmhx2j30bf07k0sv.jpg'
 date: 2019-01-02 07:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -35,7 +35,7 @@ date: 2019-01-02 07:10:03
 ---
 > 献给奋进的你：2019 年要考证的人注意。人社部印发通知，公布 2019 年度专业技术人员资格考试工作计划，又新增了 PMP、司法、注会（CPA）、一建等考证时间。
 >
-> ![幸福感](https://ws1.sinaimg.cn/large/006tNbRwgy1fyrvpyo7j0j30i20b4q32.jpg)
+> ![幸福感](https://wx1.sinaimg.cn/large/006tNbRwgy1fyrvpyo7j0j30i20b4q32.jpg)
 
 ---
 #### 2019 年的 PMP 项目管理认证培训考试时间
@@ -61,7 +61,7 @@ date: 2019-01-02 07:10:03
 
 #### 2019 年度专业技术人员资格考试工作计划
 >
-> ![2019年度专业技术人员资格考试工作计划](https://ws1.sinaimg.cn/large/006tNbRwly1fyr5nh4699j30dc2agn27.jpg)
+> ![2019年度专业技术人员资格考试工作计划](https://wx1.sinaimg.cn/large/006tNbRwly1fyr5nh4699j30dc2agn27.jpg)
 
 #### 版本信息
 > v1.0.0 新增2019考证日历。

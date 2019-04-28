@@ -58,7 +58,7 @@ password:
 >
 > 它涵盖了基础到高级练习。如果您不熟悉 Python 和 Numpy，那么最后几页中的一些资源将开始使用作为 ML 基石的语言和库。使用了几个免费的 Microsoft ML 服务。
 >
-> ![Microsoft 机器学习资源大全](https://ws1.sinaimg.cn/large/006tNbRwgy1fxvgz2qj4ij30j60g6q3r.jpg)
+> ![Microsoft 机器学习资源大全](https://wx1.sinaimg.cn/large/006tNbRwgy1fxvgz2qj4ij30j60g6q3r.jpg)
 >
 > [Microsoft 机器学习资源大全](https://rheartpython.github.io/navigating-ml/)
 

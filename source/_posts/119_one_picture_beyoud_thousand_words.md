@@ -271,12 +271,12 @@ top:
 #### 你看到的成功和真实的成功
 > 你看到的成功和真实的成功。
 >>
->> ![你看到的成功和真实的成功](https://ws4.sinaimg.cn/large/006tNbRwgy1fxghe7wfjmj30j60eet9v.jpg)
+>> ![你看到的成功和真实的成功](https://wx4.sinaimg.cn/large/006tNbRwgy1fxghe7wfjmj30j60eet9v.jpg)
 
 #### 卡德尔职业规划三条件图
 > 卡德尔职业规划三条件图，涉及：擅长、想要和成就间的选择。
 >>
->> ![卡德尔职业规划三条件图](https://ws2.sinaimg.cn/large/006tNbRwgy1fxghgzhp6hj310a0u0414.jpg)
+>> ![卡德尔职业规划三条件图](https://wx2.sinaimg.cn/large/006tNbRwgy1fxghgzhp6hj310a0u0414.jpg)
 
 #### 产品生产应该有的样子
 > 产品生产应该有的样子。

@@ -31,12 +31,12 @@ password:
 
 ### 请不要再在网上晒娃的！
 >  1. 请不要再在网上晒娃的！ 2.  代码审查最佳实践。3. 如何建立自己的个人知识库。 4. 什么是真实的系统编程?  5. 顶级开源静态站点生成器。
-> ![晒娃](https://ws3.sinaimg.cn/large/006tNbRwgy1fy3ktw5n2yj30hs0a0dgf.jpg)
+> ![晒娃](https://wx3.sinaimg.cn/large/006tNbRwgy1fy3ktw5n2yj30hs0a0dgf.jpg)
 
 ---
 #### 1. 请不要再在网上晒娃的！
 > 照片的meta data有时间、地理位置。出生时的照片：推算出生日期与地点；第一天上学的照片：是时候投放文具、课外兴趣班的广告了；在家里、小区里的照片：知道你家在哪了，可以进行绑票、恐吓活动了。
-> 
+>
 > 很多网站都有“安全问题”：你的生日？你的出生地？你妈贵姓？你最喜欢的运动？你的童年梦想？这些答案或许能从你的社交账号里挖掘出来。
 >
 > [请不要再在网上晒娃的！](https://thenextweb.com/lifehacks/2018/11/12/dont-post-your-kid-online/)
@@ -44,7 +44,7 @@ password:
 #### 2. 代码审查最佳实践
 > 在工作中，我们正在使用代码审查。每个人都知道 Code Review 是什么，每个人都这样做（至少我希望你们都这样做）。但是如果你花了一些时间与人们讨论代码评论，那么每个人都对代码评审应该包括的内容有自己的看法。每个参与者的义务是什么？什么是众所周知的代码审查最佳实践？
 >
-> ![代码审查最佳实践](https://ws4.sinaimg.cn/large/006tNbRwgy1fy3kz8hsj2j30kk0760u9.jpg)
+> ![代码审查最佳实践](https://wx4.sinaimg.cn/large/006tNbRwgy1fy3kz8hsj2j30kk0760u9.jpg)
 >
 > [代码审查最佳实践](https://programmerfriend.com/index.php/2018/12/10/code-review-best-practices/)
 
@@ -57,13 +57,13 @@ password:
 >
 > [如何建立自己的个人知识库](https://dnote.io/blog/how-i-built-personal-knowledge-base-for-myself/)
 
-#### 4. 什么是真实的系统编程? 
+#### 4. 什么是真实的系统编程?
 > 我对“系统编程”这个短语感到抱怨。对我来说，似乎总是不必要地结合两个想法：低级编程（处理机器的实现细节）和系统设计（创建和管理一组复杂的互操作组件）。
-> 
+>
 > 为什么会这样？这是真的多久了？我们可以从重新定义系统的想法中获得什么？
-> 
+>
 > 我们所谓的“系统编程”我认为应该被称为“低级编程”。计算机系统设计作为一个领域太重要，不能有自己的名字。
-> 
+>
 > [什么是真实的系统编程? ](http://willcrichton.net/notes/systems-programming/)。
 
 #### 5. 顶级开源静态站点生成器

@@ -64,7 +64,7 @@ password:
 >
 > 这听起来很奇怪但是在这个目标中，Dilbert Fame 的 [Wally (Dilbert](https://en.wikipedia.org/wiki/Wally)必定是你的灵感。他的整个目标是避免做任何工作，因此很多技术都适用于避免编写单元测试。
 >
-> ![不写单元测试的专家的借口](https://ws1.sinaimg.cn/large/006tNbRwgy1fxubfua5bbj30gg0mawj1.jpg)
+> ![不写单元测试的专家的借口](https://wx1.sinaimg.cn/large/006tNbRwgy1fxubfua5bbj30gg0mawj1.jpg)
 >
 > [不写单元测试的专家的借口汇总](https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/)
 

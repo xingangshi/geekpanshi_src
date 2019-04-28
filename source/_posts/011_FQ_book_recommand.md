@@ -19,7 +19,7 @@ keywords:
   - 宽978高553
 abbrlink: 992a9342
 photos:
-  - "https://ws4.sinaimg.cn/large/006tNbRwgy1fyoh12r8ppj308504tt8l.jpg"
+  - "https://wx4.sinaimg.cn/large/006tNbRwgy1fyoh12r8ppj308504tt8l.jpg"
 description: 读书、荐书第 4 年，2019 年第 2/4 更新。管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
 date: 2019-04-02 12:30:40
 ---
@@ -30,7 +30,7 @@ date: 2019-04-02 12:30:40
 ------
 > 序言：管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
 >
-> ![好书伴我行](https://ws3.sinaimg.cn/large/006tNbRwgy1fyoeccjhjxj30j60ed75h.jpg)
+> ![好书伴我行](https://wx3.sinaimg.cn/large/006tNbRwgy1fyoeccjhjxj30j60ed75h.jpg)
 
 ------
 #### 读书荐书说明
@@ -151,4 +151,4 @@ NOTE: 2018-04-02 08:00:00
 #### 磐石读书会
 > 暂未开通，因为找不到一个好的开通的理由，有建议可以[<font color="red" size=3>联系我</font>](/abnout)，
 >
-> ![磐石读书会](https://ws3.sinaimg.cn/large/006tNbRwgy1fyoeo13803j30xc0n83zv.jpg)
+> ![磐石读书会](https://wx3.sinaimg.cn/large/006tNbRwgy1fyoeo13803j30xc0n83zv.jpg)

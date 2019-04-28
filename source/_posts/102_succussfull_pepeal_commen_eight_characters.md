@@ -15,7 +15,7 @@ keywords:
   - 如何成功
   - 成功人士的特点
 photos:
-  - 'https://ws3.sinaimg.cn/large/006tNbRwgy1fxe4psddshj308505xdfs.jpg'
+  - 'https://wx3.sinaimg.cn/large/006tNbRwgy1fxe4psddshj308505xdfs.jpg'
 description: 成功不可复制，但是有迹可循。这8个特征，是从无数成功者的经历中总结挑选出来的，我们可以尽力去学习的。
 date: 2018-11-20 00:10:03
 ---
@@ -50,7 +50,7 @@ date: 2018-11-20 00:10:03
 >
 > 所以“什么会让我们变地成功？”，这个问题的答案很简单：付 4000 块来参加一场演讲，如果不能来，就做到以上的 8 点。相信我：激情、刻苦、专注、强迫、服务、点子、专注 和 坚持 这 8 点就是通往成功的秘诀。
 >
-> ![成功人士的 8 个特征](https://ws3.sinaimg.cn/large/006tNbRwgy1fxe4olpzz9j30r60jr751.jpg)
+> ![成功人士的 8 个特征](https://wx3.sinaimg.cn/large/006tNbRwgy1fxe4olpzz9j30r60jr751.jpg)
 
 ##### 25.2 其他
 > 1. 李飞飞离职谷歌背后：AI还很稚嫩 作为科学家很卑微。今年9月11日，谷歌云AI部门负责人李飞飞宣布即将离职，回到斯坦福大学任教。外媒《连线》杂志日前刊文，讲述了[李飞飞离职背后的故事](https://finance.sina.com.cn/chanjing/gsnews/2018-11-19/doc-ihmutuec1639053.shtml)。

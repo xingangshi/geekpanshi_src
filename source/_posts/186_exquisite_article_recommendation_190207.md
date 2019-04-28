@@ -26,7 +26,7 @@ description: >-
   1. 机器学习 100 天。 2.  一款基于 Git 的跨平台笔记软件 - GitNote。3.  Vue 2.6 发布了。 4. 如何学习软件架构。5.
   ASCII 生成器。
 photos:
-  - 'https://ws1.sinaimg.cn/large/006tNc79gy1fzxkmcwi0wj3085061mx5.jpg'
+  - 'https://wx1.sinaimg.cn/large/006tNc79gy1fzxkmcwi0wj3085061mx5.jpg'
 date: 2019-02-07 08:50:50
 password:
 ---
@@ -35,13 +35,13 @@ password:
 ### GitHub 为免费用户提供无限私有项目托管
 >  1. 机器学习 100 天。 2.  一款基于 Git 的跨平台笔记软件 - GitNote。3.  Vue 2.6 发布了。 4. 如何学习软件架构。5. ASCII 生成器。
 >
-> ![机器学习 100 天](https://ws4.sinaimg.cn/large/006tNc79gy1fzxkjgwmp4j30mc0aeq4g.jpg)
+> ![机器学习 100 天](https://wx4.sinaimg.cn/large/006tNc79gy1fzxkjgwmp4j30mc0aeq4g.jpg)
 
 ---
 #### 1. 机器学习 100 天
 > 机器学习 100 天中文版。
-> 
-> ![day2](https://ws4.sinaimg.cn/large/006tNc79gy1fzxkhg21qgj30lu09gmy4.jpg)
+>
+> ![day2](https://wx4.sinaimg.cn/large/006tNc79gy1fzxkhg21qgj30lu09gmy4.jpg)
 >
 > [机器学习 100 天（中文版），https://github.com/MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 >
@@ -52,34 +52,34 @@ password:
 >
 > 该笔记软件可绘制流程图、思维导图，并提供文稿演示、多图床上传等功能。
 >
-> ![GitNote](https://ws2.sinaimg.cn/large/006tNc79gy1fzxkga0obqj30yt0e3q43.jpg)
+> ![GitNote](https://wx2.sinaimg.cn/large/006tNc79gy1fzxkga0obqj30yt0e3q43.jpg)
 >
 > [一款基于 Git 的跨平台笔记软件 - GitNote，https://gitnoteapp.com/](https://gitnoteapp.com/)
 
 #### 3. Vue 2.6 发布了
 > 新年送个礼，Vue 2.6 发布了。应该没啥 bug... 祝大家能过个好年。
 >
-> ![Vue 2.6 发布了](https://ws3.sinaimg.cn/large/006tNc79gy1fzxk6y65edj30fa05mq32.jpg)
-> 
+> ![Vue 2.6 发布了](https://wx3.sinaimg.cn/large/006tNc79gy1fzxk6y65edj30fa05mq32.jpg)
+>
 > [Vue 2.6 发布了，https://zhuanlan.zhihu.com/p/56260917](https://zhuanlan.zhihu.com/p/56260917)
 
 #### 4. 如何学习软件架构
 > 如何使用辅助项目学习新东西
 >
-> ![如何学习软件架构](https://ws4.sinaimg.cn/large/006tNc79gy1fzxk92t7o6j30ci07hq3m.jpg)
-> 
+> ![如何学习软件架构](https://wx4.sinaimg.cn/large/006tNc79gy1fzxk92t7o6j30ci07hq3m.jpg)
+>
 > [如何学习软件架构，http://www.methodsandtools.com/archive/softwarearchitecturelearning.php](http://www.methodsandtools.com/archive/softwarearchitecturelearning.php)
 
 #### 5. ASCII 生成器
 > 这是我的 ASCII 生成器的 python 源代码。用我的代码，你可以：
-> 
+>
 >> 给定输入图像，您可以生成以文本格式（.txt）存储的ASCII艺术品。
->> 
+>>
 >> 给定输入图像，您可以生成以图像格式（.png，.jpg，...）存储的ASCII艺术。在每种格式中，有2个选项：黑色背景和白色字符，反之亦然。
->> 
+>>
 >> 给定输入视频，您可以生成以视频格式存储的ASCII艺术品（.avi，.mp4，...）。
-> 
-> ![ASCII 生成器](https://ws2.sinaimg.cn/large/006tNc79gy1fzxkc84tywj30m70gt0ve.jpg)
+>
+> ![ASCII 生成器](https://wx2.sinaimg.cn/large/006tNc79gy1fzxkc84tywj30m70gt0ve.jpg)
 >
 > [ASCII 生成器，https://github.com/vietnguyen91/ASCII-generator](https://github.com/vietnguyen91/ASCII-generator)
 

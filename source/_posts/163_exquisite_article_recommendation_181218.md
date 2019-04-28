@@ -34,7 +34,7 @@ password:
 ### 金钱心理学，描述了 20 种人类对待财富金钱错误的行为模式
 >  1. 金钱心理学，描述了 20 种人类对待财富金钱错误的行为模式。 2.  测试不会使您的软件正确。3.  编程语言动物园是一组微型编程语言。 4. TLDR 页：Linux 手册页的简化替代品。5. Python 讲义 —— 使用 Markdown 注释和内联数字将 Python 脚本转换为讲义。
 >
-> ![金钱心理学](https://ws2.sinaimg.cn/large/006tNbRwgy1fyagfaemngj30rs0iiq7i.jpg)
+> ![金钱心理学](https://wx2.sinaimg.cn/large/006tNbRwgy1fyagfaemngj30rs0iiq7i.jpg)
 
 ---
 #### 1. 金钱心理学，描述了 20 种人类对待财富金钱错误的行为模式
@@ -82,7 +82,7 @@ password:
 >> 18. 尽管存在涉及金钱的一切事物的固有复杂性，但仍希望形成一个清晰的因果关系叙述，从而否定你认为世界应该如何运作以及世界如何运作之间的不一致。
 >>
 >> 19. 政治信仰推动财务决策，受经济学影响，是一个行为不端的政治家庭。
->> ![政治信仰推动财务决策](https://ws4.sinaimg.cn/large/006tNbRwgy1fyafs9gt21j30kt0aedfv.jpg)
+>> ![政治信仰推动财务决策](https://wx4.sinaimg.cn/large/006tNbRwgy1fyafs9gt21j30kt0aedfv.jpg)
 >>
 >> 20. 三个月的泡沫：将最近的过去推断到不久的将来，然后高估你在不久的将来会发生什么样的事情将影响你的未来。
 >
@@ -121,7 +121,7 @@ password:
 >
 > 要使用 TLDR Web 版本，请访问 tldr.ostera.io 并执行所需的搜索操作。 或者，你也可以下载 iOS 和 Android 应用程序，并随时随地学习新命令。
 >
-> ![TLDR 手机版本](https://ws1.sinaimg.cn/large/006tNbRwgy1fyag5a9q99j30a60eh3yy.jpg)
+> ![TLDR 手机版本](https://wx1.sinaimg.cn/large/006tNbRwgy1fyag5a9q99j30a60eh3yy.jpg)
 >
 > [TLDR 页：Linux 手册页的简化替代品](https://linux.cn/article-10355-shareweibo.html)
 
@@ -130,8 +130,8 @@ password:
 >
 > 没有隐藏状态的Jupyter笔记本的替代品，并使用您自己的文本编辑器。
 >
-> ![Python讲义](https://ws1.sinaimg.cn/large/006tNbRwgy1fyagcinmmnj30h60o275u.jpg)
+> ![Python讲义](https://wx1.sinaimg.cn/large/006tNbRwgy1fyagcinmmnj30h60o275u.jpg)
 >
-> [ Python 讲义 —— 使用 Markdown 注释和内联数字将 Python 脚本转换为讲义](https://ws1.sinaimg.cn/large/006tNbRwgy1fyagcinmmnj30h60o275u.jpg)
+> [ Python 讲义 —— 使用 Markdown 注释和内联数字将 Python 脚本转换为讲义](https://wx1.sinaimg.cn/large/006tNbRwgy1fyagcinmmnj30h60o275u.jpg)
 
 

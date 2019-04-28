@@ -46,7 +46,7 @@ password:
 #### 2. 办公软件、编辑器大战中，花样层出，但 office 依然占霸主地位
 > 微软的 Office 依然是霸主，但各种细分的、轻量级的、UI 很漂亮很清爽的办公软件纷纷出现。在Airtable、notion 等工具面前，Google Docs 就像 Office 一样臃肿。
 >
-> ![office](https://ws4.sinaimg.cn/large/006tNbRwgy1fxwmvv4u0hj30hi0c93zw.jpg)
+> ![office](https://wx4.sinaimg.cn/large/006tNbRwgy1fxwmvv4u0hj30hi0c93zw.jpg)
 >
 > [办公软件、编辑器大战中，花样层出，但 office 依然占霸主地位](https://www.geekwire.com/2018/new-word-processor-wars-fresh-crop-productivity-apps-trying-reinvent-workday)
 
