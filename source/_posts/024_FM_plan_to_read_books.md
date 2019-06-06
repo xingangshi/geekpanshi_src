@@ -23,7 +23,7 @@ top: 1000009
 description: 管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。人生有涯，千万不要不加选择地读书。读书并非开卷有益，有些书无益，有些书无聊，有些书还有害。读书要做减法，从前如此，现在更如此。
 photos:
   - "https://i.imgur.com/OrQnhlJ.png"
-date: 2019-06-03 09:20:57
+date: 2019-06-06 10:09:57
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -52,6 +52,7 @@ date: 2019-06-03 09:20:57
 |              | 1-2    | 20180827 | 20181025     | /          | <font color="#FF0000">**弃读**</font> | [见识](https://item.jd.com/12304478.html)                               |
 |              | 1-1    | 20180827 | 20181025     | /          | <font color="#FF0000">**弃读**</font> | [终有一天你会懂](https://item.jd.com/12357868.html)                     |
 | 2. 效率人生  |        |          |              |            |                                       |                                                                         |
+|              | 2-8    | 20190606 | 20190606     | kindle     | <font color="#00FFFF">**在读**</font> | [子弹笔记<The Bullet Journal Method>](https://item.jd.com/12470065.html)|
 |              | 2-7    | 20190403 | 20190403     | /          | <font color="#A52A2A">**想读**</font> | [改变的历程](https://item.jd.com/12292688.html)                         |
 |              | 2-6    | 20180913 | 20181025     | 纸质书     | <font color="#00FFFF">**在读**</font> | [集体行动的逻辑](https://item.jd.com/12231099.html)                     |
 |              | 2-5    | 20181114 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [心理学与生活](http://product.dangdang.com/23840745.html)               |
@@ -60,10 +61,12 @@ date: 2019-06-03 09:20:57
 |              | 2-2    | 20180823 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [完全写作指南](https://item.jd.com/12120752.html)                       |
 |              | 2-1    | 20181114 | 20181114     | /          | <font color="#FF0000">**弃读**</font> | [刻意练习：如何从新手到大师](https://item.jd.com/11990777.html)         |
 | 3. 理财经济  |        |          |              |            |                                       |                                                                         |
+|              | 3-4    | 20190423 | 20190606     | kindle     | <font color="#0000FF">**未读**</font> | [薛兆丰经济学讲义](http://product.dangdang.com/25307907.html)           |
 |              | 3-3    | 20190326 | 20190402     | kindle     | <font color="#00FFFF">**在读**</font> | [经济学的思维方式](http://product.dangdang.com/25309209.html)           |
 |              | 3-2    | 20181114 | 20181114     | /          | <font color="#A52A2A">**想读**</font> | [经济学原理 宏观经济学分册](https://item.jd.com/11684073.html)          |
 |              | 3-1    | 20181114 | 20181114     | /          | <font color="#A52A2A">**想读**</font> | [经济学原理 微观经济学分册](https://item.jd.com/11684069.html)          |
 | 4. 亲子教育  |        |          |              |            |                                       |                                                                         |
+|              | 4-4    | 20190606 | 20190606     | kindle     | <font color="#00FFFF">**在读**</font> | [爸爸爱喜禾](https://item.jd.com/47249322188.html)                      |
 |              | 4-3    | 20190212 | 20190212     | kindle     | <font color="#0000FF">**未读**</font> | [儿童教育心理学](https://item.jd.com/12274992.html)                     |
 |              | 4-2    | 20170915 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [小狗钱钱套装[7-10岁]](https://item.jd.com/12345927.html)               |
 |              | 4-1    | 20161106 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [蒙台梭利幼儿教育经典](https://item.jd.com/10043831.html)               |
@@ -79,8 +82,6 @@ date: 2019-06-03 09:20:57
 |              | 7-2    | 20180423 | 20190426     | kindle     | <font color="#00FFFF">**在读**</font> | [1Q84](http://product.dangdang.com/25301055.html)                       |
 |              | 7-1    | 20180913 | 20181114     | 纸质书     | <font color="#FF0000">**弃读**</font> | [1984](https://item.jd.com/11980693.html)                               |
 | 8. 经营管理  |        |          |              |            |                                       |                                                                         |
-|              | 8-4    | 20190318 | 20190426     | kindle     | <font color="#00FFFF">**在读**</font> | [经济学的思维方式](http://product.dangdang.com/25309209.html)           |
-|              | 8-3    | 20190423 | 20190426     | kindle     | <font color="#0000FF">**未读**</font> | [薛兆丰经济学讲义](http://product.dangdang.com/25307907.html)           |
 |              | 8-2    | 20181123 | 20181123     | /          | <font color="#A52A2A">**想读**</font> | [奈飞文化手册](https://item.jd.com/12460434.html)                       |
 |              | 8-1    | 20181114 | 20180425     | kindle     | <font color="#FF0000">**弃读**</font> | [创业维艰 如何完成比难更难的事](https://item.jd.com/11645500.html)      |
 | 9. 软件开发  |        |          |              |            |                                       |                                                                         |
@@ -184,7 +185,8 @@ Come on, give me a break!
 13. 2019年4月2日 11:20 ：更新书单状态《第一次买保险就买对》，新增《意志决定命运》和《经济学的思维方式》。
 14. 2019年4月3日 11:30 ：更新书单状态，新增想读[《改变的历程》](https://item.jd.com/12292688.html)。
 15. 2019年4月26日 08:30 ：更新书单状态，书单涉及 20190426 所有书籍。</font>
-16. <font color="#FF0000"> 2019年6月3日 09:10 ：更新书单状态。</font>
+16. 2019年6月3日 09:10 ：更新书单状态。</font>
+17. <font color="#FF0000"> 2019年6月6日 10:09 ：更新书单状态，修改《薛兆丰经济学讲义》 分类，新增在读 [《子弹笔记》](https://item.jd.com/12470065.html) 和 [《爸爸爱喜禾》](https://item.jd.com/47249322188.html)  。</font>
 >
 
 ------
