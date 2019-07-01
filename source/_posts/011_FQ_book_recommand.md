@@ -1,5 +1,5 @@
 ---
-title: 读书荐书之2019年第2/4更
+title: 读书荐书之2019年第3/4更
 tags:
   - 读书
   - 荐书
@@ -21,7 +21,7 @@ abbrlink: 992a9342
 photos:
   - "https://wx4.sinaimg.cn/large/006tNbRwgy1fyoh12r8ppj308504tt8l.jpg"
 description: 读书、荐书第 4 年，2019 年第 2/4 更新。管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
-date: 2019-04-02 12:30:40
+date: 2019-07-01 09:30:40
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -146,9 +146,19 @@ NOTE: 2018-12-30 06:52:00
 
 NOTE: 2018-04-02 08:00:00
 
+##### 4.2 2019 年 7 月 1 日后闲来无事你可以看看（2019 第 3/4 更）
+1. [爸爸爱喜禾](http://product.dangdang.com/25572820.html)，[书评](https://book.douban.com/subject/30363885/)
+2. [子弹笔记](http://product.dangdang.com/26241664.html)，[书评](https://book.douban.com/subject/30395230/)
+3. [明智行动的艺术](http://product.dangdang.com/24007258.html)，[书评](https://book.douban.com/subject/24878420/)
+4. [清醒思考的艺术](http://product.dangdang.com/23988941.html)，[书评](https://book.douban.com/subject/20492550/)
+5. [改变的历程](http://product.dangdang.com/25210988.html)，[书评](https://book.douban.com/subject/30124849/)
+
+NOTE: 2018-07-01 08:00:00
+
 ------
 
 #### 磐石读书会
 > 暂未开通，因为找不到一个好的开通的理由，有建议可以[<font color="red" size=3>联系我</font>](/abnout)，
 >
 > ![磐石读书会](https://wx3.sinaimg.cn/large/006tNbRwgy1fyoeo13803j30xc0n83zv.jpg)
+
