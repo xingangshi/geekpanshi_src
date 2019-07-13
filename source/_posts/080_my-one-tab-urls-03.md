@@ -43,7 +43,7 @@ keywords:
   - haskell
   - 测试
 description: 1. 个人博客相关。 2. OneTab shared tabs，Shared 95 tabs。 3. 机器学习深度学习神经网络。 4. C++、Lisp、Haskell 编程教程和编程实践。 5. 程序员看一看，单进程编程、测试影响分析和系统稳定性、系统而不是程序、软件工程成功的关键是隐藏信息、现代浏览器的工作原理、一个 Windows 内核、理解你产品的核心用户、为什么阅读会导致近视。
-date: 2018-11-23 12:20:50
+date: 2019-07-13 12:19:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -98,6 +98,8 @@ password:
 >> [URL](https://www.wuzuowei.net/9994.html)：新浪微博是个好图床：图床功能详解（图片大小设置）。
 > [URL](https://sm.ms/)：SM.MS 图床，Image Upload，5 MB max per file. 10 files max per request。
 > [URL](https://www.niupic.com/)：牛图网 图床。
+> [URL](https://encycolorpedia.com)：颜色选择器
+> [URL](https://www.fontke.com/)：字体颜色选择
 
 ##### 1.5 博客嵌入式第三方插件
 > [URL](https://widgetpack.com/admin#/site/14580/menu/rating/submenu/setting) ：Widget-Pack，嵌入式第三方评分系统（五星评分系统）。
@@ -193,3 +195,4 @@ password:
 > v1.0，2018-11-12。
 > v1.0，2018-11-22，增加 `1.5 博客嵌入式第三方插件，Algolia`。
 > v1.0，2018-11-23，增加 6 - 11 的部分内容。
+> v2.0，2019-07-13，增加 1 - 3 部分内容： [颜色选择器](https://encycolorpedia.com) 和 [字体颜色选择](https://www.fontke.com/)。

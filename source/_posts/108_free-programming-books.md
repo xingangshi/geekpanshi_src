@@ -32,7 +32,7 @@ keywords:
 description: >-
   这个列表最初是 Clone 由 George Stocker 在 stackoverflow 上的一个提问
   《免费书籍列表》，现在更新了一些死链接和添加新内容。现在把这个项目迁移到 GitHub 进行协作更新。
-date: 2018-11-21 12:10:50
+date: 2019-07-13 13:25:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -145,6 +145,7 @@ password:
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 * [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
+* [Data Science at the Command Line](https://github.com/jeroenjanssens/data-science-at-the-command-line)
 
 
 ##### 操作系统
@@ -213,7 +214,7 @@ password:
 * [学习 Git 分支](http://pcottle.github.io/learnGitBranching/) (点击右下角按钮可切换至简体及正体中文)
 * [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
-
+* [Git Command Explorer](https://gitexplorer.com/)
 
 ##### 程序员杂谈
 
@@ -260,6 +261,7 @@ password:
 
 * [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 * [图说设计模式](https://github.com/me115/design_patterns)
+* [设计模式超简单的解释 design-patterns ](https://github.com/guanguans/design-patterns-for-humans-cn)
 
 
 ##### 软件开发方法
@@ -394,6 +396,7 @@ password:
 * [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
 * [学习Go语言](http://mikespook.com/learning-go/)
 * [神奇的 Go 语言](http://go.ctolib.com/docs/read/magical-go-c-index.html)
+* [Learning Golang — from zero to hero](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)
 
 
 ##### Groovy
@@ -512,6 +515,7 @@ password:
   * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
   * [React 入门教程](http://fraserxu.me/intro-to-react/)
   * [React.js 中文文档](http://reactjs.cn)
+  * [如何学习 React](https://github.com/petehunt/react-howto/blob/master/README-zh.md)
 * underscore.js
   * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
@@ -1063,6 +1067,7 @@ password:
 * [RexEgg](http://www.rexegg.com)
 * [The 30 Minute Regex Tutorial](http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
 * [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen
+* [Regular Expressions Explained](https://towardsdatascience.com/regular-expressions-explained-c9bce508e672)
 
 
 ######  Reverse Engineering
@@ -1257,6 +1262,7 @@ password:
 * [The Bash Academy](http://www.bash.academy)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) Z. A. Shaw
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr.
+* [LoBash A modern, safe, powerful utility library for Bash script development](https://github.com/adoyle-h/lobash)
 
 
 ##### Basic
@@ -2346,7 +2352,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ##### QML
 
 * [Qt5 Cadaques](http://qmlbook.github.io) - Juergen Bocklage-Ryannel and Johan Thelin (HTML, PDF, ePub) (work in progress)
-
+* [Learn to create a desktop app with Python and Qt](https://github.com/pyqt/examples)
 
 ##### R
 
