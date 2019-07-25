@@ -24,7 +24,7 @@ keywords:
   - 钩子
 description: Git 从新手走向专家，一站式服务，让你从一个对 Git 一无所知的小白，走向一个对 Git 了如指掌的专家。
 photos:
-  - 'https://wx1.sinaimg.cn/large/006tNbRwgy1fyrvgzmhx2j30bf07k0sv.jpg'
+  - '/images/199/pre.jpg'
 date: 2019-07-25 12:00:50
 password:
 ---
@@ -405,13 +405,13 @@ Gitflow，一个荷兰人 nvie 提出的一个基于 Git 版本开发的模型�
 * [作者 Github](https://github.com/nvie)
 
 ##### 10.2 图解 GitFlow
-![GitFlow](/images/199_git_From_novice_to_master/gitflow1.png)
+![GitFlow](/images/199/gitflow1.png)
 
 ##### 10.3 GitFlow 的模型使用
 * [gitflow 库支持 GitFlow 模型](https://github.com/nvie/gitflow)
 * [SourceTree 软件的 gitflow](https://www.sourcetreeapp.com/)
 
-![gitflow-SourceTree](/images/199_git_From_novice_to_master/gitflow-sourcetree.png)
+![gitflow-SourceTree](/images/199/gitflow-sourcetree.png)
 
 #### 11. 基于 Git 的高效团队协作
 ##### 11.1 Git + Jenkins 自动化集成
@@ -454,7 +454,7 @@ $git rm --cached sub_project_name
 > 客户端钩子：提交工作流钩子、电子邮件工作流钩子和其它钩子。服务端钩子：对项目强制执行各种类型的策略。
 >
 > 任何可执行的文件都可以作为钩子的脚本。
-![hooks](/images/199_git_From_novice_to_master/hooks.png)
+![hooks](/images/199/hooks.png)
 
 ###### 12.2.1 钩子样例（commit-msg）
 ```python
