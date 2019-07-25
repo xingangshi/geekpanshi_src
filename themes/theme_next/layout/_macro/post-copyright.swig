@@ -7,7 +7,7 @@
     <font color="blue" size=3><strong>看完本文有收获吗？请转发和分享给你身边更多的人，谢谢。</br></strong></font>
     <font color="black" size=3>欢迎关注 “ <a rel="external nofollow" href="https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg"> {{ post.author | default(config.author) }} </a>“，坚持价值投资、终身学习，践行家庭教育。内容覆盖：技术、读书、时间管理、项目管理、互联网和人文思考。</br></font>
     <font color="red" size=3><strong>（手机截屏或长按图片保存图片到手机）打开微信客户端，选择“发现 -> 扫一扫”，可快速关注我的公众号，谢谢。</br></strong></font>
-    <img src="https://wx2.sinaimg.cn/large/007lcHJHgy1g1xb1odn8lj306005ymxx.jpg"  alt="长按扫码关注我的公众号" />
+    <img src="https://i.imgur.com/5bMbtqG.jpg"  alt="长按扫码关注我的公众号" />
   </li>
 
   <!--
