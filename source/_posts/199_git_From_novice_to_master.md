@@ -25,13 +25,15 @@ keywords:
 description: Git 从新手走向专家，一站式服务，让你从一个对 Git 一无所知的小白，走向一个对 Git 了如指掌的专家。
 photos:
   - '/images/199/pre.jpg'
-date: 2019-07-25 12:00:50
+date: 2019-07-26 09:00:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### Git 从新手走向专家
 >  Git 从新手走向专家，一站式服务，让你从一个对 Git 一无所知的小白，走向一个对 Git 了如指掌的专家。
+>
+> ![Git](/images/199/git.jpg)
 
 ---
 
@@ -96,31 +98,25 @@ password:
 #### 3. Git 对象（object）
 
 ##### 3.1 什么是对象
-```
-对象（object），表示版本历史信息的文件
-
-通过一个 40 个字符的（40-digit）“对象名” 来索引的，对象名看起来像这样:
-                 3ff87c4664981e243g625791c8ea3bbb5f2279a3。
-
-对象名是对文件内容用 SHA1 哈希计算得来的，保证对象名的唯一性。
-```
+> 对象（object），表示版本历史信息的文件
+>
+> 通过一个 40 个字符的（40-digit）“对象名” 来索引的，对象名看起来像这样:
+>> `3ff87c4664981e243g625791c8ea3bbb5f2279a3`。
+>
+> 对象名是对文件内容用 SHA1 哈希计算得来的，保证对象名的唯一性。
 
 ##### 3.2 对象的构成
 > 对象 = 类型 + 内容（内容取决于对象的类型） + 内容大小。
-```
-2.1 blob   -- 用来存储文件数据，通常是一个文件；
-2.2 tree   -- 类似目录，用来管理一些 tree 和 blob；
-2.3 commit -- 一个 commit 只指向一个 tree，标记项目某一个特定的时间点状态，
-              包括一些时间点的是元数据，如 时间戳、最后一个提交者等；
-2.4 tag    -- 标记某一个 commit 的方法。
-```
+* blob   -- 用来存储文件数据，通常是一个文件；
+* tree   -- 类似目录，用来管理一些 tree 和 blob；
+* commit -- 一个 commit 只指向一个 tree，标记项目某一个特定的时间点状态，包括一些时间点的是元数据，如 时间戳、最后一个提交者等；
+* tag    -- 标记某一个 commit 的方法。
 
 #### 4. Git 的四区及使用时的数据转换
 ##### 4.1 四区划分
-```
-本地 3 区：工作区（workspace）、暂存区（index）、本地仓库（local repository）
-远程 1 区：远程仓库（remote repository）
-```
+> 本地 3 区：工作区（workspace）、暂存区（index）、本地仓库（local repository）
+>
+> 远程 1 区：远程仓库（remote repository）
 
 ##### 4.2 四区间数据转换
 
@@ -220,16 +216,18 @@ $git clone repo.bundle repo_dir -b branch_name //从包中导入分支
 
 #### 7. git config 配置文件
 ##### 7.1 文件路径
-```
-1. /etc/gitconfig 文件：包含了适用于系统所有用户和所有库的值。 --system
-2. ~/.gitconfig   文件：具体到你的用户。 --global
-3. .git/config    文件：Git 目录的，
 
-Windows下：
-一般位于 C:\Documents and Settings\$USER\.gitconfig 下
+> Linux、macOS 下
+>> 1. /etc/gitconfig 文件：包含了适用于系统所有用户和所有库的值。 --system
+>>
+>> 2. ~/.gitconfig   文件：具体到你的用户。 --global
+>>
+>> 3. .git/config    文件：Git 目录的，
+>
+> 配置文件优先级：  3 > 2 > 1，优先级高的值覆盖优先级低的值。
 
-配置文件优先级：  3 > 2 > 1，优先级高的值覆盖优先级低的值。
-```
+> Windows下
+>> 一般位于 C:\Documents and Settings\$USER\.gitconfig 下
 
 ##### 7.2 可以配置的内容
 > 姓名和邮箱（必须配置）、编辑器、比较工具、配置命令别名或自定义命令、配置显示颜色……
@@ -392,15 +390,14 @@ Windows下：
 
 #### 10. 团队开发实践之 GitFlow
 ##### 10.1 什么是 Gitflow
-```
-Gitflow，一个荷兰人 nvie 提出的一个基于 Git 版本开发的模型，包括以下内容：
+> Gitflow，一个荷兰人 nvie 提出的一个基于 Git 版本开发的模型，包括以下内容：
 
 1. master  分支，1 个，总是稳定版本的代码，随时可发布；
 2. develop 分支，1 个，合并 feature 分支的，可用于创建 release 版本。
 3. feature 分支，同时存在多个；
 4. release 分支，同一时间只有 1 个，周期很短，为了发布版本；
 5. hotfix  分支，同一时间只有 1 个，周期较短，用来修复 bug 或小粒度修改发布。
-```
+
 * [GitFlow官网](https://nvie.com/posts/a-successful-git-branching-model)
 * [作者 Github](https://github.com/nvie)
 
