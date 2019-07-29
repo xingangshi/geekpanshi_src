@@ -18,7 +18,7 @@ keywords:
   - 良好的人际关系
 description: 一个长达 75 年的关于什么决定幸福的研究调查发现，良好的人际关系能让我们更加快乐和健康。我们应该做一个主动去别人交往的人，美好生活，从良好的人际关系开始。
 photos:
-  - 'https://wx3.sinaimg.cn/large/006tNc79gy1fyvd9rh29pj308505eglh.jpg'
+  - '/images/179/006tNc79gy1fyvd9rh29pj308505eglh.jpg'
 date: 2019-01-05 08:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -27,7 +27,7 @@ date: 2019-01-05 08:10:03
 ---
 > 一个长达 75 年的关于什么决定幸福的研究调查发现，良好的人际关系能让我们更加快乐和健康。我们应该做一个主动去别人交往的人，美好生活，从良好的人际关系开始。
 >
-> ![幸福感](https://wx2.sinaimg.cn/large/006tNc79gy1fyvd88szotj30m80et40b.jpg)
+> ![幸福感](/images/179/006tNc79gy1fyvd88szotj30m80et40b.jpg)
 
 ##### 19.1 活的最幸福的那些人到底是什么样的人？
 
@@ -53,14 +53,14 @@ date: 2019-01-05 08:10:03
 >
 > 所以不管我们现在多少岁，20岁、30岁、40岁抑或是更大的年龄，我们都应该主动与人交往的，那什么才算主动与人交往呢？方法有很多，最简单的，就是别再和屏幕聊天，去和人聊天，或者尝试一些新事物，让自己的人际关系恢复活力，一起散散步、吃个便饭的或者给许久不联系的亲戚朋友发一个消息的。
 >
-> ![主动联系](https://wx1.sinaimg.cn/large/006tNc79gy1fyvd7lc6wdj30ir0xcabp.jpg)
+> ![主动联系](/images/179/006tNc79gy1fyvd7lc6wdj30ir0xcabp.jpg)
 
 ###### 美好生活，从良好的人际关系开始
 > 马克·土温在他晚间回顾自己人生时，曾经说过：“时光荏苒，生命短暂，别讲时间浪费在吵架、道歉、伤心和指责上面。有时间去爱吧，哪怕只是一瞬间，也不要辜负。”
 >
 > 美好的人生，从良好的人际关系开始。
 >
-> ![幸福晚年](https://wx4.sinaimg.cn/large/006tNc79gy1fyvd8t9dskj30sk0ja0y5.jpg)
+> ![幸福晚年](/images/179/006tNc79gy1fyvd8t9dskj30sk0ja0y5.jpg)
 
 ##### 19.2 其他
 > 1. 昨日渐多，明日愈少，今日还在，不增不减，这就是人生。
@@ -72,5 +72,5 @@ date: 2019-01-05 08:10:03
 
 > 4. 腾讯从百度挖来的AI Lab负责人张潼离职了。他在百度待了4年，被腾讯挖过去才待了1年多就离职了，还是直接回学术界。心态不改变，换一个环境也没用。
 >
-> ![沟通](https://wx1.sinaimg.cn/large/006tNc79gy1fyvdg8x2rrj30ju0b6di4.jpg)
+> ![沟通](/images/179/006tNc79gy1fyvdg8x2rrj30ju0b6di4.jpg)
 

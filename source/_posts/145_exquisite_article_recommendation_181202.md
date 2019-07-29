@@ -69,7 +69,7 @@ password:
 #### 5. 使用 Jupyter 进行教学
 > 本手册适用于任何教授主题的教育工作者，包括数据分析或计算，以支持学习 - 不仅包括工程或科学课程，还包括数据新闻，商业和数量经济学，基于数据的决策科学和政策，定量健康科学，和数字人文学科。它旨在提供一个切入点，以及 Jupyter 在教育方面的广泛概述。无论您是否已经使用 Jupyter 进行教学，您已经找到了基于 Jupyter 的学习材料，激发了您的好奇心，或者从未听说过 Jupyter，这本开放式书籍中的材料可以帮助您使用这项新技术为您的教学提供支持。
 >
-> ![Jupyter Notebook](https://wx3.sinaimg.cn/large/006tNbRwgy1fxroi8lys5j30f00bjaap.jpg)
+> ![Jupyter Notebook](/images/145/006tNbRwgy1fxroi8lys5j30f00bjaap.jpg)
 >
 > [使用 Jupyter 进行教学](https://jupyter4edu.github.io/jupyter-edu-book/)
 >

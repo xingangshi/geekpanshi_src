@@ -34,7 +34,7 @@ password:
 ### 正确提问比正确回答更重要
 >  1. 正确提问比正确回答更重要。 2.  微软AI实验室。3.  IKOS 基于抽象解释理论的C / C ++静态分析器。 4. Chrome插件开发全攻略。  5. 推荐系统论文、学习资料、业界分享。
 >
-> ![正确提问比正确回答更重要](https://wx4.sinaimg.cn/large/006tNbRwgy1fy5vupgmi5j30dm0awglr.jpg)
+> ![正确提问比正确回答更重要](/images/160/006tNbRwgy1fy5vupgmi5j30dm0awglr.jpg)
 
 ---
 #### 1. 正确提问比正确回答更重要
@@ -59,7 +59,7 @@ password:
 >
 > AI Lab帮助我们庞大的快速增长的开发人员社区开始使用AI。您可以在这里体验，学习和编写Microsoft AI的最新和最伟大的创新。AI Lab目前有八个项目，展示最新的自定义视觉，attnGAN，用于AI的Visual Studio工具，认知搜索，机器阅读理解等等。每个实验室都允许您访问实验操场，GitHub上的源代码，清晰的开发人员友好视频，以及对底层开发人员/组织挑战和解决方案的见解。
 >
-> ![微软AI实验室](https://wx1.sinaimg.cn/large/006tNbRwgy1fy5vgm3zgkj30w60jmwg4.jpg)
+> ![微软AI实验室](/images/160/006tNbRwgy1fy5vgm3zgkj30w60jmwg4.jpg)
 >
 > [微软AI实验室](https://github.com/Microsoft/ailab)
 
@@ -79,7 +79,7 @@ password:
 >
 > 我花了将近一个多月的时间断断续续写下这篇博文，并精心写下完整demo，所以转载务必保留 http://blog.haoji.me/chrome-plugin-develop.html 。本文所有涉及到的大部分代码均在这个demo里面：https://github.com/sxei/chrome-plugin-demo ，大家可以直接下载下来运行。
 >
-> ![Chrome插件开发全攻略](https://wx1.sinaimg.cn/large/006tNbRwgy1fy5vki64aij30uj0fbweu.jpg)
+> ![Chrome插件开发全攻略](/images/160/006tNbRwgy1fy5vki64aij30uj0fbweu.jpg)
 >
 > [Chrome插件开发全攻略 ](https://github.com/sxei/chrome-plugin-demo)。
 

@@ -20,7 +20,7 @@ keywords:
   - 宽293高165
   - 宽978高553
 photos:
-    - "https://i.imgur.com/yxzzuLg.png"
+    - "/images/173/yxzzuLg.png"
 date: 2018-12-31 00:00:02
 description: 今天：2018 年 12 月 31 日，仅剩 21 个小时就 2019 年了，距离 2019 年春节，还有 35 天。坚持记录和分析生活中的数据、信息和事件，尊重历史数据、信息和事件，人生将会更美好。
 
@@ -57,10 +57,10 @@ description: 今天：2018 年 12 月 31 日，仅剩 21 个小时就 2019 年�
 #### 2018年倒计时
 
 ##### 2018年倒计时小程序
-> ![2018年倒计时（扫码看查看小程序）](https://i.imgur.com/Qlo5mNr.png "小程序  2018年倒计时")
+> ![2018年倒计时（扫码看查看小程序）](/images/173/Qlo5mNr.png "小程序  2018年倒计时")
 
 ##### 2018年倒计时小程序示例
-> <img src="https://wx2.sinaimg.cn/large/006tNbRwgy1fypbkrcj6aj30u01f4764.jpg" width="400" height="500" div align=center />
+> <img src="/images/173/006tNbRwgy1fypbkrcj6aj30u01f4764.jpg" width="400" height="500" div align=center />
 
 #### 1. 记时数据（<font color="red">今天：2018 年 12 月 30 日，仅剩 21 个小时就 2019 年了。</font>）
 ##### 1.1 记时信息详情

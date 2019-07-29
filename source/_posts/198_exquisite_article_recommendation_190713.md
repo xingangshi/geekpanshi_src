@@ -25,7 +25,7 @@ description: >-
   1. 帮助独立开发者可以赚钱的一些资源。 2.  OpsManage - 自动化运维平台。3.  CPython-Internals。 4. 使用
   Cython 加速 Python 代码。5. SSH 示例, 建议和管道。
 photos:
-  - 'https://wx1.sinaimg.cn/large/006tNbRwgy1fyrvgzmhx2j30bf07k0sv.jpg'
+  - '/images/198/006tNbRwgy1fyrvgzmhx2j30bf07k0sv.jpg'
 date: 2019-07-13 13:42:50
 password:
 ---

@@ -42,7 +42,7 @@ password:
 ---
 > 1. xmake v2.2.2，我们还可以管理C / C ++的包依赖关系。 2. 如何更好的进行网页排版 3. QTPyLib（高质量的 python 交易算法库）是一个使用 python 来实现的简洁、事件驱动的交易算法库。 4. 面向对象的编程中如何更好在数据和信息间做抉择 5. 如何理解 “Unix 里任何东西都是文件” 这句话？/proc、/dev、/tmp、socket、directory 等。
 >
-> ![](https://wx1.sinaimg.cn/large/006tNbRwgy1fyjsr2hnd2j31320j4my8.jpg)
+> ![](/images/050/006tNbRwgy1fyjsr2hnd2j31320j4my8.jpg)
 
 ---
 #### 1. xmake v2.2.2，我们还可以管理C / C ++的包依赖关系

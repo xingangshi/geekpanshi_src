@@ -40,7 +40,7 @@ keywords:
   - marxists
 description: 善用资源，找书，看书，而不是囤书。说明一点，很多网站都提供免费合法的电子书下载，大多为公共版权。以下都是一些提供书籍下载的网站，国外的较多，均可直接打开下载。
 photos:
-  - 'https://i.imgur.com/31Vh4RY.jpg'
+  - '/images/135/31Vh4RY.jpg'
 date: 2019-02-01 13:20:50
 password:
 ---
@@ -53,7 +53,7 @@ password:
 >
 > 以下都是一些提供书籍下载的网站，国外的较多，均可直接打开下载。
 >
-> ![https://manybooks.net/](https://i.imgur.com/YRG5RbQ.png)
+> ![/images/135/YRG5RbQ.png)
 ---
 
 #### [鸠摩搜书](https://www.jiumodiary.com/)

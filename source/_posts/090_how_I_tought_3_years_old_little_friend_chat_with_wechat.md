@@ -18,7 +18,7 @@ keywords:
   - 教别人发微信
   - 教小朋友发微信
 photos:
-  - "https://i.imgur.com/RlbR03v.png"
+  - "/images/090/RlbR03v.png"
 description: >-
   昨天晚上突然兴起，教 3 岁 2
   个月的小朋友怎么发微信，没想到他今天竟然主动和我发微信（其实就是斗图的，小孩子看不懂字的）。当然，斗图结果，肯定是我胜利了，因为我下载了新的表情包了，他没有的。
@@ -56,12 +56,12 @@ top:
 
 > 以下就是我昨天晚上我教小朋友发微信后，今天中午，我和一个 3 岁的小朋友的“斗图”历程……。（当然，斗图结果，肯定是我胜利了，因为我下载了新的表情包了，他没有的。）
 
->> ![和小朋友斗图历程1](https://i.imgur.com/V59boEg.png 和小朋友斗图历程1)
->> ![和小朋友斗图历程2](https://i.imgur.com/X5oFh4W.png 和小朋友斗图历程2)
->> ![和小朋友斗图历程3](https://i.imgur.com/DtJt4l9.png 和小朋友斗图历程3)
->> ![和小朋友斗图历程4](https://i.imgur.com/tvYKzYc.png 和小朋友斗图历程4)
->> ![和小朋友斗图历程5](https://i.imgur.com/tumF2in.png 和小朋友斗图历程5)
->> ![和小朋友斗图历程6](https://i.imgur.com/1APUnX5.png 和小朋友斗图历程6)
->> ![和小朋友斗图历程7](https://i.imgur.com/ilBH07X.png 和小朋友斗图历程7)
->> ![和小朋友斗图历程8](https://i.imgur.com/auqEgKM.png 和小朋友斗图历程8)
->> ![和小朋友斗图历程9](https://i.imgur.com/EuKKh1I.png 和小朋友斗图历程9)
+>> ![和小朋友斗图历程1](/images/090/V59boEg.png 和小朋友斗图历程1)
+>> ![和小朋友斗图历程2](/images/090/X5oFh4W.png 和小朋友斗图历程2)
+>> ![和小朋友斗图历程3](/images/090/DtJt4l9.png 和小朋友斗图历程3)
+>> ![和小朋友斗图历程4](/images/090/tvYKzYc.png 和小朋友斗图历程4)
+>> ![和小朋友斗图历程5](/images/090/tumF2in.png 和小朋友斗图历程5)
+>> ![和小朋友斗图历程6](/images/090/1APUnX5.png 和小朋友斗图历程6)
+>> ![和小朋友斗图历程7](/images/090/ilBH07X.png 和小朋友斗图历程7)
+>> ![和小朋友斗图历程8](/images/090/auqEgKM.png 和小朋友斗图历程8)
+>> ![和小朋友斗图历程9](/images/090/EuKKh1I.png 和小朋友斗图历程9)

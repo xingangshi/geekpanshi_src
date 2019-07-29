@@ -35,7 +35,7 @@ keywords:
   - 宽293高165
   - 宽978高553
 photos:
-  - 'https://i.imgur.com/JkU2PGr.jpg'
+  - '/images/119/JkU2PGr.jpg'
 description: 千言万语不如一图，因为一图胜千言，我们要学会用图片去表达和描述自己的感情，这里记录了我看到有趣的图和自己一点感想。
 date: 2019-03-19 12:31:51
 top:
@@ -56,7 +56,7 @@ top:
 >
 > 时间管理的工具和方法很多的，最重要的还是知行合一的。
 >
->> ![什么是时间管理？](https://i.imgur.com/mVMckQa.png)
+>> ![什么是时间管理？](/images/119/mVMckQa.png)
 
 #### 数据，信息，知识，洞见，智慧和影响力的关系
 > 数据，信息，知识，洞见，智慧和影响力的关系
@@ -73,400 +73,400 @@ top:
 >>
 >> 6. 数据 →（分类归纳）→ 信息 →（寻找联系）→ 知识 →（抓住重点）→ 洞见，不过从洞见到智慧，我觉得不仅需要洞见与洞见的串联，更需要加上时间维度的演绎推理才完整。
 >>
->> ![数据，信息，知识，洞见，智慧和影响力的关系](https://i.imgur.com/1sQzaUi.png)
+>> ![数据，信息，知识，洞见，智慧和影响力的关系](/images/119/1sQzaUi.png)
 
 #### 到底什么是绝望
 > 到底什么是绝望
 >
->> ![到底什么是绝望](https://i.imgur.com/VJUrACq.jpg)
+>> ![到底什么是绝望](/images/119/VJUrACq.jpg)
 
 #### 有效的人生规划 vs 无效的人生规划
 > 有效的人生规划 vs 无效的人生规划
 >
->> ![有效的人生规划 vs 无效的人生规划](https://i.imgur.com/vRMzia5.jpg)
+>> ![有效的人生规划 vs 无效的人生规划](/images/119/vRMzia5.jpg)
 
 
 #### 穷字新解
 > 穷字新解：在一个固定的单位，每天 8 小时卖力的工作，结果就是“穷”。
 >
->> ![穷字新解](https://i.imgur.com/ftIlDnF.jpg)
+>> ![穷字新解](/images/119/ftIlDnF.jpg)
 
 
 #### 什么叫融资
 > 什么叫融资。
 >>
->> ![什么叫融资](https://i.imgur.com/eeC9jcv.png)
+>> ![什么叫融资](/images/119/eeC9jcv.png)
 
 #### IT 版本 - 八荣八耻
 > IT 版 - 八荣八耻。
 >>
->> ![IT 版 - 八荣八耻](https://i.imgur.com/dhV1ggA.png)
+>> ![IT 版 - 八荣八耻](/images/119/dhV1ggA.png)
 
 #### 邓宁-克鲁格心理效应
 > 邓宁-克鲁格心理效应。
 >> 这张图确实很有意义。对每个人都是鞭策。这张图更多对事不对人吧。谦卑，才是最重要的。
 >>
->> ![邓宁-克鲁格心理效应](https://i.imgur.com/FNgdrZv.png)
+>> ![邓宁-克鲁格心理效应](/images/119/FNgdrZv.png)
 
 #### 剩男剩女原因
 > 剩男剩女原因，解决的办法：
 >> 1：三角形变成椭圆形。最上最下都很少，大家都在中间碰碰对。
 >> 2：三角形整体往上移。底下的多数，本经济体找不到，到外经济体找。
 >>
->> ![剩男剩女原因](https://i.imgur.com/7E9pYx1.png)
+>> ![剩男剩女原因](/images/119/7E9pYx1.png)
 
 #### 如何实现财务自由
 > Kindle读享时刻，如何实现财务自由，是每一个人都在向往的事情，碰巧被推荐一本书《好好赚钱》，小标题为：通向自由人生的极简理财课，kindle 推荐的书，其实在我看来：努力赚钱，诚信待人，最好每一件小事，美好的生活就在等着我们，美好的生活就是自由人生的雏形。
 >
->> ![如何实现财务自由](https://i.imgur.com/GhACNdi.png)
+>> ![如何实现财务自由](/images/119/GhACNdi.png)
 
 #### 当下的教育
 > 教育，当下的教育，什么是成功：现在的成功判断越来越单一，就是是否钱多、房东。这是我们的荣幸，也是我们的悲哀。
 >
->> ![当下的教育](https://i.imgur.com/q1DHTK3.png)
+>> ![当下的教育](/images/119/q1DHTK3.png)
 
 #### 长江三角洲
 > 以上海为中心的长江三角洲城市群空间结构图：说是延伸和扩展便利，其实是虹吸效应的。 ​​​​
 >
->> ![长江三角洲](https://i.imgur.com/GgU5Ixm.png)
+>> ![长江三角洲](/images/119/GgU5Ixm.png)
 
 #### 焦虑的本质
 > 焦虑的本质，是守不住自己的节奏。 但是假如你的节奏本身就是不对，那即使不焦虑也是不会逐渐变好以至于成功的。
 >
->> ![焦虑的本质](https://i.imgur.com/mkIsnTW.png)
+>> ![焦虑的本质](/images/119/mkIsnTW.png)
 
 #### 抓不住风口也能成功
 > 完美错过风口的网易，没有平台、不断跨界，但是还是市值很高的，没有人能抓住所有的风口，有些人能够抓住一次风口就很不错，对于普通人，一次机会和不断的努力就够了。 ​​​​
 >
->> ![抓不住风口也能成功](https://i.imgur.com/pbNU3iP.png)
+>> ![抓不住风口也能成功](/images/119/pbNU3iP.png)
 
 #### 家长与还在辅导学习共生关系图
 > 辅导学习，家长与孩子辅导学习共生关系图：不客气的说，很多家长除了加减乘除，啥也不会了。 ​​​​
 >
->> ![家长与还在辅导学习共生关系图](https://i.imgur.com/JdRJHoZ.png)
+>> ![家长与还在辅导学习共生关系图](/images/119/JdRJHoZ.png)
 
 #### 买房必看
 > 买房必看：识别开发商套路，做购房专家。知道买房以后，如何选房子：户型，南北通透、建筑面积、使用面积、实用面积……，全部了解一下。 
 >>
->> ![买房必看-1](https://i.imgur.com/kGTyo7c.png)
->> ![买房必看-2](https://i.imgur.com/3MNSCuG.png)
->> ![买房必看-3](https://i.imgur.com/auTSQmH.png)
+>> ![买房必看-1](/images/119/kGTyo7c.png)
+>> ![买房必看-2](/images/119/3MNSCuG.png)
+>> ![买房必看-3](/images/119/auTSQmH.png)
 
 #### 夫妻共同债务的确定
 > 婚姻，如图: 夫妻共同债务的确定（值得收藏）（根据最高院最新司法解释整理） 
 >>
->> ![夫妻共同债务的确定-1](https://i.imgur.com/bzNLiZi.png)
->> ![夫妻共同债务的确定-2](https://i.imgur.com/jdZMBUS.png)
+>> ![夫妻共同债务的确定-1](/images/119/bzNLiZi.png)
+>> ![夫妻共同债务的确定-2](/images/119/jdZMBUS.png)
 
 #### 准利率、房贷利率
 > 基准利率、房贷利率：最近20年的基准利率变化和房贷利率变化，即使利率上浮 10% 到 30%，还是会有很多人买房的原因。 ​​​​
 >>
->> ![准利率、房贷利率](https://i.imgur.com/CuqQMsu.png)
+>> ![准利率、房贷利率](/images/119/CuqQMsu.png)
 
 #### 辅导孩子作业
 > 有相关研究表明，目前最伤害家庭关系的事情就是辅导孩子作业，尤其是数学作业。这项工作不仅伤害亲子关系，还会伤害夫妻关系。95%以上的家长在辅导孩子作业时，感觉孩子的智力水平不及当年的自己，而 100% 的夫妻认为这是对方的基因导致的。
 >>
->> ![辅导孩子作业](https://i.imgur.com/j9ULjuH.png)
+>> ![辅导孩子作业](/images/119/j9ULjuH.png)
 
 #### 高考报考志愿
 > 2018年高考报考志愿给一个朋友的建议。
 >>
->> ![高考报考志愿](https://i.imgur.com/jiDLZqJ.png)
+>> ![高考报考志愿](/images/119/jiDLZqJ.png)
 
 #### 正能量与负能量的分级
 > 正能量与负能量的分级列表，多点正能量，少点负能量。
 >>
->> ![正能量与负能量的分级](https://i.imgur.com/ff45HTx.png)
+>> ![正能量与负能量的分级](/images/119/ff45HTx.png)
 
 #### 创业曲线
 > 创业曲线。
 >>
->> ![创业曲线](https://i.imgur.com/1lAupsC.png)
+>> ![创业曲线](/images/119/1lAupsC.png)
 
 #### 领袖书柜一览
 > 领袖书柜一览，看看有什么书是我们可以看一看的。
 >>
->> ![领袖书柜一览](https://i.imgur.com/pzhDvNw.png)
+>> ![领袖书柜一览](/images/119/pzhDvNw.png)
 
 #### 马斯洛需求层次理论
 > 马斯洛需求层次理论。
 >>
->> ![马斯洛需求层次理论](https://i.imgur.com/EsF5I1g.png)
+>> ![马斯洛需求层次理论](/images/119/EsF5I1g.png)
 
 #### 十种最浪费时间的活动
 > 十种最浪费时间的活动。
 >>
->> ![十种最浪费时间的活动](https://i.imgur.com/ZCkn1D8.png)
+>> ![十种最浪费时间的活动](/images/119/ZCkn1D8.png)
 
 #### 知识与技能水平的关系
 > 知识与技能水平的关系。
 >>
->> ![知识与技能水平的关系](https://i.imgur.com/u8Udchb.png)
+>> ![知识与技能水平的关系](/images/119/u8Udchb.png)
 
 #### 伪创业者的十六个特征
 > 伪创业者的十六个特征（创业者的十六个特征）。
 >>
->> ![伪创业者的十六个特征](https://i.imgur.com/jqowyWA.png)
+>> ![伪创业者的十六个特征](/images/119/jqowyWA.png)
 
 #### 人到中年
 > 人到中年。
 >>
->> ![人到中年](https://i.imgur.com/PG5ZB9E.png)
+>> ![人到中年](/images/119/PG5ZB9E.png)
 
 #### 数学的海洋
 > 数学的海洋。
 >>
->> ![数学的海洋](https://i.imgur.com/cJORyqW.png)
+>> ![数学的海洋](/images/119/cJORyqW.png)
 
 #### 计算机硬件一览
 > 计算机硬件一览。
 >>
->> ![计算机硬件一览](https://i.imgur.com/DQZLRBu.png)
+>> ![计算机硬件一览](/images/119/DQZLRBu.png)
 
 #### 不同存款的人的特点
 > 不同存款的人的特点。
 >>
->> ![不同存款的人的特点](https://i.imgur.com/wIksO8n.png)
+>> ![不同存款的人的特点](/images/119/wIksO8n.png)
 
 #### 投资人都在想什么的
 > 投资人都在想什么的。
 >>
->> ![投资人都在想什么的](https://i.imgur.com/gQYUA1J.png)
+>> ![投资人都在想什么的](/images/119/gQYUA1J.png)
 
 #### 十周年中国股市和中国楼市对比
 > 10周年中国股市和中国楼市对比。
 >>
->> ![10周年中国股市和中国楼市对比](https://i.imgur.com/f892l6c.png)
+>> ![10周年中国股市和中国楼市对比](/images/119/f892l6c.png)
 
 #### 中国式贩卖焦虑的创业点子
 > 中国式贩卖焦虑的创业点子。
 >>
->> ![中国式贩卖焦虑的创业点子](https://i.imgur.com/u8Udchb.png)
+>> ![中国式贩卖焦虑的创业点子](/images/119/u8Udchb.png)
 
 #### 标准普尔家庭资产象限图
 > 标准普尔家庭资产象限图。
 >>
->> ![标准普尔家庭资产象限图](https://i.imgur.com/OxXINeq.png)
+>> ![标准普尔家庭资产象限图](/images/119/OxXINeq.png)
 
 #### 世界上的两种悲剧
 > 世界上的两种悲剧：得不到你想要的，得到了你想要的。
 >>
->> ![世界上的两种悲剧](https://i.imgur.com/jcn7Hz9.png)
+>> ![世界上的两种悲剧](/images/119/jcn7Hz9.png)
 
 #### 中国股市中的抄底现象
 > 中国股市中的抄底现象，你以为的抄底，永远都只是在山腰。
 >>
->> ![中国股市中的抄底现象](https://i.imgur.com/kLF65zm.png)
+>> ![中国股市中的抄底现象](/images/119/kLF65zm.png)
 
 #### 状态不好时学习的你
 > 状态不好时学习的你。
 >>
->> ![状态不好时学习的你](https://i.imgur.com/5XUD7c5.png)
+>> ![状态不好时学习的你](/images/119/5XUD7c5.png)
 
 #### 女孩子吵架的脑图分析
 > 女孩子吵架的脑图分析。
 >>
->> ![女孩子吵架的脑图分析](https://i.imgur.com/1Qq1jeV.png)
+>> ![女孩子吵架的脑图分析](/images/119/1Qq1jeV.png)
 
 #### 你看到的成功和真实的成功
 > 你看到的成功和真实的成功。
 >>
->> ![你看到的成功和真实的成功](https://wx4.sinaimg.cn/large/006tNbRwgy1fxghe7wfjmj30j60eet9v.jpg)
+>> ![你看到的成功和真实的成功](/images/119/006tNbRwgy1fxghe7wfjmj30j60eet9v.jpg)
 
 #### 卡德尔职业规划三条件图
 > 卡德尔职业规划三条件图，涉及：擅长、想要和成就间的选择。
 >>
->> ![卡德尔职业规划三条件图](https://wx2.sinaimg.cn/large/006tNbRwgy1fxghgzhp6hj310a0u0414.jpg)
+>> ![卡德尔职业规划三条件图](/images/119/006tNbRwgy1fxghgzhp6hj310a0u0414.jpg)
 
 #### 产品生产应该有的样子
 > 产品生产应该有的样子。
 >>
->> ![产品生产应该有的样子-1](https://i.imgur.com/qb7Y4ll.png)
->> ![产品生产应该有的样子-2](https://i.imgur.com/M08HcPX.png)
+>> ![产品生产应该有的样子-1](/images/119/qb7Y4ll.png)
+>> ![产品生产应该有的样子-2](/images/119/M08HcPX.png)
 
 #### 如何把会议时间控制在22分钟内
 > 如何把会议时间控制在22分钟内。
 >>
->> ![如何把会议时间控制在22分钟内](https://i.imgur.com/CRIGSD2.png)
+>> ![如何把会议时间控制在22分钟内](/images/119/CRIGSD2.png)
 
 #### 今天你在哪一步？
 > 今天你在哪一步。
 >>
->> ![今天你在哪一步？](https://i.imgur.com/drI0uIS.png)
+>> ![今天你在哪一步？](/images/119/drI0uIS.png)
 
 #### 我们永远无法令所有人满意
 > 做好自己才是最重要的，因为我们永远无法令所有人满意。
 >>
->> ![我们永远无法令所有人满意](https://i.imgur.com/POgNyIg.png)
+>> ![我们永远无法令所有人满意](/images/119/POgNyIg.png)
 
 #### 知识经验创意的区别
 > 知识经验创意的区别。
 >>
->> ![知识经验创意的区别](https://i.imgur.com/2cx6kFg.png)
+>> ![知识经验创意的区别](/images/119/2cx6kFg.png)
 
 #### 信息知识智慧的区别
 > 信息知识智慧的区别。
 >>
->> ![信息知识智慧的区别](https://i.imgur.com/3ZFEttO.png)
->> ![知识智慧的区别](https://i.imgur.com/VQ7l5J8.png)
+>> ![信息知识智慧的区别](/images/119/3ZFEttO.png)
+>> ![知识智慧的区别](/images/119/VQ7l5J8.png)
 
 #### 优秀职场人士的十六个特征
 > 优秀职场人士的十六个特征。
 >>
->> ![优秀职场人士的十六个特征](https://i.imgur.com/BUO6VGe.png)
+>> ![优秀职场人士的十六个特征](/images/119/BUO6VGe.png)
 
 #### 谷歌删除“Don't be evil”条款
 > 谷歌删除“Don't be evil”条款。
 >>
->> ![谷歌删除“Don't be evil”条款](https://i.imgur.com/ZUyY33u.png)
+>> ![谷歌删除“Don't be evil”条款](/images/119/ZUyY33u.png)
 
 #### 康威定律
 > 康威定律：设计软件系统的组织，不得不设计出与其沟通结构相一致的软件系统结构。
 >>
->> ![康威定律](https://i.imgur.com/NyrYV45.png)
+>> ![康威定律](/images/119/NyrYV45.png)
 
 #### 十个科学的方式让自己变的更加快乐
 > 十个科学的方式让自己变的更加快乐。
 >>
->> ![十个科学的方式让自己变的更加快乐](https://i.imgur.com/Ehiu0Ii.png)
+>> ![十个科学的方式让自己变的更加快乐](/images/119/Ehiu0Ii.png)
 
 #### 勿以恶小而为之
 > 勿以恶小而为之。
 >>
->> ![勿以恶小而为之](https://i.imgur.com/HTlhm5m.png)
+>> ![勿以恶小而为之](/images/119/HTlhm5m.png)
 
 #### 李笑来之进取型人格格言
 > 李笑来之进取型人格格言。
 >>
->> ![李笑来之进取型人格格言](https://i.imgur.com/kgelVY7.png)
+>> ![李笑来之进取型人格格言](/images/119/kgelVY7.png)
 
 #### 书中自有黄金屋
 > 书中自有黄金屋。
 >>
->> ![书中自有黄金屋](https://i.imgur.com/lx2frO9.png)
+>> ![书中自有黄金屋](/images/119/lx2frO9.png)
 
 #### 知行合一（王阳明）
 > 知行合一（王阳明）。
 >>
->> ![知行合一（王阳明）](https://i.imgur.com/tdg1jq3.png)
+>> ![知行合一（王阳明）](/images/119/tdg1jq3.png)
 
 #### 父母眼中的爱情和亲情
 > 父母眼中的爱情和亲情。
 >>
->> ![父母眼中的爱情和亲情](https://i.imgur.com/zB43AKg.png)
+>> ![父母眼中的爱情和亲情](/images/119/zB43AKg.png)
 
 #### 保持创造力的四十种方法
 > 保持创造力的四十种方法。
 >>
->> ![保持创造力的四十种方法](https://i.imgur.com/f0X3W3N.png)
+>> ![保持创造力的四十种方法](/images/119/f0X3W3N.png)
 
 #### 高手处理事情的十二个方法
 > 高手处理事情的十二个方法。
 >>
->> ![高手处理事情的十二个方法](https://i.imgur.com/35049RF.png)
+>> ![高手处理事情的十二个方法](/images/119/35049RF.png)
 
 #### 心灵鸡汤套路总结
 > 心灵鸡汤套路总结。
 >>
->> ![心灵鸡汤套路总结](https://i.imgur.com/meFT1LF.png)
+>> ![心灵鸡汤套路总结](/images/119/meFT1LF.png)
 
 #### 该不该离职？
 > 该不该离职？
 >>
->> ![该不该离职？](https://i.imgur.com/HxCc8JW.png)
+>> ![该不该离职？](/images/119/HxCc8JW.png)
 
 #### 创业法典
 > 创业法典。
 >>
->> ![创业法典](https://i.imgur.com/AiiLDUG.png)
+>> ![创业法典](/images/119/AiiLDUG.png)
 
 #### 开源软件的实际维护并不是你想想的那样
 > 开源软件的实际维护并不是你想想的那样。
 >>
->> ![开源软件的实际维护并不是你想想的那样](https://i.imgur.com/ilddkwT.png)
+>> ![开源软件的实际维护并不是你想想的那样](/images/119/ilddkwT.png)
 
 #### 乔布斯：公司大了以后
 > 乔布斯：公司大了以后……
 >>
->> ![乔布斯：公司大了以后](https://i.imgur.com/kfFqvVa.png)
+>> ![乔布斯：公司大了以后](/images/119/kfFqvVa.png)
 
 #### 时间管理：四象限法则
 > 时间管理：四象限法则。
 >>
->> ![时间管理：四象限法则](https://i.imgur.com/eQdZtv6.png)
+>> ![时间管理：四象限法则](/images/119/eQdZtv6.png)
 
 #### 互联网工作生存指南
 > 互联网工作生存指南。
 >>
->> ![互联网工作生存指南](https://i.imgur.com/Vka3eA7.png)
+>> ![互联网工作生存指南](/images/119/Vka3eA7.png)
 
 #### 学习和无知哪个代价更大
 > 学习和无知哪个代价更大。
 >>
->> ![学习和无知哪个代价更大](https://i.imgur.com/AACzICy.png)
+>> ![学习和无知哪个代价更大](/images/119/AACzICy.png)
 
 #### 企业文化与发展结果
 > 企业文化与发展结果。
 >>
->> ![企业文化与发展结果](https://i.imgur.com/e2F5wJw.png)
+>> ![企业文化与发展结果](/images/119/e2F5wJw.png)
 
 #### HHKB
 > HHKB。
 >>
->> ![HHKB-1](https://i.imgur.com/ZnHslWW.png)
->> ![HHKB-2](https://i.imgur.com/T35CWcU.png)
->> ![HHKB-3](https://i.imgur.com/6jvGibZ.png)
+>> ![HHKB-1](/images/119/ZnHslWW.png)
+>> ![HHKB-2](/images/119/T35CWcU.png)
+>> ![HHKB-3](/images/119/6jvGibZ.png)
 
 #### 我们为什么非读书不可？
 > 女王的教室：我们为什么非读书不可？
 >>
->> ![我们为什么非读书不可？](https://i.imgur.com/rCelJQp.png)
+>> ![我们为什么非读书不可？](/images/119/rCelJQp.png)
 
 #### 一线城市住房需求标准
 > 一线城市住房需求标准。
 >>
->> ![一线城市住房需求标准](https://i.imgur.com/3FHfTk7.png)
+>> ![一线城市住房需求标准](/images/119/3FHfTk7.png)
 
 #### 泰坦尼克和诺亚方舟
 > 泰坦尼克和诺亚方舟。
 >>
->> ![泰坦尼克和诺亚方舟](https://i.imgur.com/t6WScSc.png)
+>> ![泰坦尼克和诺亚方舟](/images/119/t6WScSc.png)
 
 #### 项目团队的实际情况
 > 项目团队的实际情况。
 >>
->> ![项目团队的实际情况-1](https://i.imgur.com/5MktgId.png)
->> ![项目团队的实际情况-2](https://i.imgur.com/v77QHgP.jpg)
+>> ![项目团队的实际情况-1](/images/119/5MktgId.png)
+>> ![项目团队的实际情况-2](/images/119/v77QHgP.jpg)
 
 #### 婴儿配方奶粉对比表
 > 婴儿配方奶粉对比表。
 >>
->> ![婴儿配方奶粉对比表](https://i.imgur.com/tVXYnUo.png)
+>> ![婴儿配方奶粉对比表](/images/119/tVXYnUo.png)
 
 #### 各国父母辅导孩子时间
 > 各种父母每周帮助孩子学习的时间。
 >>
->> ![各国父母辅导孩子时间](https://i.imgur.com/hMObaRi.png)
+>> ![各国父母辅导孩子时间](/images/119/hMObaRi.png)
 
 #### 永不言弃
 > 永不言弃。
 >>
->> ![永不言弃](https://i.imgur.com/RAxERFZ.png)
+>> ![永不言弃](/images/119/RAxERFZ.png)
 
 #### 过去和现在的对比
 > 过去和现在的对比。
 >>
->> ![过去和现在的对比](https://i.imgur.com/VrNCuZ8.png)
+>> ![过去和现在的对比](/images/119/VrNCuZ8.png)
 
 #### 十年间我的知识来源变化
 > 十年间我的知识来源变化。
 >>
->> ![十年间我的知识来源变化](https://i.imgur.com/rKqpmq1.png)
+>> ![十年间我的知识来源变化](/images/119/rKqpmq1.png)
 
 #### 设计的方式和用户实际的方式
 > 设计的方式和用户实际的方式。
 >>
->> ![设计的方式和用户实际的方式](https://i.imgur.com/80Skusd.png)
+>> ![设计的方式和用户实际的方式](/images/119/80Skusd.png)
 
 
 ---

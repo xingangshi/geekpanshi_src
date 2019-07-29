@@ -56,7 +56,7 @@ password:
 > 在此需要等待一下，创建密钥花的时间比较长。**注意要在空白处划动鼠标哦，这样会更加快**。
 > 密钥格式选择可以在点击 `Generate` 前选择，一般默认如下图所示，我们不用选择的。
 
-![PuTTYgen密钥格式选择](https://i.imgur.com/pZcznWG.png "PuTTYgen密钥格式选择")
+![PuTTYgen密钥格式选择](/images/028/pZcznWG.png "PuTTYgen密钥格式选择")
 
 3. 创建完成之后，我们可以选择在上图中 `Key comment` 输入框中添加备注，方便记忆和使用。
 

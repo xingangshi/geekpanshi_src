@@ -31,7 +31,7 @@ password:
 
 ### 请不要再在网上晒娃的！
 >  1. 请不要再在网上晒娃的！ 2.  代码审查最佳实践。3. 如何建立自己的个人知识库。 4. 什么是真实的系统编程?  5. 顶级开源静态站点生成器。
-> ![晒娃](https://wx3.sinaimg.cn/large/006tNbRwgy1fy3ktw5n2yj30hs0a0dgf.jpg)
+> ![晒娃](/images/158/006tNbRwgy1fy3ktw5n2yj30hs0a0dgf.jpg)
 
 ---
 #### 1. 请不要再在网上晒娃的！
@@ -44,7 +44,7 @@ password:
 #### 2. 代码审查最佳实践
 > 在工作中，我们正在使用代码审查。每个人都知道 Code Review 是什么，每个人都这样做（至少我希望你们都这样做）。但是如果你花了一些时间与人们讨论代码评论，那么每个人都对代码评审应该包括的内容有自己的看法。每个参与者的义务是什么？什么是众所周知的代码审查最佳实践？
 >
-> ![代码审查最佳实践](https://wx4.sinaimg.cn/large/006tNbRwgy1fy3kz8hsj2j30kk0760u9.jpg)
+> ![代码审查最佳实践](/images/158/006tNbRwgy1fy3kz8hsj2j30kk0760u9.jpg)
 >
 > [代码审查最佳实践](https://programmerfriend.com/index.php/2018/12/10/code-review-best-practices/)
 

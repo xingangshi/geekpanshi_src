@@ -37,10 +37,10 @@ $ npm -v
 ```
 
 #### 2.2 安装 Git 并配置 Git 环境
-* 安装好了 Git，桌面会出现 ![Git Bash图标](https://i.imgur.com/j7YbHRg.png "Git Bash 图标")，**鼠标右键** 菜单会出现 `Git GUI Here` 和 `Gui Bash Here` 选项。
+* 安装好了 Git，桌面会出现 ![Git Bash图标](/images/001/j7YbHRg.png "Git Bash 图标")，**鼠标右键** 菜单会出现 `Git GUI Here` 和 `Gui Bash Here` 选项。
 
 * 此时，Git 相关的操作在 `Git Bash Here` 中进行，假如要在 Windows Cmd.exe 中进行，需要在安装时选择作如下选择
-![Git 安装选择`use Git from the Windows Command Prompt`](https://i.imgur.com/UPINOS7.png "use Git from the Windows Command Prompt")
+![Git 安装选择`use Git from the Windows Command Prompt`](/images/001/UPINOS7.png "use Git from the Windows Command Prompt")
 
 * 检查安装，打开 cmd.exe，键入 `git -v` ，显示如下表示安装成功：
 ```C++
@@ -53,11 +53,11 @@ git version 2.5.1.windows.1
 
 #### 3.1 创建项目名规定（必须遵守）
 * 项目名**必须**为 <font face="黑体" color="#FF0000" size=3>账户名称.github.io</font>（否则会出现很多不必要的麻烦），同时勾选可选选项 `Initialize this repository with a README`，如所示
-![创建项目页面展示](https://i.imgur.com/xXSjCKZ.png "创建项目示例")
+![创建项目页面展示](/images/001/xXSjCKZ.png "创建项目示例")
 
 #### 3.2 检查项目创建是否正常
 * 创建成功后，在项目所在主页打开 `Settings` 页面，下拉可看到项目的 网址 和发布状态，如下图：
-![查看项目网址信息](https://i.imgur.com/2lo63hc.png "查看项目网址信息")
+![查看项目网址信息](/images/001/2lo63hc.png "查看项目网址信息")
 
 ### 4. 安装 [Hexo](https://hexo.io/zh-cn/)
 
@@ -225,7 +225,7 @@ INFO  Hexo is running at http://localhost:5000 . Press Ctrl+C to stop.
 ```
 #### 5.3 测试访问本地
 * 打开浏览器，输入 `http://localhost:5000/` 访问本地刚开启的服务器，能够打开，说明安装正常。
-![测试访问本地服务器](https://i.imgur.com/BfTysU4.png "测试访问本地服务器")
+![测试访问本地服务器](/images/001/BfTysU4.png "测试访问本地服务器")
 
 
 ### 6. 设置 Git 和生成本地秘钥对
@@ -302,7 +302,7 @@ $
 
 #### 7.1 登录 Github，添加 SSH key
 * 登录 Github，点击头像下的 `Settings`，选择 `SSH and GPG keys`，点击 `New SSH key`，把 `id_ras.pub` 的内容添加 ssh。如下图
-![Github 添加 ssh key](https://i.imgur.com/oc1ynC7.png "Github 添加 ssh key")
+![Github 添加 ssh key](/images/001/oc1ynC7.png "Github 添加 ssh key")
 
 #### 7.2 验证是否添加绑定成功
 ```
@@ -332,7 +332,7 @@ $
 
 #### 8.1 查看 Github 中项目的地址。
 * 如下图，复制你的项目的地址，我的是 `git@github.com:geekpanshi/geekpanshi.github.io.git`。
-![查看自己的 Github 项目地址](https://i.imgur.com/UjFKeSF.png "查看自己的 Github 项目地址")
+![查看自己的 Github 项目地址](/images/001/UjFKeSF.png "查看自己的 Github 项目地址")
 
 #### 8.2 配置本地初始化 Hexo 的项目 geekpanshi
 * 打开根目录文件 ``， 如下代码所示配置，我的文件路径 `/e/selfDatas/demo/geekpanshi/_config.yml`
@@ -400,13 +400,13 @@ $
 #### 8.7 查看更新后的网站
 * 部署成功后，浏览器打开你的网站，`http://用户名.github.io`, 那么将看到生成的文章，我的是 [https://geekpanshi.github.io/](https://geekpanshi.github.io/)。
 * 打开成功的话，如下所示
-![https://geekpanshi.github.io/](https://i.imgur.com/VD5kgTD.png "geekpanshi.github.io")
+![/images/001/VD5kgTD.png "geekpanshi.github.io")
 
 ### 9. 结束语
 * 结果上面的一系列的操作，通过 Hexo 和 Github 我们就完成了自己的第一个网站。
 * 由于 Hexo 的文章，都是通过 Markdown 编辑的，所以大家还是要去学一学相关的 Markdown 的语法。
 
 ### 10. 联系方式
-* 微信：![微信号，磐石](https://i.imgur.com/dx17wGO.png "微信号，磐石")
-* 微博：![微博号，浦东价投男](https://i.imgur.com/Meqtw3h.png "微博号，浦东价投男")
+* 微信：![微信号，磐石](/images/001/dx17wGO.png "微信号，磐石")
+* 微博：![微博号，浦东价投男](/images/001/Meqtw3h.png "微博号，浦东价投男")
 

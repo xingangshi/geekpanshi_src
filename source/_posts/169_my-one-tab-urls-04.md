@@ -17,7 +17,7 @@ categories:
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
-abbrlink: 509e5638
+abbrlink: '509e5638'
 keywords:
   - 数据库资料教程和工具大全等
   - 个人博客
@@ -43,9 +43,10 @@ keywords:
   - haskell
   - 测试
 photos:
-  - "https://i.imgur.com/dC3K1HH.jpg"
+  - /images/169/dC3K1HH.jpg
 description: >-
-  1. 数据库资料、教程和工具大全。 2. OneTab shared tabs: Shared 86 tabs。 3. 资源和工具。 4. 观点和建议。 5. 教程和电子书。
+  1. 数据库资料、教程和工具大全。 2. OneTab shared tabs: Shared 86 tabs。 3. 资源和工具。 4. 观点和建议。
+  5. 教程和电子书。
 date: 2018-12-29 21:40:50
 password:
 ---
@@ -55,7 +56,7 @@ password:
 ---
 > 1. 数据库资料、教程和工具大全。 2. OneTab shared tabs: Shared 86 tabs。 3. 资源和工具。 4. 观点和建议。 5. 教程和电子书。
 >
-> ![angry-data-modeler](https://i.imgur.com/gup22Ne.jpg)
+> ![angry-data-modeler](/images/169/gup22Ne.jpg)
 
 ---
 #### 站内内链

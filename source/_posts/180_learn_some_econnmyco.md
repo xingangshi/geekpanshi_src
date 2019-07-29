@@ -16,7 +16,7 @@ keywords:
   - 人人都应该懂一点经济学
 description: 哈佛大学经济学教授曼昆曾经对自己的学生提过一个建议：学点经济学，知道经济规律，把握自己人生。其实在经济学面前，我们都是学生的。
 photos:
-  - 'https://wx1.sinaimg.cn/large/006tNc79gy1fyzwuzl8bhj3085064wed.jpg'
+  - '/images/180/006tNc79gy1fyzwuzl8bhj3085064wed.jpg'
 date: 2019-01-08 08:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -25,7 +25,7 @@ date: 2019-01-08 08:10:03
 ---
 > 哈佛大学经济学教授曼昆曾经对自己的学生提过一个建议：学点经济学，知道经济规律，把握自己人生。其实在经济学面前，我们都是学生的。
 >
-> ![幸福感](https://wx2.sinaimg.cn/large/006tNc79gy1fyzwtzja3aj30c8096jrk.jpg)
+> ![幸福感](/images/180/006tNc79gy1fyzwtzja3aj30c8096jrk.jpg)
 
 ##### 20.1 人人都应该懂一点经济学：否则你都不知道自己为什么亏钱了
 
@@ -44,7 +44,7 @@ date: 2019-01-08 08:10:03
 > 1. 《宏观经济学热点问题节解读》
 >> 网站链接：[http://open.163.com/special/cuvocw/hongguanjingji.html](http://open.163.com/special/cuvocw/hongguanjingji.html])
 >>
->> ![宏观经济学热点问题节解读](https://wx4.sinaimg.cn/large/006tNc79gy1fyzwehctemj30ts0cydgl.jpg)
+>> ![宏观经济学热点问题节解读](/images/180/006tNc79gy1fyzwehctemj30ts0cydgl.jpg)
 >
 > 2. 《薛兆丰经济学讲义》
 >>
@@ -52,7 +52,7 @@ date: 2019-01-08 08:10:03
 >>
 >> 豆瓣书评：[https://book.douban.com/subject/30242320](https://book.douban.com/subject/30242320)
 >>
->> ![薛兆丰经济学讲义](https://wx4.sinaimg.cn/large/006tNc79gy1fyzwhk5df4j30go0gowew.jpg)
+>> ![薛兆丰经济学讲义](/images/180/006tNc79gy1fyzwhk5df4j30go0gowew.jpg)
 >
 > 3. 《斯坦福极简经济学》
 >>
@@ -60,14 +60,14 @@ date: 2019-01-08 08:10:03
 >>
 >> 豆瓣书评：[https://book.douban.com/subject/26314063](https://book.douban.com/subject/26314063)
 >>
->> ![斯坦福极简经济学](https://wx1.sinaimg.cn/large/006tNc79gy1fyzwjgpf4wj30u019ggoi.jpg)
+>> ![斯坦福极简经济学](/images/180/006tNc79gy1fyzwjgpf4wj30u019ggoi.jpg)
 
 ##### 20.2 其他
 > 1. 要努力，不是为了要感动谁，也不是要做给哪个人看， 而是要让自己随时有能力跳出自己厌恶的圈子，并拥有选择的权利， 用自己喜欢的方式过一生。
 
 > 2. 面对电子邮件的冲击，线下的邮局仍然守着最后一丝倔强。
 >>
->> ![电子邮件](https://wx3.sinaimg.cn/large/006tNc79gy1fyzwr8esusj30c40gqdhe.jpg)
+>> ![电子邮件](/images/180/006tNc79gy1fyzwr8esusj30c40gqdhe.jpg)
 
 > 3. 一个真正格局大的人，会讲究，能将就，能享受最好的，也能承受最坏的，见过世面的他们自然会在人群中散发不一样的气质，温和却有力量，谦卑却有内涵。
 

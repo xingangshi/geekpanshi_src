@@ -43,7 +43,7 @@ keywords:
   - haskell
   - 测试
 photos:
-  - 'https://i.imgur.com/KzzwXVS.jpg'
+  - '/images/184/KzzwXVS.jpg'
 description: >-
   1. 观点和经验。 2. OneTab shared tabs，Shared 86 tabs。 3. 资源和工具。 4. 工具相关。 5. 提升效率。 6.
   教程书籍
@@ -56,7 +56,7 @@ password:
 ---
 > 1. 观点和经验。 2. OneTab shared tabs: Shared 86 tabs。 3. 资源和工具。 4. 工具相关。 5. 提升效率。 6. 教程书籍
 >
-> ![这 10 款插件让你的 GitHub 更好用、更有趣](https://i.imgur.com/TXs6G7s.png)
+> ![这 10 款插件让你的 GitHub 更好用、更有趣](/images/184/TXs6G7s.png)
 
 ---
 #### 站内内链
@@ -217,10 +217,10 @@ password:
 > [URL](https://paul-samuels.com/blog/2019/01/12/writing-custom-tools-with-swift/) ：Writing custom tools with Swift · paul-samuels.com
 > [URL](https://bakingclouds.com/api-testing-tools/) ：API Testing Tools – Baking Clouds
 > [URL](http://downloads.tor-lattimore.com/banditbook/book.pdf) ：Bandit Algorithms
-> [URL](https://wx2.sinaimg.cn/large/005uJVS4ly1fzia227b5gj30j64w0ncf.jpg) ：005uJVS4ly1fzia227b5gj30j64w0ncf.jpg (690×6336)
+> [URL](/images/184/005uJVS4ly1fzia227b5gj30j64w0ncf.jpg) ：005uJVS4ly1fzia227b5gj30j64w0ncf.jpg (690×6336)
 > [URL](https://dos.zczc.cz/) ：在线 DOS 游戏
 > [URL](https://github.com/rwv/chinese-dos-games) ：GitHub - rwv/chinese-dos-games: 🎮 Chinese DOS games in browser.
-> [URL](https://wx2.sinaimg.cn/large/6e7342ealy1fzef2ljry4j20qp1720z0.jpg) ：6e7342ealy1fzef2ljry4j20qp1720z0.jpg (961×1550)
+> [URL](/images/184/6e7342ealy1fzef2ljry4j20qp1720z0.jpg) ：6e7342ealy1fzef2ljry4j20qp1720z0.jpg (961×1550)
 > [URL](http://www.liuliangbang.net/) ：流量,买流量-[流量帮]
 > [URL](https://arp242.net/weblog/the-art-of-unix-programming.html) ：The Art of Unix Programming, reformatted
 > [URL](https://github.com/MLEveryday/100-Days-Of-ML-Code) ：GitHub - MLEveryday/100-Days-Of-ML-Code: 100-Days-Of-ML-Code中文版

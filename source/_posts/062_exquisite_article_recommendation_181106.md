@@ -38,7 +38,7 @@ password:
 > 有很多博客文章只是告诉你一种方法及其工作原理，这篇博文解决了这个问题，因为它总结了你可以从生产环境中收集的不同类型的性能相关信息。它着眼于他们如何帮助您以及每个类别的缺点和局限。
 >
 > [了解生产：您可以衡量什么？ ](https://www.opsian.com/blog/understanding-production-what-can-you-measure/)
-> ![Linux Perfornance Tools](https://i.imgur.com/zKFBfmv.png)
+> ![Linux Perfornance Tools](/images/062/zKFBfmv.png)
 
 #### 2. Regex One 通过简单的互动练习学习正则表达式
 > Regex One 通过简单的互动练习学习正则表达式。

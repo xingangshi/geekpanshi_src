@@ -33,7 +33,7 @@ keywords:
   - 手帐
   - Chrome扩展
 photos:
- - 'https://i.imgur.com/MoKt35C.jpg'
+ - '/images/049/MoKt35C.jpg'
 description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记：极简手帐攻略。 5. WorkFlowy 是一款基于云端的、只支持纯文字的工具。 6. 知乎精华帖……
 date: 2019-04-24 19:30:50
 ---
@@ -43,7 +43,7 @@ date: 2019-04-24 19:30:50
 ---
 > 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记：极简手帐攻略。 5. WorkFlowy 是一款基于云端的、只支持纯文字的工具。6. 知乎精华帖……
 >
-> ![学习相关](https://i.imgur.com/Q5F6nN5.png)
+> ![学习相关](/images/049/Q5F6nN5.png)
 
 ---
 #### 站内内链
@@ -77,7 +77,7 @@ date: 2019-04-24 19:30:50
 #### 2. 康奈尔笔记法
 > [URL](https://wenku.baidu.com/view/920df68a783e0912a3162a17.html) ：康奈尔笔记打印模板_百度文库
 >>
->> ![康奈尔笔记法](https://i.imgur.com/1Ut3Gg0.png)
+>> ![康奈尔笔记法](/images/049/1Ut3Gg0.png)
 >
 > [URL](https://baike.baidu.com/item/5R%E7%AC%94%E8%AE%B0%E6%B3%95/11004959) ：5R笔记法_百度百科
 > [URL](https://www.jianshu.com/p/f7a7000f93b6) ：译|一种高效率的笔记法——康奈尔笔记法 - 简书
@@ -184,7 +184,7 @@ date: 2019-04-24 19:30:50
 > [URL](https://yanhaijing.com/git/2017/07/14/four-method-for-git-merge/) ：图解4种git合并分支方法
 > [URL](https://yanhaijing.com/git/2017/07/14/four-method-for-git-merge/) ：图解4种git合并分支方法
 >>
->> ![Git Workflow](https://i.imgur.com/btxXEAN.png)
+>> ![Git Workflow](/images/049/btxXEAN.png)
 
 ---
 

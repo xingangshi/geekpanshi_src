@@ -25,7 +25,7 @@ description: >-
   1. 比尔·盖茨：我今年在工作中学到了什么。 2.  为互联网 IT 人打造的中文版 awesome-go。3.  比特币资源。 4.
   Gitbatch：在一个地方管理你的 git 存储库。5. 编程之道。
 photos:
-  - 'https://wx4.sinaimg.cn/large/006tNc79gy1fyu6xq5xzyj30850cd0sr.jpg'
+  - '/images/176/006tNc79gy1fyu6xq5xzyj30850cd0sr.jpg'
 date: 2019-01-04 07:20:50
 password:
 ---
@@ -34,7 +34,7 @@ password:
 ### 比尔·盖茨：我今年在工作中学到了什么
 >  1. 比尔·盖茨：我今年在工作中学到了什么。 2.  为互联网 IT 人打造的中文版 awesome-go。3.  比特币资源。 4. Gitbatch：在一个地方管理你的 git 存储库。5. 编程之道。
 >
-> ![金钱心理学](https://wx2.sinaimg.cn/large/006tNc79gy1fyu5jijcbzj30sg0hs40l.jpg)
+> ![金钱心理学](/images/176/006tNc79gy1fyu5jijcbzj30sg0hs40l.jpg)
 
 ---
 #### 1. 比尔·盖茨：我今年在工作中学到了什么
@@ -50,7 +50,7 @@ password:
 >>
 >> 另一个是在教育中使用技术。软件可以提高学生的学习量？多年来，我们一直听到有关技术对教育产生的巨大影响的过热主张。人们对此持怀疑态度。但我认为事情终将以一种能兑现承诺的方式汇集在一起。
 >
-> ![比尔·盖茨](https://wx2.sinaimg.cn/large/006tNc79gy1fyu5eag4etj30si0f5q6m.jpg)
+> ![比尔·盖茨](/images/176/006tNc79gy1fyu5eag4etj30si0f5q6m.jpg)
 >
 > [比尔·盖茨：我今年在工作中学到了什么，https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2018](https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2018)
 
@@ -71,7 +71,7 @@ password:
 >
 > 正在构建此工具，以使您的本地存储库轻松与远程控制器同步。虽然重点是批处理作业，但您仍然可以对git存储库进行事实上的微管理（例如添加/重置，存储，提交等）。
 >
-> ![Gitbatch](https://wx3.sinaimg.cn/large/006tNc79gy1fyu5cnahp1j30ov0by0t7.jpg)
+> ![Gitbatch](/images/176/006tNc79gy1fyu5cnahp1j30ov0by0t7.jpg)
 >
 > [Gitbatch：在一个地方管理你的 git 存储库，https://github.com/isacikgoz/gitbatch](https://github.com/isacikgoz/gitbatch)
 

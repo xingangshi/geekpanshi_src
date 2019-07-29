@@ -24,7 +24,7 @@ description: >-
   是作为开发人员或写作人可以做的最佳时间投资之一。学习 Vim
   只需要几周时间，但你可以将其视为一个长期的视角。它将为您的未来生活节省数周或数月的文本编辑时间。
 photo:
-  - 'https://i.imgur.com/3LkGcrA.png'
+  - '/images/086/3LkGcrA.png'
 date: 2018-12-20 08:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -36,7 +36,7 @@ date: 2018-12-20 08:10:03
 >
 > Vim 是作为开发人员或写作人可以做的最佳时间投资之一。学习 Vim 只需要几周时间，但你可以将其视为一个长期的视角。它将为您的未来生活节省数周或数月的文本编辑时间。
 >
-> ![进入 Vim 世界的钥匙](https://i.imgur.com/RkyFnKB.png "进入 Vim 世界的钥匙")
+> ![进入 Vim 世界的钥匙](/images/086/RkyFnKB.png "进入 Vim 世界的钥匙")
 
 #### 1. 提高生产力
 > 这是我个人使用 Vim 的主要原因。作为一名程序员，我在所有工作日编辑不同的代码文件，配置等。Vim 背后基于模式编辑的想法非常简单，同时也非常强大。简单来说，几乎所有经常使用文本执行的操作（例如删除单词，删除行或复制句子等）都可以使用简单的按键命令完成。此外，您可以重复命令，记录宏等等。
@@ -48,7 +48,7 @@ date: 2018-12-20 08:10:03
 #### 2. 学习曲线
 > **这是关于 Vim 的顶级神话之一 --- 它非常难学。但事实并非如此。**
 >
-> ![编辑器学习曲线比较](https://i.imgur.com/nPseEdr.png 编辑器学习曲线比较)
+> ![编辑器学习曲线比较](/images/086/nPseEdr.png 编辑器学习曲线比较)
 >
 > 像任何其他工具一样，Vim 有自己的学习曲线。当他们第一次尝试使用Vim时，很多人都会感到沮丧。但原因并不是说 Vim 太难了，而是因为他们对文本编辑过程有着严格的期望。
 >
@@ -57,7 +57,7 @@ date: 2018-12-20 08:10:03
 #### 3. 其他 IDE 对 VIM 的支持
 > 很多人都在询问是否可以配置 Vim 就像其他 IDE 一样。如果你想使用像 linters，智能自动完成或模糊搜索这样的工具怎么办？这一切都可以通过插件实现。Vim 有一个非常棒的社区支持，它更强大的是一个伟大的社区支持和无穷无尽的插件。
 >
-> ![一个 vim 的配置示例](https://i.imgur.com/RimWsEH.png "一个 vim 的配置示例")
+> ![一个 vim 的配置示例](/images/086/RimWsEH.png "一个 vim 的配置示例")
 >
 > 要查看更多 vim 配置的更多示例，可以访问[vimporn subreddit](https://www.reddit.com/r/vimporn/)。
 
@@ -65,13 +65,13 @@ date: 2018-12-20 08:10:03
 > 学习 Vim 的主要来源包括以下
 
 ##### 4.1 [openvim, Interactive Vim tutorial](https://openvim.com/)
-> ![openvim](https://i.imgur.com/uGopYlD.png openvim)
+> ![openvim](/images/086/uGopYlD.png openvim)
 
 ##### 4.2 [vim adventures](https://vim-adventures.com/)
-> ![vim adventures](https://i.imgur.com/mJefISJ.png "vim adventures")
+> ![vim adventures](/images/086/mJefISJ.png "vim adventures")
 
 ##### 4.3 [VIMTUTOR](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor) [link-2](https://www.systutorials.com/240159/vim-tutorial-beginners-vimtutor/)
-> ![VIMTUTOR](https://i.imgur.com/w4wanpd.png VIMTUTOR)
+> ![VIMTUTOR](/images/086/w4wanpd.png VIMTUTOR)
 
 ##### 4.4 [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn/blob/master/README.md)
 
@@ -84,35 +84,35 @@ date: 2018-12-20 08:10:03
 #### 5. 5 个最好用的 Vim Cheat Sheet
 
 ##### 5.1 [VIM Cheat Sheet for Programmers](http://michael.peopleofhonoronly.com/vim/)
->> ![VIM Cheat Sheet for Programmers](https://i.imgur.com/MeR6AjS.jpg "VIM Cheat Sheet for Programmers")
+>> ![VIM Cheat Sheet for Programmers](/images/086/MeR6AjS.jpg "VIM Cheat Sheet for Programmers")
 
 ##### 5.2 [Beautiful VIM Cheat Sheet](http://vimcheatsheet.com/2018/06/11/return-of-vim-cheatsheet-setting-up-shop-finding-my-voice/)
->> ![Beautiful VIM Cheat Sheet](https://i.imgur.com/Vt1hVGy.jpg "Beautiful VIM Cheat Sheet")
+>> ![Beautiful VIM Cheat Sheet](/images/086/Vt1hVGy.jpg "Beautiful VIM Cheat Sheet")
 
 ##### 5.3 [Vi / Vim Graphical Cheat Sheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
->> ![Vi \ Vim Graphical Cheat Sheet](https://i.imgur.com/1pwYVSP.jpg "Vi \ Vim Graphical Cheat Sheet")
+>> ![Vi \ Vim Graphical Cheat Sheet](/images/086/1pwYVSP.jpg "Vi \ Vim Graphical Cheat Sheet")
 
 ##### 5.4 [Vi Cheat Sheet](https://www.gosquared.com/blog/vi-linux-terminal-help-sheet)
->> ![Vi Cheat Sheet](https://i.imgur.com/TBfub5z.jpg "Vi Cheat Sheet")
+>> ![Vi Cheat Sheet](/images/086/TBfub5z.jpg "Vi Cheat Sheet")
 
 ##### 5.5  [VIM Cheat Sheet for Programmers](https://vim.rtorr.com/lang/zh_cn/)
->> ![VIM Cheat Sheet for Programmers](https://i.imgur.com/ol5vQNv.jpg "VIM Cheat Sheet for Programmers")
+>> ![VIM Cheat Sheet for Programmers](/images/086/ol5vQNv.jpg "VIM Cheat Sheet for Programmers")
 
 #### 6. 基于 VIM 的进阶替代品
 
 ##### 6.1 [SpaceVim : A community-driven vim distribution](https://spacevim.org/)
 > [SpaceVim 中文官网](https://spacevim.org/cn/)
 >
-> ![SpaceVim 样例](https://i.imgur.com/6Q8Ewu7.png "SpaceVim 样例")
+> ![SpaceVim 样例](/images/086/6Q8Ewu7.png "SpaceVim 样例")
 
 ##### 6.2 [Neovim  : literally the future of vim](https://neovim.io/)
-> ![Neovim 样例](https://i.imgur.com/8Q3PSvU.png "Neovim 样例")
+> ![Neovim 样例](/images/086/8Q3PSvU.png "Neovim 样例")
 
 ##### 6.3 [exVim : 将Vim变成一个很好的编程环境的项目](https://exvim.github.io/)
-> ![exVim 样例](https://i.imgur.com/1dOV21d.png "exVim 样例")
+> ![exVim 样例](/images/086/1dOV21d.png "exVim 样例")
 
 ##### 6.4 [PowerVim : 让你的 vim 更强大，更轻松]
-> ![PowerVim 样例](https://i.imgur.com/IOGKHIc.png "PowerVim 样例")
+> ![PowerVim 样例](/images/086/IOGKHIc.png "PowerVim 样例")
 
 
 #### 7. 编辑器的 Vim-mode 插件

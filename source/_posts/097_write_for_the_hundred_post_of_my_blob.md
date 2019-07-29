@@ -19,7 +19,7 @@ keywords:
   - 如何学会思考
   - 时间管理
 photos:
-  - 'https://wx4.sinaimg.cn/large/006tNbRwgy1fxbjsbwxxlj3085052glh.jpg'
+  - '/images/097/006tNbRwgy1fxbjsbwxxlj3085052glh.jpg'
 description: >-
   不知不觉中，已经写了 99 篇博文了，所以特地写这第 100 篇的博文，刚好也记录一下我和一个友人的对话，我们的对话引出了三个问题，1.
   怎么给大脑升级，2. 如何学会思考， 3. 如何更好的进行时间管理。这三个问题不仅仅是我们困惑，也是大家的困惑，希望我们可以找到这三个问题的答案。
@@ -36,15 +36,15 @@ password:
 
 > 以下就是我们的对话的：
 >
->> ![1](https://wx3.sinaimg.cn/large/006tNbRwgy1fxbj6mey5oj30u01o0qdq.jpg)
->> ![2](https://wx2.sinaimg.cn/large/006tNbRwgy1fxbj71vkqrj30u01o0drb.jpg)
->> ![3](https://wx1.sinaimg.cn/large/006tNbRwgy1fxbj7jtipmj30u01o0gwh.jpg)
->> ![4](https://wx3.sinaimg.cn/large/006tNbRwgy1fxbj9tzqvtj30u01o0gx6.jpg)
->> ![5](https://wx2.sinaimg.cn/large/006tNbRwgy1fxbja6e3ouj30u01o0n8m.jpg)
->> ![6](https://wx4.sinaimg.cn/large/006tNbRwgy1fxbjacvt0xj30u01o0akq.jpg)
->> ![7](https://wx1.sinaimg.cn/large/006tNbRwgy1fxbjap8mffj30u01o07gn.jpg)
->> ![8](https://wx2.sinaimg.cn/large/006tNbRwgy1fxbjax0sryj30u01o0aku.jpg)
->> ![9](https://wx2.sinaimg.cn/large/006tNbRwgy1fxbjb2ke8rj30u01o0wox.jpg)
+>> ![1](/images/097/006tNbRwgy1fxbj6mey5oj30u01o0qdq.jpg)
+>> ![2](/images/097/006tNbRwgy1fxbj71vkqrj30u01o0drb.jpg)
+>> ![3](/images/097/006tNbRwgy1fxbj7jtipmj30u01o0gwh.jpg)
+>> ![4](/images/097/006tNbRwgy1fxbj9tzqvtj30u01o0gx6.jpg)
+>> ![5](/images/097/006tNbRwgy1fxbja6e3ouj30u01o0n8m.jpg)
+>> ![6](/images/097/006tNbRwgy1fxbjacvt0xj30u01o0akq.jpg)
+>> ![7](/images/097/006tNbRwgy1fxbjap8mffj30u01o07gn.jpg)
+>> ![8](/images/097/006tNbRwgy1fxbjax0sryj30u01o0aku.jpg)
+>> ![9](/images/097/006tNbRwgy1fxbjb2ke8rj30u01o0wox.jpg)
 
 > 这是这个博客的第 100 篇博文，从 0 到 100 篇的博客，这是一个阶段的小成就，但这同时也是一个开始，希望我可以坚持的更久。记下我和她的这段对话的另外一个目的是，让自己可以是不是的想起这三个问题，能够尽快的找到答案，即使答案不够好。
 >

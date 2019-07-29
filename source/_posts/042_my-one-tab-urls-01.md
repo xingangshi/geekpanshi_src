@@ -14,7 +14,7 @@ message: 'Welcome to my blog, enter password to read.'
 copyright: true
 abbrlink: ecc73a73
 photos:
-  - "https://i.imgur.com/Tshp9Oy.png"
+  - "/images/042/Tshp9Oy.png"
 keywords:
   - 实用互联网工具大全
   - overapi
@@ -82,7 +82,7 @@ top: 1000008
 ---
 > 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
 >
-> ![REXPaint](https://i.imgur.com/dvbea4Z.png)
+> ![REXPaint](/images/042/dvbea4Z.png)
 
 ---
 #### 站内内链
@@ -303,7 +303,7 @@ top: 1000008
 #### 17. 学习工具网站
 > [URL](https://www.wolframalpha.com/) ：WolframAlpha，（高中生）学习助手。
 >>
->> ![WolframAlpha](https://i.imgur.com/3ht1PVy.png)
+>> ![WolframAlpha](/images/042/3ht1PVy.png)
 >
 > [URL](https://www.oxfordlearnersdictionaries.com/) ：牛津词典在线版，牛津高级学习词典。
 > [URL](https://unbug.github.io/codelf/) ：CodeLf，给程序变量起名。

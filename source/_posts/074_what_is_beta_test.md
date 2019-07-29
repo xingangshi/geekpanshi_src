@@ -26,7 +26,7 @@ date: 2018-11-10 09:10:03
 
 ### 什么是 Beta 测试？
 ---
-> ![什么是Beta测试？](https://wx3.sinaimg.cn/large/006tNbRwgy1fx2pwbp4vcj31a20liwfz.jpg)
+> ![什么是Beta测试？](/images/074/006tNbRwgy1fx2pwbp4vcj31a20liwfz.jpg)
 > 自从 Web 2.0 兴起以来，beta 测试的实践越来越受欢迎。然而，关于 β 测试真正是什么以及它可以提供什么好处的困惑已经几乎以同样的速度增长。
 
 #### 1. 什么是 Beta 测试？
@@ -124,7 +124,7 @@ date: 2018-11-10 09:10:03
 > [技术 Beta 测试与营销 Beta 测试：为什么你需要两者](https://instabug.com/blog/technical-vs-marketing-beta-test/?src=InstabugBlog&mdm=internal&ref=what_is_beta&term=tech_vs_marketing)
 
 #### 7. Instabug 如何帮助我们 ？
-> ![Instabug 如何帮助我们 ？](https://wx4.sinaimg.cn/large/006tNbRwgy1fx2py5bjnyj31a20qcdia.jpg)
+> ![Instabug 如何帮助我们 ？](/images/074/006tNbRwgy1fx2py5bjnyj31a20qcdia.jpg)
 > Instabug  是用于移动应用程序中的错误报告和用户反馈的顶级[beta测试工具](https://try.instabug.com/beta?src=InstabugBlog&mdm=internal&ref=whatisbt&term=instabug_beta)。它提供市场上最有用的元数据，卓越的客户支持以及与您的Beta测试人员聊天的应用内通信渠道。
 
 ##### 7.1 错误和崩溃报告

@@ -34,7 +34,7 @@ password:
 ### 个人冲刺：将设计思维应用到您的生活中
 >  1. 一款基于移动友好的 web 世界各国游戏。 2.  如何个代码撰写有用的注释。3.  个人冲刺：将设计思维应用到您的生活中。 4. 非常棒的 Python 开源列表。5. 7 个系统管理员的 CI/CD 工具。
 >
-> ![金钱心理学](https://wx4.sinaimg.cn/large/006tNbRwgy1fye105mi0gj30u01410ue.jpg)
+> ![金钱心理学](/images/165/006tNbRwgy1fye105mi0gj30u01410ue.jpg)
 
 ---
 #### 1. 一款基于移动友好的 web 世界各国游戏

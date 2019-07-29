@@ -27,7 +27,7 @@ keywords:
   - 2019我的新年FLAG
 abbrlink: 3ff98062
 photos:
-  - 'https://wx1.sinaimg.cn/large/006tNbRwgy1fyogyqnw9tj3085085dfs.jpg'
+  - '/images/170/006tNbRwgy1fyogyqnw9tj3085085dfs.jpg'
 description: 时间如梭，眼瞅着 2018 年就要结束变成 2019 年了，我们又长大了一岁，最近刷爆朋友圈的“2019我的新年FLAG”，很多朋友都把“学习读书”包含在了自己年度目标里。学习进度、自我提升，成了 2019 年年度目标的主旋律，为了帮助大家更好的实现这个目标，这里我强力推荐 15 本 2019 年必读的书，希望可以助你一臂之力、达成目的。
 date: 2018-12-30 08:25:40
 ---
@@ -40,7 +40,7 @@ date: 2018-12-30 08:25:40
 >
 > 学习进度、自我提升，成了 2019 年年度目标的主旋律，为了帮助大家更好的实现这个目标，这里我强力推荐 15 本 2019 年必读的书，希望可以助你一臂之力、达成目的。
 >
-> ![好书伴我行](https://wx4.sinaimg.cn/large/006tNbRwgy1fyofe1tr0jj30kp0f4tdw.jpg)
+> ![好书伴我行](/images/170/006tNbRwgy1fyofe1tr0jj30kp0f4tdw.jpg)
 
 ------
 
@@ -159,4 +159,4 @@ date: 2018-12-30 08:25:40
 #### 磐石读书会
 > 暂未开通，因为找不到一个好的开通的理由，有建议可以[<font color="red" size=3>联系我</font>](/abnout)，
 >
-> ![磐石读书会](https://wx3.sinaimg.cn/large/006tNbRwgy1fyoeo13803j30xc0n83zv.jpg)
+> ![磐石读书会](/images/170/006tNbRwgy1fyoeo13803j30xc0n83zv.jpg)

@@ -17,7 +17,7 @@ keywords:
 description: >-
   戒除浮躁，心如止水，不要想一口吃个胖子，慢慢来，细水长流。少走弯路、走直路，越直距离目标越近。不管做什么事情，不要贪多，朝三暮四，把一件事做好，慢慢赢、小赢攒大赢。
 photos:
-  - 'https://wx4.sinaimg.cn/large/006tNc79gy1fyzw8ftjgsj3085062jrb.jpg'
+  - '/images/181/006tNc79gy1fyzw8ftjgsj3085062jrb.jpg'
 date: 2019-01-09 08:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -26,7 +26,7 @@ date: 2019-01-09 08:10:03
 ---
 > 戒除浮躁，心如止水，不要想一口吃个胖子，慢慢来，细水长流。少走弯路、走直路，越直距离目标越近。不管做什么事情，不要贪多，朝三暮四，把一件事做好，慢慢赢、小赢攒大赢。
 >
-> ![幸福感](https://wx4.sinaimg.cn/large/006tNc79gy1fyzw2vr1o7j30ek08m74l.jpg)
+> ![幸福感](/images/181/006tNc79gy1fyzw2vr1o7j30ek08m74l.jpg)
 
 ##### 21.1 写给你和我：我们都输不起，慢慢赢、小赢攒大赢才是正确的选择
 
@@ -48,11 +48,11 @@ date: 2019-01-09 08:10:03
 ##### 21.2 其他
 > 1. 有违直觉的事实：一个18寸的披萨比两个12寸的披萨更大 。
 >
-> ![有违直觉的事实](https://wx3.sinaimg.cn/large/006tNc79gy1fyzw11nn6yj30j60as0sy.jpg)
+> ![有违直觉的事实](/images/181/006tNc79gy1fyzw11nn6yj30j60as0sy.jpg)
 
 > 2. 当你决定做一件事情的时候，你必须在 72 小时之内完成它，否则你很可能就永远不会再做了。 ——《小狗钱钱》
 >
-> ![小狗钱钱](https://wx3.sinaimg.cn/large/006tNc79gy1fyzw23u6k1j30dm0im3zm.jpg)
+> ![小狗钱钱](/images/181/006tNc79gy1fyzw23u6k1j30dm0im3zm.jpg)
 
 > 3. 互联网公司: 不是裁员，是优化。裁员10% 叫人员优化，裁员 20% 结构优化，30% 组织优化，40% 系统优化，50% 业务优化，60% 核心业务优化，70% 创始人优化，80% 价值观优化，90% 世界观优化，100% 降维优化。
 
@@ -61,5 +61,5 @@ date: 2019-01-09 08:10:03
 
 > 5. 账单式小康
 >
-> ![账单式小康](https://wx2.sinaimg.cn/large/006tNc79gy1fyzw6t432nj30ms0jq74u.jpg)
+> ![账单式小康](/images/181/006tNc79gy1fyzw6t432nj30ms0jq74u.jpg)
 

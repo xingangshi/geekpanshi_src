@@ -9,7 +9,7 @@ categories:
   - 工具推荐
 abbrlink: e0c74487
 photos:
-  - "https://i.imgur.com/tGHxfpn.png"
+  - "/images/027/tGHxfpn.png"
 keywords:
   - Markdown编辑器
   - Markdown
@@ -44,7 +44,7 @@ top: 1000007
 ---
 ```
 ###### 2.1.2 效果
-![分级标题-写法一效果展示](https://i.imgur.com/PIf1uhY.png "分级标题-写法一效果展示")
+![分级标题-写法一效果展示](/images/027/PIf1uhY.png "分级标题-写法一效果展示")
 
 ##### 2.2 写法-2
 ###### 2.2.1 代码
@@ -57,7 +57,7 @@ top: 1000007
 ###### 六级标题
 ```
 ###### 2.2.2 效果
-![分级标题-写法二效果展示](https://i.imgur.com/dGBG31a.png "分级标题-写法二效果展示")
+![分级标题-写法二效果展示](/images/027/dGBG31a.png "分级标题-写法二效果展示")
 
 
 #### 2. 斜体或粗体
@@ -349,11 +349,11 @@ _ _ _
 
 ###### 7.1.1 代码
 ```
-2018年倒计时 ![小程序，2018年倒计时](https://i.imgur.com/Qlo5mNr.png, "小程序，2018年倒计时")
+2018年倒计时 ![小程序，2018年倒计时](/images/027/Qlo5mNr.png  "小程序，2018年倒计时")
 ```
 
 ###### 7.1.2 效果
-2018年倒计时 ![小程序，2018年倒计时](https://i.imgur.com/Qlo5mNr.png, "小程序，2018年倒计时")
+2018年倒计时 ![小程序，2018年倒计时](/images/027/Qlo5mNr.png "小程序，2018年倒计时")
 
 ##### 7.2 参考式
 > 语法说明：
@@ -364,13 +364,13 @@ _ _ _
 ```
 2018年倒计时 ![小程序，2018年倒计时][小程序-图片]
 
-[小程序-图片]:https://i.imgur.com/Qlo5mNr.png "小程序，2018年倒计时"
+[小程序-图片]:/images/027/Qlo5mNr.png "小程序，2018年倒计时"
 ```
 
 ###### 7.2.2 效果
 2018年倒计时 ![小程序，2018年倒计时][小程序-图片]
 
-[小程序-图片]:https://i.imgur.com/Qlo5mNr.png "小程序，2018年倒计时"
+[小程序-图片]:/images/027/Qlo5mNr.png "小程序，2018年倒计时"
 
 
 
@@ -432,7 +432,7 @@ _ _ _
 
 ##### 9.2 效果
 
-![注脚-](https://i.imgur.com/doAqOpk.png "注脚")
+![注脚-](/images/027/doAqOpk.png "注脚")
 
 
 
@@ -445,7 +445,7 @@ _ _ _
 ```
 
 ##### 10.2 效果
-![自动生成目录-](https://i.imgur.com/0vQfUoE.png "自动生成目录")
+![自动生成目录-](/images/027/0vQfUoE.png "自动生成目录")
 
 
 
@@ -472,7 +472,7 @@ _ _ _
 ```
 
 ###### 12.1.2 效果
-![行内公式](https://i.imgur.com/LI8Zko5.png "行内公式")
+![行内公式](/images/027/LI8Zko5.png "行内公式")
 
 ##### 12.2 整行公式
 > 语法说明：`$$-公式`
@@ -487,7 +487,7 @@ $$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
 ```
 
 ###### 12.2.2 效果
-![整行公式](https://i.imgur.com/GquoCG4.png "整行公式")
+![整行公式](/images/027/GquoCG4.png "整行公式")
 
 ##### 12.3 公式参考：[MathJax](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference "MathJax basic tutorial and quick reference")
 
@@ -509,7 +509,7 @@ Python 语言里的函数 `printf()` 怎么使用？
 > 语法说明：`缩进 8 个空格或是 2 个制表符`。
 
 ###### 13.2.1 代码
-![缩进式多行代码](https://i.imgur.com/iocBZ2k.png "缩进式多行代码")
+![缩进式多行代码](/images/027/iocBZ2k.png "缩进式多行代码")
 
 ###### 13.2.2 效果
        #include <iostream>
@@ -524,7 +524,7 @@ Python 语言里的函数 `printf()` 怎么使用？
 ##### 13.3 前后各 3 个 “`” 包含代码块
 
 ###### 13.3.1 代码
-![前后各三个点代码引用](https://i.imgur.com/owTKS7t.png "前后各三个点代码引用")
+![前后各三个点代码引用](/images/027/owTKS7t.png "前后各三个点代码引用")
 
 ###### 13.3.2 效果
 ```
@@ -541,7 +541,7 @@ int main()
 > 语法说明：在 前三个 “`” 后写上语言的名称。
 
 ###### 13.4.1 代码
-![代码高亮](https://i.imgur.com/btyS2dg.png "代码高亮")
+![代码高亮](/images/027/btyS2dg.png "代码高亮")
 
 ###### 13.4.2 效果
 ```C++
@@ -566,7 +566,7 @@ int main()
 ```
 
 ###### 14.1.2 效果
-![HTML代码使用-1](https://i.imgur.com/8fFIOKj.png "HTML代码使用-1")
+![HTML代码使用-1](/images/027/8fFIOKj.png "HTML代码使用-1")
 
 ##### 14.2 颜色使用
 
@@ -604,7 +604,7 @@ int main()
 <font color=#0099ff size=4 face="黑体">color=#0099ff size=72 face="黑体"</font>
 <font color=#00ffff size=3>color=#00ffff</font>
 <div style="background:#000000; color:#FFF" size=2>背景为黑色</div>
-![颜色使用](https://i.imgur.com/3GgSm1M.png "颜色使用")
+![颜色使用](/images/027/3GgSm1M.png "颜色使用")
 
 ##### 14.3 表格使用
 ###### 14.3.1 代码
@@ -640,7 +640,7 @@ int main()
 ```
 
 ###### 14.3.2 效果-2
-![HTML代码使用-2](https://i.imgur.com/8OrDT86.png "HTML代码使用-2")
+![HTML代码使用-2](/images/027/8OrDT86.png "HTML代码使用-2")
 
 
 #### 15. 流程图（[参考手册](http://flowchart.js.org/)）
@@ -670,10 +670,10 @@ c2(no)->op2->e
 ##### 15.2 代码图示
 > 上面代码所说的 三个点开始- 和 三个点结束，实际写的时候如下
 
-![三个点开始- 和 三个点结束 样例](https://i.imgur.com/rKuYaTg.png "三个点开始- 和 三个点结束 样例")
+![三个点开始- 和 三个点结束 样例](/images/027/rKuYaTg.png "三个点开始- 和 三个点结束 样例")
 
 ##### 15.2 效果
-![流程图](https://i.imgur.com/o1cnNTY.png "流程图")
+![流程图](/images/027/o1cnNTY.png "流程图")
 
 #### 16. 序列图（[参考手册](https://bramp.github.io/js-sequence-diagrams/)）
 ##### 16.1 代码
@@ -689,7 +689,7 @@ Andrew->>China: I am good thanks!
 ```
 
 ##### 16.2 效果
-![序列图](https://i.imgur.com/BDPYgQ8.png "序列图")
+![序列图](/images/027/BDPYgQ8.png "序列图")
 
 
 #### 17. Mermaid 图集（[参考手册](https://mermaidjs.github.io/)）
@@ -719,7 +719,7 @@ Note right of 王五: 合理 食物 <br/>看医生...
 ```
 
 ###### 17.1.2 效果
-![Mermaid 序列图](https://i.imgur.com/BzUpN9c.png "Mermaid 序列图")
+![Mermaid 序列图](/images/027/BzUpN9c.png "Mermaid 序列图")
 
 
 ##### 17.2 Mermaid 横向流程图
@@ -738,7 +738,7 @@ F[横向流程图]
 ```
 
 ###### 17.2.2 效果
-![Mermaid 横向流程图](https://i.imgur.com/imAdoEk.png "Mermaid 横向流程图")
+![Mermaid 横向流程图](/images/027/imAdoEk.png "Mermaid 横向流程图")
 
 
 ##### 17.3 Mermaid 纵向流程图
@@ -759,7 +759,7 @@ SVN---|store the data|sharedrive
 
 
 ###### 17.3.2 效果
-![Mermaid 纵向流程图](https://i.imgur.com/ax87Cz0.png "Mermaid 纵向流程图")
+![Mermaid 纵向流程图](/images/027/ax87Cz0.png "Mermaid 纵向流程图")
 
 ##### 17.4 Mermaid 甘特图
 ###### 17.4.1 代码
@@ -791,7 +791,7 @@ section 测试
 ```
 
 ###### 17.4.2 效果
-![Mermaid 甘特图](https://i.imgur.com/bahPONf.png "Mermaid 甘特图")
+![Mermaid 甘特图](/images/027/bahPONf.png "Mermaid 甘特图")
 
 
 #### 18. 待办事宜 Todo 列表

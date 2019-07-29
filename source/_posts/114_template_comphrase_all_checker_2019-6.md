@@ -20,7 +20,7 @@ keywords:
   - 宽293高165
   - 宽978高553
 photos:
-  - 'https://i.imgur.com/gfUe8Lo.png'
+  - '/images/114/gfUe8Lo.png'
 description: 今天：2019 年 1 月 1 日，2018 年仅剩下 364 天。每日打卡，1 月份针对每个任务打卡，慢慢来，一切都会更好的。
 date: 2018-11-21 23:40:01
 ---
@@ -34,7 +34,7 @@ date: 2018-11-21 23:40:01
 #### 2019 年年历
 > 2019 年年历。
 >
->> ![2019年年历](/images/common/2019_calandar.jpg 2019年年历)
+>> ![2019年年历](/images/common/2019_calandar.jpg "2019年年历")
 ---
 
 #### 相关博文推荐

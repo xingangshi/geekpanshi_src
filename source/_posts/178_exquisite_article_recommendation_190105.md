@@ -25,7 +25,7 @@ description: >-
   1. 12306智能刷票，订票。 2.  Drive-cli，用于访问谷歌硬盘的命令行界面。3.  Udacity Git 提交消息样式指南。 4.
   简单，正确，快速：按此顺序。5. 21 个动画基础。
 photos:
-  - 'https://wx3.sinaimg.cn/large/006tNc79gy1fyvdwrlvmij308504wgll.jpg'
+  - '/images/178/006tNc79gy1fyvdwrlvmij308504wgll.jpg'
 date: 2019-01-05 07:20:50
 password:
 ---
@@ -34,7 +34,7 @@ password:
 ### 12306智能刷票，订票
 >  1. 12306智能刷票，订票。 2.  Drive-cli，用于访问谷歌硬盘的命令行界面。3.  Udacity Git 提交消息样式指南。 4. 简单，正确，快速：按此顺序。5. 21 个动画基础。
 >
-> ![回家](https://wx3.sinaimg.cn/large/006tNc79gy1fyvdzjgwsdj30dw08c74t.jpg)
+> ![回家](/images/178/006tNc79gy1fyvdzjgwsdj30dw08c74t.jpg)
 
 ---
 #### 1. 12306智能刷票，订票
@@ -48,7 +48,7 @@ password:
 >
 > 思路图：
 >
-> ![12306智能刷票-思路图](https://wx4.sinaimg.cn/large/006tNc79gy1fyvdj6l8hfj30nn0ix3yq.jpg)
+> ![12306智能刷票-思路图](/images/178/006tNc79gy1fyvdj6l8hfj30nn0ix3yq.jpg)
 >
 > [12306智能刷票，订票，https://github.com/testerSunshine/12306](https://github.com/testerSunshine/12306)
 
@@ -84,7 +84,7 @@ password:
 >
 >  7.弧形、8.次要动作、9.时间安排、10.夸张、11.实心图纸、12.上诉
 >
-> ![21 个动画基础](https://wx1.sinaimg.cn/large/006tNc79gy1fyvdsa4npzj30u01ceaj7.jpg)
+> ![21 个动画基础](/images/178/006tNc79gy1fyvdsa4npzj30u01ceaj7.jpg)
 >
 > [ 21 个动画基础，http://www.angryanimator.com/word/2018/04/23/21-foundations-of-animation/](http://www.angryanimator.com/word/2018/04/23/21-foundations-of-animation/)
 

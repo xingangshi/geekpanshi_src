@@ -15,7 +15,7 @@ keywords:
   - 亲子互动
   - 磁力拼图
 photos:
-  - 'https://i.imgur.com/uCFBMzM.png'
+  - '/images/093/uCFBMzM.png'
 description: >-
   双十一给小朋友买了一个磁力拼图，没想到送快递的小哥那么拼昨天 23:36 把快递投递到小区的自提柜。我半夜 2
   点左右起来给小朋友盖被子，发现有消息，就去取了快递，然后花了半个小时拼好了，小朋友早晨起来看到后很是兴奋和激动的。
@@ -32,11 +32,11 @@ top:
 >
 >
 #### 1. 网站宣传是这样的
-> !["网站宣传是这样的"](https://i.imgur.com/4WLOtiF.jpg "网站宣传是这样的")
+> !["网站宣传是这样的"](/images/093/4WLOtiF.jpg "网站宣传是这样的")
 
 #### 2. 拼好的是这样子
 
 >  以下是拼好的样子
 
->> ![以下是拼好的样子1](https://i.imgur.com/CkI29oz.png 以下是拼好的样子1)
->> ![以下是拼好的样子2](https://i.imgur.com/TzFUBwz.png 以下是拼好的样子2)
+>> ![以下是拼好的样子1](/images/093/CkI29oz.png 以下是拼好的样子1)
+>> ![以下是拼好的样子2](/images/093/TzFUBwz.png 以下是拼好的样子2)

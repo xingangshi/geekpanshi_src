@@ -18,7 +18,7 @@ keywords:
   - 囤书值不值得
 description: 对于读书这件事情而言，在中国没有比物理书更廉价且投入产出比更高的事情了。在这一点上，电子书是无法比拟的，完全起不到这个效果的。
 photos:
-  - 'https://i.imgur.com/sw7dMiW.jpg'
+  - '/images/167/sw7dMiW.jpg'
 date: 2018-12-25 07:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -28,7 +28,7 @@ date: 2018-12-25 07:10:03
 ---
 > 对于读书这件事情而言，在中国没有比物理书更廉价且投入产出比更高的事情了。在这一点上，电子书是无法比拟的，完全起不到这个效果的。
 >
-> ![幸福感](https://i.imgur.com/CMIbyUj.png)
+> ![幸福感](/images/167/CMIbyUj.png)
 
 ---
 ##### 15.1 关于囤书不读、如何囤书
@@ -36,11 +36,11 @@ date: 2018-12-25 07:10:03
 
 > <font color="red" size = 3>很多人都在质疑囤书不读，但是他们错误根源在于他们以为不囤书就能读书的。</font>
 >
-> ![幸福感](https://i.imgur.com/LeWd2Nz.jpg)
+> ![幸福感](/images/167/LeWd2Nz.jpg)
 >
 > 其实书架上物理存在的书，会提高一个人顺手读书的概率的。
 >
-> ![幸福感](https://i.imgur.com/e4kOkXi.png)
+> ![幸福感](/images/167/e4kOkXi.png)
 >
 > <font color="red" size = 3>任何一件事情是不是长期可行的，就在于它是不是需要刻意的注意力和投入的</font>。
 >
@@ -63,7 +63,7 @@ date: 2018-12-25 07:10:03
 >
 > 或许你会去质疑：纸质书太重了，搬家很不方便的，但是就平均数据而言，我们最高的搬家频率，拉长到 5 年看，也最多一年一次的。
 >
-> ![幸福感](https://i.imgur.com/1Pn8vYZ.png)
+> ![幸福感](/images/167/1Pn8vYZ.png)
 >
 > 其实<font color="red" size = 3>囤书的另外一个好处是</font>，书本和画册堆在家里，我们会有一种被牛逼人盯着的感觉，时不时会翻出其中一本来膜拜一下。<font color="red" size = 3>在不经意的翻一翻中，说不定就能打开一个脑洞，给自己创作、生活、工作、爱情和家庭点亮一盏路灯</font>。这些都是电子书和电脑上看图片走马观花替代不了的。
 
@@ -78,12 +78,12 @@ date: 2018-12-25 07:10:03
 >>
 >> 4. <font color="red" size = 3>我们很多时候是需要更多的渠道帮助自己打开视野，知道自己需要读什么书的。</font>
 >
-> ![幸福感](https://i.imgur.com/OLyO0s9.png)
+> ![幸福感](/images/167/OLyO0s9.png)
 
 ###### 囤书从现在做起
 > 最后推荐一本书吧，[《刻意练习：如何从新手到大师》](https://item.jd.com/11990777.html)，有兴趣都可以去买一本读一读的。
 >
-> ![幸福感](https://i.imgur.com/VFGFPlg.png)
+> ![幸福感](/images/167/VFGFPlg.png)
 
 ##### 16.2 其他
 

@@ -28,12 +28,12 @@ date: 2018-10-27 05:10:03
 #### 1. 选择您想要学习的技术
 > 有很多编程语言，Web 框架，数据库......。在那里。选择你想要学习的东西很重要。决定应该基于您想要做什么样的技术工作（后端Web开发人员，前端Web开发人员，数据科学家，开发人员......）。对于每种工作类型，都有一些流行的技术。如果你是初学者，我建议选择一些流行的编程语言（例如，对于web来说它是Ruby）。原因是一个大社区创建了很多教程，StackOverflow智慧并且有很多工作。
 
-![我的美食博客的Ruby on Rails代码示例](https://i.imgur.com/gXpPMtZ.png)
+![我的美食博客的Ruby on Rails代码示例](/images/051/gXpPMtZ.png)
 
 #### 2. 选择合适的资源
 > 找到最好的书籍，在线课程和教程是必不可少的。因为学习需要时间，为什么要把时间花在糟糕的材料上？为了找到好的学习材料，谷歌或者四处询问。我绝对推荐阅读书籍，因为它们以故事的形式解释概念，并且通常比在线课程更深入。如果你提到你已经阅读了一些编程书籍，你的简历看起来也很好。
 
-![我在研究Ruby on Rails时使用的资源](https://i.imgur.com/uulMypf.png)
+![我在研究Ruby on Rails时使用的资源](/images/051/uulMypf.png)
 
 #### 3. 制定学习计划
 > 决定你的日程安排中你将用于学习的时间。我个人每天在工作中学习（通过阅读文章，观看MOOC，阅读书籍），周日下午我会学习与机器学习等非工作相关的事情。即使您的日程安排繁忙，您也可以在一周中找到一些时间来专注于您的目标。清晨，晚餐后，周末 - 选择最适合自己的方式。但是提出一个计划并坚持下去很重要。
@@ -49,7 +49,7 @@ date: 2018-10-27 05:10:03
 #### 6. 做笔记
 > 自小学以来我一直在学习时写笔记。例如，我会用自己的语言阅读书中的演示文稿和课程，并在笔记本中提取最重要的内容。然后我会在上下班或修改考试时重新阅读这些笔记。就像着名的拉丁谚语所说的那样，重复主义者。如今我不再使用笔记本而是Google Docs。我有一个文件，我正在研究的每一项技术。当我读/听到重要或有用的东西时，我会在相应的文件中注明。例如，在阅读书籍或观看MOOC时。当我有时间或需要更新我对该特定技术的知识时，我会重新阅读这些注释。
 
-![我的计算机科学学习笔记。这是关于状态机的，如果你想知道，语言是克罗地亚语。](https://i.imgur.com/P2FkV39.jpg)
+![我的计算机科学学习笔记。这是关于状态机的，如果你想知道，语言是克罗地亚语。](/images/051/P2FkV39.jpg)
 
 #### 7. 与社区联系
 > meetup.com 上有很多技术聚会。选择您感兴趣的并与您所在社区的人会面。聚会包括会谈，您可以在其中学习构建网络的内容和网络。还有一些聚会有Slack频道，所以你可以提出问题，如果你遇到一些问题，看工作发布等。我是这个概念的忠实粉丝，因为通过聚会，我结识了很多朋友并扩展了我的网络和知识。最后一件事 - 如果你想被招募，聚会很棒;）
@@ -65,7 +65,7 @@ date: 2018-10-27 05:10:03
 
 > I did a lot of studying in my 28-year long life. And I expect to do a lot in the future. Being able to learn new skills is crucial, especially in the tech industry, where I work. Over the past few years a number of programming bootcamps and MOOC platforms increased, and with them the number of people that are learning to code. There are a lot of “beginners” that often don’t know where to begin. Which studying methods to use, which resources, where to get help. So in this article I’ll share my advice that are a result of my education, my work 
 
-![experience and my membership in the tech community.](https://i.imgur.com/gXpPMtZ.png)
+![experience and my membership in the tech community.](/images/051/gXpPMtZ.png)
 
 #### 1. Choose the technologies you want to learn
 > There are a lot of programming languages, web frameworks, databases… out there. It’s important to pick the ones you want to learn. The decision should be based on what kind of a tech job you want to do (backend web developer, frontend web developer, data scientist, dev ops…). For each job type there are some popular technologies. If you’re a beginner, I’d advise choosing some popular programming language (for example, for web it’s Ruby). The reasons are a big community that created a lot of tutorials, StackOverflow wisdom and there are a lot of jobs.
@@ -74,7 +74,7 @@ date: 2018-10-27 05:10:03
 > It’s essential to find the best books, online courses and tutorials out there. Because studying takes time and why waste your time on poor material? To find the good studying material, Google it or ask around. I definitely recommend reading books because they explain concepts in a form of a story and often in bigger depth than online courses. Also it looks good in your CV if you mention that you’ve read some programming books.
 
 
-![Resources I used when I was studying Ruby on Rails](https://i.imgur.com/uulMypf.png)
+![Resources I used when I was studying Ruby on Rails](/images/051/uulMypf.png)
 
 #### 3. Make a studying plan
 > Decide which time in your schedule you’ll dedicate to studying. Personally I study everyday at work (by reading articles, watching MOOCs, reading books) and on Sundays afternoon I study non-work-related things like machine learning. Even if you have a busy schedule, you can always find some hours in your week to dedicate to your goal. Early in the morning, after dinner, on the weekends — choose what works best for you. But it’s important to come up with a plan and stick to it.
@@ -90,7 +90,7 @@ date: 2018-10-27 05:10:03
 #### 6. Make notes
 > Ever since elementary school I wrote notes while studying. For example, I’d read the presentations and the lessons in books and extract the most important things in my notebook, in my own words. Then I would re-read those notes while doing commute or while revising for the exam. Like the famous Latin proverb says, repetitio est mater studiorum. Nowadays I no longer use notebooks but Google Docs. I have a file for every technology I’m studying. When I read/hear something important or useful, I note it in the corresponding file. For example, when reading a book or watching a MOOC. I re-read those notes when I have time or need to refresh my knowledge of that particular technology.
 
-![My Computer Science studying notes. This was about state machines and if you’re wondering, the language is Croatian.](https://i.imgur.com/P2FkV39.jpg)
+![My Computer Science studying notes. This was about state machines and if you’re wondering, the language is Croatian.](/images/051/P2FkV39.jpg)
 
 #### 7. Connect with the community
 > There are a ton of tech meetups on meetup.com. Choose the ones that interest you and go meet the people from your community. The meetups include talks where you can learn stuff and networking where you build your network. Also some meetups have Slack channels so you can ask questions if you’re stuck with some problem, see job postings etc. I am a big fan of the concept since through meetups I made a lot of friends and expanded my network and knowledge. One last thing — meetups are great if you want to be recruited ;)

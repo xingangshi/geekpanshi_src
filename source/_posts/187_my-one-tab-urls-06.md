@@ -43,7 +43,7 @@ keywords:
   - haskell
   - 测试
 photos:
-  - 'https://i.imgur.com/a9BH8Dg.jpg'
+  - '/images/187/a9BH8Dg.jpg'
 description: 1. 开源库相关。 2. OneTab shared tabs, Shared 45 tabs。 3. 开源软件。 4. 观点与经验。 5. 资源库相关。
 date: 2019-02-11 10:40:50
 password:
@@ -54,7 +54,7 @@ password:
 ---
 > 1. 开源库相关。 2. OneTab shared tabs, Shared 45 tabs。 3. 开源软件。 4. 观点与经验。 5. 资源库相关。
 >
-> ![Nuclear Music Player](https://i.imgur.com/QscDMfl.png)
+> ![Nuclear Music Player](/images/187/QscDMfl.png)
 
 ---
 #### 站内内链

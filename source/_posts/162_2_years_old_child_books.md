@@ -30,7 +30,7 @@ description: >-
 date: 2018-12-17 11:30:50
 password:
 photos:
-  - 'https://i.imgur.com/2V00BFu.jpg'
+  - '/images/162/2V00BFu.jpg'
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -43,7 +43,7 @@ photos:
 >
 > * 以下是一些 3 周岁以下小朋友的书籍推荐 和 家长们亲子共读和教育的书籍推荐。其实很多 6 周岁都是可以看的
 >
->> ![亲子共读](https://i.imgur.com/IlpPUEe.jpg)
+>> ![亲子共读](/images/162/IlpPUEe.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ photos:
 >
 > * [《英语单词大书（附原版音频）》](https://item.jd.com/12081245.html)：虽然是 7 - 10 岁的小朋友看的，但是书的颜色和图片都很好，可以帮助小朋友认识东西。
 >
->> ![](https://wx1.sinaimg.cn/large/006tNbRwgy1fyaep5cp9oj30go0k5abt.jpg)
+>> ![](/images/162/006tNbRwgy1fyaep5cp9oj30go0k5abt.jpg)
 
 #### 家长们读一读
 > <font color=red size=3.0> 家长们可以看一看，学一学如何帮小朋友做选择，如何和小朋友相处。</font>
@@ -75,7 +75,7 @@ photos:
 >
 > * [《小狗钱钱套装（套装全2册） [7-10岁]》](https://item.jd.com/12345927.html)：家长先读，教小孩子树立正确的金钱观。
 >
->>  ![家长们读一读](https://i.imgur.com/6OKPb4P.jpg)
+>>  ![家长们读一读](/images/162/6OKPb4P.jpg)
 
 ---
 #### 备注

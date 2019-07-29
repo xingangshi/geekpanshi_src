@@ -20,7 +20,7 @@ keywords:
   - 时间管理
 description: 讲真，网上赌博 + 网络高利贷，真的是杀人于无形，往往大概率都是没救的。
 photos:
-  - 'https://i.imgur.com/OQrr2R9.jpg'
+  - '/images/194/OQrr2R9.jpg'
 date: 2019-03-21 08:20:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -28,7 +28,7 @@ date: 2019-03-21 08:20:03
 #### 29. 网上赌博 + 网络高利贷，杀人于无形（29/30）
 > 讲真，网上赌博 + 网络高利贷，真的是杀人于无形，往往大概率都是没救的。
 >
-> ![网上赌博 + 网络高利贷](https://i.imgur.com/7iFvvmp.png)
+> ![网上赌博 + 网络高利贷](/images/194/7iFvvmp.png)
 
 ##### 网上赌博 + 网络高利贷，杀人于无形
 > 讲真，网上赌博 + 网络高利贷，真的是杀人于无形，往往大概率都是没救的。

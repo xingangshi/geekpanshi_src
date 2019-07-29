@@ -17,7 +17,7 @@ keywords:
   - 时间管理
 description: 时间管理之高效工作和生活，包括：态度、习惯、技巧和技术，希望对你的工作和生活有所帮助。
 photos:
-  - 'https://i.imgur.com/UVB8LQt.jpg'
+  - '/images/191/UVB8LQt.jpg'
 date: 2019-03-18 11:10:03
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -25,7 +25,7 @@ date: 2019-03-18 11:10:03
 #### 27. 时间管理之高效工作和生活（27/30）
 > 时间管理之高效工作和生活，包括：态度、习惯、技巧和技术，希望对你的工作和生活有所帮助。
 >
-> ![高效工作和生活](https://i.imgur.com/oHwRBdm.png)
+> ![高效工作和生活](/images/191/oHwRBdm.png)
 >
 > 站内内链
 >
@@ -95,4 +95,4 @@ date: 2019-03-18 11:10:03
 > 5. 工作常用软件钻研一下，投入少收益大。
 
 ###### 附：图片下载版本
-> ![时间管理之高效工作和生活](https://i.imgur.com/JxR34uw.jpg)
+> ![时间管理之高效工作和生活](/images/191/JxR34uw.jpg)

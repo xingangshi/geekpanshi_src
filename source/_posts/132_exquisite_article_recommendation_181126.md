@@ -56,7 +56,7 @@ password:
 >
 > [一张管理人员数据科学入门的脑图](https://activewizards.com/blog/intro-to-data-science-for-managers-mindmap/)
 >
-> [脑图下载地址](https://i.imgur.com/8L9FIiG.png)
+> [脑图下载地址](/images/132/8L9FIiG.png)
 
 #### 4. tcpkit，一种捕获tcp数据包并使用LUA分析数据包的工具
 >

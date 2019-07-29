@@ -34,7 +34,7 @@ keywords:
   - 壁立千仞
   - 无欲则刚
 photos:
-  - 'https://i.imgur.com/gN6K7Gz.jpg'
+  - '/images/130/gN6K7Gz.jpg'
 description: 家有一老，如有一宝，从我记事起，爸爸就经常的练习书法，断断续续的算，也坚持了十几年的，这里是爸爸的书法的集合，供自己没事欣赏下，也是对父亲的一些记录。
 top:
 date: 2018-11-25 16:20:51
@@ -80,54 +80,54 @@ date: 2018-11-25 16:20:51
 ##### 1.1 风华正茂
 > 风华正茂。
 >>
->> ![风华正茂](https://i.imgur.com/Yo87qyt.png)
+>> ![风华正茂](/images/130/Yo87qyt.png)
 
 ##### 1.2 春华秋实
 > 春华秋实。
 >>
->> ![春华秋实](https://i.imgur.com/uzVQ7cX.png)
+>> ![春华秋实](/images/130/uzVQ7cX.png)
 
 ##### 1.3 博采众长、持之以恒
 > 博采众长、持之以恒。
 >>
->> ![博采众长、持之以恒](https://i.imgur.com/f0NjEor.png)
+>> ![博采众长、持之以恒](/images/130/f0NjEor.png)
 
 ##### 1.4 博采众长、天道酬勤
 > 博采众长、天道酬勤。
 >>
->> ![博采众长、天道酬勤](https://i.imgur.com/CjcScXd.png)
+>> ![博采众长、天道酬勤](/images/130/CjcScXd.png)
 
 ##### 1.5 持之以恒、天道酬勤
 > 持之以恒、天道酬勤。
 >>
->> ![持之以恒、天道酬勤](https://i.imgur.com/DUaT3Uw.png)
+>> ![持之以恒、天道酬勤](/images/130/DUaT3Uw.png)
 
 ##### 1.6 博采众长、持之以恒、天道酬勤
 > 博采众长、持之以恒、天道酬勤。
 >>
->> ![博采众长、持之以恒、天道酬勤](https://i.imgur.com/ihHEIHJ.png)
+>> ![博采众长、持之以恒、天道酬勤](/images/130/ihHEIHJ.png)
 
 #### 2. 以前写的一些作品
 
 ##### 2.1 自强不息、奋发向上
 > 自强不息、奋发向上。
 >>
->> ![自强不息、奋发向上](https://i.imgur.com/1yDE6CU.png)
+>> ![自强不息、奋发向上](/images/130/1yDE6CU.png)
 
 ##### 2.2 有容乃大、无欲则刚
 > 海纳百川、有容乃大，壁立千仞、无欲则刚。
 >>
->> ![有容乃大、无欲则刚](https://i.imgur.com/Ckhn4ge.png)
+>> ![有容乃大、无欲则刚](/images/130/Ckhn4ge.png)
 
 ##### 2.3 天道酬勤
 > 天道酬勤。
 >>
->> ![天道酬勤](https://i.imgur.com/O8JGZeI.png)
+>> ![天道酬勤](/images/130/O8JGZeI.png)
 
 ##### 2.4 家和万事兴
 > 家和万事兴。
 >>
->> ![家和万事兴](https://i.imgur.com/0UJM2ts.jpg)
+>> ![家和万事兴](/images/130/0UJM2ts.jpg)
 ---
 
 #### 版本记录
