@@ -64,7 +64,7 @@ date: 2018-12-07 22:10:02
 #### 2019年倒计时
 
 ##### 2019年倒计时小程序
-> ![2019年倒计时（扫码看查看小程序）](https://i.imgur.com/Qlo5mNr.png "小程序 - 2019年倒计时")
+> ![2019年倒计时（扫码看查看小程序）](https://i.imgur.com/Qlo5mNr.png "小程序 2019年倒计时")
 
 ##### 2019年倒计时小程序示例
 > <img src="https://i.imgur.com/QdNfXIr.png" width="400" height="500" div align=center />

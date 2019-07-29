@@ -17,7 +17,8 @@ keywords:
   - 斗图
   - 教别人发微信
   - 教小朋友发微信
-photos: "https://i.imgur.com/RlbR03v.png"
+photos:
+  - "https://i.imgur.com/RlbR03v.png"
 description: >-
   昨天晚上突然兴起，教 3 岁 2
   个月的小朋友怎么发微信，没想到他今天竟然主动和我发微信（其实就是斗图的，小孩子看不懂字的）。当然，斗图结果，肯定是我胜利了，因为我下载了新的表情包了，他没有的。

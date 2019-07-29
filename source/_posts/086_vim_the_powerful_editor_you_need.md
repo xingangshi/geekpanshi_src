@@ -90,7 +90,7 @@ date: 2018-12-20 08:10:03
 >> ![Beautiful VIM Cheat Sheet](https://i.imgur.com/Vt1hVGy.jpg "Beautiful VIM Cheat Sheet")
 
 ##### 5.3 [Vi / Vim Graphical Cheat Sheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
->> ![Vi / Vim Graphical Cheat Sheet](https://i.imgur.com/1pwYVSP.jpg "Vi / Vim Graphical Cheat Sheet")
+>> ![Vi \ Vim Graphical Cheat Sheet](https://i.imgur.com/1pwYVSP.jpg "Vi \ Vim Graphical Cheat Sheet")
 
 ##### 5.4 [Vi Cheat Sheet](https://www.gosquared.com/blog/vi-linux-terminal-help-sheet)
 >> ![Vi Cheat Sheet](https://i.imgur.com/TBfub5z.jpg "Vi Cheat Sheet")

@@ -14,7 +14,8 @@ abbrlink: b5309ceb
 keywords:
   - 亲子互动
   - 磁力拼图
-photos: 'https://i.imgur.com/uCFBMzM.png'
+photos:
+  - 'https://i.imgur.com/uCFBMzM.png'
 description: >-
   双十一给小朋友买了一个磁力拼图，没想到送快递的小哥那么拼昨天 23:36 把快递投递到小区的自提柜。我半夜 2
   点左右起来给小朋友盖被子，发现有消息，就去取了快递，然后花了半个小时拼好了，小朋友早晨起来看到后很是兴奋和激动的。

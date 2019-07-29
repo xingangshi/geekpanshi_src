@@ -57,7 +57,7 @@ date: 2019-07-29 00:02:05
 #### 2019年倒计时
 
 ##### 2019年倒计时小程序
-> ![2019年倒计时（扫码看查看小程序）](/images/001_2/xiaochengxu.png "小程序 - 2019年倒计时")
+> ![2019年倒计时（扫码看查看小程序）](/images/001_2/xiaochengxu.png "小程序 2019年倒计时")
 
 ##### 2019年倒计时小程序示例
 > <img src="/images/001_2/example_xiaochengxu.jpg" width="400" height="500" div align=center />

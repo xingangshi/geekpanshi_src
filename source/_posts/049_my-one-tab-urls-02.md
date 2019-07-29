@@ -33,7 +33,7 @@ keywords:
   - 手帐
   - Chrome扩展
 photos:
- - https://i.imgur.com/MoKt35C.jpg
+ - 'https://i.imgur.com/MoKt35C.jpg'
 description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记：极简手帐攻略。 5. WorkFlowy 是一款基于云端的、只支持纯文字的工具。 6. 知乎精华帖……
 date: 2019-04-24 19:30:50
 ---

@@ -30,7 +30,7 @@ description: >-
 date: 2018-12-17 11:30:50
 password:
 photos:
-  - https://i.imgur.com/2V00BFu.jpg
+  - 'https://i.imgur.com/2V00BFu.jpg'
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
