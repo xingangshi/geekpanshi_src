@@ -103,7 +103,7 @@ date: 2019-07-01 09:16:02
 
 ------
 #### 5. 个人博客相关
-> ![个人博客相关](/images/001_3/self_webside.jpg 个人博客相关)
+> ![个人博客相关](/images/001_3/self_webside.jpg "个人博客相关")
 
 ##### 5.1 博客本身相关
 > [URL](https://www.geekpanshi.com/) ：GeekPanshi – 价值投资 终身学习 践行家庭教育，我自己的博客网址。
@@ -155,7 +155,7 @@ date: 2019-07-01 09:16:02
 ------
 
 #### 6. 个人建站资料相关
-> ![个人建站资料相关](/images/001_3/self_webside_2.jpg 个人建站资料相关)
+> ![个人建站资料相关](/images/001_3/self_webside_2.jpg "个人建站资料相关")
 
 ##### 6.1 个人建站资料大全，更新ing
 > [使用 hexo 和 Github 搭建属于你自己网站（自建网站）](/archives/60977ef3.html "使用 hexo 和 Github 搭建属于你自己网站（自建网站）")

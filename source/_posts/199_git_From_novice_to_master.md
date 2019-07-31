@@ -2,7 +2,6 @@
 title: Git 从新手走向专家
 tags:
   - Git
-  - 札记人生
   - Linux
   - 后端技术
   - 软件推荐
