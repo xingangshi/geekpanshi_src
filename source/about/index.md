@@ -9,7 +9,7 @@ date: 2018-10-17 16:43:20
 > Geek panshi（GeekPanshi）—— 价值投资 终身学习 践行家庭教育
 ---
 
-#### 1. [我的公众号](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg)
+#### 1. [我的微信公众号](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg)
 
 * 公众号：<img src="/images/about/juBKMkS.jpg" width="450" height="500" align=center></img>
 
@@ -76,10 +76,20 @@ date: 2018-10-17 16:43:20
 * 2018 年 11 月 30 日，小朋友满月，个人公众号改名“GeekPanshi”，并开始写[个人公众号](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg)。
 
 * 2018 年 12 月 28 日，个人公众号更名为“磐石韧如丝”，更名原因既元旦活动详情[2019年给自己离锦鲤最近的一次机会，倒计时第 3 天](https://mp.weixin.qq.com/s/jIPKT-kw-RXCL0CZxE-qwg)。
-> 送给孩子最好的礼物，恐怕就是一个努力上进的父亲吧。
->
-> <img src="/images/about/juBKMkS.jpg" width="450" height="500" align=center></img>
+>> 送给孩子最好的礼物，恐怕就是一个努力上进的父亲吧。
+>>
+>> <img src="/images/about/juBKMkS.jpg" width="450" height="500" align=center></img>
 
-* 2019 年 4 月 20 日，开始减肥，截止 7 月 19 日，减肥 40 斤，从 170 斤，减肥到 130 斤，后续保持在 135 斤以内即可的。[减肥心得](http://t.cn/AiYzjhwx)
+* 2019 年 3 月 6 日，2019 年春节后，恢复微信公众号的更新。
 
+* 2019 年 3 月 14 日，2019 年春节后，恢复[GeekPanshi 博客](/)的更新。
 
+* 2019 年 4 月 20 日，开始减肥计划，截止时间 7 月 1 日，原始体重 85 公斤，目标 68 公斤。
+
+* 2019 年 6 月 28 日，减肥成功后，献血一次（6 月 26 日，减重超过目标体重到达 67.5 公斤）。
+
+* 2019 年 7 月 19 日，4 月 20 日开始减肥，截止 7 月 19 日，减肥结束：减肥 40 斤，从 170 斤，减肥到 130 斤，后续保持在 135 斤以内即可的。[减肥心得](http://t.cn/AiYzjhwx)
+
+* 2019 年 7 月 25 日，[我的 Github](https://github.com/XingangShi) 添加新的个人公开项目，不仅仅是作为私有项目和博客的记录。
+
+* 2019 年 7 月 31 日，[第 200 篇博文](/archives/a3b39d52.html)。
