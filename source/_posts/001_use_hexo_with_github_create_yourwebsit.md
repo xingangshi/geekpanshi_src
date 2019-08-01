@@ -400,7 +400,7 @@ $
 #### 8.7 查看更新后的网站
 * 部署成功后，浏览器打开你的网站，`http://用户名.github.io`, 那么将看到生成的文章，我的是 [https://geekpanshi.github.io/](https://geekpanshi.github.io/)。
 * 打开成功的话，如下所示
-![/images/001/VD5kgTD.png "geekpanshi.github.io")
+![geekpanshi](/images/001/VD5kgTD.png "geekpanshi.github.io")
 
 ### 9. 结束语
 * 结果上面的一系列的操作，通过 Hexo 和 Github 我们就完成了自己的第一个网站。

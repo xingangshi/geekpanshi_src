@@ -48,7 +48,7 @@ date: 2018-12-20 08:10:03
 #### 2. 学习曲线
 > **这是关于 Vim 的顶级神话之一 --- 它非常难学。但事实并非如此。**
 >
-> ![编辑器学习曲线比较](/images/086/nPseEdr.png 编辑器学习曲线比较)
+> ![编辑器学习曲线比较](/images/086/nPseEdr.png "编辑器学习曲线比较"")
 >
 > 像任何其他工具一样，Vim 有自己的学习曲线。当他们第一次尝试使用Vim时，很多人都会感到沮丧。但原因并不是说 Vim 太难了，而是因为他们对文本编辑过程有着严格的期望。
 >
@@ -65,13 +65,13 @@ date: 2018-12-20 08:10:03
 > 学习 Vim 的主要来源包括以下
 
 ##### 4.1 [openvim, Interactive Vim tutorial](https://openvim.com/)
-> ![openvim](/images/086/uGopYlD.png openvim)
+> ![openvim](/images/086/uGopYlD.png "openvim")
 
 ##### 4.2 [vim adventures](https://vim-adventures.com/)
 > ![vim adventures](/images/086/mJefISJ.png "vim adventures")
 
 ##### 4.3 [VIMTUTOR](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor) [link-2](https://www.systutorials.com/240159/vim-tutorial-beginners-vimtutor/)
-> ![VIMTUTOR](/images/086/w4wanpd.png VIMTUTOR)
+> ![VIMTUTOR](/images/086/w4wanpd.png "VIMTUTOR")
 
 ##### 4.4 [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn/blob/master/README.md)
 
