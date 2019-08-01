@@ -63,6 +63,7 @@ date: 2019-04-24 19:30:50
 > [URL](/archives/278fb2c3.html) ：各种资源、工具和关键经验大全等
 > [URL](/archives/95dd51c2.html) ：2019 开工大吉：开源库相关、开源软件、观点与经验和资源库相关等
 > [URL](/archives/fc12363.html) ：深不可测的大 B 站之 7 大名校人文社科公开课收集汇总
+> [URL](/archives/466f229b.html)：Git、C++、Python、电子书和教程资料集合
 ---
 
 
@@ -137,6 +138,8 @@ date: 2019-04-24 19:30:50
 > [URL](https://www.zhihu.com/question/22241846)：为什么觉得英文原版教材很啰嗦？
 > [URL](https://www.zhihu.com/question/20541531)：如何做到像使用 LaTeX 那样优雅地使用 Word？
 > [URL](https://www.zhihu.com/question/27484486)：如何保持长期、持续、稳定的努力？
+> [URL](https://www.zhihu.com/question/27741189)：Kindle 有哪些鲜为人知的使用技巧？
+> [URL](https://www.zhihu.com/question/323459753)：有哪些让你相见恨晚的思维方式？
 
 #### 7. Books
 > [URL](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#) ：Pinker Book Recommendations
@@ -179,9 +182,7 @@ date: 2019-04-24 19:30:50
 > [URL](http://www.metacase.com/blogs/stevek/blogView?entry=3714903141) ：Linux, Git, MetaEdit+: how three Finns brought versioning, models & code together
 > [URL](https://mikegerwitz.com/papers/git-horror-story) ：一个Git恐怖故事：签名提交的存储库完整性
 > [URL](https://blog.osteele.com/2008/05/my-git-workflow/) ：My Git Workflow
-> [URL](https://yanhaijing.com/git/2017/07/14/four-method-for-git-merge/) ：图解4种git合并分支方法
 > [URL](https://lukasmestan.com/git-quick-stats//) ：Git quick statistics，git 快速统计。
-> [URL](https://yanhaijing.com/git/2017/07/14/four-method-for-git-merge/) ：图解4种git合并分支方法
 > [URL](https://yanhaijing.com/git/2017/07/14/four-method-for-git-merge/) ：图解4种git合并分支方法
 >>
 >> ![Git Workflow](/images/049/btxXEAN.png)
@@ -199,3 +200,4 @@ date: 2019-04-24 19:30:50
 > v2.1.2，2019-01-31，知乎分类下新增  [有哪些数学上的事实，没有一定数学知识的人不会相信？](https://www.zhihu.com/question/288093713)，[为什么觉得英文原版教材很啰嗦？](https://www.zhihu.com/question/22241846)。
 > v2.4.1，2019-04-24，知乎分类下新增  [如何做到像使用 LaTeX 那样优雅地使用 Word？](https://www.zhihu.com/question/20541531)。
 > v2.4.2，2019-04-28，知乎分类下新增  [如何保持长期、持续、稳定的努力？](https://www.zhihu.com/question/27484486)。
+> v2.4.3, 2019-08-01, 知乎分类下新增  [Kindle 有哪些鲜为人知的使用技巧？](https://www.zhihu.com/question/27741189)，[有哪些让你相见恨晚的思维方式？](https://www.zhihu.com/question/323459753)。

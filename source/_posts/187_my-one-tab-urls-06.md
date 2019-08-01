@@ -74,6 +74,7 @@ password:
 > [URL](/archives/278fb2c3.html) ：各种资源、工具和关键经验大全等
 > [URL](/archives/95dd51c2.html) ：2019 开工大吉：开源库相关、开源软件、观点与经验和资源库相关等
 > [URL](/archives/fc12363.html) ：深不可测的大 B 站之 7 大名校人文社科公开课收集汇总
+> [URL](/archives/466f229b.html)：Git、C++、Python、电子书和教程资料集合
 ---
 
 #### 1. 开源库相关
