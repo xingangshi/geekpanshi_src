@@ -22,7 +22,7 @@ keywords:
 photos:
   - '/images/001_1/photos.png'
 description: 今天：2019 年 8 月 1 日，2019 年仅剩下 152 天。每日打卡，8 月份针对每个任务打卡，慢慢来，一切都会更好的。
-date: 2019-08-02 00:01:01
+date: 2019-08-01 00:01:01
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
