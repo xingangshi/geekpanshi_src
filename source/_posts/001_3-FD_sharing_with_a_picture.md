@@ -194,7 +194,7 @@ date: 2019-07-01 09:16:02
 > [自建博客或社区的开源软件 Write Freely](https://writefreely.org/ "自建博客或社区的开源软件 Write Freely")
 
 #### 7. 结束语
-> ![结束语](/images/001_3/over.png 结束语)
+> ![结束语](/images/001_3/over.png "结束语")
 >
 > <font color="#0000FF" size=3>如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的，[<font color="red" size=4>联系我</font>](/about/ "联系我")。</font>
 

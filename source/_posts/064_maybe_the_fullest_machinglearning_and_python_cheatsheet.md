@@ -89,106 +89,106 @@ top:
 
 ##### 2.1 算法（Algorithms）
 > 来源：https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/
-> ![算法（Algorithms）](/images/064/FS8x3xC.jpg  "算法（Algorithms）")
+> ![算法（Algorithms）](/images/064/FS8x3xC.jpg "算法（Algorithms）")
 
 
 ##### 2.2 Python 基础（Python Basics）
 
 ###### 2.2.1 Python 基础 1
 > 来源：http://datasciencefree.com/python.pdf
-> ![Python基础1](/images/064/6k4G3Ig.jpg  "Python基础1")
-> ![Python基础2](/images/064/O6fjrGX.jpg  "Python基础2")
+> ![Python基础1](/images/064/6k4G3Ig.jpg "Python基础1")
+> ![Python基础2](/images/064/O6fjrGX.jpg "Python基础2")
 
 ###### 2.2.2 Python 基础 2
 > 来源：https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA
-> ![Python基础3](/images/064/6Os13lx.jpg  "Python基础3")
+> ![Python基础3](/images/064/6Os13lx.jpg "Python基础3")
 
 
 ##### 2.3 Numpy
 
 ###### 2.3.1 Numpy 1
 > 来源：https://www.dataquest.io/blog/numpy-cheat-sheet/
-> ![Numpy1](/images/064/B5BYXh5.jpg  "Numpy1")
+> ![Numpy1](/images/064/B5BYXh5.jpg "Numpy1")
 
 ###### 2.3.2 Numpy 2
 > 来源：http://datasciencefree.com/numpy.pdf
-> ![Numpy2](/images/064/Rt6mcal.jpg  "Numpy2")
+> ![Numpy2](/images/064/Rt6mcal.jpg "Numpy2")
 
 ###### 2.3.3 Numpy 3
 > 来源：https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE
-> ![Numpy3](/images/064/V5oGm3j.jpg  "Numpy3")
+> ![Numpy3](/images/064/V5oGm3j.jpg "Numpy3")
 
 ###### 2.3.4 Numpy 4
 > 来源：https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb
-> ![Numpy4](/images/064/qXHijs7.jpg  "Numpy4")
+> ![Numpy4](/images/064/qXHijs7.jpg "Numpy4")
 
 ##### 2.4 Pandas
 
 ###### 2.4.1 Pandas 1
 > 来源：http://datasciencefree.com/pandas.pdf
-> ![Pandas1](/images/064/Pbnfztn.jpg  "Pandas1")
-> ![Pandas2](/images/064/ESheuZA.jpg  "Pandas2")
-> ![Pandas3](/images/064/9t5SLBo.jpg  "Pandas3")
-> ![Pandas4](/images/064/dwmzKyT.jpg  "Pandas4")
+> ![Pandas1](/images/064/Pbnfztn.jpg "Pandas1")
+> ![Pandas2](/images/064/ESheuZA.jpg "Pandas2")
+> ![Pandas3](/images/064/9t5SLBo.jpg "Pandas3")
+> ![Pandas4](/images/064/dwmzKyT.jpg "Pandas4")
 
 ###### 2.4.2 Pandas 2
 > 来源：https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U
-> ![Pandas5](/images/064/DjnCWZK.jpg  "Pandas5")
+> ![Pandas5](/images/064/DjnCWZK.jpg "Pandas5")
 
 ###### 2.4.3 Pandas 3
 > 来源：https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb
-> ![Pandas6](/images/064/0px2fpy.jpg  "Pandas6")
+> ![Pandas6](/images/064/0px2fpy.jpg "Pandas6")
 
 ##### 2.5 Matplotlib
 
 ###### 2.5.1 Matplotlib 1
 > 来源：https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
-> ![Matplotlib1](/images/064/gXqH1k4.jpg  "Matplotlib1")
+> ![Matplotlib1](/images/064/gXqH1k4.jpg "Matplotlib1")
 
 ###### 2.5.2 Matplotlib 2
 > 来源：https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb
-> ![Matplotlib2](/images/064/no62ogW.jpg  "Matplotlib2")
+> ![Matplotlib2](/images/064/no62ogW.jpg "Matplotlib2")
 
 ##### 2.6 Scikit Learn
 
 ###### 2.6.1 Scikit Learn 1
 > 来源：https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A1Jk
-> ![Scikit Learn1](/images/064/V8piS8L.jpg  "Scikit Learn1")
+> ![Scikit Learn1](/images/064/V8piS8L.jpg "Scikit Learn1")
 
 ###### 2.6.2 Scikit Learn 2
 > 来源：http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-for-scikit.html
-> ![Scikit Learn2](/images/064/OulFJkl.jpg  "Scikit Learn2")
+> ![Scikit Learn2](/images/064/OulFJkl.jpg "Scikit Learn2")
 
 ###### 2.6.3 Scikit Learn 3
 > 来源：https://github.com/rcompton/ml_cheat_sheet/blob/master/supervised_learning.ipynb
-> ![Scikit Learn3](/images/064/eDD56si.jpg  "Scikit Learn3")
+> ![Scikit Learn3](/images/064/eDD56si.jpg "Scikit Learn3")
 
 ##### 2.7 Tensorflow
 > 来源：https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/1_Introduction/basic_operations.ipynb
-> ![Tensorflow](/images/064/tBWvW05.jpg  "Tensorflow")
+> ![Tensorflow](/images/064/tBWvW05.jpg "Tensorflow")
 
 ##### 2.8 Pytorch
 > 来源：https://github.com/bfortuner/pytorch-cheatsheet
-> ![Pytorch](/images/064/XJwuYZ8.jpg  "Pytorch")
+> ![Pytorch](/images/064/XJwuYZ8.jpg "Pytorch")
 
 #### 3. 数学（Math）
 > 如果你真的想了解机器学习，那么需要对统计（特别是概率）、线性代数和微积分的理解打下坚实的基础。在本科期间我辅修数学，但是我肯定需要复习这些知识。 这些速查表提供了大多数需要了解最常见的机器学习算法背后的数学。
 
 ##### 3.1 概率（Probability）
 > 来源：http://www.wzchen.com/s/probability_cheatsheet.pdf
-> ![概率（Probability）](/images/064/5dR0AmF.jpg  "概率（Probability）")
+> ![概率（Probability）](/images/064/5dR0AmF.jpg "概率（Probability）")
 
 ##### 3.2 线性代数（Linear Algebra）
 > 来源：https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
-> ![线性代数（Linear Algebra）](/images/064/3jfMIFf.jpg  "线性代数（Linear Algebra）")
+> ![线性代数（Linear Algebra）](/images/064/3jfMIFf.jpg "线性代数（Linear Algebra）")
 
 ##### 3.3 统计学（Statistics）
 > 来源：http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
-> ![统计学（Statistics）](/images/064/jMuSA3o.jpg  "统计学（Statistics）")
+> ![统计学（Statistics）](/images/064/jMuSA3o.jpg "统计学（Statistics）")
 
 ##### 3.4 微积分（Calculus）
 > 来源：http://tutorial.math.lamar.edu/getfile.aspx?file=B,41,N
-> ![微积分（Calculus）](/images/064/yZNsdmn.jpg  "微积分（Calculus）")
+> ![微积分（Calculus）](/images/064/yZNsdmn.jpg "微积分（Calculus）")
 
 #### 4. 其他
 

@@ -74,7 +74,7 @@ password:
 ---
 
 #### 1. 个人博客相关
-> ![个人博客相关](/images/080/cg5Yf3Q.jpg 个人博客相关)
+> ![个人博客相关](/images/080/cg5Yf3Q.jpg "个人博客相关")
 
 ##### 5.1 博客本身相关
 > [URL](https://www.geekpanshi.com/) ：GeekPanshi – 价值投资 终身学习 践行家庭教育，我自己的博客网址。

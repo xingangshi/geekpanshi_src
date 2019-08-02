@@ -7,12 +7,13 @@ date: 2018-10-17 16:43:20
 
 ---
 > Geek panshi（GeekPanshi）—— 价值投资 终身学习 践行家庭教育
+>
+> 欢迎关注 [我的 Github](https://github.com/XingangShi)，了解更多。
 ---
 
 #### 1. [我的微信公众号](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg)
 
 * 公众号：<img src="/images/about/juBKMkS.jpg" width="450" height="500" align=center></img>
-
 
 #### 2. [联系方式](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg)
 
