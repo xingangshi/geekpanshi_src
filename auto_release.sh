@@ -12,7 +12,7 @@ echo "-- "
 
 echo "      2. Start - Delete Github Dir all content"
 echo "-- "
-cd ./1_delpoy_git-github/ && ls -l | awk -F" " '{print $9}' | grep . | xargs -n1 -I {} rm -rf {} && cd ..
+cd ./1_delpoy_git-github/ && git pull && ls -l | awk -F" " '{print $9}' | grep . | xargs -n1 -I {} rm -rf {} && cd ..
 echo "      2. End   - Delete Github Dir all content"
 echo "-- "
 

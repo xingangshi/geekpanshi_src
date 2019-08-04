@@ -21,7 +21,7 @@ keywords:
   - 宽978高553
 photos:
   - '/images/001_1/photos.png'
-description: 今天：2019 年 8 月 4 日，2019 年仅剩下 149 天。每日打卡，8 月份针对每个任务打卡，慢慢来，一切都会更好的。
+description: 今天：2019 年 8 月 4 日，2019 年仅剩下 149 天。每天坚持打卡，8 月份针对每个任务打卡，慢慢来，一切都会更好的。
 date: 2019-08-04 00:01:01
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
