@@ -41,7 +41,7 @@ keywords:
 description: 善用资源，找书，看书，而不是囤书。说明一点，很多网站都提供免费合法的电子书下载，大多为公共版权。以下都是一些提供书籍下载的网站，国外的较多，均可直接打开下载。
 photos:
   - '/images/135/31Vh4RY.jpg'
-date: 2019-02-01 13:20:50
+date: 2019-08-05 09:00:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -53,7 +53,28 @@ password:
 >
 > 以下都是一些提供书籍下载的网站，国外的较多，均可直接打开下载。
 >
-> ![/images/135/YRG5RbQ.png)
+> ![书库](/images/135/YRG5RbQ.png)
+
+---
+#### 站内内链
+> [URL](/archives/4f25f01c.html) ：程序员的网站大全
+> [URL](/archives/5cc771ed.html) ：免费的编程书籍
+> [URL](/archives/6f958ce8.html) ：常用软件网站推荐
+> [URL](/archives/d8d6241.html) ：Chrome 常用扩展推荐
+> [URL](/archives/5cc771ed.html) ：免费的编程书籍
+> [URL](/archives/ba320aa2.html) ：一图胜千言（前方高能，图大，慎点）
+> [URL](/archives/15582198.html) ：2019 年时间管理之我的笔记模板打包下载
+> [URL](/archives/a7a1df11.html) ：人间不值得，Vim 依然值得学习（编辑器比较和选择指南）
+> [URL](/archives/5bf43b3d.html) ：可能是史上最全的机器学习和 Python（包括数学）速查表
+> [URL](/archives/ecc73a73.html) ：实用互联网工具大全
+> [URL](/archives/9e708c90.html) ：康奈尔笔记法等
+> [URL](/archives/4875a258.html) ：个人博客相关等
+> [URL](/archives/509e5638.html) ：数据库资料、教程和工具大全等
+> [URL](/archives/278fb2c3.html) ：各种资源、工具和关键经验大全等
+> [URL](/archives/95dd51c2.html) ：2019 开工大吉：开源库相关、开源软件、观点与经验和资源库相关等
+> [URL](/archives/fc12363.html) ：深不可测的大 B 站之 7 大名校人文社科公开课收集汇总
+> [URL](/archives/466f229b.html)：Git、C++、Python、电子书和教程资料集合
+> [URL](/archives/a01af253.html)：免费合法的电子书搜索网站集合
 ---
 
 #### [鸠摩搜书](https://www.jiumodiary.com/)
@@ -112,3 +133,6 @@ password:
 
 #### [一个哲学书库](https://www.marxists.org/reference/subject/philosophy/index.html)
 > 一个哲学书库：[https://www.marxists.org/reference/subject/philosophy/index.html](https://www.marxists.org/reference/subject/philosophy/index.html)，虽然只有文本格式，但所收藏的书籍多为哲学史上的名著，相当丰富！也是练习英语的好地方。
+
+#### [StandardEbooks](https://standardebooks.org/)
+> StandardEbooks：[https://standardebooks.org/](https://standardebooks.org/)，标准电子书则将我们每个电子书文件的全部内容（包括标记，封面艺术以及其间的所有内容）专用于公共领域。。

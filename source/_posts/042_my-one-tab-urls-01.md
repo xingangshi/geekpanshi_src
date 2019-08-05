@@ -103,6 +103,7 @@ top: 1000008
 > [URL](/archives/95dd51c2.html) ：2019 开工大吉：开源库相关、开源软件、观点与经验和资源库相关等
 > [URL](/archives/fc12363.html) ：深不可测的大 B 站之 7 大名校人文社科公开课收集汇总
 > [URL](/archives/466f229b.html)：Git、C++、Python、电子书和教程资料集合
+> [URL](/archives/a01af253.html)：免费合法的电子书搜索网站集合
 ---
 
 #### 1. 在线编辑器工具
