@@ -75,7 +75,7 @@ date: 2019-08-23 00:02:05
 |  6   | <font color="#FF00FF" size=2>博客总计博文</font>      | 计数   | 2018/08/01    |  205   | [博客](/archives) 博文总计数目          |
 |  7   | <font color="#FF00FF" size=2>读书心得札记</font>      | 计数   | 2018/05/26    |  69    | [读书心得笔记并做笔记](/tags/札记人生/) |
 |  8   | <font color="#FF00FF" size=2>五篇好文推荐</font>      | 计数   | 2018/10/24    |  50    | [美文推荐](/tags/美文推荐/)             |
-|  9   | <font color="#FF00FF" size=2>公众号更新</font>        | 计数   | 2018/12/01    |  92    | [微信公众号（4 篇删除）](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg) |
+|  9   | <font color="#FF00FF" size=2>公众号更新</font>        | 计数   | 2018/12/01    |  93    | [微信公众号（4 篇删除）](https://mp.weixin.qq.com/s/xxIkfGMFU7BaCeCJtdrtDg) |
 
 #### 2. ❤ 今天记账了吗？记了，✔。 ❤
 ##### 2.1 记账信息详情
