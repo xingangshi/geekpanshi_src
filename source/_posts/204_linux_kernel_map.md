@@ -22,7 +22,7 @@ keywords:
 description: Linux Kernel 简介和学习资料一览。
 photos:
   - /images/204/pre.jpg
-date: 2019-08-29 11:00:50
+date: 2019-08-30 06:32:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>

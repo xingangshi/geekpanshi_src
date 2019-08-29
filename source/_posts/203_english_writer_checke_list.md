@@ -26,7 +26,7 @@ description: >-
   关于英语写作校对的工具，汇总一下，包括：Grammarly、1Checker、Ginger、Writefull、Typely……，总有一款适合你和你孩子的教育。
 photos:
   - /images/203/pre.jpg
-date: 2019-08-29 06:30:50
+date: 2019-08-30 06:30:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
