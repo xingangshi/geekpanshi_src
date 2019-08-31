@@ -25,7 +25,7 @@ keywords:
 description: 独乐乐不如众乐乐，让我们以书会友，找到那个心有灵犀的伙伴。送书原则：1. 根据我对朋友的年龄、身份、行业来选择的；2. 送书对象可以是朋友，也可以是朋友的家人和小孩的；3. 有意义的时间点才送书。
 photos:
     - "/images/013/006tNbRwgy1fyg1ujgaw7j308505u74a.jpg"
-date: 2019-08-31 20:00:53
+date: 2019-09-01 05:00:53
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 

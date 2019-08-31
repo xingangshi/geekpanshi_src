@@ -23,7 +23,7 @@ top: 1000009
 description: 管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。人生有涯，千万不要不加选择地读书。读书并非开卷有益，有些书无益，有些书无聊，有些书还有害。读书要做减法，从前如此，现在更如此。
 photos:
   - "/images/024/OrQnhlJ.png"
-date: 2019-08-31 20:30:57
+date: 2019-09-01 05:08:57
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
