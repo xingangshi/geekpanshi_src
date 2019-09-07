@@ -26,7 +26,7 @@ description: >-
   关于英语写作校对的工具，汇总一下，包括：Grammarly、1Checker、Ginger、Writefull、Typely……，总有一款适合你和你孩子的教育。
 photos:
   - /images/203/pre.jpg
-date: 2019-08-30 06:30:50
+date: 2019-08-07 21:47:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -67,3 +67,10 @@ password:
 
 ##### Linggle
 > [Linggle](http://t.cn/R713eap)，作为一个词汇、语法搜索引擎，Linggle提供英文常用语、搭配、近义词等检索，可以根据词性来推测完整搭配，还能帮助学习者分析出更准确的英文写作建议，非常实用。
+
+##### Hemingway
+> [Hemingway](http://www.hemingwayapp.com)，在线英文写作校对网站，用来检测英语文章的可读性，它通过高亮不同颜色来提醒用户注意修改的程度。 ​
+
+
+##### WORD AND PHRASE .INFO
+> [WORD AND PHRASE .INFO](https://www.wordandphrase.info/，英语写作神器，直接粘贴，就能展现单词使用情况，用不同颜色区分单词，同时还有某一个词的固定用法，以及归类出相关可替换的词。
