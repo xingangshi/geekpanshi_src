@@ -1,5 +1,5 @@
 ---
-title: 读书荐书之2019年第3/4更
+title: 读书荐书之2019年第4/4更
 tags:
   - 读书
   - 荐书
@@ -20,12 +20,12 @@ keywords:
 abbrlink: 992a9342
 photos:
   - "/images/011/006tNbRwgy1fyoh12r8ppj308504tt8l.jpg"
-description: 读书、荐书第 4 年，2019 年第 3/4 更新。管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
-date: 2019-09-02 09:30:40
+description: 读书、荐书第 4 年，2019 年第 4/4 更新。管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
+date: 2019-09-30 06:40:40
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-#### 读书荐书之2019年第2/4更
+#### 读书荐书之2019年第4/4更
 
 ------
 > 序言：管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
@@ -144,9 +144,9 @@ NOTE: 2018-12-30 06:52:00
 4. [原则](http://product.dangdang.com/25204629.html)，[书评](https://book.douban.com/subject/27608239/)
 5. [见识](http://product.dangdang.com/25220963.html)，[书评](https://book.douban.com/subject/30144978/)
 
-NOTE: 2018-04-02 08:00:00
+NOTE: 2018-04-02 08:00:00【
 
-##### 4.2 2019 年 7 月 1 日后闲来无事你可以看看（2019 第 3/4 更）
+##### 4.3 2019 年 7 月 1 日后闲来无事你可以看看（2019 第 3/4 更）
 1. [爸爸爱喜禾](http://product.dangdang.com/25572820.html)，[书评](https://book.douban.com/subject/30363885/)
 2. [子弹笔记](http://product.dangdang.com/26241664.html)，[书评](https://book.douban.com/subject/30395230/)
 3. [明智行动的艺术](http://product.dangdang.com/24007258.html)，[书评](https://book.douban.com/subject/24878420/)
@@ -154,6 +154,14 @@ NOTE: 2018-04-02 08:00:00
 5. [改变的历程](http://product.dangdang.com/25210988.html)，[书评](https://book.douban.com/subject/30124849/)
 
 NOTE: 2018-07-01 08:00:00
+
+##### 4.4 2019 年 10 月 1 日后闲来无事你可以看看（2019 第 4/4 更）
+1. [易经与人生](https://item.jd.com/41309088771.html)，[书评](https://book.douban.com/subject/3348174/)
+2. [叔本华心灵咒语](https://item.jd.com/49769284537.html)，[书评](https://book.douban.com/subject/25741265/)
+3. [如何高效学习](https://item.jd.com/11367156.html)，[书评](https://book.douban.com/subject/25783654/)
+4. [时间管理-如何充分利用你的24小时](https://item.jd.com/10877320.html)，[书评](https://book.douban.com/subject/7001106/)
+
+NOTE: 2018-10-01 06:40:00
 
 ------
 
