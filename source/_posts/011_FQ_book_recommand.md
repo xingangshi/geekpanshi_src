@@ -21,7 +21,8 @@ abbrlink: 992a9342
 photos:
   - "/images/011/006tNbRwgy1fyoh12r8ppj308504tt8l.jpg"
 description: 读书、荐书第 4 年，2019 年第 4/4 更新。管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
-date: 2019-09-30 06:40:40
+date: 2019-10-01 06:40:40
+top: 10000010
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -166,7 +167,7 @@ NOTE: 2018-10-01 06:40:00
 ------
 
 #### 磐石读书会
-> 暂未开通，因为找不到一个好的开通的理由，有建议可以[<font color="red" size=3>联系我</font>](/abnout)，
+> 终于了了一个心愿的，心心念念几年的读书群成立了的，写书单，已经写了好 4 年了的，终于骨气勇气成立了这个读书群。期待你的加入。
 >
-> ![磐石读书会](/images/011/006tNbRwgy1fyoeo13803j30xc0n83zv.jpg)
+> ![磐石读书会](/images/011/panshidushuhui.png)
 
