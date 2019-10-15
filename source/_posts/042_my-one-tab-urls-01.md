@@ -71,7 +71,7 @@ keywords:
   - python框架
   - Jamendo Music
 description: 真的没啥好说的，一个字，看起来、挑起来、收藏起来、用起来：1. 在线编辑器工具 2. 知识库。 3. 在线操作系统。 4. IP定位。 5. whois查询。 7. 解码器编码转换。 8. 解密MD5。 9. CDN公共库、CDN检测。 11. 在线nmap扫描、Nmap参考指南。 12. 哈勃分析。 13. 全球网络攻击查看。 14. 黑客技术社区。
-date: 2019-09-07 21:38:50
+date: 2019-10-15 17:01:00
 password:
 top: 1000008
 ---
@@ -144,6 +144,9 @@ top: 1000008
 
 ##### 1.8 JS、CSS、HTML、XML格式化
 > [URL](http://www.unminify.org/) ：在线JavaScript css unminify和html xml 格式化 工具。
+
+##### 1.9 编程语言转换
+> [URL](https://curl.trillworks.com/) ：把 curl 命令翻成各大个语言，配合上 chrome 开发工具中的把请求转curl命令，可以生成爬虫代码了
 
 #### 2. 图片处理
 
@@ -357,3 +360,4 @@ top: 1000008
 > v2.4.1, 2019-04-22, 图片处理 Icon 相关新增资源 [Ikonate](https://www.ikonate.com/)。
 > v2.4.2, 2019-04-26, 实用工具大全 工具箱 相关新增资源 [爱资料在线工具](https://www.toolnb.com/)，[MikuTools - 工具集合](https://miku.tools/)，[Free ToolFk For Developers](https://www.toolfk.com/)
 > v2.9.1, 2019-09-06, 图片处理 图片处理 相关新增资源 [黑科技3D特效模板来袭](https://www.gaoding.com/topic/3791)
+> v2.10.1, 2019-10-15，分类 在线编辑器工具 新增子类 编程语言转换，相关新增资源 [curl 命令翻成各大个语言](https://curl.trillworks.com)
