@@ -35,7 +35,7 @@ keywords:
 photos:
  - '/images/049/MoKt35C.jpg'
 description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记：极简手帐攻略。 5. WorkFlowy 是一款基于云端的、只支持纯文字的工具。 6. 知乎精华帖……
-date: 2019-08-27 05:30:50
+date: 2019-11-13 05:30:50
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -141,6 +141,9 @@ date: 2019-08-27 05:30:50
 > [URL](https://www.zhihu.com/question/27741189)：Kindle 有哪些鲜为人知的使用技巧？
 > [URL](https://www.zhihu.com/question/323459753)：有哪些让你相见恨晚的思维方式？
 > [URL](https://www.zhihu.com/question/36825620)：如果让你列一个最功利化的书单，你会列什么？
+> [URL](https://www.zhihu.com/question/65280843)：Linux 中的 console、terminal、tty、pty、pts 有哪些区别？
+> [URL](https://www.zhihu.com/question/22316395)：如何用保险保障自己的一生？
+> [URL](https://www.zhihu.com/question/36825620)：如果让你列一个最功利化的书单，你会列什么？
 
 #### 7. Books
 > [URL](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#) ：Pinker Book Recommendations
@@ -203,3 +206,4 @@ date: 2019-08-27 05:30:50
 > v2.4.2，2019-04-28，知乎分类下新增  [如何保持长期、持续、稳定的努力？](https://www.zhihu.com/question/27484486)。
 > v2.8.1, 2019-08-01, 知乎分类下新增  [Kindle 有哪些鲜为人知的使用技巧？](https://www.zhihu.com/question/27741189)，[有哪些让你相见恨晚的思维方式？](https://www.zhihu.com/question/323459753)。
 > v2.8.2, 2019-08-26, 知乎分类下新增  [如果让你列一个最功利化的书单，你会列什么？](https://www.zhihu.com/question/36825620)。
+> v2.11.1，2019-11-13， 知乎分类下新增  [Linux 中的 console、terminal、tty、pty、pts 有哪些区别？](https://www.zhihu.com/question/65280843)，[如何用保险保障自己的一生？](https://www.zhihu.com/question/22316395)，[如果让你列一个最功利化的书单，你会列什么？](https://www.zhihu.com/question/36825620)。

@@ -76,10 +76,10 @@ date: 2019-11-12 00:02:05
 |  2   | <font color="#FF0000" size=2>重要节点</font>          | 倒计时 | 2020/03/01    |  110   | 开始时间：2018/6/15 剩余 10 个月        |
 |  3   | <font color="#0000FF" size=2>来上海</font>            | 计时   | 2011/06/25    |  3063  | 第 8 年进行中                           |
 |  4   | <font color="#0000FF" size=2>莫名其妙的计时</font>    | 计时   | 2018/11/19    |  358   | 莫名其妙的计时，希望永远不会停 ！！！   |
-|  5   | <font color="#FF00FF" size=2>博客总计博文</font>      | 计数   | 2018/08/01    |  211   | [博客](/archives) 博文总计数目          |
+|  5   | <font color="#FF00FF" size=2>博客总计博文</font>      | 计数   | 2018/08/01    |  212   | [博客](/archives) 博文总计数目          |
 |  6   | <font color="#FF00FF" size=2>读书心得札记</font>      | 计数   | 2018/05/26    |  69    | [读书心得笔记并做笔记](/tags/札记人生/) |
 |  7   | <font color="#FF00FF" size=2>五篇好文推荐</font>      | 计数   | 2018/10/24    |  50    | [美文推荐](/tags/美文推荐/)             |
-|  8   | <font color="#FF00FF" size=2>公众号更新</font>        | 计数   | 2018/12/01    |  159   | [微信公众号（105 篇删除）](https://mp.weixin.qq.com/s/NeWQwn2MEXcDCE0PGOhigA) |
+|  8   | <font color="#FF00FF" size=2>公众号更新</font>        | 计数   | 2018/12/01    |  160   | [微信公众号（105 篇删除）](https://mp.weixin.qq.com/s/NeWQwn2MEXcDCE0PGOhigA) |
 
 #### 2. ❤ 今天记账了吗？记了，✔。 ❤
 ##### 2.1 记账信息详情
