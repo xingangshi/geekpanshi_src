@@ -23,7 +23,7 @@ description: >-
   工欲善其事必先利其器，现在是信息爆炸的时代，如何找到自己想要的东西就变成了一个很重要的技能，很多人并不会搜索，今天我们就来聊一聊如何通过搜索工具来提高自己的生活效率。
 photos:
   - /images/210/001.jpg
-date: 2019-11-20 19:00:00
+date: 2019-11-21 08:00:00
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
