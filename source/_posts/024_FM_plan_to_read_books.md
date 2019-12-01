@@ -1,5 +1,5 @@
 ---
-title: 我的读书计划-月更-最后更新2019年10月31日
+title: 我的读书计划-月更-最后更新2019年12月1日
 tags:
   - 读书
   - 修身养性
@@ -23,11 +23,11 @@ top: 1000009
 description: 管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。人生有涯，千万不要不加选择地读书。读书并非开卷有益，有些书无益，有些书无聊，有些书还有害。读书要做减法，从前如此，现在更如此。
 photos:
   - "/images/024/OrQnhlJ.png"
-date: 2019-10-31 05:08:57
+date: 2019-12-01 17:41:57
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 我的读书计划-月更-最后更新2019年10月31日
+### 我的读书计划-月更-最后更新2019年12月11日
 
 ------
 >
@@ -43,6 +43,10 @@ date: 2019-10-31 05:08:57
 |    分类      | 索引   | 添加日期 | 最后更新日期 | 书当前状态 | 读书状态                              |                         书名及简介                                      |
 | :----------: | :----: | :------: | :----------: | :--------: | :-----------------------------------: | :---------------------------------------------------------------------: |
 | 1. 人生哲理  |        |          |              |            |                                       |                                                                         |
+|              | 1-11   | 20191119 | 20191201     | kindle     | <font color="#0000FF">**未读**</font> | [明智行动的艺术](https://item.jd.com/11997448.html)                     |
+|              | 1-10   | 20191119 | 20191201     | kindle     | <font color="#0000FF">**未读**</font> | [清醒思考的艺术](https://item.jd.com/11937523.html)                     |
+|              | 1-9    | 20191119 | 20191201     | kindle     | <font color="#0000FF">**未读**</font> | [思考，快与慢](https://item.jd.com/11029168.html)                       |
+|              | 1-8    | 20190925 | 20191201     | kindle     | <font color="#0000FF">**未读**</font> | [作为意志和表象的世界](https://item.jd.com/12035785.html)               |
 |              | 1-7    | 20190426 | 20190426     | 纸质书     | <font color="#0000FF">**未读**</font> | [不堪孤独，就无法脱离庸俗](http://product.dangdang.com/25100968.html)   |
 |              | 1-6    | 20181114 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [曾国藩家书](http://product.dangdang.com/23775851.html)                 |
 |              | 1-5    | 20181114 | 20191031     | kindle     | <font color="#00FFFF">**在读**</font> | [哲学的慰藉](http://product.dangdang.com/25261526.html)                 |
@@ -51,6 +55,7 @@ date: 2019-10-31 05:08:57
 |              | 1-2    | 20180827 | 20181025     | /          | <font color="#FF0000">**弃读**</font> | [见识](https://item.jd.com/12304478.html)                               |
 |              | 1-1    | 20180827 | 20181025     | /          | <font color="#FF0000">**弃读**</font> | [终有一天你会懂](https://item.jd.com/12357868.html)                     |
 | 2. 效率人生  |        |          |              |            |                                       |                                                                         |
+|              | 2-9    | 20191119 | 20191201     | kindle     | <font color="#00FFFF">**在读**</font> | [6个月学会任何一种外语](https://item.jd.com/11503186.html)              |
 |              | 2-8    | 20190606 | 20190606     | kindle     | <font color="#00FFFF">**在读**</font> | [子弹笔记<The Bullet Journal Method>](https://item.jd.com/12470065.html)|
 |              | 2-7    | 20190403 | 20190403     | /          | <font color="#A52A2A">**想读**</font> | [改变的历程](https://item.jd.com/12292688.html)                         |
 |              | 2-6    | 20180913 | 20181025     | 纸质书     | <font color="#00FFFF">**在读**</font> | [集体行动的逻辑](https://item.jd.com/12231099.html)                     |
@@ -70,21 +75,29 @@ date: 2019-10-31 05:08:57
 |              | 4-2    | 20170915 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [小狗钱钱套装[7-10岁]](https://item.jd.com/12345927.html)               |
 |              | 4-1    | 20161106 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [蒙台梭利幼儿教育经典](https://item.jd.com/10043831.html)               |
 | 5. 社会科学  |        |          |              |            |                                       |                                                                         |
+|              | 5-5    | 20181016 | 20191201     | kindle     | <font color="#0000FF">**未读**</font> | [贫穷的本质](https://item.jd.com/32211540828.html)                      |
 |              | 5-4    | 20180913 | 20181025     | 纸质书     | <font color="#0000FF">**未读**</font> | [君主论](https://item.jd.com/11572967.html)                             |
 |              | 5-3    | 20170605 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [人类简史](https://item.jd.com/11549140.html)                           |
 |              | 5-2    | 20150217 | 20181114     | kindle     | <font color="#FF0000">**弃读**</font> | [旧制度与大革命](https://item.jd.com/11090245.html)                     |
 |              | 5-1    | 20180309 | 20181114     | kindle     | <font color="#FF0000">**弃读**</font> | [为什么中国人勤劳而不富有](https://item.jd.com/36700057845.html)        |
 | 6. 人物传记  |        |          |              |            |                                       |                                                                         |
+|              | 6-3    | 20190827 | 20191201     | kindle     | <font color="#0000FF">**未读**</font> | [任正非文集](http://www.wm23.com/wiki/113621.htm)                       |
 |              | 6-2    | 20171111 | 20181114     | 纸质书     | <font color="#0000FF">**未读**</font> | [季羡林谈人生：人生的境界](https://item.jd.com/11708610.html)           |
 |              | 6-1    | 20150309 | 20181114     | kindle     | <font color="#0000FF">**未读**</font> | [叔本华论道德与自由](https://item.jd.com/12348520.html)                 |
 | 7. 小说鸡汤  |        |          |              |            |                                       |                                                                         |
+|              | 7-3    | 20191011 | 20191201     | kindle     | <font color="#00FFFF">**在读**</font> | [少有人走的路：心智成熟的旅程](https://item.jd.com/12238133.html)       |
 |              | 7-2    | 20180423 | 20190426     | kindle     | <font color="#00FFFF">**在读**</font> | [1Q84](http://product.dangdang.com/25301055.html)                       |
 |              | 7-1    | 20180913 | 20181114     | 纸质书     | <font color="#FF0000">**弃读**</font> | [1984](https://item.jd.com/11980693.html)                               |
 | 8. 经营管理  |        |          |              |            |                                       |                                                                         |
 |              | 8-2    | 20181123 | 20181123     | /          | <font color="#A52A2A">**想读**</font> | [奈飞文化手册](https://item.jd.com/12460434.html)                       |
 |              | 8-1    | 20181114 | 20180425     | kindle     | <font color="#FF0000">**弃读**</font> | [创业维艰 如何完成比难更难的事](https://item.jd.com/11645500.html)      |
 | 9. 软件开发  |        |          |              |            |                                       |                                                                         |
-|              | 9-19   | 20190831 | 20190831     | PDF/WEB    | <font color="#00FFFF">**在读**</font> | [How to Design Programs, Second Edition](https://htdp.org/2019-02-24/)  |
+|              | 9-24   | 20191119 | 20191201     | kindle     | <font color="#FF0000">**弃读**</font> | [Python编程 从入门到实践](https://item.jd.com/11993134.html)            |
+|              | 9-23   | 20190727 | 20191201     | kindle     | <font color="#0000FF">**未读**</font> | [GNU Emacs Manual](https://item.jd.com/11116704603.html)                |
+|              | 9-22   | 20191201 | 20191201     | 纸质书     | <font color="#0000FF">**未读**</font> | [编译原理（第2版）](https://item.jd.com/10058776.html)                  |
+|              | 9-21   | 20191201 | 20191201     | 纸质书     | <font color="#00FFFF">**在读**</font> | [The Little Schemer](https://item.jd.com/12114953.html)                 |
+|              | 9-20   | 20191201 | 20191201     | 纸质书     | <font color="#0000FF">**未读**</font> | [Erlang趣学指南](https://item.jd.com/11974037.html)                     |
+|              | 9-19   | 20190827 | 20191201     | PDF/WEB    | <font color="#00FFFF">**在读**</font> | [How to Design Programs, Second Edition](https://htdp.org/2019-02-24/)  |
 |              | 9-18   | 20190426 | 20190426     | 纸质书     | <font color="#0000FF">**未读**</font> | [计算机程序的构造和解释](http://product.dangdang.com/8793968.html)      |
 |              | 9-17   | 20190426 | 20190426     | 纸质书     | <font color="#0000FF">**未读**</font> | [C++性能优化指南](http://product.dangdang.com/25217828.html)            |
 |              | 9-16   | 20190425 | 20190426     | kindle     | <font color="#0000FF">**未读**</font> | [系统化思维导论](http://product.dangdang.com/23643328.html)             |
@@ -192,8 +205,8 @@ Come on, give me a break!
 19. 2019年7月31日 09:40 ：更新书单状态。
 20. 2019年8月31日 20:30 ：更新书单状态，新增 [《How to Design Programs, Second Edition》](https://htdp.org/2019-02-24/)。
 21. 2019年9月30日 06:20 ：更新书单状态。
-22. <font color="#FF0000"> 2019年10月31日 06:20 ：更新书单状态。</font>
-
+22. 2019年10月31日 06:20 ：更新书单状态。</font>
+23. <font color="#FF0000"> 2019年12月1日 18:00 ：更新书单状态。</font>
 >
 
 ------

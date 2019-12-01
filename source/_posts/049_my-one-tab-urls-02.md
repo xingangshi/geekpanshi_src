@@ -35,7 +35,7 @@ keywords:
 photos:
  - '/images/049/MoKt35C.jpg'
 description: 1. 学习相关 2. 康奈尔笔记法 3. 效率生活和工作 4. 子弹笔记：极简手帐攻略。 5. WorkFlowy 是一款基于云端的、只支持纯文字的工具。 6. 知乎精华帖……
-date: 2019-11-22 05:30:50
+date: 2019-11-23 15:30:50
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -208,4 +208,4 @@ date: 2019-11-22 05:30:50
 > v2.8.1, 2019-08-01, 知乎分类下新增  [Kindle 有哪些鲜为人知的使用技巧？](https://www.zhihu.com/question/27741189)，[有哪些让你相见恨晚的思维方式？](https://www.zhihu.com/question/323459753)。
 > v2.8.2, 2019-08-26, 知乎分类下新增  [如果让你列一个最功利化的书单，你会列什么？](https://www.zhihu.com/question/36825620)。
 > v2.11.1，2019-11-13， 知乎分类下新增  [Linux 中的 console、terminal、tty、pty、pts 有哪些区别？](https://www.zhihu.com/question/65280843)，[如何用保险保障自己的一生？](https://www.zhihu.com/question/22316395)，[如果让你列一个最功利化的书单，你会列什么？](https://www.zhihu.com/question/36825620)。
-> v2.11.2，2019-11-21， 知乎分类下新增 [你见过的最没见过世面的男孩子是什么样子的？](https://www.zhihu.com/question/340586328)。
+> v2.11.2，2019-11-23， 知乎分类下新增 [你见过的最没见过世面的男孩子是什么样子的？](https://www.zhihu.com/question/340586328)。
