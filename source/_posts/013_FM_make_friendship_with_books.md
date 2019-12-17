@@ -1,5 +1,5 @@
 ---
-title: 以书会友，阅读人生-最后更新2019年12月1日
+title: 以书会友，阅读人生-最后更新2019年12月17日
 tags:
   - 读书
   - 时间管理
@@ -25,11 +25,11 @@ keywords:
 description: 独乐乐不如众乐乐，让我们以书会友，找到那个心有灵犀的伙伴。送书原则：1. 根据我对朋友的年龄、身份、行业来选择的；2. 送书对象可以是朋友，也可以是朋友的家人和小孩的；3. 有意义的时间点才送书。
 photos:
     - "/images/013/006tNbRwgy1fyg1ujgaw7j308505u74a.jpg"
-date: 2019-12-01 17:40:53
+date: 2019-12-17 07:40:53
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 以书会友，阅读人生-最后更新2019年12月1日
+### 以书会友，阅读人生-最后更新2019年12月17日
 ---
 
 >
@@ -281,6 +281,29 @@ date: 2019-12-01 17:40:53
 >
 > 送书日期：2019-05-27
 
+
+###### 第 21 期，2019 年赠书计划第 1/1 波
+> 23 本 9 人。
+>
+> 1. [捕捉儿童敏感期](http://product.dangdang.com/23194043.html)
+> 2. [我们仨](http://product.dangdang.com/25284154.html)
+> 3. [最好的告别](http://product.dangdang.com/23744408.html)
+> 4. [如何阅读一本书](http://product.dangdang.com/24215745.html)
+> 5. [爸爸爱喜禾](http://product.dangdang.com/25572820.html)
+> 6. [禅与摩托车维修艺术](http://product.dangdang.com/25313264.html)
+> 7. [改变的历程](http://product.dangdang.com/25210988.html)
+> 8. [英语单词大书](http://product.dangdang.com/25069619.html)
+> 9. [断舍离](http://product.dangdang.com/26482259.html)
+> 10. [重新定义公司](http://product.dangdang.com/27869248.html)
+> 11. [心理学与生活（第19版）](http://product.dangdang.com/23840745.html)
+> 12. [一切都在孤独里成全](http://product.dangdang.com/25310659.html)
+> 13. [且以优雅过一生](http://product.dangdang.com/24026197.html)
+> 14. [人生的智慧](http://product.dangdang.com/24058412.html)
+> 15. [叔本华说欲望与幸福](http://product.dangdang.com/22850673.html)
+> 16. [知识分子论](http://product.dangdang.com/24058572.html)
+>
+> 送书日期：2019-12-12
+
 ---
 #### 备注
 >
@@ -291,3 +314,4 @@ date: 2019-12-01 17:40:53
 > 5. 给自己和家人送的书也算在里面。
 
 ---
+
