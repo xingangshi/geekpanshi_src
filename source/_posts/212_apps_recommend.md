@@ -1,5 +1,5 @@
 ---
-title: 2020 年个人英语、vlog、养成、全面提升必备软件推荐
+title: 2020 年英语、vlog、养成、全面提升必备软件推荐
 tags:
   - 时间管理
   - 数据人生
@@ -15,17 +15,18 @@ copyright: true
 abbrlink: ae7b451b
 keywords:
   - 寂静的春天
-description: 个人使用软件推荐，帮助你在 2020 年里快速成长，涉及：英语学习、习惯养成、高效生活、Vlog 制作相关全系列、实用小工具、程序员必备等。
+description: 2020 年你一定雄心壮志。现在推荐我使用的一些软件，帮助你快速成长，涉及：英语学习、习惯养成、高效生活、Vlog 制作相关全系列、实用小工具、程序员必备等。
 photos:
-  - /images/211/1oDsFYN.jpg
-date: 2019-12-21 17:33:00
+  - /images/212/1oDsFYN.jpg
+date: 2019-12-25 12:20:00
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
-### 2020 年个人英语、vlog、养成、全面提升必备软件推荐
+### 2020 年英语、vlog、养成、全面提升必备软件推荐
 ------
-> 工欲善其事必先利其器，2020 年要来了，你一定雄心壮志。现在推荐我个人使用的一些软件，可以帮助你在 2020 年里快速成长，涉及：英语学习、习惯养成、高效生活、Vlog 制作相关全系列、实用小工具、程序员必备等。
+> 工欲善其事必先利其器，2020 年要来了，你一定雄心壮志。现在推荐我使用或使用过的一些软件，可以帮助你在 2020 年里快速成长，涉及：英语学习、习惯养成、高效生活、Vlog 制作相关全系列、实用小工具、程序员必备等。
 >
+> ![2020 年英语、vlog、养成、全面提升必备软件推荐](/images/212/002.jpg)
 ------
 
 #### ★ 资源下载汇总
@@ -45,7 +46,6 @@ password:
 
 ##### ◇ 欧陆词典
 > 欧陆词典，安卓系统上好用的离线词典软件。很多人用过都说“好用到想哭”、“目前用过最好用的单词软件工具，没有之一”。
-
 
 ##### ◇ Google 翻译
 > Google 翻译，只需输入文字，即可在 103 种语言之间互译。
@@ -81,7 +81,6 @@ password:
 
 ##### ◇ Forest
 > Forest 专注森林。简单有趣的方式帮助您戒除手机成瘾、保持专注并培养高效率的生活习惯。
-
 
 ##### ◇ Fabulous
 > Fabulous 美妙激励，习惯养成 改善生活。Fabulous 基于科学的指导，在您的生活灌输健康的生活习惯，以便可以增加您的能量，让您感受充满活力的健康，帮助您减肥以及让您睡得更好。
@@ -124,7 +123,7 @@ password:
 ##### ◇ To Do
 > Microsoft To Do：列表、任务和提醒。
 
-#### DrawExpress Diagram
+##### ◇ rawExpress Diagram
 > DrawExpress Diagram，是一种快速的手势识别图应用程序。 使用 DrawExpress，您可以以简单直观的方式绘制图表和流程图。
 
 ##### ◇ 坚果云
@@ -177,20 +176,19 @@ password:
 ##### ◇ TechSmith Camtasia
 > TechSmith Camtasia —— https://www.techsmith.com/video-editor.html，Windows 系统。
 
+##### ◇ Bandicam
+> Bandicam —— https://www.bandicam.cn，Windows 系统。
 
 #### ★ Vlog 相关，手机 APP
 
 ##### ◇ CREATE
 > CREATE - 创造：平面设计和矢量绘图 —— IOS。
 
-
 ##### ◇ LumaFushion
 > LumaFushion ——  https://luma-touch.com/lumafusion-for-ios-2/ —— IOS。
 
-
 ##### ◇ Procreate
 > Procreate —— https://procreate.art/ —— IOS。
-
 
 ##### ◇ VivaCut
 > VivaCut - 专业视频剪辑 & 视频编辑 & 音乐卡点视频制作。VivaCut是一款官方的专业视频剪辑软件， 拥有丰富、专业的视频剪辑工具和好莱坞级的视频编辑体验。
@@ -231,8 +229,21 @@ password:
 
 #### ★ 小工具
 
-##### ◇ 火绒弹窗
-> 火绒弹窗，2 步轻松搞定广告弹窗 还你一个清静的电脑。
+##### ◇ 火绒弹窗（PC）
+> 火绒弹窗 https://www.huorong.cn/info/151539131292.html，2 步轻松搞定广告弹窗 还你一个清静的电脑。
+
+##### ◇ snipaste（PC）
+> snipaste https://zh.snipaste.com/ ，截图 + 贴图，免费，免安装。可个性定制。
+
+
+##### ◇ listary（PC）
+> listary，https://www.listary.com/，本地搜索神器。
+
+##### ◇ everything
+> everything，https://everything.en.softonic.com/，本地搜索神器。
+
+##### ◇ Ditto
+> Ditto，https://ditto-cp.sourceforge.io，Windows 剪贴板的扩展。它将保存放置在剪贴板上的每个项目，使您以后可以访问其中的任何项目。Ditto 允许您保存可以放在剪贴板上的任何类型的信息，文本，图像，html，自定义格式等。
 
 ##### ◇ SnapTube
 > 聚合下载工具集合。
