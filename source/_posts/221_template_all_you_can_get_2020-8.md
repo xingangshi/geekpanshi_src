@@ -38,7 +38,7 @@ date: 2019-12-27 20:17:49
 #### 2020 年年历
 > 2020 年年历。
 >
->> ![2020年年历](/images/common/2020_calandar.jpg)
+>> ![2020年年历](/images/common/2020_calandar.png)
 
 ---
 
