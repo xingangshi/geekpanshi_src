@@ -1,5 +1,5 @@
 ---
-title: 以书会友，阅读人生-最后更新2019年12月17日
+title: 以书会友，阅读人生-最后更新2019年12月30日
 tags:
   - 读书
   - 时间管理
@@ -25,7 +25,7 @@ keywords:
 description: 独乐乐不如众乐乐，让我们以书会友，找到那个心有灵犀的伙伴。送书原则：1. 根据我对朋友的年龄、身份、行业来选择的；2. 送书对象可以是朋友，也可以是朋友的家人和小孩的；3. 有意义的时间点才送书。
 photos:
     - "/images/013/006tNbRwgy1fyg1ujgaw7j308505u74a.jpg"
-date: 2019-12-17 07:40:53
+date: 2019-12-30 08:50:53
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
@@ -67,11 +67,11 @@ date: 2019-12-17 07:40:53
 
 
 ##### 2018 年年底赠书
-> 6 个品类，39 本书送 19 个朋友。
+> 6 个品类，39 本书送 9 个朋友。
 
 ###### 儿童文学
 > 1. [《幸福的种子》](http://product.dangdang.com/23340869.html)，2 本。
-> 1. [《如何给孩子读绘本》](http://product.dangdang.com/25069354.html)，2 本。
+> 2. [《如何给孩子读绘本》](http://product.dangdang.com/25069354.html)，2 本。
 > 3. [《生命的故事》](http://product.dangdang.com/25305325.html)，2 本。
 > 4. [《英语单词大书》](http://product.dangdang.com/25069619.html)，6 本。
 
@@ -94,6 +94,34 @@ date: 2019-12-17 07:40:53
 
 ###### 小说励志
 > 15. [《与罗摩相会（怪不得是刘慈欣的偶像！》](http://product.dangdang.com/25280802.html)，1 本。
+
+
+##### 2019 年年底赠书
+> 4 个品类，23 本书送 19 个朋友。
+
+###### 儿童文学
+> 1. [《捕捉儿童敏感期》](http://product.dangdang.com/23194043.html)，3 本。
+> 2. [《爸爸爱喜禾》](http://product.dangdang.com/25572820.html)，1 本。
+> 3. [《英语单词大书》](http://product.dangdang.com/25069619.html)，1 本。
+
+###### 哲学传记
+> 4. [《我们仨》](http://product.dangdang.com/25284154.html)，2 本。
+> 5. [《最好的告别》](http://product.dangdang.com/23744408.html)，2 本。
+> 6. [《禅与摩托车维修艺术》](http://product.dangdang.com/25313264.html)，1 本。
+> 7. [《一切都在孤独里成全》](http://product.dangdang.com/25310659.html)，1 本。
+> 8. [《且以优雅过一生》](http://product.dangdang.com/24026197.html)，1 本。
+> 9. [《人生的智慧》](http://product.dangdang.com/24058412.html)，1 本。
+> 10. [《叔本华说欲望与幸福》](http://product.dangdang.com/22850673.html)，1 本。
+
+###### 经管理财
+> 11.  [《如何阅读一本书》](http://product.dangdang.com/24215745.html)，2 本。
+> 12. [《断舍离》](http://product.dangdang.com/26482259.html)，2 本。
+> 13. [《重新定义公司》](http://product.dangdang.com/27869248.html)，1 本。
+
+###### 心理学
+> 14. [《改变的历程》](http://product.dangdang.com/25210988.html)，2 本。
+> 15. [《心理学与生活（第19版）》](http://product.dangdang.com/23840745.html)，1 本。
+> 16. [《知识分子论》](http://product.dangdang.com/24058572.html)，1 本。
 
 ---
 
@@ -274,33 +302,43 @@ date: 2019-12-17 07:40:53
 >
 > 送书日期：2019-05-22
 
-###### 第 20 期，送朋友一本书
+###### 第 20 期，给自己送的书
+> 1 本 3 人。
+>
+> 1. [《编译原理（第2版）》](https://item.jd.com/10058776.html)
+> 2. [《The Little Schemer》](https://item.jd.com/12114953.html)
+> 3. [《Erlang趣学指南》](https://item.jd.com/11974037.html)
+>
+> 买书日期：2019-11-11
+
+
+###### 第 21 期，送朋友一本书
 > 1 本 1 人。
 >
-> 1. [我最想要的处世说明书](https://book.douban.com/subject/5248626/)
+> 1. [《我最想要的处世说明书》](https://book.douban.com/subject/5248626/)
 >
 > 送书日期：2019-05-27
 
 
-###### 第 21 期，2019 年赠书计划第 1/1 波
+###### 第 22 期，2019 年赠书计划第 1/1 波
 > 23 本 9 人。
 >
-> 1. [捕捉儿童敏感期](http://product.dangdang.com/23194043.html)
-> 2. [我们仨](http://product.dangdang.com/25284154.html)
-> 3. [最好的告别](http://product.dangdang.com/23744408.html)
-> 4. [如何阅读一本书](http://product.dangdang.com/24215745.html)
-> 5. [爸爸爱喜禾](http://product.dangdang.com/25572820.html)
-> 6. [禅与摩托车维修艺术](http://product.dangdang.com/25313264.html)
-> 7. [改变的历程](http://product.dangdang.com/25210988.html)
-> 8. [英语单词大书](http://product.dangdang.com/25069619.html)
-> 9. [断舍离](http://product.dangdang.com/26482259.html)
-> 10. [重新定义公司](http://product.dangdang.com/27869248.html)
-> 11. [心理学与生活（第19版）](http://product.dangdang.com/23840745.html)
-> 12. [一切都在孤独里成全](http://product.dangdang.com/25310659.html)
-> 13. [且以优雅过一生](http://product.dangdang.com/24026197.html)
-> 14. [人生的智慧](http://product.dangdang.com/24058412.html)
-> 15. [叔本华说欲望与幸福](http://product.dangdang.com/22850673.html)
-> 16. [知识分子论](http://product.dangdang.com/24058572.html)
+> 1. [《捕捉儿童敏感期》](http://product.dangdang.com/23194043.html)
+> 2. [《我们仨》](http://product.dangdang.com/25284154.html)
+> 3. [《最好的告别》](http://product.dangdang.com/23744408.html)
+> 4. [《如何阅读一本书》](http://product.dangdang.com/24215745.html)
+> 5. [《爸爸爱喜禾》](http://product.dangdang.com/25572820.html)
+> 6. [《禅与摩托车维修艺术》](http://product.dangdang.com/25313264.html)
+> 7. [《改变的历程》](http://product.dangdang.com/25210988.html)
+> 8. [《英语单词大书》](http://product.dangdang.com/25069619.html)
+> 9. [《断舍离》](http://product.dangdang.com/26482259.html)
+> 10. [《重新定义公司》](http://product.dangdang.com/27869248.html)
+> 11. [《心理学与生活（第19版）》](http://product.dangdang.com/23840745.html)
+> 12. [《一切都在孤独里成全》](http://product.dangdang.com/25310659.html)
+> 13. [《且以优雅过一生》](http://product.dangdang.com/24026197.html)
+> 14. [《人生的智慧》](http://product.dangdang.com/24058412.html)
+> 15. [《叔本华说欲望与幸福》](http://product.dangdang.com/22850673.html)
+> 16. [《知识分子论》](http://product.dangdang.com/24058572.html)
 >
 > 送书日期：2019-12-12
 
