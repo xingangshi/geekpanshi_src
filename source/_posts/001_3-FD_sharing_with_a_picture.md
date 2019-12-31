@@ -24,20 +24,23 @@ description: >-
   漫漫长路、携手前行，在这里可以查看到我的博客的每日更新内容，而且可以通过 邮件 或者 RSS
   订阅我的博客，更多的订阅方式和精彩内容将不断的推出的。如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的。
 top: 1000011
-date: 2019-07-01 09:16:02
+date: 2020-12-30 19:00:02
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
 ### 漫漫长路、携手前行
 ------
-> ![——我不骗你——否认三连——](/images/001_3/titil.png "——我不骗你——否认三连——")
-
-------
+> <img src="/images/001_3/titil.png" width="200" height="300" align=center></img>
+>
 > 漫漫长路、携手前行，在这里可以查看到我的博客的每日更新内容，而且可以通过 邮件 或者 RSS 订阅我的博客，更多的订阅方式和精彩内容将不断的推出的。
 >
 > <font color="#000066" size=3>如果你想更好管理自己的时间、尝试建一个博客、想学习编程、想读书……，都可以联系我的，[<font color="#CC3366" size=3>联系我</font>](/about/ "联系我")。</font>
 >
-> [**<font color="red" size=3.0>我的微信公众号</font>**](https://mp.weixin.qq.com/s/36xLUoQlvcFFlSdNr6DghQ)
+> [**<font color="red" size=3.0>我的微信公众号</font>**](https://mp.weixin.qq.com/s/19jGMSoHq2mIwEPxbCbViw)
+>
+>> 加入微信读书群：<img src="/images/about/dx17wGO.png" width="150" height="170" align=center></img>
+>>
+>> 关注微信公众号：<img src="/images/about/juBKMkS.jpg" width="250" height="100" align=center></img>
 
 ---
 #### 站内内链
@@ -59,6 +62,8 @@ date: 2019-07-01 09:16:02
 > [URL](/archives/fc12363.html) ：深不可测的大 B 站之 7 大名校人文社科公开课收集汇总
 > [URL](/archives/466f229b.html)：Git、C++、Python、电子书和教程资料集合
 > [URL](/archives/a01af253.html)：免费合法的电子书搜索网站集合
+> [URL](/archives/ae7b451b.html)：2020 年英语、vlog、养成、全面提升必备软件推荐
+> [URL](/archives/efb3067c.html)：函数式编程、工具应用、资源聚合搜索、Linux 相关和教程及技术清单等集合
 ---
 
 #### 1. 每日更新内容一览
@@ -207,3 +212,4 @@ date: 2019-07-01 09:16:02
 > v2.0，2019-04-24，更新资源状态。
 > v2.1，2019-07-01，更新资源状态。
 > v2.2，2019-07-29，文章更名：我书读的多，不会骗你 --> 漫漫长路、携手前行，资源本地化。
+> v3.0，2019-12-30，增加微信公众号和微信读书群的信息。

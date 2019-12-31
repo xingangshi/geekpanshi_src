@@ -145,6 +145,9 @@ date: 2019-11-23 15:30:50
 > [URL](https://www.zhihu.com/question/22316395)：如何用保险保障自己的一生？
 > [URL](https://www.zhihu.com/question/36825620)：如果让你列一个最功利化的书单，你会列什么？
 > [URL](https://www.zhihu.com/question/340586328)：你见过的最没见过世面的男孩子是什么样子的？
+> [URL](https://www.zhihu.com/question/332037812)：支付宝借呗的利息也不是很高，为什么还有人被网贷弄的头破血流？
+> [URL](https://www.zhihu.com/question/21368231)：自控力极差的人如何自救？
+> [URL](https://www.zhihu.com/question/19969760)：数据分析和挖掘有哪些公开的数据来源？
 
 #### 7. Books
 > [URL](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#) ：Pinker Book Recommendations
@@ -181,6 +184,8 @@ date: 2019-11-23 15:30:50
 > [URL](https://python.libhunt.com/) ：Awesome Python，精选的 Python 框架，软件包，软件和资源的精选列表。
 > [URL](https://github.com/mahmoud/awesome-python-applications) ：Pyton 开源库。
 > [URL](https://gto76.github.io/python-cheatsheet/) ：Python Cheatsheet 大全。
+> [URL](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)：Python for Beginners
+
 
 #### 10. Git
 > [URL](https://blog.sourced.tech/post/deduplicating_pga_with_apollo/) ：Deduplicating files in Public Git Archive · source{d} blog
@@ -209,3 +214,4 @@ date: 2019-11-23 15:30:50
 > v2.8.2, 2019-08-26, 知乎分类下新增  [如果让你列一个最功利化的书单，你会列什么？](https://www.zhihu.com/question/36825620)。
 > v2.11.1，2019-11-13， 知乎分类下新增  [Linux 中的 console、terminal、tty、pty、pts 有哪些区别？](https://www.zhihu.com/question/65280843)，[如何用保险保障自己的一生？](https://www.zhihu.com/question/22316395)，[如果让你列一个最功利化的书单，你会列什么？](https://www.zhihu.com/question/36825620)。
 > v2.11.2，2019-11-23， 知乎分类下新增 [你见过的最没见过世面的男孩子是什么样子的？](https://www.zhihu.com/question/340586328)。
+> v2.12.1，2019-12-30， 知乎分类下新增 [支付宝借呗的利息也不是很高，为什么还有人被网贷弄的头破血流？](https://www.zhihu.com/question/332037812)，[自控力极差的人如何自救](https://www.zhihu.com/question/21368231)。

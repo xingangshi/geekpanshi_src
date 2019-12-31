@@ -11,11 +11,17 @@ date: 2019-09-08 06:00:20
 > 欢迎关注 [我的 Github](https://github.com/XingangShi)，了解更多。
 ---
 
-#### 1. [我的微信公众号](https://mp.weixin.qq.com/s/36xLUoQlvcFFlSdNr6DghQ)
+#### 1. [我的微信读书群](https://mp.weixin.qq.com/s/19jGMSoHq2mIwEPxbCbViw)
 
-* 公众号：<img src="/images/about/juBKMkS.jpg" width="450" height="500" align=center></img>
+* 加入微信读书群：<img src="/images/about/dx17wGO.png" width="200" height="220" align=center></img>
 
-#### 2. [联系方式](https://mp.weixin.qq.com/s/36xLUoQlvcFFlSdNr6DghQ)
+#### 2. [我的微信公众号](https://mp.weixin.qq.com/s/36xLUoQlvcFFlSdNr6DghQ)
+
+* 公众号：<img src="/images/about/juBKMkS.jpg" width="350" height="200" align=center></img>
+
+---
+
+#### 3. [联系方式](https://mp.weixin.qq.com/s/36xLUoQlvcFFlSdNr6DghQ)
 
 * 微信：![微信号，磐石](/images/about/dx17wGO.png "微信号，磐石")
 
@@ -23,22 +29,22 @@ date: 2019-09-08 06:00:20
 
 * 邮箱：<a href="mailto:shix_112@163.com?subject=Geek panshi">shix_112@163.com，点击可以给我发邮件。</a>
 
-#### 3. 我的小程序
+#### 4. 我的小程序
 
-* 2018年倒计时 ![小程序，2018年倒计时](/images/about/Qlo5mNr.png "小程序，2018年倒计时")
+* 2020 年倒计时 ![小程序，2020 年倒计时](/images/about/Qlo5mNr.png "小程序，2020 年倒计时")
 
-#### 4. 网站备份链接
+#### 5. 网站备份链接
 * [Geek Panshi'Blob](https://geekpanshi.github.io/ "Geek Panshi'Blob https://www.geekpanshi.com/")
   ![Geek Panshi'Blob](/images/about/yfsyqFk.png "Geek Panshi'Blob https://www.geekpanshi.com/")
 
 * [Geek Panshi'Blob 备份](https://www.geekpanshi.com// "备份 - Geek Panshi'Blob https://www.geekpanshi.com/")
   ![Geek Panshi'Blob 备份](/images/about/mfMfnTU.png "备份 - Geek Panshi'Blob https://www.geekpanshi.com/")
 
-#### 5. 网站使用图片资源
+#### 6. 网站使用图片资源
 
 * [网站使用图片资源](/images/ "网站使用图片资源")
 
-#### 6. 2019年我的新年FLAG
+#### 7. 2019年我的新年FLAG
 
 > <img src="/images/about/uZ7n0b7.jpg" width="450" height="300" align=center></img>
 
@@ -127,7 +133,22 @@ date: 2019-09-08 06:00:20
 
 * 2018 年 9 月 22 日，个人公众号更名为“磐石如丝”，更名原因"磐石如丝"更容易记忆。
 
-* 2018 年 9 月 28 日，磐石读书会/磐石如丝-无主题乱聊群 成立。终于了了一个心愿的，心心念念几年的读书群成立了的，写书单，已经写了好 4 年了的，终于骨气勇气成立了这个读书群。
-> 加群二维码
+* 磐石读书会-知行思学群
+> 2019 年 9 月 26 日，磐石读书会/磐石如丝-无主题乱聊群 成立。终于了了一个心愿的，心心念念几年的读书群成立了的，写书单，已经写了好 4 年了的，终于骨气勇气成立了这个读书群。
+>> 加微信群二维码
+>>
+>> ![磐石读书会微信群](/images/about/panshidushuhui.png)
 >
-> ![磐石读书会](/images/about/panshidushuhui.png)
+> 2019 年 9 月 29 日，开通 GIthub 仓库去管理群的聊天记录，[Github 地址 panshirusi]( http://t.cn/Ai3jmetF)。
+>
+> 2019 年 10 月 21 日，开通 GIthub 仓库去管理群的文件内容，[Github 地址 panshirusi-share](http://t.cn/Ai3jmetk)。
+>
+> 2019 年 12 月 19 日， 开通 QQ 群去管理一些无法在微信群分享的内容，QQ 群号：313209018。
+>
+>> 加 QQ 群二维码
+>>
+>> <img src="/images/about/panshidushuhui-QQ.jpg" width="250" height="250" align=center></img>
+
+* 2019 年 12 月 31 日，减肥成功后，第二次献血，作为 2019 年的结束。
+
+##### 2020 年大事件

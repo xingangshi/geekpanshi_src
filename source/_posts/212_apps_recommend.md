@@ -27,7 +27,30 @@ password:
 > 工欲善其事必先利其器，2020 年要来了，你一定雄心壮志。现在推荐我使用或使用过的一些软件，可以帮助你在 2020 年里快速成长，涉及：英语学习、习惯养成、高效生活、Vlog 制作相关全系列、实用小工具、程序员必备等。
 >
 > ![2020 年英语、vlog、养成、全面提升必备软件推荐](/images/212/002.jpg)
-------
+
+---
+#### 站内内链
+> [URL](/archives/4f25f01c.html) ：程序员的网站大全
+> [URL](/archives/5cc771ed.html) ：免费的编程书籍
+> [URL](/archives/6f958ce8.html) ：常用软件网站推荐
+> [URL](/archives/d8d6241.html) ：Chrome 常用扩展推荐
+> [URL](/archives/5cc771ed.html) ：免费的编程书籍
+> [URL](/archives/ba320aa2.html) ：一图胜千言（前方高能，图大，慎点）
+> [URL](/archives/15582198.html) ：2019 年时间管理之我的笔记模板打包下载
+> [URL](/archives/a7a1df11.html) ：人间不值得，Vim 依然值得学习（编辑器比较和选择指南）
+> [URL](/archives/5bf43b3d.html) ：可能是史上最全的机器学习和 Python（包括数学）速查表
+> [URL](/archives/ecc73a73.html) ：实用互联网工具大全
+> [URL](/archives/9e708c90.html) ：康奈尔笔记法等
+> [URL](/archives/4875a258.html) ：个人博客相关等
+> [URL](/archives/509e5638.html) ：数据库资料、教程和工具大全等
+> [URL](/archives/278fb2c3.html) ：各种资源、工具和关键经验大全等
+> [URL](/archives/95dd51c2.html) ：2019 开工大吉：开源库相关、开源软件、观点与经验和资源库相关等
+> [URL](/archives/fc12363.html) ：深不可测的大 B 站之 7 大名校人文社科公开课收集汇总
+> [URL](/archives/466f229b.html)：Git、C++、Python、电子书和教程资料集合
+> [URL](/archives/a01af253.html)：免费合法的电子书搜索网站集合
+> [URL](/archives/ae7b451b.html)：2020 年英语、vlog、养成、全面提升必备软件推荐
+> [URL](/archives/efb3067c.html)：函数式编程、工具应用、资源聚合搜索、Linux 相关和教程及技术清单等集合
+---
 
 #### ★ 资源下载汇总
 ##### 公众号

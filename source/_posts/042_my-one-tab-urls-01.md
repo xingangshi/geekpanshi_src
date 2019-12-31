@@ -104,6 +104,8 @@ top: 1000008
 > [URL](/archives/fc12363.html) ：深不可测的大 B 站之 7 大名校人文社科公开课收集汇总
 > [URL](/archives/466f229b.html)：Git、C++、Python、电子书和教程资料集合
 > [URL](/archives/a01af253.html)：免费合法的电子书搜索网站集合
+> [URL](/archives/ae7b451b.html)：2020 年英语、vlog、养成、全面提升必备软件推荐
+> [URL](/archives/efb3067c.html)：函数式编程、工具应用、资源聚合搜索、Linux 相关和教程及技术清单等集合
 ---
 
 #### 1. 在线编辑器工具
@@ -151,10 +153,12 @@ top: 1000008
 #### 2. 图片处理
 
 ##### 2.1 OCR， 图片 转文字，在线文字识别
-
 > [URL](http://ocr.wdku.net/) ：OCR 服务，在线文字识别转换
 > [URL](http://www.ocrmaker.com/) ：在线文字识别，OCR 服务－ OCRMaker
 > [URL](https://ai.qq.com/product/ocr.shtml#identify) ：腾讯优图 OCR
+> [URL](https://www.onlineocr.net/zh_hans/) ：免费在线 OCR 文字识别
+> [URL](https://ocr.wdku.net/) ：在线文字识别转换
+
 
 ##### 2.2 图片处理
 > [URL](https://squoosh.app/) ：squoosh，在线 图片 压缩工具。
@@ -173,6 +177,7 @@ top: 1000008
 > [URL](https://akveo.github.io/eva-icons/#/) ：Eva Icons，伊娃图标，Eva Icons 包含480多个制作精美的开源图标，用于常见操作和项目。。
 > [URL](https://feathericons.com/) ：feathericons，羽毛图标，简单漂亮的开源图标 icon 。
 > [URL](https://www.ikonate.com/) ：Ikonate，fully customisable & accessible vector icons 。
+> [URL](https://www.iconfont.cn/) ：免费公开的 Icon。
 
 
 ##### 2.4 表情库、图库

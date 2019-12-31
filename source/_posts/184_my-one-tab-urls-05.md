@@ -78,6 +78,8 @@ password:
 > [URL](/archives/fc12363.html) ：深不可测的大 B 站之 7 大名校人文社科公开课收集汇总
 > [URL](/archives/466f229b.html)：Git、C++、Python、电子书和教程资料集合
 > [URL](/archives/a01af253.html)：免费合法的电子书搜索网站集合
+> [URL](/archives/ae7b451b.html)：2020 年英语、vlog、养成、全面提升必备软件推荐
+> [URL](/archives/efb3067c.html)：函数式编程、工具应用、资源聚合搜索、Linux 相关和教程及技术清单等集合
 ---
 
 #### 1. 观点和经验
