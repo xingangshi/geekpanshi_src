@@ -20,7 +20,7 @@ description: >-
   世纪已经过去了五分之一了。有感于此，我们就来聊聊“时间成就一切”这个话题。
 photos:
   - /images/213/pre.jpg
-date: 2019-12-27 06:20:00
+date: 2019-12-31 06:20:00
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
