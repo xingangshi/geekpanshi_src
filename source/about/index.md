@@ -27,6 +27,8 @@ date: 2019-09-08 06:00:20
 
 * 微博：![微博号，浦东价投男](/images/about/Meqtw3h.png "微博号，浦东价投男")
 
+* 今日头条：[头条账号 磐石如丝](https://profile.zjurl.cn/rogue/ugc/profile/?version_code=767&version_name=70607&user_id=3988666418212206&media_id=1649016577118215&request_source=1&active_tab=dongtai&device_id=65&app_name=news_article)
+
 * 邮箱：<a href="mailto:shix_112@163.com?subject=Geek panshi">shix_112@163.com，点击可以给我发邮件。</a>
 
 #### 4. 我的小程序
@@ -142,6 +144,8 @@ date: 2019-09-08 06:00:20
 > 2019 年 9 月 29 日，开通 GIthub 仓库去管理群的聊天记录，[Github 地址 panshirusi]( http://t.cn/Ai3jmetF)。
 >
 > 2019 年 10 月 21 日，开通 GIthub 仓库去管理群的文件内容，[Github 地址 panshirusi-share](http://t.cn/Ai3jmetk)。
+>
+> 2019 年 11 月 2 日，开通今日头条账号 磐石如丝，[头条账号 磐石如丝](https://profile.zjurl.cn/rogue/ugc/profile/?version_code=767&version_name=70607&user_id=3988666418212206&media_id=1649016577118215&request_source=1&active_tab=dongtai&device_id=65&app_name=news_article)。
 >
 > 2019 年 12 月 19 日， 开通 QQ 群去管理一些无法在微信群分享的内容，QQ 群号：313209018。
 >
