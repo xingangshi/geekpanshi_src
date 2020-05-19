@@ -21,7 +21,7 @@ keywords:
 photos:
   - /images/230/230-pre.jpg
 description: 上海居转户的一些资料和居转户记录。
-date: 2020-05-17 14:40:50
+date: 2020-05-19 16:25:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -34,7 +34,13 @@ password:
 > <img src="/images/230/001-panshi.png" width="140" height="140" align=center></img>
 
 ##### 1. 档案信息
-> 查看自己的档案信息：如果有，会有名称和地址的 [链接](http://222.68.19.232/webMaster/ggrs/ggrs_dawtgl4.htm?tdsourcetag=s_pctim_aiomsg)： http://222.68.19.232/webMaster/ggrs/ggrs_dawtgl4.htm?tdsourcetag=s_pctim_aiomsg
+> 查看自己的档案信息：如果有，会有名称和地址的
+>
+> 1. [人事档案查询](http://222.68.19.232/webMaster/ggrs/ggrs_dawtgl4.htm?tdsourcetag=s_pctim_aiomsg)： http://222.68.19.232/webMaster/ggrs/ggrs_dawtgl4.htm?tdsourcetag=s_pctim_aiomsg
+>
+> 2. [上海人才档案受理预约](http://weixin.shrc.com.cn:8080/rcdasb//login.jsp)
+>
+> 3. 微信公众号关注：“上海人才”，登录查询。
 
 ##### 2.  一网通办系统居转户填写攻略
 > 1. [上](http://tieba.baidu.com/p/6296648865?red_tag=r1629731236) http://tieba.baidu.com/p/6296648865?red_tag=r1629731236
@@ -132,7 +138,7 @@ password:
 > 19. 注意教育类型的选择：高中教育类型：**其他**；大学以上，教育类型：**普通高等教育**。
 >
 
-##### 现场交材料：
+##### 现场交材料
 
 ###### 现场交材料-1
 >
@@ -214,6 +220,8 @@ password:
 >> 2. 2019 年 1-7 月份的前公司申报个税截图、带盖戳；
 >> 3. 更新了 2019、2020 个税清单列表（截止 2020 年 4 月 27 日）；
 >> 4. 增加了申报材料“居转户落户 主要科研成果（工作业绩）及专长特长”的描述。
+>
+> 11. 2020-05-19 提交“调档函”（去自己档案所在地，可根据 **相关网址 - 档案信息** 查询。
 
 ##### 居转户状态变化（每日 22：00 更新）
 > 2020-04-16 已上报，等待预受理。
@@ -223,5 +231,3 @@ password:
 > 2020-04-28 已上报，等待预受理。
 >
 > 2020-05-14 预受理通过，等待档案核实。
-
----
