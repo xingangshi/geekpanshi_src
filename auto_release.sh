@@ -6,7 +6,7 @@ echo "."
 
 echo "      1. Start - Compliy and relase to git Tencent "
 echo "-- "
-hexo clean && hexo generate && hexo d
+#hexo clean && hexo generate && hexo d
 echo "      1. End   - Compliy and relase to git Tencent "
 echo "-- "
 
