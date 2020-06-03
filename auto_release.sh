@@ -24,7 +24,9 @@ echo "-- "
 
 echo "      4. Start - Release all changes to Github "
 echo "-- "
-cd ./1_delpoy_git-github && git add . && date | xargs -I {} git commit -am "auto_commit by date of "{} && git push && cd ..
+cd ./1_delpoy_git-github && git add .
+date | xargs -I {} git commit -am "auto_commit by date of "{} && git push
+cd ..
 echo "      4. End    - Release all changes to Github "
 
 echo "."
