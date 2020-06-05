@@ -21,7 +21,7 @@ keywords:
 photos:
   - /images/001_2/2020_pre.jpg
 description: 今天：2020 年 5 月 31 日，2020 年仅剩下 214 天。坚持记录和分析生活中的数据、信息和事件，尊重历史数据、信息和事件，人生将会更美好。
-date: 2020-05-31 00:05:05
+date: 2020-06-03 00:05:05
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
