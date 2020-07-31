@@ -21,7 +21,7 @@ abbrlink: 992a9342
 photos:
   - "/images/011/006tNbRwgy1fyoh12r8ppj308504tt8l.jpg"
 description: 读书、荐书第 5 年，2020 年第 3/4 更新。管理自己的财富，本质是管理自己的知识，所以这也是我们必须要不断的读书和学习理由。
-date: 2020-07-01 16:40:40
+date: 2020-07-31 12:40:40
 top: 1000010
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
