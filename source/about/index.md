@@ -205,7 +205,7 @@ date: 2019-09-08 06:00:20
 
 * 2020 年 5 月 20 日，新浪微博删除所有历史记录，停止更新，只看不更；[头条](https://www.toutiao.com/c/user/3988666418212206/#mid=1649016577118215)，只发不看，[Twitter](https://twitter.com/geekpanshi) 偶发。
 
-* 2020 年 7 月 18 日，一个好友送我 [HHKB HYBRID TYPE-S 键盘](https://item.jd.com/100010817014.html)。
+* 2020 年 7 月 18 日，一个好友送我 [HHKB HYBRID TYPE-S 键盘](https://item.jd.com/62603602537.html)。
 
 * 2020 年 7 月 26 日，大的小朋友首次办理身份证。
 
