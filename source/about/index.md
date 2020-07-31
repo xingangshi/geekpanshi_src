@@ -25,11 +25,13 @@ date: 2019-09-08 06:00:20
 
 * 微信：![微信号，磐石](/images/about/dx17wGO.png "微信号，磐石")
 
-* 微博：![微博号，浦东价投男](/images/about/Meqtw3h.png "微博号，浦东价投男")
+* Twitter：[磐石 —— Twitter](https://twitter.com/geekpanshi)
 
 * 今日头条：[头条账号 磐石如丝](https://profile.zjurl.cn/rogue/ugc/profile/?version_code=767&version_name=70607&user_id=3988666418212206&media_id=1649016577118215&request_source=1&active_tab=dongtai&device_id=65&app_name=news_article)
 
 * 邮箱：<a href="mailto:shix_112@163.com?subject=Geek panshi">shix_112@163.com，点击可以给我发邮件。</a>
+
+* 微博：【**已停更**】 ![微博号，浦东价投男](/images/about/Meqtw3h.png-bak "微博号，浦东价投男")
 
 #### 4. 我的小程序
 
@@ -157,6 +159,8 @@ date: 2019-09-08 06:00:20
 
 ##### 2020 年大事件
 
+* 2020 年 2 月 7 日，开始更新 [磐石 —— Twitter](https://twitter.com/geekpanshi)。
+
 * [落户上海 —— 居转户](/archives/471a9d34.html)
 > 备注：2020-02-28 居住证满 5 年
 >
@@ -199,7 +203,9 @@ date: 2019-09-08 06:00:20
 >
 > 17. 2020-07-26 去社区事务中心办理《就业创业证》（即，劳动手册）。
 
-* 2020 年 7 月 18 日，一个好友送我 [HHKB HYBRID TYPE-S 键盘](https://item.jd.com/62603602537.html)。
+* 2020 年 5 月 20 日，新浪微博删除所有历史记录，停止更新，只看不更；[头条](https://www.toutiao.com/c/user/3988666418212206/#mid=1649016577118215)，只发不看，[Twitter](https://twitter.com/geekpanshi) 偶发。
+
+* 2020 年 7 月 18 日，一个好友送我 [HHKB HYBRID TYPE-S 键盘](https://item.jd.com/100010817014.html)。
 
 * 2020 年 7 月 26 日，大的小朋友首次办理身份证。
 
