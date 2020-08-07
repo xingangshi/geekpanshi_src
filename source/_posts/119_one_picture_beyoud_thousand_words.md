@@ -37,7 +37,7 @@ keywords:
 photos:
   - '/images/119/JkU2PGr.jpg'
 description: 千言万语不如一图，因为一图胜千言，我们要学会用图片去表达和描述自己的感情，这里记录了我看到有趣的图和自己一点感想。
-date: 2019-03-19 12:31:51
+date: 2020-08-07 10:01:51
 top:
 ---
 
@@ -217,11 +217,6 @@ top:
 > 数学的海洋。
 >>
 >> ![数学的海洋](/images/119/cJORyqW.png)
-
-#### 计算机硬件一览
-> 计算机硬件一览。
->>
->> ![计算机硬件一览](/images/119/DQZLRBu.png)
 
 #### 不同存款的人的特点
 > 不同存款的人的特点。
@@ -410,13 +405,6 @@ top:
 >>
 >> ![企业文化与发展结果](/images/119/e2F5wJw.png)
 
-#### HHKB
-> HHKB。
->>
->> ![HHKB-1](/images/119/ZnHslWW.png)
->> ![HHKB-2](/images/119/T35CWcU.png)
->> ![HHKB-3](/images/119/6jvGibZ.png)
-
 #### 我们为什么非读书不可？
 > 女王的教室：我们为什么非读书不可？
 >>
@@ -468,6 +456,18 @@ top:
 >>
 >> ![设计的方式和用户实际的方式](/images/119/80Skusd.png)
 
+#### [HHKB]()
+>
+> ![HHKB-1](/images/119/ZnHslWW.png)
+> ![HHKB-2](/images/119/T35CWcU.png)
+> ![HHKB-3](/images/119/003_hhkb.png)
+
+#### 计算机硬件一览
+> 计算机硬件一览。
+>>
+>> ![计算机硬件一览-1](/images/119/computer-hardware-chart-1.jpg)
+>>
+>> ![计算机硬件一览-2](/images/119/computer-hardware-chart-2.png)
 
 ---
 
@@ -476,3 +476,4 @@ top:
 > v1.1，2018-11-22，新增部分之前收藏的图片。
 > v1.2，2018-11-26，新增部分图片。
 > v2.0，2019-03-19，新增部分图片。
+> v2.1，2020-08-07，新增部分图片。
