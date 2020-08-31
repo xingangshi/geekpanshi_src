@@ -1,5 +1,5 @@
 ---
-title: 以书会友，阅读人生-最后更新2020年7月31日
+title: 以书会友，阅读人生-最后更新2020年8月31日
 tags:
   - 读书
   - 时间管理
@@ -25,7 +25,7 @@ keywords:
 description: 独乐乐不如众乐乐，让我们以书会友，找到那个心有灵犀的伙伴。送书原则：1. 根据我对朋友的年龄、身份、行业来选择的；2. 送书对象可以是朋友，也可以是朋友的家人和小孩的；3. 有意义的时间点才送书。
 photos:
     - "/images/013/006tNbRwgy1fyg1ujgaw7j308505u74a.jpg"
-date: 2019-07-31 08:50:53
+date: 2019-08-31 08:50:53
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
