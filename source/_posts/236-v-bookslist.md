@@ -19,7 +19,7 @@ keywords:
 photos:
   - /images/236/pre.jpg
 description: 群名：磐石如丝-知行思学群，这里是【群听书文件】整理的合集。此群所有链接 mp3，都在 QQ 群中备份。
-date: 2020-08-25 06:40:50
+date: 2020-09-03 06:40:50
 password:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
@@ -372,3 +372,9 @@ password:
 >[听书-153-《跃迁》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-153-《跃迁》.mp3)
 >
 >[听书-154-《恶心：存在主义哲学》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-154-《恶心：存在主义哲学》.mp3)
+>
+>[听书-155-《制造者与索取者》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-155-《制造者与索取者》.mp3)
+>
+>[听书-156-《孤独：回归自我》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-156-《孤独：回归自我》.mp3)
+>
+>[听书-157-《富人的逻辑》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-157-《富人的逻辑》.mp3)
