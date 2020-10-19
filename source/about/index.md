@@ -31,7 +31,7 @@ date: 2019-09-08 06:00:20
 
 * 邮箱：<a href="mailto:shix_112@163.com?subject=Geek panshi">shix_112@163.com，点击可以给我发邮件。</a>
 
-* 微博：【**已停更**】 ![微博号，浦东价投男](/images/about/Meqtw3h.png-bak "微博号，浦东价投男")
+* 微博：![微博号，浦东价投男](/images/about/Meqtw3h.png "微博号，浦东价投男")
 
 #### 4. 我的小程序
 
