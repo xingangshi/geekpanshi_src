@@ -7,8 +7,8 @@ tags:
 comments: true
 toc: true
 categories:
-  - 生活点滴
-  - 平淡生活
+  - 财务自由
+  - 理财
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 copyright: true
