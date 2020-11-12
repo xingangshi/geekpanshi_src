@@ -1,5 +1,5 @@
 ---
-title: 以书会友，阅读人生-最后更新 2020 年 11 月 2 日
+title: 以书会友，阅读人生-最后更新 2020 年 11 月 12 日
 tags:
   - 读书
   - 时间管理
@@ -25,11 +25,11 @@ keywords:
 description: 独乐乐不如众乐乐，让我们以书会友，找到那个心有灵犀的伙伴。送书原则：1. 根据我对朋友的年龄、身份、行业来选择的；2. 送书对象可以是朋友，也可以是朋友的家人和小孩的；3. 有意义的时间点才送书。
 photos:
     - "/images/013/006tNbRwgy1fyg1ujgaw7j308505u74a.jpg"
-date: 2019-11-02 08:50:53
+date: 2020-11-12 08:50:53
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>
 
-### 以书会友，阅读人生-最后更新 2020 年 11 月 2 日
+### 以书会友，阅读人生-最后更新 2020 年 11 月 12 日
 ---
 >
 > 独乐乐不如众乐乐，让我们以书会友，找到那个心有灵犀的伙伴。
@@ -113,14 +113,33 @@ date: 2019-11-02 08:50:53
 > 10. [《叔本华说欲望与幸福》](http://product.dangdang.com/22850673.html)，1 本。
 
 ###### 经管理财
-> 11.  [《如何阅读一本书》](http://product.dangdang.com/24215745.html)，2 本。
-> 12. [《断舍离》](http://product.dangdang.com/26482259.html)，2 本。
-> 13. [《重新定义公司》](http://product.dangdang.com/27869248.html)，1 本。
+> 11. [《如何阅读一本书》](http://product.dangdang.com/24215745.html)，2 本。
+> 12. [《重新定义公司》](http://product.dangdang.com/27869248.html)，1 本。
 
 ###### 心理学
-> 14. [《改变的历程》](http://product.dangdang.com/25210988.html)，2 本。
-> 15. [《心理学与生活（第19版）》](http://product.dangdang.com/23840745.html)，1 本。
-> 16. [《知识分子论》](http://product.dangdang.com/24058572.html)，1 本。
+> 13. [《改变的历程》](http://product.dangdang.com/25210988.html)，2 本。
+> 14. [《心理学与生活（第19版）》](http://product.dangdang.com/23840745.html)，1 本。
+> 15. [《知识分子论》](http://product.dangdang.com/24058572.html)，1 本。
+
+###### 自助书
+> 16. [《断舍离》](http://product.dangdang.com/26482259.html)，2 本。
+
+##### 2020 年年底赠书
+> 4 个品类，9 本书送 3 个朋友。
+
+###### 经管理财
+> 1. [《小狗钱钱》](http://product.dangdang.com/25270472.html)，1 本。
+
+###### 哲学传记
+> 2. [《被讨厌的勇气》](http://product.dangdang.com/28518072.html)，2 本。
+> 3. [《哲学的慰藉》](http://product.dangdang.com/25261526.html)，1 本。
+> 4. [《海豚文库：格言集》](https://item.jd.com/11403458.html)，1 本。
+
+###### 儿童文学
+> 5. [《园丁与木匠》](https://item.jd.com/12659606.html)，1 本。
+
+###### 自助书
+> 6. [《断舍离》](http://product.dangdang.com/26482259.html)，3 本。
 
 ---
 
@@ -264,8 +283,7 @@ date: 2019-11-02 08:50:53
 >
 > 买书日期：2018-12-24
 
-
-##### 2019 年，共 5 期
+##### 2019 年，共 7 期
 
 ###### 第 16 期，朋友回美国，临别赠书
 > 1 本 2 人。
