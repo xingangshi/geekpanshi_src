@@ -50,9 +50,9 @@ password:
 > <img src="https://raw.githubusercontent.com/geekpanshi/panshirusi-vbooks/master/pics/README/002-%E7%A3%90%E7%9F%B3%E5%A6%82%E4%B8%9DQQ%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="180" height="180" align=center />
 >
 
-### [读书荐书之我的书单](https://mp.weixin.qq.com/s/pdEG2t9PVJgZvMw2t8vvYg)
+### [读书荐书之我的书单](/archives/992a9342.html)
 >
-> [读书荐书之我的书单](https://mp.weixin.qq.com/s/pdEG2t9PVJgZvMw2t8vvYg)
+> [读书荐书之我的书单](/archives/992a9342.html)
 
 ### 听书文件列表
 > 1. 待归类；2. 文件类型 mp3。
