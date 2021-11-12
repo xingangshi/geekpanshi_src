@@ -120,7 +120,7 @@ theme: theme_next
 deploy:
   type: git
   #repository: git@github.com:geekpanshi/geekpanshi.github.io.git
-  repository: git@git.dev.tencent.com:geekpanshi/geekpanshi.git
+  repository: https://github.com/geekpanshi/geekpanshi.github.io.git
   branch: master
 
 # 设置 RSS
